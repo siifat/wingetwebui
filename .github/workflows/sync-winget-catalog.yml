@@ -1,0 +1,70 @@
+name: Sync WinGet catalog
+
+# Intentionally no push trigger: the snapshot commit cannot recursively start
+# another synchronization run. Validation happens before the commit below.
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-winget-catalog-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Refresh official catalog snapshot
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate catalog from microsoft/winget-pkgs
+        run: npm run sync:catalog
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Test
+        run: npm run test
+
+      - name: Build
+        run: npm run build
+
+      - name: Check for a changed snapshot
+        id: snapshot
+        shell: bash
+        run: |
+          if [[ -n "$(git status --porcelain -- public/packages.json)" ]]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit the changed snapshot
+        if: steps.snapshot.outputs.changed == 'true'
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- public/packages.json
+          git commit -m "chore(catalog): sync official WinGet snapshot"
+          git push origin "HEAD:refs/heads/${DEFAULT_BRANCH}"
