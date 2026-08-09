@@ -84,18 +84,12 @@ function normalizeCategoryKey(value: string): string {
 }
 
 function configuredApiUrl(): string | undefined {
-  const meta = import.meta as ImportMeta & {
-    readonly env?: { readonly BASE_URL?: unknown; readonly VITE_PACKAGE_API_URL?: unknown }
-  }
-  const value = meta.env?.VITE_PACKAGE_API_URL
+  const value: unknown = import.meta.env.VITE_PACKAGE_API_URL
   return typeof value === 'string' && value.trim() ? value.trim() : undefined
 }
 
 function officialSnapshotUrl(): string {
-  const meta = import.meta as ImportMeta & {
-    readonly env?: { readonly BASE_URL?: unknown }
-  }
-  const configuredBase = meta.env?.BASE_URL
+  const configuredBase: unknown = import.meta.env.BASE_URL
   const base = typeof configuredBase === 'string' && configuredBase ? configuredBase : './'
   return `${base.endsWith('/') ? base : `${base}/`}packages.json`
 }

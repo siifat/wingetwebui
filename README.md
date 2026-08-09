@@ -124,7 +124,7 @@ The workspace uses semantic controls and landmarks, visible focus styles, access
 
 Run `npm run sync:catalog` when a fresh official snapshot is needed, then run `npm run build` before deployment. Vite copies `public/packages.json` into the production output as `packages.json` at the configured base. A successful scheduled sync commits the changed snapshot to the default branch. Git-based hosting integrations may deploy that push automatically; otherwise, start a deployment for the new commit.
 
-The workflow uses the built-in `GITHUB_TOKEN` with only `contents: write`; no personal access token or upstream GitHub credential is needed. Repository or organization policy must allow Actions to write to the default branch. If branch protection rejects direct bot commits, allow the GitHub Actions bot for this workflow or adapt it to open a reviewed pull request. As [documented by GitHub](https://docs.github.com/en/actions/concepts/security/github_token#when-github_token-triggers-workflow-runs), a push authenticated with this token does not trigger another GitHub Actions workflow. The sync workflow therefore performs all checks itself. Do not replace it with a personal token merely to chain workflows unless that broader credential and recursion risk are intentionally managed. Never place tokens in `VITE_PACKAGE_API_URL` or another `VITE_` variable.
+The workflow uses the built-in `GITHUB_TOKEN`; its sync job receives only `contents: write`, while the separate deployment job receives only `pages: write` and `id-token: write`. No personal access token or upstream GitHub credential is needed. Repository or organization policy must allow Actions to write to the default branch. If branch protection rejects direct bot commits, allow the GitHub Actions bot for this workflow or adapt it to open a reviewed pull request. As [documented by GitHub](https://docs.github.com/en/actions/concepts/security/github_token#when-github_token-triggers-workflow-runs), a push authenticated with this token does not trigger another GitHub Actions workflow. The sync workflow therefore performs all checks and, when needed, deploys its own Pages artifact. Do not replace it with a personal token merely to chain workflows unless that broader credential and recursion risk are intentionally managed. Never place tokens in `VITE_PACKAGE_API_URL` or another `VITE_` variable.
 
 ### Vercel (preferred)
 
@@ -132,9 +132,9 @@ Import the Git repository into Vercel. The committed `vercel.json` selects Vite,
 
 ### GitHub Pages
 
-The Vite build uses relative asset URLs, so the static `dist/` output also works under a repository subpath. In **Settings → Pages**, choose **GitHub Actions**, then use a Pages workflow that installs with `npm ci`, runs `npm run build`, uploads `dist/` with `actions/upload-pages-artifact`, and deploys it with `actions/deploy-pages`.
+The committed `Deploy GitHub Pages` workflow installs dependencies, builds Vite with the repository name as its base path, uploads `dist/`, and deploys it on every push to `main` or a manual dispatch. In **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions** once; publishing the repository root directly will not compile the TypeScript/React source.
 
-GitHub Pages does not build from the catalog bot's `GITHUB_TOKEN` push. After a scheduled catalog update, manually dispatch the Pages workflow, add an explicit deployment job after the validated sync, or use a narrowly scoped `workflow_run` deployment design.
+GitHub does not trigger another workflow from the catalog bot's `GITHUB_TOKEN` push. The catalog synchronization workflow therefore uploads its already validated Pages build and deploys it directly whenever `public/packages.json` changes.
 
 The current application uses a single browser entry route. If history-based client routes are added later, GitHub Pages will also need a `404.html` fallback or hash-based routing because it does not provide Vercel-style rewrites.
 

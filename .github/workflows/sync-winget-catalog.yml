@@ -7,8 +7,7 @@ on:
     - cron: '17 */6 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
+permissions: {}
 
 concurrency:
   group: sync-winget-catalog-${{ github.repository }}
@@ -19,6 +18,10 @@ jobs:
     name: Refresh official catalog snapshot
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    permissions:
+      contents: write
+    outputs:
+      snapshot_changed: ${{ steps.snapshot.outputs.changed }}
 
     steps:
       - name: Check out the default branch
@@ -45,7 +48,7 @@ jobs:
         run: npm run test
 
       - name: Build
-        run: npm run build
+        run: npm run build -- --base="/${{ github.event.repository.name }}/"
 
       - name: Check for a changed snapshot
         id: snapshot
@@ -68,3 +71,34 @@ jobs:
           git add -- public/packages.json
           git commit -m "chore(catalog): sync official WinGet snapshot"
           git push origin "HEAD:refs/heads/${DEFAULT_BRANCH}"
+
+      - name: Upload changed GitHub Pages artifact
+        if: steps.snapshot.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./dist
+
+  deploy:
+    name: Deploy refreshed catalog to GitHub Pages
+    needs: sync
+    if: needs.sync.outputs.snapshot_changed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Deploy artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
