@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T02:24:04.000Z",
+  "generatedAt": "2026-08-10T08:04:00.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "a750ba0df5d7b8f5cfd03463b4332b8f1ff28589"
+    "commit": "0a5d5d663ec81b14e9a04aa09b5ce874933d75af"
   },
   "data": [
     {
@@ -17812,7 +17812,7 @@
       "id": "Ardisk.Ardisk",
       "name": "Ardisk",
       "publisher": "Ardisk",
-      "version": "0.0.0.50",
+      "version": "0.0.0.51",
       "description": "Ultra-simple corporate cloud drive",
       "tags": [
         "backup",
@@ -28908,7 +28908,7 @@
       "id": "benny93.kafui",
       "name": "kafui",
       "publisher": "benny93",
-      "version": "0.1.34",
+      "version": "0.1.35",
       "description": "Terminal UI to explore kafka topics",
       "tags": [
         "cli",
@@ -53862,9 +53862,11 @@
       "description": "Native terminal client for browsing and streaming a Deezer library.",
       "tags": [
         "deezer",
-        "download",
-        "music",
-        "streaming",
+        "music-download",
+        "music-streaming",
+        "musicdownload",
+        "musicstreaming",
+        "open-deezer",
         "terminal",
         "tui"
       ],
@@ -58483,7 +58485,7 @@
       "id": "demkada.ArgyCode",
       "name": "Argy Code",
       "publisher": "demkada",
-      "version": "2.2.0",
+      "version": "2.3.0",
       "description": "The AI coding agent built for the terminal",
       "tags": [],
       "category": "Others",
@@ -74161,7 +74163,7 @@
       "id": "ESEngine.ReasonixDesktop",
       "name": "Reasonix",
       "publisher": "reasonix",
-      "version": "1.21.5",
+      "version": "1.22.0",
       "description": "A DeepSeek-native coding agent, for your terminal.",
       "tags": [
         "agent",
@@ -78357,7 +78359,7 @@
       "id": "feraxhp.grp",
       "name": "grp",
       "publisher": "feraxhp",
-      "version": "0.13.0",
+      "version": "0.13.2",
       "description": "A simple CLI tool to mannage platforms for git repositories",
       "tags": [
         "cli-app",
@@ -88582,7 +88584,7 @@
       "id": "GitTower.GitFlowNext",
       "name": "GitTower GitFlowNext",
       "publisher": "GitTower",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": "A modern reimplementation of git-flow.",
       "tags": [
         "git",
@@ -97097,7 +97099,7 @@
       "id": "heartached.Noctis",
       "name": "Noctis",
       "publisher": "heartached",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "description": "A music player that respects what's yours.",
       "tags": [
         "audio",
@@ -100178,7 +100180,7 @@
       "id": "HoraceMaxwell.Horosa",
       "name": "Horosa",
       "publisher": "Horace-Maxwell",
-      "version": "3.8.0",
+      "version": "3.8.1",
       "description": "Western astrology and Chinese metaphysics in one native Windows workstation.",
       "tags": [
         "astrology",
@@ -118524,8 +118526,11 @@
       "version": "1.2.8",
       "description": "Music streaming player developed and published by Kakao Entertainment.",
       "tags": [
-        "music",
-        "streaming"
+        "melon-player",
+        "music-streaming",
+        "musicstreaming",
+        "xp99src1hd0xsq",
+        "멜론"
       ],
       "category": "Multimedia",
       "icon": {
@@ -118957,7 +118962,7 @@
       "id": "KaringX.ClashMi",
       "name": "ClashMi",
       "publisher": "Supernova Nebula LLC",
-      "version": "1.0.28+1404",
+      "version": "1.0.28+1406",
       "description": "A proxy tool with a built-in Clash Mihomo core. Open-source and completely free.",
       "tags": [
         "clash",
@@ -122390,7 +122395,7 @@
       "id": "khanhtd36.herdr-khanhtd36",
       "name": "herdr-khanhtd36",
       "publisher": "khanhtd36",
-      "version": "0.7.5-khanhtd36.1",
+      "version": "0.8.0-khanhtd36.2",
       "description": "Minimized fork of herdr that can disable agent features",
       "tags": [
         "agents",
@@ -124514,14 +124519,15 @@
       "name": "IPTV Checker",
       "publisher": "Kristoffer Risanger",
       "version": "1.0.0",
-      "description": "Validate IPTV playlists and inspect stream health",
+      "description": "Validate IPTV playlists and inspect stream health.",
       "tags": [
-        "iptv",
+        "iptv-playlists",
+        "iptvplaylists",
         "m3u",
-        "playlist",
-        "streaming",
         "tauri",
-        "validator"
+        "validator",
+        "video-streaming",
+        "videostreaming"
       ],
       "category": "Multimedia",
       "icon": {
@@ -126898,7 +126904,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.57.7",
+      "version": "1.57.8",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -141793,7 +141799,7 @@
       "id": "michidk.vscli",
       "name": "vscli",
       "publisher": "Michael Lohr",
-      "version": "1.3.1",
+      "version": "1.3.3",
       "description": "A CLI tool to launch vscode projects, which supports devcontainers.",
       "tags": [
         "cli",
@@ -147744,7 +147750,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.457.87.0",
+      "version": "1.457.88.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -173256,7 +173262,7 @@
       "id": "NimbusAgent.Nimbus",
       "name": "Nimbus",
       "publisher": "NimbusAgent",
-      "version": "1.26.1",
+      "version": "1.27.0",
       "description": "Local-first AI agent framework (headless gateway + CLI)",
       "tags": [
         "agent",
@@ -184440,7 +184446,7 @@
       "id": "OrgMentem.papio",
       "name": "papio",
       "publisher": "OrgMentem",
-      "version": "0.19.1",
+      "version": "0.20.0",
       "description": "Acquire and validate scholarly PDFs for your reference library",
       "tags": [],
       "category": "Others",
@@ -191255,9 +191261,14 @@
       "version": "12.7.0",
       "description": "Stream supported games to PC from the cloud with a PlayStation Plus Premium subscription.",
       "tags": [
-        "cloud",
+        "game-cloud-streaming",
+        "gamecloudstreaming",
         "games",
         "gaming",
+        "playstation+",
+        "playstation-plus",
+        "playstationplus",
+        "ps-plus",
         "ps1",
         "ps2",
         "ps3",
@@ -191265,8 +191276,7 @@
         "ps5",
         "psp",
         "psx",
-        "sony",
-        "streaming"
+        "sony"
       ],
       "category": "Gaming",
       "icon": {
@@ -212740,7 +212750,7 @@
       "id": "schollz.croc",
       "name": "croc",
       "publisher": "schollz",
-      "version": "11.0.2",
+      "version": "11.0.3",
       "description": "Easily and securely send things from one computer to another.Easily and securely send things from one computer to another.",
       "tags": [
         "cli",
@@ -226320,20 +226330,20 @@
       "name": "Spotify",
       "publisher": "Spotify AB",
       "version": "1.2.95.453.g0eeebbed",
-      "description": "Spotify is all the music you’ll ever need.",
+      "description": "All the music you’ll ever need.",
       "tags": [
         "9ncbcszsjrsb",
-        "album",
-        "artist",
+        "albums",
+        "artists",
         "audio",
         "episode",
-        "music",
-        "playlist",
-        "podcast",
-        "radio",
-        "song",
-        "sound",
-        "streaming"
+        "music-streaming",
+        "musicstreaming",
+        "playlists",
+        "podcasts",
+        "radio-playlists",
+        "songs",
+        "sound"
       ],
       "category": "Multimedia",
       "icon": {
@@ -226977,7 +226987,7 @@
       "id": "StablyAI.Orca",
       "name": "Orca",
       "publisher": "stablyai",
-      "version": "1.4.177",
+      "version": "1.4.178",
       "description": "Ship 100x With The Agent IDE",
       "tags": [
         "agent",
@@ -229574,16 +229584,24 @@
       "name": "PXPlay",
       "publisher": "streamingdv",
       "version": "2.0.0",
-      "description": "Third-party PlayStation Remote Play streaming client, formerly known as PSPlay",
+      "description": "Third-party PlayStation Remote Play streaming client, formerly known as PSPlay.",
       "tags": [
+        "game-streaming",
+        "gamestreaming",
         "gaming",
-        "playstation",
+        "playstation-4",
+        "playstation-5",
+        "playstation-remote-play",
+        "playstation4",
+        "playstation5",
+        "playstationremoteplay",
+        "ps-remote-play",
         "ps4",
         "ps5",
-        "remote-play",
-        "streaming"
+        "psplay",
+        "psremoteplay"
       ],
-      "category": "Multimedia",
+      "category": "Gaming",
       "icon": {
         "monogram": "PX",
         "background": "#047857",
@@ -229729,18 +229747,18 @@
       "name": "Strem Application",
       "publisher": "Strem",
       "version": "0.11.65",
-      "description": "Strem is an automation tool for streamers",
+      "description": "An automation tool for streamers.",
       "tags": [
         "application",
         "automation",
         "blazor",
         "csharp",
+        "livestreaming",
         "obs",
         "photino",
-        "streaming",
         "twitch"
       ],
-      "category": "Multimedia",
+      "category": "Others",
       "icon": {
         "monogram": "SA",
         "background": "#BE123C",
@@ -233158,7 +233176,7 @@
       "id": "t8y2.DBX",
       "name": "DBX",
       "publisher": "t8y2",
-      "version": "0.5.77",
+      "version": "0.5.79",
       "description": "15MB,lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "tags": [
         "clickhouse",
@@ -237270,7 +237288,7 @@
       "id": "Tencent.WorkBuddy",
       "name": "WorkBuddy",
       "publisher": "Tencent",
-      "version": "5.3.8",
+      "version": "5.3.11",
       "description": "Desktop Agents - A New Paradigm for Office Work",
       "tags": [
         "agent",
@@ -249619,7 +249637,7 @@
       "id": "usual2970.Certimate",
       "name": "Certimate",
       "publisher": "Yoan.liu",
-      "version": "0.4.29",
+      "version": "0.4.30",
       "description": "An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.",
       "tags": [
         "acme",
@@ -252700,7 +252718,7 @@
       "id": "VisiGrid.VisiGrid",
       "name": "VisiGrid",
       "publisher": "VisiGrid",
-      "version": "0.21.0",
+      "version": "0.22.0",
       "description": "A fast, local-first spreadsheet for serious data work.",
       "tags": [
         "csv",
@@ -261303,7 +261321,7 @@
       "id": "WilsonGlasser.Oryxis",
       "name": "Oryxis",
       "publisher": "Wilson Glasser",
-      "version": "0.12.0",
+      "version": "0.13.0",
       "description": "Modern SSH client built in Rust — terminal, SFTP, and host management.",
       "tags": [
         "rust",
@@ -263607,7 +263625,7 @@
       "id": "wolfpld.tracy",
       "name": "Tracy Profiler",
       "publisher": "wolfpld",
-      "version": "0.13.1",
+      "version": "0.14.0",
       "description": "A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.",
       "tags": [
         "gamedev",
@@ -272628,7 +272646,7 @@
       "id": "zhukunpenglinyutong.CCGUI",
       "name": "CCGUI",
       "publisher": "zhukunpenglinyutong",
-      "version": "0.8.5",
+      "version": "0.8.6",
       "description": "CC GUI Client (Vibe Coding Platform Designed for Developers)",
       "tags": [
         "ai",
