@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-11T19:21:45.000Z",
+  "generatedAt": "2026-08-12T02:26:16.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "dafa2e50ad4eafa64796dcc7274802c288b50f96"
+    "commit": "28d4ce6d168a937925db6627bf2c37a73bd9b35e"
   },
   "data": [
     {
       "id": "0-don.clippy",
       "name": "Clippy",
       "publisher": "0-don",
-      "version": "1.7.1",
+      "version": "1.7.2",
       "description": "Clipboard Manager built with Rust & Typescript",
       "tags": [
         "clipboard",
@@ -1106,7 +1106,7 @@
       "id": "4tNiagaraSoftware.4tTrayMinimizer",
       "name": "4t Tray Minimizer Free",
       "publisher": "4t Niagara Software",
-      "version": "6.07",
+      "version": "6.09",
       "description": "4t Tray Minimizer is a lightweight but powerful window manager",
       "tags": [],
       "category": "Others",
@@ -3778,7 +3778,7 @@
       "id": "AdamGell.CMTraceOpen",
       "name": "CMTrace Open",
       "publisher": "Adam Gell",
-      "version": "1.5.1",
+      "version": "1.5.2",
       "description": "Free, open-source CMTrace replacement for Windows log files, with Intune and Autopilot ESP diagnostics.",
       "tags": [
         "autopilot",
@@ -6751,6 +6751,25 @@
       }
     },
     {
+      "id": "Aiden1020.LocalSubs",
+      "name": "LocalSubs",
+      "publisher": "Aiden1020",
+      "version": "0.4.0",
+      "description": "Fully local AI subtitle translation for streaming video.",
+      "tags": [
+        "ai",
+        "cli",
+        "subtitles",
+        "translation"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "LO",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Aidex.AntiTwin.Portable",
       "name": "Anti-Twin",
       "publisher": "Aidex GmbH",
@@ -7057,6 +7076,27 @@
       "icon": {
         "monogram": "AI",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AiRost.RemoteDeck",
+      "name": "RemoteDeck",
+      "publisher": "AiRost",
+      "version": "12.4",
+      "description": "Remote access to your computer over the internet.",
+      "tags": [
+        "remote-access",
+        "remote-control",
+        "remote-desktop",
+        "remote-support",
+        "screen-sharing",
+        "webrtc"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "RE",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -12492,7 +12532,7 @@
       "id": "Amazon.AWSCLI",
       "name": "AWS Command Line Interface",
       "publisher": "Amazon Web Services",
-      "version": "2.36.17",
+      "version": "2.36.21",
       "description": "Universal Command Line Interface for Amazon Web Services",
       "tags": [
         "aws",
@@ -12982,7 +13022,7 @@
       "id": "Amazon.Kiro",
       "name": "Kiro",
       "publisher": "Amazon Web Services",
-      "version": "1.0.288",
+      "version": "1.0.293",
       "description": "An agentic IDE that helps you do your best work with features such as specs, steering, and hooks.",
       "tags": [
         "code",
@@ -17980,7 +18020,7 @@
       "id": "Argente.DataShredder",
       "name": "Argente Data Shredder",
       "publisher": "Raúl Argente",
-      "version": "1.0.6.8",
+      "version": "1.0.6.9",
       "description": "Securely delete all types of files and sensitive data, ensuring they can never be recovered.",
       "tags": [
         "data-shredder"
@@ -17996,7 +18036,7 @@
       "id": "Argente.DriveCleaner",
       "name": "Argente Drive Cleaner",
       "publisher": "Raúl Argente",
-      "version": "3.1.0.3",
+      "version": "3.1.0.4",
       "description": "Detect and remove all types of unnecessary files, freeing up space quickly and safely.",
       "tags": [],
       "category": "Others",
@@ -18038,7 +18078,7 @@
       "id": "Argente.RegistryCleaner",
       "name": "Argente Registry Cleaner",
       "publisher": "Raúl Argente",
-      "version": "4.0.9.3",
+      "version": "4.0.9.4",
       "description": "Detect and remove errors in the Windows® registry to improve system performance and stability.",
       "tags": [],
       "category": "Others",
@@ -18094,7 +18134,7 @@
       "id": "Argente.SystemRepair",
       "name": "Argente System Repair",
       "publisher": "Raúl Argente",
-      "version": "1.0.8.9",
+      "version": "1.0.9.0",
       "description": "Repair all types of system errors and optimize it automatically to keep it stable, secure, and running at peak performance.",
       "tags": [],
       "category": "Others",
@@ -18273,6 +18313,31 @@
       "icon": {
         "monogram": "PI",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Arihant25.Chargle",
+      "name": "Chargle",
+      "publisher": "Arihant Tripathy",
+      "version": "1.0.0",
+      "description": "Plays a sound when your laptop starts or stops charging.",
+      "tags": [
+        "battery",
+        "charger",
+        "charging",
+        "laptop",
+        "notification",
+        "power",
+        "sound",
+        "system-tray",
+        "tray",
+        "utility"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "CH",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -21297,7 +21362,7 @@
       "id": "AurelioAvila.PCTweaker",
       "name": "PC Tweaker",
       "publisher": "Aurelio Avila",
-      "version": "0.1.0",
+      "version": "0.4.1",
       "description": "Desktop app for Windows that applies performance, privacy, gaming and maintenance tweaks with automatic one-click rollback.",
       "tags": [
         "gaming",
@@ -32068,7 +32133,7 @@
       "id": "BitSum.ProcessLasso.Beta",
       "name": "Process Lasso (Beta)",
       "publisher": "Bitsum",
-      "version": "18.3.0.3",
+      "version": "18.3.0.5",
       "description": "Real-Time CPU Optimization and Automation",
       "tags": [
         "optimize",
@@ -37151,6 +37216,30 @@
       "icon": {
         "monogram": "BU",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Buger.ClassIslandCLI",
+      "name": "ClassIslandCLI",
+      "publisher": "Buger",
+      "version": "1.0.2.0",
+      "description": "ClassIsland的CLI客户端,方便Openclaw接入控制ClassIsland",
+      "tags": [
+        "ai",
+        "classisland",
+        "csharp",
+        "dotnet",
+        "linux",
+        "llm",
+        "macos",
+        "openclaw",
+        "windows"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CL",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -42881,6 +42970,26 @@
       }
     },
     {
+      "id": "ChHsiching.BongoCatTodo",
+      "name": "BongoCat Todo",
+      "publisher": "ChHsiching",
+      "version": "1.3.1",
+      "description": "Desktop pet cat with a todo list and mail notifier",
+      "tags": [
+        "desktop",
+        "mail",
+        "pet",
+        "tauri",
+        "todo"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "BT",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Chia-Lung.Kaku",
       "name": "Kaku",
       "publisher": "Chia-Lung,Chen",
@@ -43836,7 +43945,7 @@
       "id": "Chromium.ChromeDriver",
       "name": "ChromeDriver",
       "publisher": "Chromium",
-      "version": "151.0.7922.77",
+      "version": "151.0.7922.138",
       "description": "An open source tool for automated testing of webapps across many browsers",
       "tags": [],
       "category": "Browsers",
@@ -45669,6 +45778,20 @@
       "icon": {
         "monogram": "CL",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "cli.comrade",
+      "name": "comrade",
+      "publisher": "Fırat Kutay",
+      "version": "0.4.10",
+      "description": "Cross-platform AI CLI companion for the terminal (TR/EN).",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "CO",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -49760,7 +49883,7 @@
       "id": "ControlUp.ControlUpAgent",
       "name": "ControlUpAgent",
       "publisher": "ControlUp Technologies Ltd",
-      "version": "9.2.5.657",
+      "version": "9.2.5.686",
       "description": "Monitor and manage physical and virtual Windows machines in your environment",
       "tags": [],
       "category": "Others",
@@ -52157,6 +52280,27 @@
       }
     },
     {
+      "id": "crgimenes.kutta",
+      "name": "kutta",
+      "publisher": "Cesar Gimenes",
+      "version": "0.1.11",
+      "description": "Qualitative 2D wind tunnel with an airfoil editor",
+      "tags": [
+        "aerodynamics",
+        "airfoil",
+        "cfd",
+        "education",
+        "simulation",
+        "wind-tunnel"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "KU",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Cribl.CriblEdge",
       "name": "Cribl Edge",
       "publisher": "Cribl, Inc.",
@@ -53914,7 +54058,7 @@
       "id": "CycloneDX.cdxgen",
       "name": "CycloneDX Generator (cdxgen)",
       "publisher": "OWASP Foundation",
-      "version": "12.8.2",
+      "version": "12.8.3",
       "description": "A polyglot tool and a library for generating various Bill of Materials in CycloneDX specification.",
       "tags": [
         "bom",
@@ -54418,7 +54562,7 @@
       "id": "d4vid87.hookecho",
       "name": "hookecho",
       "publisher": "d4vid87",
-      "version": "0.8.0",
+      "version": "0.9.0",
       "description": "Advanced NEXRAD weather radar viewer in Rust — Level 2/3 analysis, MRMS, future radar, warning intelligence, TDS + rotation detection. Windows, Linux, Android.",
       "tags": [
         "egui",
@@ -54752,6 +54896,34 @@
       "icon": {
         "monogram": "BW",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "DamingWu.VocalCode",
+      "name": "VocalCode",
+      "publisher": "Daming Wu",
+      "version": "1.0.0",
+      "description": "Local push-to-talk voice input for AI coding on Windows.",
+      "tags": [
+        "ai-coding",
+        "developer-tools",
+        "dictation",
+        "local-ai",
+        "offline",
+        "productivity",
+        "push-to-talk",
+        "speech-to-text",
+        "transcription",
+        "voice",
+        "voice-coding",
+        "voice-input",
+        "voice-typing"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "VO",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -58557,7 +58729,7 @@
       "id": "demkada.ArgyCode",
       "name": "Argy Code",
       "publisher": "demkada",
-      "version": "2.3.0",
+      "version": "2.3.1",
       "description": "The AI coding agent built for the terminal",
       "tags": [],
       "category": "Others",
@@ -61563,7 +61735,7 @@
       "id": "Discord.Discord",
       "name": "Discord",
       "publisher": "Discord Inc.",
-      "version": "1.0.9251",
+      "version": "1.0.9252",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -61587,7 +61759,7 @@
       "id": "Discord.Discord.arm64",
       "name": "Discord (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.43",
+      "version": "1.0.44",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -61610,7 +61782,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1102",
+      "version": "1.0.1105",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -61633,7 +61805,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.434",
+      "version": "1.0.437",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -61679,7 +61851,7 @@
       "id": "Discord.Discord.Development",
       "name": "Discord Development",
       "publisher": "Discord Inc.",
-      "version": "1.0.1024",
+      "version": "1.0.1025",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -61702,7 +61874,7 @@
       "id": "Discord.Discord.Development.arm64",
       "name": "Discord Development (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.1009",
+      "version": "1.0.1010",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -63368,7 +63540,7 @@
       "id": "dnGrep.dnGrep",
       "name": "dnGREP",
       "publisher": "dnGrep Community Contributors",
-      "version": "5.0.30.0",
+      "version": "5.0.49.0",
       "description": "dnGrep allows you to search across files with easy-to-read results.",
       "tags": [
         "grep",
@@ -65048,7 +65220,7 @@
       "id": "Dropbox.dbxcli",
       "name": "dbxcli",
       "publisher": "Dropbox",
-      "version": "3.7.1",
+      "version": "3.7.2",
       "description": "Command-line tool for Dropbox users and team admins",
       "tags": [
         "cli",
@@ -66565,7 +66737,7 @@
       "id": "DygmaLabs.Bazecor",
       "name": "Bazecor",
       "publisher": "Dygma Lab S.L.",
-      "version": "1.9.2",
+      "version": "1.10.0",
       "description": "The Bazecor configurator software allows you to remap any key and create up to 10 fully programmable layers for your Dygma Raise keyboard. It also allows you to create and manage superkeys, macros, and shortcuts.",
       "tags": [],
       "category": "Others",
@@ -67752,7 +67924,7 @@
       "id": "Echonuit.VigieChiroCompanion",
       "name": "VigieChiro Companion",
       "publisher": "Echonuit",
-      "version": "2.34.2",
+      "version": "2.184.0",
       "description": "Préparer et déposer les nuits d'enregistrement acoustique de chauves-souris",
       "tags": [
         "acoustique",
@@ -70945,7 +71117,7 @@
       "id": "ElementLabs.Bionic",
       "name": "Bionic",
       "publisher": "LM Studio",
-      "version": "1.0.6+5",
+      "version": "1.0.7+2",
       "description": "An AI agent for working with open models locally and in the cloud.",
       "tags": [
         "agent",
@@ -71313,7 +71485,7 @@
       "id": "EligianLabs.PIICrawlerCLI",
       "name": "PIICrawler CLI",
       "publisher": "Eligian Labs LLC",
-      "version": "26.0811.1449",
+      "version": "26.0811.2240",
       "description": "PII Crawler scans your files, network shares, and databases on your own hardware. Surface the SSNs, addresses, names, and emails hiding where SaaS tools can’t reach. Nothing ever leaves your network.",
       "tags": [
         "pii",
@@ -71342,6 +71514,26 @@
       "icon": {
         "monogram": "MC",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Elinesoft.XTester",
+      "name": "XTester",
+      "publisher": "Elinesoft",
+      "version": "0.0.73",
+      "description": "Desktop cryptocurrency trading strategy simulator and backtester with an AI strategy builder.",
+      "tags": [
+        "backtesting",
+        "cryptocurrency",
+        "simulator",
+        "strategy",
+        "trading"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "XT",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -74271,7 +74463,7 @@
       "id": "ESEngine.ReasonixDesktop",
       "name": "Reasonix",
       "publisher": "reasonix",
-      "version": "1.23.0",
+      "version": "1.24.0",
       "description": "A DeepSeek-native coding agent, for your terminal.",
       "tags": [
         "agent",
@@ -75834,6 +76026,26 @@
       "icon": {
         "monogram": "VE",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Excelano.xcp",
+      "name": "xcp",
+      "publisher": "Excelano LLC",
+      "version": "1.5.0",
+      "description": "Copy files to and from SharePoint document libraries, like the Unix copy command",
+      "tags": [
+        "cli",
+        "copy",
+        "files",
+        "microsoft-365",
+        "sharepoint"
+      ],
+      "category": "Microsoft Tools",
+      "icon": {
+        "monogram": "XC",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -77844,7 +78056,7 @@
       "id": "Feci.ParleyDeckCli",
       "name": "Parley Deck CLI",
       "publisher": "Feci",
-      "version": "1.42.1",
+      "version": "1.43.1",
       "description": "CLI that orchestrates Parley Deck multi-agent cooperation workflows.",
       "tags": [
         "agents",
@@ -77890,6 +78102,25 @@
       "icon": {
         "monogram": "PD",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "FedeB2160.WinGetStudio",
+      "name": "WinGet Studio",
+      "publisher": "FedeB2160",
+      "version": "1.9.0",
+      "description": "A desktop front end for winget: update, install, uninstall, pin and export packages.",
+      "tags": [
+        "gui",
+        "package-manager",
+        "packages",
+        "winget"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "WS",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -78521,7 +78752,7 @@
       "id": "Ferdium.Ferdium.Nightly",
       "name": "Ferdium Nightly",
       "publisher": "Ferdium Contributors",
-      "version": "7.1.3-nightly.3",
+      "version": "7.1.3-nightly.8",
       "description": "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more.",
       "tags": [
         "hacktoberfest",
@@ -84141,7 +84372,7 @@
       "id": "FunRoutine.WorkFlowy",
       "name": "WorkFlowy",
       "publisher": "WorkFlowy",
-      "version": "4.3.2608101547",
+      "version": "4.3.2608112347",
       "description": "Collect your ideas, develop them, share them, and turn them into reality.",
       "tags": [
         "agenda",
@@ -85987,7 +86218,7 @@
       "id": "GDevelop.GDevelop",
       "name": "GDevelop",
       "publisher": "GDevelop Team",
-      "version": "5.6.277",
+      "version": "5.6.279",
       "description": "The fastest, easiest, most powerful no-code game engine.",
       "tags": [
         "develop",
@@ -87096,7 +87327,7 @@
       "id": "gg.ai.ggcode-cli",
       "name": "ggcode",
       "publisher": "GG AI Studio",
-      "version": "1.3.201",
+      "version": "1.3.202",
       "description": "AI coding agent for the terminal.",
       "tags": [
         "ai",
@@ -87117,7 +87348,7 @@
       "id": "gg.ai.ggcode-desktop",
       "name": "GGCode Desktop",
       "publisher": "GG AI Studio",
-      "version": "1.3.201",
+      "version": "1.3.202",
       "description": "AI coding agent with a native desktop interface.",
       "tags": [
         "ai",
@@ -88137,7 +88368,7 @@
       "id": "Git.MinGit",
       "name": "MinGit",
       "publisher": "The Git Development Community",
-      "version": "2.55.0.3",
+      "version": "2.55.0.4",
       "description": "MinGit is an intentionally minimal, non-interactive distribution of Git for Windows, with third-party applications as its intended audience.",
       "tags": [
         "cli",
@@ -91353,7 +91584,7 @@
       "id": "Google.Chrome",
       "name": "Google Chrome",
       "publisher": "Google LLC",
-      "version": "151.0.7922.109",
+      "version": "151.0.7922.138",
       "description": "The Fast & Secure Web Browser Built to be Yours",
       "tags": [
         "browser",
@@ -93367,7 +93598,7 @@
       "id": "GrainIntelligence.Grain",
       "name": "Grain",
       "publisher": "Grain",
-      "version": "2026.31.4",
+      "version": "2026.32.1",
       "description": "The AI notetaker for agents and teams",
       "tags": [
         "caption",
@@ -99979,6 +100210,25 @@
       }
     },
     {
+      "id": "hoijun-kim.flip",
+      "name": "flip",
+      "publisher": "H.K",
+      "version": "0.1.0",
+      "description": "Capture a region of your screen, page by page, into images or a PDF.",
+      "tags": [
+        "automation",
+        "pdf",
+        "screen-capture",
+        "screenshot"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "FL",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Holepunch.Keet",
       "name": "Keet",
       "publisher": "Holepunch",
@@ -100955,7 +101205,7 @@
       "id": "hrzlgnm.zux",
       "name": "zux",
       "publisher": "hrzlgnm",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "description": "zux",
       "tags": [
         "mdns-sd",
@@ -103628,6 +103878,25 @@
       }
     },
     {
+      "id": "iChemLabs.ChemDoodle3D",
+      "name": "ChemDoodle 3D",
+      "publisher": "iChemLabs, LLC",
+      "version": "7.7.0",
+      "description": "3D chemical graphics, animations and modeling software.",
+      "tags": [
+        "3d",
+        "chemistry",
+        "modeling",
+        "molecule"
+      ],
+      "category": "Design & Creation",
+      "icon": {
+        "monogram": "C3",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "iChemLabs.ChemScribble",
       "name": "ChemScribble",
       "publisher": "iChemLabs, LLC",
@@ -103883,7 +104152,7 @@
       "id": "Ideamerit.GalaxyModeler",
       "name": "Galaxy Modeler",
       "publisher": "Ideamerit",
-      "version": "13.0.0",
+      "version": "13.0.1",
       "description": "A schema design tool for GraphQL for easy and fast visual GraphQL data modeling",
       "tags": [
         "graphql"
@@ -103899,7 +104168,7 @@
       "id": "Ideamerit.LunaModeler",
       "name": "Luna Modeler",
       "publisher": "Ideamerit",
-      "version": "14.0.0",
+      "version": "14.0.1",
       "description": "A powerful desktop data modeling tool for relational databases like PostgreSQL, Oracle, SQL Server, MariaDB, MySQL and SQLite",
       "tags": [
         "database",
@@ -103924,7 +104193,7 @@
       "id": "Ideamerit.MeteorModeler",
       "name": "Meteor Modeler",
       "publisher": "Ideamerit",
-      "version": "13.0.0",
+      "version": "13.0.1",
       "description": "A visual designer for Sequelize ORM",
       "tags": [
         "database",
@@ -107048,6 +107317,20 @@
       "icon": {
         "monogram": "IO",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Intel.OpenVINOToolkit.2026.3.0",
+      "name": "Intel® OpenVINO Toolkit",
+      "publisher": "Intel Corporation",
+      "version": "2026.3.0.0",
+      "description": "OpenVINOTM is an open source toolkit for optimizing and deploying AI inference",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "IO",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -123890,6 +124173,34 @@
       }
     },
     {
+      "id": "klNuno.Accshift",
+      "name": "Accshift",
+      "publisher": "klNuno",
+      "version": "1.0.3",
+      "description": "One-click account switcher for Steam, Valorant, League of Legends, Battle.net, Epic Games, Ubisoft Connect, Roblox and Discord. No passwords stored.",
+      "tags": [
+        "account-switcher",
+        "battle-net",
+        "discord",
+        "epic-games",
+        "gaming",
+        "gog",
+        "league-of-legends",
+        "overwatch",
+        "riot",
+        "roblox",
+        "steam",
+        "ubisoft",
+        "valorant"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "AC",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Klocman.BulkCrapUninstaller",
       "name": "Bulk Crap Uninstaller",
       "publisher": "Marcin Szeniak",
@@ -128650,6 +128961,20 @@
       }
     },
     {
+      "id": "levon2805.SoundBar",
+      "name": "SoundBar",
+      "publisher": "levon2805",
+      "version": "3.1.0",
+      "description": "Modern, lightweight Windows volume mixer and audio controller.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "SO",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "lexandro.mdedit",
       "name": "mdedit",
       "publisher": "Lexandro's App Factory",
@@ -130251,6 +130576,28 @@
       "icon": {
         "monogram": "L9",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "linsmod.aidbg",
+      "name": "aidbg",
+      "publisher": "linsmod",
+      "version": "0.1.2",
+      "description": "GDB-style Windows command-line debugger built for AI agents and automation.",
+      "tags": [
+        "ai",
+        "automation",
+        "cli",
+        "debugger",
+        "gdb",
+        "json",
+        "windows"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "AI",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -134914,7 +135261,7 @@
       "id": "M-Igashi.mp3rgui",
       "name": "mp3rgui",
       "publisher": "M-Igashi",
-      "version": "3.1.1",
+      "version": "3.2.0",
       "description": "GUI for lossless MP3 volume adjustment - a modern mp3gain replacement written in Rust",
       "tags": [
         "audio",
@@ -135713,6 +136060,20 @@
       "icon": {
         "monogram": "NT",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "MahirGul.rsipclient",
+      "name": "rsipclient",
+      "publisher": "Mahir Gül",
+      "version": "2.3.1",
+      "description": "Multi-account SIP client with IVR/auto-attendant and Web Dashboard",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "RS",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -139255,7 +139616,7 @@
       "id": "mayocream.koharu",
       "name": "Koharu",
       "publisher": "mayocream",
-      "version": "0.61.1",
+      "version": "0.63.4",
       "description": "ML-powered manga translator, written in Rust.",
       "tags": [
         "computer-vision",
@@ -144162,7 +144523,7 @@
       "id": "Microsoft.DotNet.AspNetCore.8",
       "name": "Microsoft ASP.NET Core Runtime 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.29",
+      "version": "8.0.30",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144191,7 +144552,7 @@
       "id": "Microsoft.DotNet.AspNetCore.9",
       "name": "Microsoft ASP.NET Core Runtime 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.18",
+      "version": "9.0.19",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144220,7 +144581,7 @@
       "id": "Microsoft.DotNet.AspNetCore.Preview",
       "name": "Microsoft ASP.NET Core Runtime 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.0-preview.6.26359.118",
+      "version": "11.0.0-preview.7.26381.103",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144270,7 +144631,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.10",
       "name": "Microsoft .NET Windows Desktop Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.10",
+      "version": "10.0.11",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144472,7 +144833,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.8",
       "name": "Microsoft .NET Windows Desktop Runtime 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.29",
+      "version": "8.0.30",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144587,7 +144948,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.9",
       "name": "Microsoft .NET Windows Desktop Runtime 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.18",
+      "version": "9.0.19",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144775,7 +145136,7 @@
       "id": "Microsoft.DotNet.HostingBundle.10",
       "name": "Microsoft ASP.NET Core Hosting Bundle 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.10",
+      "version": "10.0.11",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144930,7 +145291,7 @@
       "id": "Microsoft.DotNet.HostingBundle.8",
       "name": "Microsoft ASP.NET Core Hosting Bundle 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.29",
+      "version": "8.0.30",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -144961,7 +145322,7 @@
       "id": "Microsoft.DotNet.HostingBundle.9",
       "name": "Microsoft ASP.NET Core Hosting Bundle 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.18",
+      "version": "9.0.19",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -145060,7 +145421,7 @@
       "id": "Microsoft.DotNet.Runtime.10",
       "name": "Microsoft .NET Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.10",
+      "version": "10.0.11",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -145211,7 +145572,7 @@
       "id": "Microsoft.DotNet.Runtime.8",
       "name": "Microsoft .NET Runtime 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.29",
+      "version": "8.0.30",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -145289,7 +145650,7 @@
       "id": "Microsoft.DotNet.SDK.10",
       "name": "Microsoft .NET SDK 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.302",
+      "version": "10.0.303",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -145419,7 +145780,7 @@
       "id": "Microsoft.DotNet.SDK.8",
       "name": "Microsoft .NET SDK 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.423",
+      "version": "8.0.424",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -145471,7 +145832,7 @@
       "id": "Microsoft.DotNet.SDK.Preview",
       "name": "Microsoft .NET SDK 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.100-preview.6.26359.118",
+      "version": "11.0.100-preview.7.26381.103",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -145720,7 +146081,7 @@
       "id": "Microsoft.EdgeWebView2Runtime",
       "name": "Microsoft Edge WebView2 Runtime",
       "publisher": "Microsoft Corporation",
-      "version": "151.0.4129.59",
+      "version": "151.0.4129.78",
       "description": "Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.",
       "tags": [
         "webview"
@@ -145879,6 +146240,26 @@
       }
     },
     {
+      "id": "Microsoft.FoundryDevPack",
+      "name": "Microsoft Foundry DevPack",
+      "publisher": "Microsoft Corporation",
+      "version": "0.1.0",
+      "description": "Sets up prerequisites for Microsoft Foundry development.",
+      "tags": [
+        "ai",
+        "azure",
+        "developer-tools",
+        "foundry",
+        "pre-release"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "MF",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Microsoft.FoundryLocal",
       "name": "Foundry Local",
       "publisher": "Microsoft Corporation",
@@ -145991,7 +146372,7 @@
       "id": "Microsoft.Gaming.GamingServicesRepairTool",
       "name": "Gaming Services Repair Tool for PC",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.26100.6893",
+      "version": "10.0.26100.9546 (WinBuild.160101.0800)",
       "description": "A portable standalone tool to repair and fix problems with the following apps:Xbox App; Xbox Identity Provider; Game Bar; and Gaming Services. It can (and will) also try to update or install those apps, though not silently.",
       "tags": [
         "gaming-repair-tool",
@@ -147199,7 +147580,7 @@
       "id": "Microsoft.NuGet",
       "name": "NuGet",
       "publisher": "Microsoft Corporation",
-      "version": "7.6.0",
+      "version": "7.9.0",
       "description": "The package manager for .NET",
       "tags": [
         ".net",
@@ -148044,7 +148425,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.457.111.0",
+      "version": "1.457.115.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -148680,7 +149061,7 @@
       "id": "Microsoft.SQLServerManagementStudio.22",
       "name": "Microsoft SQL Server Management Studio 22",
       "publisher": "Microsoft Corporation",
-      "version": "22.8.2",
+      "version": "22.9.0",
       "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure",
       "tags": [
         "management-studio",
@@ -150002,7 +150383,7 @@
       "id": "Microsoft.VisualStudio.2019.Enterprise",
       "name": "Visual Studio Enterprise 2019",
       "publisher": "Microsoft Corporation",
-      "version": "16.11.58",
+      "version": "16.11.59",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -150020,7 +150401,7 @@
       "id": "Microsoft.VisualStudio.2019.Professional",
       "name": "Visual Studio Professional 2019",
       "publisher": "Microsoft Corporation",
-      "version": "16.11.58",
+      "version": "16.11.59",
       "description": "The trusted IDE for professional developers - from desktop to cloud.",
       "tags": [
         "c#",
@@ -150146,7 +150527,7 @@
       "id": "Microsoft.VisualStudio.BuildTools",
       "name": "Visual Studio BuildTools 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.8.2",
+      "version": "18.9.0",
       "description": "These Build Tools allow you to build Visual Studio projects from a command-line interface.",
       "tags": [
         "c#",
@@ -150182,7 +150563,7 @@
       "id": "Microsoft.VisualStudio.Community.Insiders",
       "name": "Visual Studio Community 2026 Insiders",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.12023.133",
+      "version": "18.10.12106.202",
       "description": "Everything you need to build modern apps - free for you, built for impact.",
       "tags": [
         "c#",
@@ -150214,7 +150595,7 @@
       "id": "Microsoft.VisualStudio.Enterprise",
       "name": "Visual Studio Enterprise 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.8.2",
+      "version": "18.9.0",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -150232,7 +150613,7 @@
       "id": "Microsoft.VisualStudio.Enterprise.Insiders",
       "name": "Visual Studio Enterprise 2026 Insiders",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.12023.133",
+      "version": "18.10.12106.202",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -150301,7 +150682,7 @@
       "id": "Microsoft.VisualStudio.Professional",
       "name": "Visual Studio Professional 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.8.2",
+      "version": "18.9.0",
       "description": "The trusted IDE for professional developers - from desktop to cloud.",
       "tags": [
         "c#",
@@ -150337,7 +150718,7 @@
       "id": "Microsoft.VisualStudio.RemoteTools",
       "name": "Remote Tools for Visual Studio",
       "publisher": "Microsoft Corporation",
-      "version": "18.8.1",
+      "version": "18.9.0",
       "description": "Remote Tools for Visual Studio enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.",
       "tags": [
         "ext",
@@ -163840,7 +164221,7 @@
       "id": "Mozilla.Thunderbird.cak",
       "name": "Mozilla Thunderbird (cak)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -164080,7 +164461,7 @@
       "id": "Mozilla.Thunderbird.ESR.ar",
       "name": "Mozilla Thunderbird ESR (ar)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164097,7 +164478,7 @@
       "id": "Mozilla.Thunderbird.ESR.ast",
       "name": "Mozilla Thunderbird ESR (ast)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164267,7 +164648,7 @@
       "id": "Mozilla.Thunderbird.ESR.dsb",
       "name": "Mozilla Thunderbird ESR (dsb)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164284,7 +164665,7 @@
       "id": "Mozilla.Thunderbird.ESR.el",
       "name": "Mozilla Thunderbird ESR (el)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164318,7 +164699,7 @@
       "id": "Mozilla.Thunderbird.ESR.en-GB",
       "name": "Mozilla Thunderbird ESR (en-GB)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164352,7 +164733,7 @@
       "id": "Mozilla.Thunderbird.ESR.es-ES",
       "name": "Mozilla Thunderbird ESR (es-ES)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164369,7 +164750,7 @@
       "id": "Mozilla.Thunderbird.ESR.es-MX",
       "name": "Mozilla Thunderbird ESR (es-MX)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164420,7 +164801,7 @@
       "id": "Mozilla.Thunderbird.ESR.fi",
       "name": "Mozilla Thunderbird ESR (fi)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164454,7 +164835,7 @@
       "id": "Mozilla.Thunderbird.ESR.fy-NL",
       "name": "Mozilla Thunderbird ESR (fy-NL)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164471,7 +164852,7 @@
       "id": "Mozilla.Thunderbird.ESR.ga-IE",
       "name": "Mozilla Thunderbird ESR (ga-IE)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164556,7 +164937,7 @@
       "id": "Mozilla.Thunderbird.ESR.hsb",
       "name": "Mozilla Thunderbird ESR (hsb)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164624,7 +165005,7 @@
       "id": "Mozilla.Thunderbird.ESR.is",
       "name": "Mozilla Thunderbird ESR (is)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164658,7 +165039,7 @@
       "id": "Mozilla.Thunderbird.ESR.ja",
       "name": "Mozilla Thunderbird ESR (ja)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164675,7 +165056,7 @@
       "id": "Mozilla.Thunderbird.ESR.ka",
       "name": "Mozilla Thunderbird ESR (ka)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164709,7 +165090,7 @@
       "id": "Mozilla.Thunderbird.ESR.kk",
       "name": "Mozilla Thunderbird ESR (kk)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164726,7 +165107,7 @@
       "id": "Mozilla.Thunderbird.ESR.ko",
       "name": "Mozilla Thunderbird ESR (ko)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164743,7 +165124,7 @@
       "id": "Mozilla.Thunderbird.ESR.lt",
       "name": "Mozilla Thunderbird ESR (lt)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164760,7 +165141,7 @@
       "id": "Mozilla.Thunderbird.ESR.lv",
       "name": "Mozilla Thunderbird ESR (lv)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164777,7 +165158,7 @@
       "id": "Mozilla.Thunderbird.ESR.ms",
       "name": "Mozilla Thunderbird ESR (ms)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164821,7 +165202,7 @@
       "id": "Mozilla.Thunderbird.ESR.nb-NO",
       "name": "Mozilla Thunderbird ESR (nb-NO)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164855,7 +165236,7 @@
       "id": "Mozilla.Thunderbird.ESR.nn-NO",
       "name": "Mozilla Thunderbird ESR (nn-NO)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164872,7 +165253,7 @@
       "id": "Mozilla.Thunderbird.ESR.pa-IN",
       "name": "Mozilla Thunderbird ESR (pa-IN)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164889,7 +165270,7 @@
       "id": "Mozilla.Thunderbird.ESR.pl",
       "name": "Mozilla Thunderbird ESR (pl)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164906,7 +165287,7 @@
       "id": "Mozilla.Thunderbird.ESR.pt-BR",
       "name": "Mozilla Thunderbird ESR (pt-BR)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164923,7 +165304,7 @@
       "id": "Mozilla.Thunderbird.ESR.pt-PT",
       "name": "Mozilla Thunderbird ESR (pt-PT)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164940,7 +165321,7 @@
       "id": "Mozilla.Thunderbird.ESR.rm",
       "name": "Mozilla Thunderbird ESR (rm)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -164974,7 +165355,7 @@
       "id": "Mozilla.Thunderbird.ESR.ru",
       "name": "Mozilla Thunderbird ESR (ru)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165008,7 +165389,7 @@
       "id": "Mozilla.Thunderbird.ESR.sl",
       "name": "Mozilla Thunderbird ESR (sl)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165025,7 +165406,7 @@
       "id": "Mozilla.Thunderbird.ESR.sq",
       "name": "Mozilla Thunderbird ESR (sq)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165042,7 +165423,7 @@
       "id": "Mozilla.Thunderbird.ESR.sr",
       "name": "Mozilla Thunderbird ESR (sr)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165059,7 +165440,7 @@
       "id": "Mozilla.Thunderbird.ESR.sv-SE",
       "name": "Mozilla Thunderbird ESR (sv-SE)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165076,7 +165457,7 @@
       "id": "Mozilla.Thunderbird.ESR.th",
       "name": "Mozilla Thunderbird ESR (th)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165093,7 +165474,7 @@
       "id": "Mozilla.Thunderbird.ESR.tr",
       "name": "Mozilla Thunderbird ESR (tr)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165110,7 +165491,7 @@
       "id": "Mozilla.Thunderbird.ESR.uk",
       "name": "Mozilla Thunderbird ESR (uk)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165144,7 +165525,7 @@
       "id": "Mozilla.Thunderbird.ESR.vi",
       "name": "Mozilla Thunderbird ESR (vi)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165161,7 +165542,7 @@
       "id": "Mozilla.Thunderbird.ESR.zh-CN",
       "name": "Mozilla Thunderbird ESR (zh-CN)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird 官方年度延长支持版,面向希望按年获取所有新功能、按月获取稳定性/安全性修复的用户。",
       "tags": [
         "email",
@@ -165178,7 +165559,7 @@
       "id": "Mozilla.Thunderbird.ESR.zh-TW",
       "name": "Mozilla Thunderbird ESR (zh-TW)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "The official annual extended support release of Thunderbird intended for users who want all available new features on an annual basis and stability/security fixes on a monthly basis.",
       "tags": [
         "email",
@@ -165229,7 +165610,7 @@
       "id": "Mozilla.Thunderbird.fi",
       "name": "Mozilla Thunderbird (fi)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165263,7 +165644,7 @@
       "id": "Mozilla.Thunderbird.fy-NL",
       "name": "Mozilla Thunderbird (fy-NL)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165280,7 +165661,7 @@
       "id": "Mozilla.Thunderbird.ga-IE",
       "name": "Mozilla Thunderbird (ga-IE)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165297,7 +165678,7 @@
       "id": "Mozilla.Thunderbird.gd",
       "name": "Mozilla Thunderbird (gd)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165314,7 +165695,7 @@
       "id": "Mozilla.Thunderbird.gl",
       "name": "Mozilla Thunderbird (gl)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165331,7 +165712,7 @@
       "id": "Mozilla.Thunderbird.he",
       "name": "Mozilla Thunderbird (he)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165348,7 +165729,7 @@
       "id": "Mozilla.Thunderbird.hr",
       "name": "Mozilla Thunderbird (hr)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165382,7 +165763,7 @@
       "id": "Mozilla.Thunderbird.hu",
       "name": "Mozilla Thunderbird (hu)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165416,7 +165797,7 @@
       "id": "Mozilla.Thunderbird.id",
       "name": "Mozilla Thunderbird (id)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165433,7 +165814,7 @@
       "id": "Mozilla.Thunderbird.is",
       "name": "Mozilla Thunderbird (is)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165450,7 +165831,7 @@
       "id": "Mozilla.Thunderbird.it",
       "name": "Mozilla Thunderbird (it)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165467,7 +165848,7 @@
       "id": "Mozilla.Thunderbird.ja",
       "name": "Mozilla Thunderbird (ja)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165484,7 +165865,7 @@
       "id": "Mozilla.Thunderbird.ka",
       "name": "Mozilla Thunderbird (ka)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165501,7 +165882,7 @@
       "id": "Mozilla.Thunderbird.kab",
       "name": "Mozilla Thunderbird (kab)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165552,7 +165933,7 @@
       "id": "Mozilla.Thunderbird.lt",
       "name": "Mozilla Thunderbird (lt)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165569,7 +165950,7 @@
       "id": "Mozilla.Thunderbird.lv",
       "name": "Mozilla Thunderbird (lv)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165586,7 +165967,7 @@
       "id": "Mozilla.Thunderbird.ms",
       "name": "Mozilla Thunderbird (ms)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165664,7 +166045,7 @@
       "id": "Mozilla.Thunderbird.nn-NO",
       "name": "Mozilla Thunderbird (nn-NO)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165681,7 +166062,7 @@
       "id": "Mozilla.Thunderbird.pa-IN",
       "name": "Mozilla Thunderbird (pa-IN)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165698,7 +166079,7 @@
       "id": "Mozilla.Thunderbird.pl",
       "name": "Mozilla Thunderbird (pl)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165732,7 +166113,7 @@
       "id": "Mozilla.Thunderbird.pt-PT",
       "name": "Mozilla Thunderbird (pt-PT)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165749,7 +166130,7 @@
       "id": "Mozilla.Thunderbird.rm",
       "name": "Mozilla Thunderbird (rm)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165766,7 +166147,7 @@
       "id": "Mozilla.Thunderbird.ro",
       "name": "Mozilla Thunderbird (ro)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165800,7 +166181,7 @@
       "id": "Mozilla.Thunderbird.sk",
       "name": "Mozilla Thunderbird (sk)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165817,7 +166198,7 @@
       "id": "Mozilla.Thunderbird.sl",
       "name": "Mozilla Thunderbird (sl)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165834,7 +166215,7 @@
       "id": "Mozilla.Thunderbird.sq",
       "name": "Mozilla Thunderbird (sq)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165885,7 +166266,7 @@
       "id": "Mozilla.Thunderbird.th",
       "name": "Mozilla Thunderbird (th)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165936,7 +166317,7 @@
       "id": "Mozilla.Thunderbird.uz",
       "name": "Mozilla Thunderbird (uz)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165953,7 +166334,7 @@
       "id": "Mozilla.Thunderbird.vi",
       "name": "Mozilla Thunderbird (vi)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165970,7 +166351,7 @@
       "id": "Mozilla.Thunderbird.zh-CN",
       "name": "Mozilla Thunderbird (zh-CN)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -165987,7 +166368,7 @@
       "id": "Mozilla.Thunderbird.zh-TW",
       "name": "Mozilla Thunderbird (zh-TW)",
       "publisher": "Mozilla",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -170716,7 +171097,7 @@
       "id": "Netbird.Netbird",
       "name": "Netbird",
       "publisher": "NetBird GmbH",
-      "version": "0.76.2",
+      "version": "0.76.3",
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "tags": [
         "network",
@@ -181835,7 +182216,7 @@
       "id": "OpenJS.Electron.41",
       "name": "Electron",
       "publisher": "OpenJS Foundation",
-      "version": "41.10.4",
+      "version": "41.10.5",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
       "tags": [
         "c-plus-plus",
@@ -184758,7 +185139,7 @@
       "id": "OrdinLabs.wsm-cli",
       "name": "wsm-cli",
       "publisher": "OrdinLabs",
-      "version": "2.7.5-alpha.2",
+      "version": "2.7.6",
       "description": "CLI for Ordin Labs Workspace Manager",
       "tags": [],
       "category": "Others",
@@ -186848,7 +187229,7 @@
       "id": "paopaoandlingyia.PrismCat",
       "name": "PrismCat",
       "publisher": "Etgpao",
-      "version": "1.12.0",
+      "version": "1.13.0",
       "description": "A self-hosted, transparent proxy and debugging console for LLM APIs.",
       "tags": [
         "ai",
@@ -190781,6 +191162,25 @@
       "category": "System Tools",
       "icon": {
         "monogram": "PI",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "PingRank.PingRank",
+      "name": "PingRank.gg",
+      "publisher": "PingRank.gg",
+      "version": "0.7.6",
+      "description": "Measures your real ping while you play.",
+      "tags": [
+        "gaming",
+        "latency",
+        "network",
+        "ping"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "PG",
         "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
@@ -198907,6 +199307,20 @@
       }
     },
     {
+      "id": "quangnv13.nonstop-notify",
+      "name": "Nonstop Notify",
+      "publisher": "quangnv13",
+      "version": "0.1.2",
+      "description": "A lightweight desktop notification",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "NN",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Quanshi.QuanshiMeeting",
       "name": "Quanshi Meeting",
       "publisher": "G-Net Cloud Service Co., Ltd",
@@ -199174,6 +199588,24 @@
       "category": "Others",
       "icon": {
         "monogram": "QU",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Quicksaver.LFSCloud",
+      "name": "LFS Cloud",
+      "publisher": "Quicksaver",
+      "version": "0.2.7",
+      "description": "Git LFS-compatible server and CLI for user-controlled storage.",
+      "tags": [
+        "git",
+        "git-lfs",
+        "lfs"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "LC",
         "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
@@ -202029,7 +202461,7 @@
       "id": "RedEyeNetworks.LogivoreForVeeam",
       "name": "Logivore for Veeam",
       "publisher": "RedEye Network Solutions LLC",
-      "version": "1.30.0",
+      "version": "1.31.0",
       "description": "Logivore plus Advanced Veeam Mode — collects, normalizes, and analyzes Veeam Backup and Replication logs end-to-end",
       "tags": [
         "ai",
@@ -208023,7 +208455,7 @@
       "id": "Rorkai.ASC",
       "name": "asc",
       "publisher": "Rorkai",
-      "version": "3.7.0",
+      "version": "4.0.0",
       "description": "Fast, scriptable CLI for the App Store Connect API.",
       "tags": [
         "app-store-connect",
@@ -216980,7 +217412,7 @@
       "id": "Shilihu.Mubu",
       "name": "幕布",
       "publisher": "mubu.com",
-      "version": "5.7.2",
+      "version": "5.7.3",
       "description": "Minimalist outline notes, generate mind maps with one click.",
       "tags": [
         "article",
@@ -219055,7 +219487,7 @@
       "id": "sinelaw.fresh-editor",
       "name": "fresh-editor",
       "publisher": "sinelaw",
-      "version": "0.4.7",
+      "version": "0.4.9",
       "description": "A modern terminal-based text editor with TypeScript plugin support",
       "tags": [
         "editor",
@@ -226739,6 +227171,26 @@
       }
     },
     {
+      "id": "Spokenly.Spokenly",
+      "name": "Spokenly",
+      "publisher": "Spokenly",
+      "version": "0.3.17",
+      "description": "Fast voice dictation for your desktop",
+      "tags": [
+        "dictation",
+        "speech-to-text",
+        "transcription",
+        "voice-typing",
+        "whisper"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "SP",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Spotify.Spotify",
       "name": "Spotify",
       "publisher": "Spotify AB",
@@ -229770,7 +230222,7 @@
       "id": "Storj.Uplink",
       "name": "Uplink",
       "publisher": "Storj Labs Inc",
-      "version": "1.161.7",
+      "version": "1.161.8",
       "description": "The Storj DCS client-side CLI",
       "tags": [
         "storj",
@@ -230339,6 +230791,31 @@
       "icon": {
         "monogram": "ST",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "StudioCodeAI.LyaStudioCoder",
+      "name": "Lya Studio Coder",
+      "publisher": "Studio Code AI",
+      "version": "1.3.2",
+      "description": "AI-powered IDE with multi-agent orchestration (COSMOS), trilingual interface, and integrated terminal.",
+      "tags": [
+        "ai",
+        "coding",
+        "developer-tools",
+        "ide",
+        "monaco",
+        "multi-agent",
+        "orchestration",
+        "react",
+        "tauri",
+        "terminal"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "LS",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -231368,7 +231845,7 @@
       "id": "Superhuman.Superhuman",
       "name": "Superhuman",
       "publisher": "Superhuman Labs, LLC",
-      "version": "1041.0.29",
+      "version": "1041.0.30",
       "description": "The most productive email app ever made.",
       "tags": [
         "email",
@@ -236215,7 +236692,7 @@
       "id": "TechSmith.Camtasia",
       "name": "Camtasia",
       "publisher": "TechSmith Corporation",
-      "version": "26.1.4.18353",
+      "version": "26.2.0.19099",
       "description": "The best all-in-one screen recorder and video editor. Record your screen, add video effects, transitions and more.",
       "tags": [
         "capture",
@@ -243277,7 +243754,7 @@
       "id": "tinyrack.coder-cli",
       "name": "Coder CLI",
       "publisher": "tinyrack",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "description": "Standalone command-line client for Tinyrack Coder",
       "tags": [
         "agent",
@@ -250227,7 +250704,7 @@
       "id": "uu201.CharacterArc",
       "name": "CharacterArc",
       "publisher": "uu201",
-      "version": "1.16.0",
+      "version": "1.17.0",
       "description": "An AI novel-writing desktop application that integrates project settings, character relationships, plot outlines, chapter writing, and multi-model AI collaboration.",
       "tags": [
         "ai",
@@ -251785,6 +252262,20 @@
       }
     },
     {
+      "id": "Vergil.PrintBridge",
+      "name": "PrintBridge",
+      "publisher": "Vergil",
+      "version": "0.2.3",
+      "description": "A local print bridge for web applications.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "PR",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Verizon.OneTalk",
       "name": "One Talk",
       "publisher": "Verizon",
@@ -253143,7 +253634,7 @@
       "id": "VisiGrid.VisiGrid",
       "name": "VisiGrid",
       "publisher": "VisiGrid",
-      "version": "0.24.0",
+      "version": "0.25.0",
       "description": "A fast, local-first spreadsheet for serious data work.",
       "tags": [
         "csv",
@@ -254921,7 +255412,7 @@
       "id": "Voltius.Voltius",
       "name": "Voltius",
       "publisher": "Voltius",
-      "version": "0.21.1",
+      "version": "0.22.0",
       "description": "Cross-platform SSH client and terminal",
       "tags": [
         "crdt",
@@ -257729,7 +258220,7 @@
       "id": "vriesdemichael.bb",
       "name": "bb",
       "publisher": "vriesdemichael",
-      "version": "1.38.2",
+      "version": "2.0.1",
       "description": "Bitbucket server (not cloud) command line tool. The 'gh' of bitbucket server.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -266153,7 +266644,7 @@
       "id": "wuxiran.CC-Panes",
       "name": "cc-panes",
       "publisher": "ccpanes",
-      "version": "0.12.3",
+      "version": "0.12.4",
       "description": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2",
       "tags": [
         "claude-code"
@@ -268064,7 +268555,7 @@
       "id": "XMediaRecode.XMediaRecode",
       "name": "XMedia Recode",
       "publisher": "XMedia Recode",
-      "version": "3.6.3.4",
+      "version": "3.6.3.5",
       "description": "Free All-in-One video and audio converter",
       "tags": [
         "audio",
@@ -269587,7 +270078,7 @@
       "id": "Yaps.Yaps",
       "name": "Yaps",
       "publisher": "yaps",
-      "version": "2.3.295",
+      "version": "2.3.1150",
       "description": "Private, offline voice-to-text, text-to-speech, and notes for Windows.",
       "tags": [
         "dictation",
@@ -270108,7 +270599,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.0.954",
+      "version": "0.0.956",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -270638,7 +271129,7 @@
       "id": "YouXiao.YXCalendar",
       "name": "优效日历",
       "publisher": "东莞市优效网络科技有限公司",
-      "version": "2.6.8.7",
+      "version": "2.6.8.10",
       "description": "Help you manage your time easily",
       "tags": [
         "alarm",
@@ -273021,7 +273512,7 @@
       "id": "zhukunpenglinyutong.CCGUI",
       "name": "CCGUI",
       "publisher": "zhukunpenglinyutong",
-      "version": "0.8.6",
+      "version": "0.8.7",
       "description": "CC GUI Client (Vibe Coding Platform Designed for Developers)",
       "tags": [
         "ai",
