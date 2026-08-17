@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T12:56:30.000Z",
+  "generatedAt": "2026-08-17T18:39:50.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "0ebf90394e12f9c2e73e2095d9a2ecfba7956695"
+    "commit": "28ee1129c993cbe810168579c01679af812779cc"
   },
   "data": [
     {
@@ -12399,7 +12399,7 @@
       "id": "aluxnimm.OutlookCalDavSynchronizer",
       "name": "CalDavSynchronizer",
       "publisher": "Gerhard Zehetbauer",
-      "version": "4.7.0",
+      "version": "4.7.1",
       "description": "Sync Outlook Everywhere",
       "tags": [
         "addon",
@@ -15842,7 +15842,7 @@
       "id": "AnyDesk.AnyDesk",
       "name": "AnyDesk",
       "publisher": "AnyDesk Software GmbH",
-      "version": "9.7.14",
+      "version": "9.7.15",
       "description": "AnyDesk is a German proprietary remote desktop tool distributed by AnyDesk Software GmbH.",
       "tags": [
         "rdp",
@@ -31849,7 +31849,7 @@
       "id": "BirdNETTeam.BirdNETLive",
       "name": "BirdNET Live",
       "publisher": "BirdNET Team",
-      "version": "1.0.2",
+      "version": "1.1.2",
       "description": "BirdNET Live Setup",
       "tags": [
         "app",
@@ -47128,7 +47128,7 @@
       "id": "Cockos.REAPER",
       "name": "REAPER",
       "publisher": "Cockos Incorporated",
-      "version": "7.78",
+      "version": "7.79",
       "description": "REAPER is a digital audio production application, offering full multitrack audio and MIDI recording, processing, editing, mixing and mastering toolset.",
       "tags": [
         "audio",
@@ -56794,7 +56794,7 @@
       "id": "DavidEngelhart.Termpolis",
       "name": "Termpolis",
       "publisher": "Termpolis",
-      "version": "1.35.1",
+      "version": "1.36.0",
       "description": "The open-source multi-agent terminal where Claude, Codex, Gemini, and Qwen work together as a team — without your source code leaving the machine.",
       "tags": [
         "ai",
@@ -57919,10 +57919,23 @@
       "id": "DeepIgnite.Acai",
       "name": "Acai",
       "publisher": "DeepIgnite",
-      "version": "0.1.0",
+      "version": "0.2.0-beta.1",
       "description": "Acai Setup",
-      "tags": [],
-      "category": "Others",
+      "tags": [
+        "cross-platform",
+        "developer-tools",
+        "hybrid",
+        "linux",
+        "macos",
+        "open-source",
+        "opensource",
+        "programming",
+        "programming-language",
+        "software-development",
+        "syntax",
+        "windows"
+      ],
+      "category": "Development",
       "icon": {
         "monogram": "AC",
         "background": "#C2410C",
@@ -60907,7 +60920,7 @@
       "id": "DifferentAI.OpenWork",
       "name": "OpenWork",
       "publisher": "differentai",
-      "version": "0.18.25",
+      "version": "0.18.26",
       "description": "An open-source alternative to Claude Cowork, powered by OpenCode",
       "tags": [
         "agent",
@@ -63924,7 +63937,7 @@
       "id": "Docker.Buildx",
       "name": "Docker Buildx",
       "publisher": "Docker Inc.",
-      "version": "0.32.1",
+      "version": "0.36.1",
       "description": "Docker CLI plugin for extended build capabilities with BuildKit",
       "tags": [],
       "category": "Others",
@@ -64010,7 +64023,7 @@
       "id": "Docker.DockerDesktop",
       "name": "Docker Desktop",
       "publisher": "Docker Inc.",
-      "version": "4.86.0",
+      "version": "4.87.0",
       "description": "An application for the building and sharing of containerized applications.",
       "tags": [
         "container",
@@ -64408,7 +64421,7 @@
       "id": "dongdongbh.Mindwtr",
       "name": "Mindwtr",
       "publisher": "dongdongbh",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "A complete Getting Things Done (GTD) productivity system.",
       "tags": [
         "cross-platform",
@@ -75945,7 +75958,7 @@
       "id": "Everless321.dYm",
       "name": "dYm",
       "publisher": "Everless321",
-      "version": "2.5.2",
+      "version": "2.6.0",
       "description": "Douyin Video Download and Intelligent Analysis Management Tool",
       "tags": [
         "douyin",
@@ -91424,7 +91437,7 @@
       "id": "GodotLauncher.Launcher",
       "name": "Godot Launcher",
       "publisher": "Mario Debono - godotlauncher.org",
-      "version": "1.10.1",
+      "version": "1.11.0",
       "description": "Godot Launcher is a companion app for managing Godot projects with per-project editor settings.",
       "tags": [
         "game-development",
@@ -94060,7 +94073,7 @@
       "id": "Grammarly.Grammarly",
       "name": "Grammarly for Windows",
       "publisher": "Grammarly",
-      "version": "1.2.286.1939",
+      "version": "1.2.287.1943",
       "description": "Compose bold, clear, mistake-free writing with Grammarly’s new AI-powered desktop Windows app.",
       "tags": [
         "english",
@@ -96271,7 +96284,7 @@
       "id": "HaiYing.OfficeCLI",
       "name": "OfficeCLI",
       "publisher": "Hying Technology Co., Ltd.",
-      "version": "1.0.144",
+      "version": "1.0.98",
       "description": "The first and best command-line tool purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "tags": [
         "docx",
@@ -106800,7 +106813,7 @@
       "id": "infisical.infisical",
       "name": "infisical",
       "publisher": "infisical",
-      "version": "0.43.120",
+      "version": "0.43.122",
       "description": "The official Infisical CLI",
       "tags": [],
       "category": "Others",
@@ -115606,7 +115619,7 @@
       "id": "jetyu.Snaptium",
       "name": "Snaptium",
       "publisher": "Snaptium Team",
-      "version": "2.2.4",
+      "version": "2.2.5",
       "description": "A modern cross-platform note-taking desktop application built with Electron, featuring local data storage for complete security and control.",
       "tags": [
         "article",
@@ -120349,7 +120362,7 @@
       "id": "kawayiYokami.P-ai",
       "name": "P-ai",
       "publisher": "yokami",
-      "version": "0.65.0",
+      "version": "0.66.0",
       "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation.",
       "tags": [
         "agent",
@@ -128037,7 +128050,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.65.11",
+      "version": "1.65.12",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -131008,7 +131021,7 @@
       "id": "Lingbao.EasyClaw",
       "name": "EasyClaw",
       "publisher": "EasyClaw Team",
-      "version": "1.3.94",
+      "version": "1.3.96",
       "description": "The AI Assistant That Just Works. Based on the OpenClaw framework. One-click install. Zero configuration. No API key required.",
       "tags": [
         "agent",
@@ -138935,7 +138948,7 @@
       "id": "martsg666.qbPortWeaver",
       "name": "qbPortWeaver",
       "publisher": "martsg666",
-      "version": "2.6.4",
+      "version": "2.6.5",
       "description": "Syncs the listening port of qBittorrent, Transmission, Deluge, or Nicotine+ with the VPN-assigned port, and imports media files into Plex-compatible library folders",
       "tags": [
         "auto-recovery",
@@ -149153,7 +149166,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.457.206.0",
+      "version": "1.457.209.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -150154,7 +150167,7 @@
       "id": "Microsoft.Sysinternals.ProcessMonitor",
       "name": "Process Monitor",
       "publisher": "Sysinternals",
-      "version": "4.04",
+      "version": "4.05",
       "description": "Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.",
       "tags": [
         "file-system",
@@ -152967,7 +152980,7 @@
       "id": "Mikrotik.Netinstall",
       "name": "MikroTik Netinstall",
       "publisher": "MikroTik",
-      "version": "7.23.3",
+      "version": "7.24",
       "description": "Netinstall is a tool for installing and reinstalling MikroTik devices running RouterOS.",
       "tags": [
         "MikroTik",
@@ -155597,7 +155610,7 @@
       "id": "MoisesValero.Sideglass",
       "name": "Sideglass",
       "publisher": "Moises Valero",
-      "version": "0.2.34",
+      "version": "0.2.35",
       "description": "A customizable dashboard for a secondary Windows monitor.",
       "tags": [
         "dashboard",
@@ -156190,7 +156203,7 @@
       "id": "MonkfishXMLSoftware.XMLBlueprint.22",
       "name": "XMLBlueprint 22",
       "publisher": "Monkfish XML Software",
-      "version": "22.2026.07.30",
+      "version": "22.2026.08.17",
       "description": "A full-featured XML Editor (or XML IDE)",
       "tags": [
         "editor",
@@ -168359,7 +168372,7 @@
       "id": "Multica.MulticaCLI",
       "name": "Multica CLI",
       "publisher": "Multica",
-      "version": "0.4.27",
+      "version": "0.4.28",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "tags": [
         "agent",
@@ -173239,7 +173252,7 @@
       "id": "Nextcloud.Talk",
       "name": "Nextcloud Talk",
       "publisher": "Nextcloud GmbH",
-      "version": "2.2.3",
+      "version": "2.2.4",
       "description": "Official Desktop client for Nextcloud Talk",
       "tags": [
         "desktop",
@@ -175428,7 +175441,7 @@
       "id": "NirSoft.SearchMyFiles",
       "name": "SearchMyFiles",
       "publisher": "NirSoft",
-      "version": "3.35",
+      "version": "3.36",
       "description": "Alternative to Search For Files And Folders module of Windows + Duplicates Search.",
       "tags": [],
       "category": "Others",
@@ -179344,7 +179357,7 @@
       "id": "OCBase.OCCT.Personal",
       "name": "OCCT",
       "publisher": "OCCT",
-      "version": "17.0.15.0",
+      "version": "17.0.16.0",
       "description": "OCCT is the most popular all-in-one stability check & stress test tool available.",
       "tags": [],
       "category": "Others",
@@ -192684,7 +192697,7 @@
       "id": "PixPin.PixPin.Beta",
       "name": "PixPin (Beta)",
       "publisher": "Shenzhen Shendu Tujing Technology Co., Ltd.",
-      "version": "3.5.0.8",
+      "version": "3.5.1.0",
       "description": "A powerful and easy-to-use screenshot/sticker tool that helps you improve efficiency",
       "tags": [
         "annotate",
@@ -197642,7 +197655,7 @@
       "id": "PSerban93.Achievements",
       "name": "Achievements",
       "publisher": "JokerVerse",
-      "version": "1.2.3",
+      "version": "1.2.8",
       "description": "A desktop application built with Electron that monitors running games and displays achievements animated notifications",
       "tags": [
         "achievements",
@@ -197842,7 +197855,7 @@
       "id": "Psynect.OmniMend",
       "name": "OmniMend",
       "publisher": "Psynect Corp",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "description": "AI-powered Windows diagnostics, controlled repair tools, and Security Vitals behavior monitoring.",
       "tags": [
         "ai",
@@ -202703,7 +202716,7 @@
       "id": "RbDevOps.HMPraxis",
       "name": "HM Praxis",
       "publisher": "RbDevOps",
-      "version": "1.0.18",
+      "version": "1.0.19",
       "description": "Local-first Healthcare Management Praxis for solo and small clinics.",
       "tags": [
         "appointments",
@@ -204735,7 +204748,7 @@
       "id": "Remio.RemioHost",
       "name": "Remio Host",
       "publisher": "Remio",
-      "version": "2.5.0",
+      "version": "2.6.2",
       "description": "Stream your Windows PC to any device with native, GPU-accelerated remote desktop.",
       "tags": [
         "host",
@@ -205438,7 +205451,7 @@
       "id": "REVENGE.StremioEnhanced",
       "name": "Stremio Enhanced",
       "publisher": "REVENGE977",
-      "version": "1.1.4",
+      "version": "1.2.0",
       "description": "Electron-based Stremio client with support for plugins and themes. This is a community project and is not affiliated with Stremio in any way.",
       "tags": [
         "customization",
@@ -210573,7 +210586,7 @@
       "id": "Ruffle.Ruffle",
       "name": "Ruffle",
       "publisher": "Ruffle",
-      "version": "0.3.0.999999",
+      "version": "0.5.0",
       "description": "A Flash Player emulator written in Rust",
       "tags": [
         "emulator",
@@ -211051,7 +211064,7 @@
       "id": "rustty.Rustty",
       "name": "Rustty",
       "publisher": "rustty",
-      "version": "2.2.0",
+      "version": "2.3.0",
       "description": "Cliente de terminal y gestor de conexiones SSH/SFTP/RDP multiplataforma, escrito en Rust",
       "tags": [
         "console",
@@ -227112,7 +227125,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1786954186-g9739da",
+      "version": "0.0.1786968161-gdd03ae",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -230154,7 +230167,7 @@
       "id": "stefanprodan.timoni",
       "name": "timoni",
       "publisher": "stefanprodan",
-      "version": "0.25.1",
+      "version": "0.32.0",
       "description": "Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm.",
       "tags": [
         "cuelang",
@@ -233249,7 +233262,7 @@
       "id": "Surfshark.Surfshark",
       "name": "Surfshark",
       "publisher": "Surfshark",
-      "version": "6.15.0.999",
+      "version": "6.16.0.999",
       "description": "Surf the web without tracking with a VPN, shield your devices with Antivirus, & guard your identity with an all-in-one app.",
       "tags": [
         "network",
@@ -236116,7 +236129,7 @@
       "id": "TandemHealth.Tandem",
       "name": "Tandem",
       "publisher": "Tandem",
-      "version": "2026.8.13",
+      "version": "2026.8.17",
       "description": "Enables Tandem to work fully for video/phone calls (by capturing patient audio) and enables transfer to local medical record systems.",
       "tags": [],
       "category": "Others",
@@ -239259,7 +239272,7 @@
       "id": "Tencent.WeixinDevTools",
       "name": "微信开发者工具",
       "publisher": "腾讯科技(广州)有限公司",
-      "version": "2.02.2607271",
+      "version": "2.02.2608031",
       "description": "Help developers develop and debug Weixin Mini Programs and Official Account web more simply and efficiently",
       "tags": [
         "code",
@@ -240828,6 +240841,20 @@
       "icon": {
         "monogram": "JP",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "the-code-fixer-23.mace",
+      "name": "mace",
+      "publisher": "the-code-fixer-23",
+      "version": "1.0.0",
+      "description": "Deterministic typed configuration language and Go toolkit.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "MA",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -244657,7 +244684,7 @@
       "id": "TIMi.TIMi",
       "name": "TIMi",
       "publisher": "TIMi SPRL",
-      "version": "2026.07.27",
+      "version": "2026.08.13",
       "description": "Boost analytical culture inside your company",
       "tags": [
         "analytics",
@@ -245959,7 +245986,7 @@
       "id": "Tomclanc.GestureSignV2",
       "name": "GestureSign V2",
       "publisher": "Tomclanc",
-      "version": "18.0.0",
+      "version": "18.0.2",
       "description": "A Windows 11 focused rebuild of GestureSign for touchpad and mouse gestures.",
       "tags": [
         "gesture",
@@ -259586,7 +259613,7 @@
       "id": "vriesdemichael.bb",
       "name": "bb",
       "publisher": "vriesdemichael",
-      "version": "2.0.7",
+      "version": "2.1.0",
       "description": "Bitbucket server (not cloud) command line tool. The 'gh' of bitbucket server.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -260541,7 +260568,7 @@
       "id": "walterfr.USKMaker",
       "name": "USKMaker",
       "publisher": "walterfr",
-      "version": "0.18.4",
+      "version": "0.20.0",
       "description": "AI-powered UltraStar karaoke package generator (lyric sync, pitch, and BPM detection)",
       "tags": [
         "ai",
@@ -266896,7 +266923,7 @@
       "id": "Wondershare.PDFelement.12",
       "name": "Wondershare PDFelement",
       "publisher": "Wondershare",
-      "version": "12.2.0",
+      "version": "12.2.1",
       "description": "Take control of your documents with this powerful PDF editor.",
       "tags": [
         "annotate",
@@ -268712,7 +268739,7 @@
       "id": "XeniaManager.XeniaManager",
       "name": "Xenia Manager",
       "publisher": "Xenia Manager",
-      "version": "3.4.2",
+      "version": "4.3.1",
       "description": "Xenia Manager is a tool that tries to make using Xenia Emulator easier.",
       "tags": [
         "csharp",
@@ -271305,7 +271332,7 @@
       "id": "Yandex.Browser",
       "name": "Yandex Browser",
       "publisher": "Yandex",
-      "version": "26.6.4.760",
+      "version": "26.8.0.1788",
       "description": "Yandex Browser delivers fast and secure browsing with built-in Alice and the ability to sync passwords, bookmarks, and bank cards across devices.",
       "tags": [
         "browser",
@@ -271325,7 +271352,7 @@
       "id": "Yandex.Disk",
       "name": "Yandex.Disk",
       "publisher": "Yandex",
-      "version": "3.2.50.5190",
+      "version": "3.2.50.5196",
       "description": "A computer program that syncs your files with Yandex cloud storage so you can access them anywhere from different devices.",
       "tags": [
         "backup",
