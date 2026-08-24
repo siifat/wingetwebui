@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T18:46:05.000Z",
+  "generatedAt": "2026-08-24T01:48:25.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "50d01b0f1759467a6a063b5db72ed3d8067ccaae"
+    "commit": "65a64453dfbeb6b0b96d5b4de072a5379bbfb73c"
   },
   "data": [
     {
@@ -20502,7 +20502,7 @@
       "id": "ast-grep.ast-grep",
       "name": "ast-grep",
       "publisher": "ast-grep",
-      "version": "0.45.1",
+      "version": "0.45.2",
       "description": "A fast and polyglot tool for code searching, linting, rewriting at large scale.",
       "tags": [
         "ast",
@@ -30481,7 +30481,7 @@
       "id": "biglexj.ElyTesia",
       "name": "Ely-Tesia",
       "publisher": "biglexj",
-      "version": "1.0.1",
+      "version": "1.0.8",
       "description": "Visualizador y herramienta de práctica MIDI para Windows y Android.",
       "tags": [
         "midi",
@@ -43898,7 +43898,7 @@
       "id": "ChilliBits.Spice",
       "name": "Spice",
       "publisher": "ChilliBits",
-      "version": "0.27.1",
+      "version": "0.27.2",
       "description": "Spice is a statically-typed, easy to use and compiled programming language. It supports cross-compilation and is especially useful for programming close to the system.",
       "tags": [
         "antlr",
@@ -44269,7 +44269,7 @@
       "id": "ChrisLauinger77.ToeRings",
       "name": "ToeRings",
       "publisher": "ChrisLauinger77",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "description": "A themeable desktop system monitor inspired by Conky SeaMod.",
       "tags": [
         "monitoring",
@@ -75112,7 +75112,7 @@
       "id": "erez-c137.NetSpeedTray",
       "name": "NetSpeedTray",
       "publisher": "Erez C137",
-      "version": "2.1.3",
+      "version": "2.1.4",
       "description": "lightweight, open-source network monitor for Windows that displays live upload/download speeds directly on the Taskbar with a native look and feel.",
       "tags": [
         "bandwidth-monitor",
@@ -88817,7 +88817,7 @@
       "id": "gg.ai.ggcode-cli",
       "name": "ggcode",
       "publisher": "GG AI Studio",
-      "version": "1.3.216",
+      "version": "1.3.217",
       "description": "AI coding agent for the terminal.",
       "tags": [
         "ai",
@@ -88838,7 +88838,7 @@
       "id": "gg.ai.ggcode-desktop",
       "name": "GGCode Desktop",
       "publisher": "GG AI Studio",
-      "version": "1.3.216",
+      "version": "1.3.217",
       "description": "AI coding agent with a native desktop interface.",
       "tags": [
         "ai",
@@ -100997,7 +100997,7 @@
       "id": "HiggX.QFCLI",
       "name": "HiggX - Quotation Factory CLI",
       "publisher": "Quotation Factory",
-      "version": "0.0.9-beta",
+      "version": "0.1.1-beta",
       "description": "CLI for the Quotation Factory manufacturing API.",
       "tags": [
         "api",
@@ -102322,7 +102322,7 @@
       "id": "Hoornet.Vega",
       "name": "Vega",
       "publisher": "Hoornet",
-      "version": "0.15.5",
+      "version": "0.15.6",
       "description": "A cross-platform desktop client for Nostr",
       "tags": [
         "bitcoin",
@@ -113217,6 +113217,25 @@
       }
     },
     {
+      "id": "JamesJoseph.ErgoView",
+      "name": "Ergo View",
+      "publisher": "James Joseph",
+      "version": "0.4.1",
+      "description": "Terminal companion for Ergo task graphs",
+      "tags": [
+        "cli",
+        "developer-tools",
+        "task-management",
+        "tui"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "EV",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "JamesLarus.SPIM",
       "name": "SPIM",
       "publisher": "James Larus",
@@ -115372,14 +115391,16 @@
       "name": "mGBA",
       "publisher": "Jeffrey Pfau",
       "version": "0.10.5",
-      "description": "mGBA is an open-source Game Boy Advance emulator",
+      "description": "An open-source Game Boy Advance emulator.",
       "tags": [
         "emulator",
-        "game",
+        "game-boy-advance",
+        "game-boy-player",
         "gameboy",
         "gameboyadvance",
         "gameboycolor",
         "gameboyplayer",
+        "games",
         "gba",
         "gbc",
         "sgb",
@@ -118375,16 +118396,18 @@
       "id": "Joedsonalves.Vacuon",
       "name": "Vacuon",
       "publisher": "Joedson Alves",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "description": "Disk space analyzer that reads the NTFS MFT directly and shows what it is about to delete.",
       "tags": [
         "disk",
         "disk-analyzer",
+        "disk-cleanup",
         "disk-space",
         "disk-usage",
         "duplicate-finder",
         "mft",
         "ntfs",
+        "similar-images",
         "storage",
         "treemap"
       ],
@@ -127407,7 +127430,7 @@
       "id": "krzys-h.UndertaleModTool",
       "name": "UndertaleModTool",
       "publisher": "krzys-h",
-      "version": "0.9.1.2",
+      "version": "0.9.2.0",
       "description": "The most complete tool for modding, decompiling and unpacking Undertale (and other Game Maker: Studio games!)",
       "tags": [
         "decompiler",
@@ -129728,7 +129751,7 @@
       "id": "LaurentPRenedeCotret.pandoc-plot",
       "name": "pandoc-plot",
       "publisher": "Laurent P. René de Cotret",
-      "version": "1.9.1",
+      "version": "1.9.2",
       "description": "A pandoc filter to generate figures from source code.",
       "tags": [
         "documentation",
@@ -131829,7 +131852,7 @@
       "id": "LibreDB.Studio",
       "name": "LibreDB Studio",
       "publisher": "LibreDB",
-      "version": "0.13.1",
+      "version": "0.13.3",
       "description": "Web-based SQL IDE for PostgreSQL, MySQL, SQLite, Oracle, SQL Server, MongoDB, and Redis with AI query assistance.",
       "tags": [
         "database",
@@ -132755,7 +132778,7 @@
       "id": "Lingbao.EasyClaw.CN",
       "name": "CN",
       "publisher": "Lingbao",
-      "version": "1.3.98",
+      "version": "1.3.93",
       "description": "The AI Assistant That Just Works. Based on the OpenClaw framework. One-click install. Zero configuration. No API key required.",
       "tags": [
         "agent",
@@ -137491,7 +137514,7 @@
       "id": "lycohana.BiliSum",
       "name": "BiliSum",
       "publisher": "lycohana",
-      "version": "1.20.0",
+      "version": "1.21.0",
       "description": "Provide AI video summaries and knowledge base for Bilibili, YouTube, and local videos",
       "tags": [
         "bilibili",
@@ -140786,7 +140809,7 @@
       "id": "martsg666.qbPortWeaver",
       "name": "qbPortWeaver",
       "publisher": "martsg666",
-      "version": "2.6.5",
+      "version": "2.6.6",
       "description": "Syncs the listening port of qBittorrent, Transmission, Deluge, or Nicotine+ with the VPN-assigned port, and imports media files into Plex-compatible library folders",
       "tags": [
         "auto-recovery",
@@ -151100,7 +151123,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.457.308.0",
+      "version": "1.457.312.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -157760,7 +157783,7 @@
       "id": "Moku.Moku",
       "name": "Moku",
       "publisher": "Youwes09",
-      "version": "0.10.3",
+      "version": "0.10.4",
       "description": "Moku is a fast, minimal manga reader frontend for Suwayomi-Server.",
       "tags": [
         "manga",
@@ -170860,7 +170883,7 @@
       "id": "myagmb28Dev.WindexBar",
       "name": "WindexBar",
       "publisher": "WindexBar",
-      "version": "2.2.3",
+      "version": "2.2.4",
       "description": "A small Windows tray app for quickly checking Codex usage and status.",
       "tags": [
         "codex",
@@ -171570,10 +171593,12 @@
       "version": "2.11.26",
       "description": "Arcade racing game with built-in track editor",
       "tags": [
-        "game",
+        "driving",
         "racing",
-        "tmnf",
-        "trackmania"
+        "tm-nations-forever",
+        "trackmania-nations-forever",
+        "trackmanianationsforever",
+        "videogame"
       ],
       "category": "Gaming",
       "icon": {
@@ -173782,7 +173807,7 @@
       "id": "Neovim.Neovim",
       "name": "Neovim",
       "publisher": "neovim.io",
-      "version": "0.12.4",
+      "version": "0.12.5",
       "description": "Vim-fork focused on extensibility and usability",
       "tags": [
         "editor",
@@ -176734,7 +176759,7 @@
       "id": "NimaShafie.OxideSLOC",
       "name": "oxide-sloc",
       "publisher": "Nima Shafie",
-      "version": "1.6.16",
+      "version": "1.6.17",
       "description": "Rust-based SLOC analysis and unit test metrics workbench",
       "tags": [
         "cli",
@@ -176825,7 +176850,7 @@
       "id": "NimbusAgent.Nimbus",
       "name": "Nimbus",
       "publisher": "NimbusAgent",
-      "version": "2.14.0",
+      "version": "2.15.0",
       "description": "Local-first AI agent framework (headless gateway + CLI)",
       "tags": [
         "agent",
@@ -182172,7 +182197,7 @@
       "id": "oipoistar.Tinta",
       "name": "Tinta",
       "publisher": "oipoistar",
-      "version": "3.1.0",
+      "version": "3.2.0",
       "description": "Fast, lightweight markdown and Mermaid viewer for Windows",
       "tags": [
         "direct2d",
@@ -197515,7 +197540,7 @@
       "id": "PowerPlatformToolBox.PowerPlatformToolBox",
       "name": "Power Platform ToolBox",
       "publisher": "Power Platform ToolBox",
-      "version": "1.2.4",
+      "version": "1.2.5",
       "description": "A universal desktop app that contains multiple tools to ease the customization and configuration of Power Platform",
       "tags": [],
       "category": "Others",
@@ -201909,7 +201934,7 @@
       "id": "qingchencloud.ClawPanel",
       "name": "ClawPanel",
       "publisher": "qingchencloud",
-      "version": "0.20.0",
+      "version": "0.20.1",
       "description": "🦞 Visual management panel with built-in AI assistant (tool calling + vision + multimodal + i18n(11))",
       "tags": [
         "agent",
@@ -204683,7 +204708,7 @@
       "id": "raphamorim.rio",
       "name": "Rio",
       "publisher": "Raphael Amorim",
-      "version": "0.5.25",
+      "version": "0.5.26",
       "description": "Rio terminal is a hardware-accelerated GPU terminal emulator, focusing to run in desktops and browsers.",
       "tags": [
         "cross-platform",
@@ -205946,7 +205971,7 @@
       "id": "RedEyeNetworks.Logivore",
       "name": "Logivore",
       "publisher": "RedEye Network Solutions LLC",
-      "version": "1.43.0",
+      "version": "1.44.0",
       "description": "Cross-platform desktop log analyzer with LILA, an AI assistant for log triage",
       "tags": [
         "ai",
@@ -205975,7 +206000,7 @@
       "id": "RedEyeNetworks.LogivoreForVeeam",
       "name": "Logivore for Veeam",
       "publisher": "RedEye Network Solutions LLC",
-      "version": "1.43.0",
+      "version": "1.44.0",
       "description": "Logivore plus Advanced Veeam Mode — collects, normalizes, and analyzes Veeam Backup and Replication logs end-to-end",
       "tags": [
         "ai",
@@ -213626,7 +213651,7 @@
       "id": "rustty.Rustty",
       "name": "Rustty",
       "publisher": "rustty",
-      "version": "2.4.0",
+      "version": "2.5.0",
       "description": "Cliente de terminal y gestor de conexiones SSH/SFTP/RDP multiplataforma, escrito en Rust",
       "tags": [
         "console",
@@ -213900,7 +213925,7 @@
       "id": "Ryko.GodotHub",
       "name": "GodotHub",
       "publisher": "Ryko",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "description": "What if Unity Hub and GitHub Desktop had a Baby but its Adopted? Yeah..",
       "tags": [
         "godot",
@@ -229849,7 +229874,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1787500903-g384b39",
+      "version": "0.0.1787529709-gc0f154",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -230458,7 +230483,7 @@
       "id": "SpecLabs.Devspec",
       "name": "devspec",
       "publisher": "SpecLabs",
-      "version": "0.1.3",
+      "version": "0.2.0",
       "description": "Installer and synchronizer CLI for the devspec workflow framework.",
       "tags": [
         "ai",
@@ -251529,7 +251554,7 @@
       "id": "tsouth89.Ceiling",
       "name": "Ceiling",
       "publisher": "Brandon South",
-      "version": "1.5.35",
+      "version": "1.5.36",
       "description": "Desktop capacity and quota monitor for coding assistants.",
       "tags": [
         "claude",
@@ -257564,7 +257589,7 @@
       "id": "vim.vim.nightly",
       "name": "Vim",
       "publisher": "Bram Moolenaar et al.",
-      "version": "9.2.0992",
+      "version": "9.2.1001",
       "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient",
       "tags": [
         "code-editor",
@@ -272774,7 +272799,7 @@
       "id": "XinTaoFei.Codeg",
       "name": "codeg",
       "publisher": "codeg",
-      "version": "0.27.0",
+      "version": "0.28.0",
       "description": "Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.",
       "tags": [
         "agent",
@@ -275194,7 +275219,7 @@
       "id": "yetone.NextAITranslator",
       "name": "NextAI Translator",
       "publisher": "yetone",
-      "version": "0.6.42",
+      "version": "0.6.43",
       "description": "Cross-platform desktop application for translation based on ChatGPT API.",
       "tags": [
         "chatgpt",
