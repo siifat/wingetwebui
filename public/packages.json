@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T16:06:20.000Z",
+  "generatedAt": "2026-08-30T20:57:22.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "89de80d5a4e0e562e6333f95d151a2eeffbe5d94"
+    "commit": "4244c5b41a6dffc6feacde0c7d8aaf3ea646e6ff"
   },
   "data": [
     {
@@ -19001,7 +19001,7 @@
       "id": "armbian.imager",
       "name": "Armbian Imager",
       "publisher": "Armbian",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "description": "Armbian’s cross-platform utility for flashing OS images to storage media.",
       "tags": [
         "arm64",
@@ -47472,6 +47472,24 @@
       }
     },
     {
+      "id": "ClypLabs.ClypDat",
+      "name": "ClypDat",
+      "publisher": "ClypLabs",
+      "version": "1.4.0",
+      "description": "Game clipping and recording for Windows.",
+      "tags": [
+        "clipping",
+        "gameplay",
+        "recording"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "CL",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "cmakefmt.cmakefmt",
       "name": "cmakefmt",
       "publisher": "Puneet Matharu",
@@ -55723,7 +55741,7 @@
       "id": "dagaza.Qube",
       "name": "Qube",
       "publisher": "dagaza",
-      "version": "1.3.42",
+      "version": "1.3.43",
       "description": "Local hardware-accelerated AI desktop assistant (CPU inference build)",
       "tags": [
         "ai",
@@ -57688,7 +57706,7 @@
       "id": "DavidEngelhart.Termpolis",
       "name": "Termpolis",
       "publisher": "Termpolis",
-      "version": "1.38.0",
+      "version": "1.38.1",
       "description": "The open-source multi-agent terminal where Claude, Codex, Gemini, and Qwen work together as a team — without your source code leaving the machine.",
       "tags": [
         "ai",
@@ -71663,7 +71681,7 @@
       "id": "EKKOLearnAI.HermesStudio",
       "name": "HermesStudio",
       "publisher": "EKKOLearnAI",
-      "version": "0.7.1",
+      "version": "0.7.12",
       "description": "A full-featured desktop app for Hermes Agent.",
       "tags": [
         "agent",
@@ -75890,7 +75908,7 @@
       "id": "ESEngine.ReasonixDesktop",
       "name": "Reasonix",
       "publisher": "reasonix",
-      "version": "1.33.0",
+      "version": "1.34.0",
       "description": "A DeepSeek-native coding agent, for your terminal.",
       "tags": [
         "agent",
@@ -76402,7 +76420,7 @@
       "id": "EtherAura.Kartend",
       "name": "Kartend",
       "publisher": "EtherAura",
-      "version": "0.0.18",
+      "version": "0.0.19",
       "description": "Organize and launch multimedia collections",
       "tags": [
         "collection",
@@ -90353,7 +90371,7 @@
       "id": "GitHub.Copilot",
       "name": "Copilot CLI",
       "publisher": "GitHub, Inc.",
-      "version": "v1.0.81",
+      "version": "v1.0.82",
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "tags": [
         "cli",
@@ -98603,7 +98621,7 @@
       "id": "HarumiWeb.Xlflow",
       "name": "xlflow",
       "publisher": "HarumiWeb",
-      "version": "0.31.0",
+      "version": "0.31.1",
       "description": "Excel VBA development framework for CLI-first humans and AI agents.",
       "tags": [
         "automation",
@@ -99900,7 +99918,7 @@
       "id": "hellowind777.hellogrok",
       "name": "hellogrok",
       "publisher": "hellowind777",
-      "version": "0.1.19",
+      "version": "0.1.20",
       "description": "Cross-platform local proxy that makes Grok Build custom model channels work with common API formats, native Web tools, isolated authentication, and automatic configuration recovery.",
       "tags": [
         "grok",
@@ -108656,7 +108674,7 @@
       "id": "ingitdb.ingitdb",
       "name": "ingitdb",
       "publisher": "ingitdb",
-      "version": "0.65.10",
+      "version": "0.65.11",
       "description": "A CLI for a schema-validated, AI-native database backed by a Git repository.",
       "tags": [],
       "category": "Development",
@@ -110268,6 +110286,27 @@
       "category": "Others",
       "icon": {
         "monogram": "IN",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "io.github.frathe.picfetch",
+      "name": "PicFetch",
+      "publisher": "Florian Rathe",
+      "version": "0.2.11",
+      "description": "A small multi-platform desktop app for quickly viewing and browsing images.",
+      "tags": [
+        "fyne",
+        "go",
+        "image-viewer",
+        "photos",
+        "pictures",
+        "portable"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "PI",
         "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
@@ -113792,7 +113831,7 @@
       "id": "JanDeDobbeleer.OhMyPosh",
       "name": "Oh My Posh",
       "publisher": "Jan De Dobbeleer",
-      "version": "30.9.0",
+      "version": "31.1.0",
       "description": "Prompt theme engine for any shell",
       "tags": [
         "bash",
@@ -123552,7 +123591,7 @@
       "id": "KDE.Kiten",
       "name": "Kiten",
       "publisher": "KDE e.V.",
-      "version": "26.04.3",
+      "version": "26.08.0",
       "description": "Japanese Reference/Study Tool",
       "tags": [
         "dictionary",
@@ -125539,10 +125578,30 @@
       }
     },
     {
+      "id": "kibalab.VRCLI",
+      "name": "VRCLI",
+      "publisher": "KIBA_",
+      "version": "0.20.0",
+      "description": "Build, check, and upload VRChat worlds and avatars from a terminal or CI runner.",
+      "tags": [
+        "avatar",
+        "cli",
+        "unity",
+        "vrchat",
+        "world"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "VR",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "KiCad.KiCad",
       "name": "KiCad",
       "publisher": "KiCad",
-      "version": "10.0.5",
+      "version": "10.0.6",
       "description": "A Cross Platform and Open Source Electronics Design Automation Suite",
       "tags": [
         "cad",
@@ -128485,7 +128544,7 @@
       "id": "Kuddev.Nebula",
       "name": "Nebula Terminal",
       "publisher": "Kuddev",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "description": "A GPU-accelerated terminal for Windows that keeps your sessions alive.",
       "tags": [
         "claude",
@@ -129255,7 +129314,7 @@
       "id": "LabyMediaGmbH.LabyModLauncher",
       "name": "LabyMod Launcher",
       "publisher": "LabyMedia GmbH",
-      "version": "3.0.13",
+      "version": "3.0.14",
       "description": "LabyMod Launcher",
       "tags": [],
       "category": "Utilities",
@@ -130298,7 +130357,7 @@
       "id": "lbjlaq.AntigravityTools",
       "name": "AntigravityTools",
       "publisher": "lbjlaq",
-      "version": "4.6.3",
+      "version": "4.6.4",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).",
       "tags": [],
       "category": "Others",
@@ -140112,7 +140171,7 @@
       "id": "MarceloLvCabral.BrightScriptEmulator",
       "name": "BrightScript Emulator",
       "publisher": "Marcelo Lv Cabral",
-      "version": "2.5.1",
+      "version": "2.5.2",
       "description": "Desktop Emulator for Roku 2D API",
       "tags": [
         "desktop",
@@ -151635,7 +151694,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.457.407.0",
+      "version": "1.457.416.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -175856,7 +175915,7 @@
       "id": "Nexmoe.VidBee",
       "name": "VidBee",
       "publisher": "VidBee",
-      "version": "2.0.2",
+      "version": "2.1.0",
       "description": "Download videos from almost any website worldwide",
       "tags": [
         "download",
@@ -181840,7 +181899,7 @@
       "id": "o2sh.onefetch",
       "name": "onefetch",
       "publisher": "Ossama Hjaji",
-      "version": "2.27.1",
+      "version": "2.28.1",
       "description": "Command-line Git information tool",
       "tags": [
         "cli",
@@ -189047,8 +189106,8 @@
       "id": "OrgMentem.zotio",
       "name": "zotio",
       "publisher": "OrgMentem",
-      "version": "0.21.0",
-      "description": "Zotero automation CLI: library health, preview-first writes, annotation export, MCP",
+      "version": "0.22.1",
+      "description": "Zotero library checks and automation: local-first search, CI health gates, preview-first writes, workflows, and MCP",
       "tags": [],
       "category": "Others",
       "icon": {
@@ -190687,7 +190746,7 @@
       "id": "packetThrower.Zorite",
       "name": "Zorite",
       "publisher": "packetThrower",
-      "version": "0.10.1",
+      "version": "0.11.0",
       "description": "A local-first outliner and daily-journal note app (Logseq-style).",
       "tags": [
         "journal",
@@ -202214,7 +202273,7 @@
       "id": "pzielinski.purerequest",
       "name": "purerequest",
       "publisher": "Piotr Zieliński",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "purerequest - a keyboard-driven, file-based desktop HTTP client",
       "tags": [
         "api",
@@ -214143,7 +214202,7 @@
       "id": "runxhq.runx",
       "name": "runx",
       "publisher": "runxhq",
-      "version": "0.7.2",
+      "version": "0.8.0",
       "description": "Native governed runtime for agent skills, tools, graphs, and packets.",
       "tags": [],
       "category": "Others",
@@ -224931,7 +224990,7 @@
       "id": "skyhook-io.Radar",
       "name": "Radar",
       "publisher": "skyhook-io",
-      "version": "1.11.0",
+      "version": "1.12.1",
       "description": "Make sense of a live Kubernetes cluster - topology, events, Helm, GitOps, image internals, audits - over two surfaces: a UI optimized for humans, and an MCP server optimized for AI agents. Open source, on your laptop or in your cluster.",
       "tags": [
         "argocd",
@@ -229506,6 +229565,27 @@
       "icon": {
         "monogram": "RE",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Solibiz.PCStorageGuard",
+      "name": "PC Storage Guard",
+      "publisher": "Solibiz Inc",
+      "version": "1.0.0",
+      "description": "See what is taking space, review cleanup choices safely, and keep control of your Windows PC storage.",
+      "tags": [
+        "cleanup",
+        "disk-space",
+        "duplicate-files",
+        "large-files",
+        "storage",
+        "windows"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "PS",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -238617,7 +238697,7 @@
       "id": "sysmanage.sysmanage-agent",
       "name": "SysManage Agent",
       "publisher": "SysManage",
-      "version": "3.7.0.1",
+      "version": "3.7.0.2",
       "description": "Cross-platform system management agent for SysManage.",
       "tags": [],
       "category": "Others",
@@ -263804,7 +263884,7 @@
       "id": "VWSPython.vuforia-cloud-reco",
       "name": "vuforia-cloud-reco",
       "publisher": "VWS-Python",
-      "version": "2026.02.22",
+      "version": "2026.08.30.5",
       "description": "A CLI for the Vuforia Cloud Recognition Service API.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -263832,7 +263912,7 @@
       "id": "VWSPython.vws-cli",
       "name": "vws-cli",
       "publisher": "VWS-Python",
-      "version": "2026.08.30.4",
+      "version": "2026.08.30.5",
       "description": "A CLI for Vuforia Web Services.",
       "tags": [],
       "category": "Others",
@@ -271931,6 +272011,24 @@
       }
     },
     {
+      "id": "Wrenchware.ForecastCenter",
+      "name": "Forecast Center",
+      "publisher": "Wrenchware",
+      "version": "0.9.0",
+      "description": "A clean, ad-free Windows weather dashboard with animated NOAA radar.",
+      "tags": [
+        "forecast",
+        "radar",
+        "weather"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "FC",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Wrike.WrikeDesktopApp",
       "name": "Wrike Desktop App",
       "publisher": "Wrike.com",
@@ -279467,7 +279565,7 @@
       "id": "zn0wii.Satelite",
       "name": "Satelite",
       "publisher": "zn0wii",
-      "version": "1.0.11",
+      "version": "1.0.13",
       "description": "A lightweight and modern proxy client for macOS and Windows, featuring subscription management, node switching, TUN mode, smart DNS, traffic monitoring and rule-based routing.",
       "tags": [
         "clash",
