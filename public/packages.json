@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T20:55:36.000Z",
+  "generatedAt": "2026-08-30T05:12:16.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "d8c4f232aa9ba50e80468501160b27c81663c0c1"
+    "commit": "d980ceb46e32966a4fa467ba536da21f46475dac"
   },
   "data": [
     {
@@ -13766,7 +13766,7 @@
       "id": "AmintaCCCP.GithubStarsManager",
       "name": "GitHub Stars Manager",
       "publisher": "AmintaCCCP",
-      "version": "0.7.8",
+      "version": "0.7.9",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking.",
       "tags": [
         "gists",
@@ -18515,7 +18515,7 @@
       "id": "Argente.RegistryCleaner",
       "name": "Argente Registry Cleaner",
       "publisher": "Raúl Argente",
-      "version": "4.0.9.7",
+      "version": "4.0.9.8",
       "description": "Detect and remove errors in the Windows® registry to improve system performance and stability.",
       "tags": [],
       "category": "Others",
@@ -21864,7 +21864,7 @@
       "id": "AurelioAvila.PCTweaker",
       "name": "PC Tweaker",
       "publisher": "Aurelio Avila",
-      "version": "1.4.1",
+      "version": "1.5.0",
       "description": "Desktop app for Windows that applies performance, privacy, gaming and maintenance tweaks with automatic one-click rollback.",
       "tags": [
         "gaming",
@@ -22908,9 +22908,25 @@
       "id": "Avatorsinc.OneDriveAsADrive",
       "name": "OneDriveAsADrive",
       "publisher": "Avatorsinc",
-      "version": "1.3.3",
+      "version": "1.4.0",
       "description": "Mount OneDrive and SharePoint document libraries as Windows network drive letters",
-      "tags": [],
+      "tags": [
+        "dfs",
+        "dotnet",
+        "drive-letter",
+        "file-explorer",
+        "gpo",
+        "intune",
+        "mapped-drive",
+        "microsoft-365",
+        "microsoft-graph",
+        "network-drive",
+        "onedrive",
+        "sharepoint",
+        "sysadmin",
+        "webdav",
+        "windows"
+      ],
       "category": "Cloud & Storage",
       "icon": {
         "monogram": "ON",
@@ -30290,7 +30306,7 @@
       "id": "bezzad.Downloader",
       "name": "Downloader",
       "publisher": "Behzad Khosravifar",
-      "version": "2.7.0",
+      "version": "2.8.0",
       "description": "Fast cross-platform multi-connection download manager.",
       "tags": [
         "download",
@@ -52829,7 +52845,7 @@
       "id": "Crate-CI.Typos",
       "name": "Typos",
       "publisher": "Crate-CI",
-      "version": "1.49.0",
+      "version": "1.50.0",
       "description": "Source code spell checker",
       "tags": [
         "cli",
@@ -61311,7 +61327,7 @@
       "id": "devonmochi.ByeType",
       "name": "ByeType",
       "publisher": "devonmochi",
-      "version": "1.18.1",
+      "version": "1.19.0",
       "description": "A Markdown-driven AI voice input tool that uses multimodal large models to process raw audio directly.",
       "tags": [
         "dictate",
@@ -65523,7 +65539,7 @@
       "id": "DonutWare.Fladder.Nightly",
       "name": "Fladder - Nightly",
       "publisher": "DonutWare",
-      "version": "0.10.3",
+      "version": "0.11.0",
       "description": "Fladder - A Simple Jellyfin frontend built on top of Flutter.",
       "tags": [
         "flutter",
@@ -72832,7 +72848,7 @@
       "id": "EligianLabs.PIICrawlerCLI",
       "name": "PIICrawler CLI",
       "publisher": "Eligian Labs LLC",
-      "version": "26.0829.0754",
+      "version": "26.0829.1719",
       "description": "PII Crawler scans your files, network shares, and databases on your own hardware. Surface the SSNs, addresses, names, and emails hiding where SaaS tools can’t reach. Nothing ever leaves your network.",
       "tags": [
         "pii",
@@ -80347,7 +80363,7 @@
       "id": "FernandoTonon.QtMeshEditor",
       "name": "QtMeshEditor",
       "publisher": "Fernando Tonon",
-      "version": "3.34.0",
+      "version": "3.35.0",
       "description": "Free 3D asset tool for indie game developers",
       "tags": [
         "3d",
@@ -83010,7 +83026,7 @@
       "id": "FlorianHeidenreich.Mp3tag",
       "name": "Mp3tag",
       "publisher": "Florian Heidenreich",
-      "version": "3.36",
+      "version": "3.36.1",
       "description": "The universal tag editor and more...",
       "tags": [
         "audio",
@@ -90783,7 +90799,7 @@
       "id": "GiulioSorrentino.IlFortunedinumerone",
       "name": "IlFortunedinumerone",
       "publisher": "Giulio Sorrentino",
-      "version": "2.3.1.10",
+      "version": "2.3.1.12",
       "description": "Una revisitazione del fortune per avere i cookie italiani",
       "tags": [
         "fortune"
@@ -92890,7 +92906,7 @@
       "id": "GolangCI.golangci-lint",
       "name": "golangci-lint",
       "publisher": "GolangCI",
-      "version": "2.12.2",
+      "version": "2.13.2",
       "description": "Fast linters Runner for Go",
       "tags": [
         "ci",
@@ -102745,7 +102761,7 @@
       "id": "houmain.keymapper",
       "name": "keymapper",
       "publisher": "Albert Kalchmair",
-      "version": "5.7.1",
+      "version": "5.7.2",
       "description": "A cross-platform context-aware key remapper",
       "tags": [
         "context-awareness",
@@ -132217,7 +132233,7 @@
       "id": "LibreDB.Studio",
       "name": "LibreDB Studio",
       "publisher": "LibreDB",
-      "version": "0.13.4",
+      "version": "0.13.5",
       "description": "Web-based SQL IDE for PostgreSQL, MySQL, SQLite, Oracle, SQL Server, MongoDB, and Redis with AI query assistance.",
       "tags": [
         "database",
@@ -132911,7 +132927,7 @@
       "id": "Lime.Lime",
       "name": "Lime",
       "publisher": "Lime",
-      "version": "1.135.0",
+      "version": "1.136.0",
       "description": "An open-source AI content workbench built for Chinese creators.",
       "tags": [],
       "category": "Others",
@@ -135112,7 +135128,7 @@
       "id": "Logitech.Sync",
       "name": "Logitech Sync",
       "publisher": "Logitech Europe S.A.",
-      "version": "3.11.166.0",
+      "version": "3.11.203.0",
       "description": "Manage all your meeting room video conferencing products from a single interface.",
       "tags": [],
       "category": "Communications",
@@ -137347,7 +137363,7 @@
       "id": "LukiLabs.Craft",
       "name": "Craft",
       "publisher": "Luki Labs Ltd.",
-      "version": "3.5.19",
+      "version": "3.5.20",
       "description": "Create documents, which will make an impact.",
       "tags": [
         "backlink",
@@ -139015,7 +139031,7 @@
       "id": "MAILPLUGInc.MAILPLUGMessengerDesktop",
       "name": "MAILPLUG Messenger Desktop",
       "publisher": "MAILPLUG Inc.",
-      "version": "2.6.2",
+      "version": "2.6.3",
       "description": "MAILPLUG Messenger Desktop",
       "tags": [],
       "category": "Others",
@@ -140221,7 +140237,7 @@
       "id": "marcinz606.NegPy",
       "name": "NegPy",
       "publisher": "marcinz606",
-      "version": "0.54.0",
+      "version": "0.55.0",
       "description": "Tool for processing film negatives.",
       "tags": [
         "film-photography",
@@ -151619,7 +151635,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.457.398.0",
+      "version": "1.457.402.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -166470,7 +166486,7 @@
       "id": "Mozilla.Firefox.pt-PT",
       "name": "Mozilla Firefox (pt-PT)",
       "publisher": "Mozilla",
-      "version": "154.0",
+      "version": "154.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -171055,7 +171071,7 @@
       "id": "Mun1to.winshotx",
       "name": "winshotx",
       "publisher": "Munir Torres",
-      "version": "0.2.3",
+      "version": "0.2.10",
       "description": "Screenshots and GIF/MP4 screen recording for Windows, in a 2.3 MB installer.",
       "tags": [
         "gif",
@@ -173228,7 +173244,7 @@
       "id": "NATSAuthors.NATSServer",
       "name": "NATS Server",
       "publisher": "NATS Authors",
-      "version": "2.14.5",
+      "version": "2.14.6",
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "tags": [
         "cloud",
@@ -177438,7 +177454,7 @@
       "id": "NimbusAgent.Nimbus",
       "name": "Nimbus",
       "publisher": "NimbusAgent",
-      "version": "7.1.0",
+      "version": "7.1.1",
       "description": "Local-first AI agent framework (headless gateway + CLI)",
       "tags": [
         "agent",
@@ -179685,7 +179701,7 @@
       "id": "NortheBridge.LuminalShine",
       "name": "LuminalShine",
       "publisher": "NortheBridge Foundation",
-      "version": "26.08.3",
+      "version": "26.08.4",
       "description": "A Modern Self-hosted High Performance Sunshine-compatible game stream host for Moonlight designed for Windows 11 and Windows 11 Insider Preview. Maintained by the NortheBridge Foundation.",
       "tags": [
         "amdgpu",
@@ -185655,7 +185671,7 @@
       "id": "OpenGeos.GeoLibre",
       "name": "GeoLibre Desktop",
       "publisher": "OpenGeos",
-      "version": "2.7.0",
+      "version": "2.8.0",
       "description": "Lightweight, cloud-native GIS platform for visualizing and analyzing geospatial data",
       "tags": [
         "geospatial",
@@ -187896,7 +187912,7 @@
       "id": "openwong2kim.wmux",
       "name": "wmux",
       "publisher": "openwong2kim",
-      "version": "3.48.1",
+      "version": "3.49.0",
       "description": "Windows terminal multiplexer with MCP server for AI agents",
       "tags": [
         "ai-agent",
@@ -192608,7 +192624,7 @@
       "id": "payhereinc.PayhereSeller",
       "name": "Payhere Seller",
       "publisher": "payhere inc.",
-      "version": "3.5.2",
+      "version": "3.5.4",
       "description": "Payhere Seller for desktop",
       "tags": [],
       "category": "Others",
@@ -196328,7 +196344,7 @@
       "id": "PLFJY.ContextMenuMgrPlus.Beta",
       "name": "Context Menu Manager Plus",
       "publisher": "PLFJY",
-      "version": "1.7.2",
+      "version": "1.7.5-beta.20260829195439",
       "description": "Beta channel for Context Menu Manager Plus.",
       "tags": [
         "beta",
@@ -204907,7 +204923,7 @@
       "id": "rajsriv.WINbar",
       "name": "WINbar",
       "publisher": "rajsriv",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "An elegant, highly customizable, status bar for Windows inspired by Linux's Waybar.",
       "tags": [
         "appbar",
@@ -212858,7 +212874,7 @@
       "id": "roshad.RosChronoTrace",
       "name": "RosChronoTrace",
       "publisher": "roshad",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "description": "A Tauri-based desktop time tracking application that supports automatic capture of screenshots and window activities, designed for scenarios where users need to retrace work content along the timeline.",
       "tags": [
         "time",
@@ -215171,7 +215187,7 @@
       "id": "SagerNet.sing-box",
       "name": "sing-box",
       "publisher": "SagerNet",
-      "version": "1.13.19",
+      "version": "1.13.20",
       "description": "The universal proxy platform.",
       "tags": [
         "network",
@@ -218689,7 +218705,7 @@
       "id": "ScytheLabs.Reaper",
       "name": "Reaper",
       "publisher": "Scythe Labs",
-      "version": "2026.8.6",
+      "version": "2026.8.7",
       "description": "Finds unwatched media in your Plex library and safely removes it via Sonarr and Radarr.",
       "tags": [
         "cleanup",
@@ -236686,7 +236702,7 @@
       "id": "SuperRadCompany.Microsandbox",
       "name": "Microsandbox",
       "publisher": "Super Rad Company",
-      "version": "0.6.15",
+      "version": "0.6.16",
       "description": "Fast local microVM runtime for running untrusted workloads with hardware isolation.",
       "tags": [
         "ai",
@@ -249594,7 +249610,7 @@
       "id": "tolgamorf.env2op-cli",
       "name": "env2op-cli",
       "publisher": "Tolga O.",
-      "version": "0.2.10",
+      "version": "0.2.11",
       "description": "Push .env files to 1Password and pull them back",
       "tags": [
         "1password",
@@ -250005,7 +250021,7 @@
       "id": "tonhowtf.OmniGet",
       "name": "OmniGet",
       "publisher": "tonhowtf",
-      "version": "0.8.9",
+      "version": "0.9.0",
       "description": "Desktop app to download videos, courses, and media from 50+ platforms.",
       "tags": [
         "bilibili-downloader",
@@ -254266,7 +254282,7 @@
       "id": "UniClipboard.UniClipboard",
       "name": "UniClipboard",
       "publisher": "UniClipboard",
-      "version": "0.19.1",
+      "version": "0.19.2",
       "description": "Real-time clipboard sync across all your devices — local-first, peer-to-peer, and end-to-end encrypted. No account. No cloud dependency. No central server.",
       "tags": [
         "clipboard-manager",
@@ -255247,7 +255263,7 @@
       "id": "unpaved028.ClipTyper",
       "name": "ClipTyper",
       "publisher": "unpaved028",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "description": "A lightweight, portable tool to simulate raw keyboard input from the clipboard. Ideal for RDP and hypervisor consoles.",
       "tags": [
         "clipboard",
@@ -263492,7 +263508,7 @@
       "id": "vriesdemichael.bb",
       "name": "bb",
       "publisher": "vriesdemichael",
-      "version": "3.3.1",
+      "version": "3.5.0",
       "description": "Bitbucket server (not cloud) command line tool. The 'gh' of bitbucket server.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -276117,7 +276133,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.5",
+      "version": "0.4.9",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
