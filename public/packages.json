@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-09T16:38:58.000Z",
+  "generatedAt": "2026-09-09T20:05:43.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "eb7e8ece05c2265757dc322c602a1aa756037abe"
+    "commit": "60c4f16d261e99c02041f4bee32303b79904c64e"
   },
   "data": [
     {
@@ -2824,6 +2824,28 @@
       "icon": {
         "monogram": "NE",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Abraxas.eFisc.2026",
+      "name": "eFisc 2026",
+      "publisher": "Abraxas Informatik AG",
+      "version": "1.0.0.76",
+      "description": "Kostenlose Steuererklärungssoftware der Steuerverwaltung des Kantons Thurgau für die Steuerperiode 2026.",
+      "tags": [
+        "schweiz",
+        "steuererklaerung",
+        "steuern",
+        "swiss",
+        "switzerland",
+        "tax",
+        "thurgau"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "E2",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -7710,6 +7732,26 @@
       "icon": {
         "monogram": "AS",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Aitherium.AitherShell",
+      "name": "AitherShell",
+      "publisher": "Aitherium",
+      "version": "1.16.0",
+      "description": "Interactive terminal for AitherOS — chat with AI agents from your shell",
+      "tags": [
+        "agent",
+        "ai",
+        "cli",
+        "llm",
+        "terminal"
+      ],
+      "category": "Communications",
+      "icon": {
+        "monogram": "AI",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -19379,6 +19421,28 @@
       "icon": {
         "monogram": "SC",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ArnsteinSkara.AppCenter",
+      "name": "App Center",
+      "publisher": "Arnstein Skara",
+      "version": "1.0.2",
+      "description": "Ubuntu's App Center, rebuilt for Windows on top of winget.",
+      "tags": [
+        "app-store",
+        "foss",
+        "gui",
+        "open-source",
+        "package-manager",
+        "software-center",
+        "winget"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "AC",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -33324,6 +33388,20 @@
       }
     },
     {
+      "id": "Bjarneo.Cliamp",
+      "name": "Cliamp",
+      "publisher": "Bjarneo",
+      "version": "2.0.1",
+      "description": "A retro terminal music player inspired by Winamp",
+      "tags": [],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "CL",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "BjoernBoeckle.mqtt-presence",
       "name": "mqtt-presence",
       "publisher": "Bjoern Boeckle",
@@ -38637,6 +38715,27 @@
       }
     },
     {
+      "id": "bullpae.keymander",
+      "name": "keymander",
+      "publisher": "bullpae",
+      "version": "0.12.0",
+      "description": "Keyboard-driven cross-platform launcher (TUI, desktop, key-remap daemon)",
+      "tags": [
+        "cli",
+        "keyboard",
+        "launcher",
+        "productivity",
+        "terminal",
+        "tui"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "KE",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Bullzip.BullzipPDFStudio",
       "name": "Bullzip PDF Studio",
       "publisher": "Bullzip",
@@ -43151,6 +43250,20 @@
       }
     },
     {
+      "id": "ch41ned.portkill",
+      "name": "portkill",
+      "publisher": "ch41ned",
+      "version": "1.0.0",
+      "description": "A CLI tool to find and force-kill processes using a specific local port.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "PO",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Chadsoft.CTools",
       "name": "CTools",
       "publisher": "Chadsoft",
@@ -44623,6 +44736,29 @@
       "icon": {
         "monogram": "CD",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Chomusuke.Vidra",
+      "name": "Vidra",
+      "publisher": "Chomusuke",
+      "version": "2.5.14.0",
+      "description": "Desktop-grade video download manager",
+      "tags": [
+        "audio",
+        "download-manager",
+        "downloader",
+        "media",
+        "playlist",
+        "video",
+        "youtube",
+        "yt-dlp"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "VI",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -53749,7 +53885,7 @@
       "id": "CrewHaus.CLI",
       "name": "crewhaus",
       "publisher": "CrewHaus",
-      "version": "0.5.8",
+      "version": "0.6.0",
       "description": "Modular meta-harness — compile a single spec into multiple agent runtimes.",
       "tags": [
         "agent",
@@ -85490,7 +85626,7 @@
       "id": "FrancisBanyikwa.MediaDownloader",
       "name": "Media Downloader",
       "publisher": "Francis Banyikwa",
-      "version": "5.6.5",
+      "version": "5.6.6",
       "description": "This project is a Qt/C++ based GUI frontend to CLI multiple CLI-based tools that deal with downloading online media.",
       "tags": [
         "download",
@@ -85800,7 +85936,7 @@
       "id": "FreeCAD.FreeCAD.Weekly",
       "name": "FreeCAD",
       "publisher": "FreeCAD Team",
-      "version": "2026.06.03",
+      "version": "2026.09.09",
       "description": "A general purpose open source parametric 3D CAD modeler. Weekly build.",
       "tags": [
         "3d",
@@ -86064,6 +86200,26 @@
       "icon": {
         "monogram": "FS",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "FreedomTerminal.Koegaki",
+      "name": "Koegaki",
+      "publisher": "Freedom Terminal",
+      "version": "1.2.1",
+      "description": "Private push-to-talk dictation that runs entirely on your machine.",
+      "tags": [
+        "dictation",
+        "offline",
+        "privacy",
+        "speech-to-text",
+        "voice-typing"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "KO",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -88066,6 +88222,25 @@
       }
     },
     {
+      "id": "gandeladri.DRGXPCalculator",
+      "name": "DRG XP Calculator",
+      "publisher": "Adrián Gandelman",
+      "version": "1.0.0",
+      "description": "Small Windows desktop app for planning Deep Rock Galactic class leveling.",
+      "tags": [
+        "calculator",
+        "deep-rock-galactic",
+        "game",
+        "xp"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "DX",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Ganksoft.Nanopad",
       "name": "Nanopad",
       "publisher": "Ganksoft LLC",
@@ -88146,7 +88321,7 @@
       "id": "GaoyangZhang.RivonClaw",
       "name": "TK Copilot",
       "publisher": "RIVON LLC",
-      "version": "1.9.8",
+      "version": "1.9.9",
       "description": "An easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers.",
       "tags": [
         "agent",
@@ -89048,7 +89223,7 @@
       "id": "GeminiLight.MindOS",
       "name": "MindOS",
       "publisher": "MindOS Team",
-      "version": "0.4.15",
+      "version": "0.4.16",
       "description": "MindOS is where you think, and where your AI agents act — a local-first knowledge base shared between you and every AI you use. Share your brain with every AI — every thought grows.",
       "tags": [
         "ai",
@@ -115196,7 +115371,7 @@
       "id": "jannskiee.floe",
       "name": "floe",
       "publisher": "jannskiee",
-      "version": "1.10.8",
+      "version": "1.10.9",
       "description": "Secure peer-to-peer file transfer CLI",
       "tags": [],
       "category": "Others",
@@ -123080,7 +123255,7 @@
       "id": "kangfenmao.CherryStudio",
       "name": "Cherry Studio",
       "publisher": "support@cherry-ai.com",
-      "version": "2.0.13",
+      "version": "2.0.14",
       "description": "A desktop client that supports for multiple LLM providers",
       "tags": [
         "ai",
@@ -129635,7 +129810,7 @@
       "id": "kubescape.kubescape",
       "name": "kubescape",
       "publisher": "kubescape",
-      "version": "4.0.13",
+      "version": "4.0.14",
       "description": "An open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters",
       "tags": [
         "best-practice",
@@ -138967,7 +139142,7 @@
       "id": "Lumysia.AionUiCommunity",
       "name": "AionUi Community",
       "publisher": "Lumysia",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "description": "Community AionUi build with a transparent WebUI login bypass patch",
       "tags": [
         "ai",
@@ -164725,7 +164900,7 @@
       "id": "Mozilla.Firefox.ESR.af",
       "name": "Mozilla Firefox ESR (af)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165438,7 +165613,7 @@
       "id": "Mozilla.Firefox.ESR.fr",
       "name": "Mozilla Firefox ESR (fr)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165944,7 +166119,7 @@
       "id": "Mozilla.Firefox.ESR.km",
       "name": "Mozilla Firefox ESR (km)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166519,7 +166694,7 @@
       "id": "Mozilla.Firefox.ESR.sco",
       "name": "Mozilla Firefox ESR (sco)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166749,7 +166924,7 @@
       "id": "Mozilla.Firefox.ESR.te",
       "name": "Mozilla Firefox ESR (te)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166841,7 +167016,7 @@
       "id": "Mozilla.Firefox.ESR.tr",
       "name": "Mozilla Firefox ESR (tr)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166887,7 +167062,7 @@
       "id": "Mozilla.Firefox.ESR.uk",
       "name": "Mozilla Firefox ESR (uk)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -168316,7 +168491,7 @@
       "id": "Mozilla.Firefox.sl",
       "name": "Mozilla Firefox (sl)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168362,7 +168537,7 @@
       "id": "Mozilla.Firefox.sq",
       "name": "Mozilla Firefox (sq)",
       "publisher": "Mozilla",
-      "version": "155.0",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168408,7 +168583,7 @@
       "id": "Mozilla.Firefox.sv-SE",
       "name": "Mozilla Firefox (sv-SE)",
       "publisher": "Mozilla",
-      "version": "155.0",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168454,7 +168629,7 @@
       "id": "Mozilla.Firefox.ta",
       "name": "Mozilla Firefox (ta)",
       "publisher": "Mozilla",
-      "version": "155.0",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -183248,7 +183423,7 @@
       "id": "Nvidia.CUDA",
       "name": "NVIDIA CUDA Toolkit",
       "publisher": "NVIDIA Corporation",
-      "version": "13.3",
+      "version": "13.4",
       "description": "CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs).",
       "tags": [
         "compute",
@@ -183859,7 +184034,7 @@
       "id": "obot-platform.obot",
       "name": "obot",
       "publisher": "Acorn Labs, Inc",
-      "version": "v0.25.4",
+      "version": "v0.25.5",
       "description": "Obot is an open source enterprise agent platform.",
       "tags": [
         "ai",
@@ -187959,7 +188134,7 @@
       "id": "OpenJS.Electron.42",
       "name": "Electron",
       "publisher": "OpenJS Foundation",
-      "version": "42.11.2",
+      "version": "42.11.3",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
       "tags": [
         "c-plus-plus",
@@ -198721,6 +198896,30 @@
       }
     },
     {
+      "id": "PocketMC.PocketMC",
+      "name": "PocketMC",
+      "publisher": "PocketMC",
+      "version": "1.9.8",
+      "description": "Modern Windows desktop application for managing and hosting local Minecraft Java and Bedrock servers.",
+      "tags": [
+        "bedrock",
+        "fabric",
+        "forge",
+        "minecraft",
+        "minecraft-server",
+        "paper",
+        "purpur",
+        "server-manager",
+        "spigot"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "PO",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "PocketSync.PocketSync",
       "name": "Pocket Sync",
       "publisher": "Pocket Sync",
@@ -200556,7 +200755,7 @@
       "id": "prasenjeet-symon.ogcode",
       "name": "ogcode",
       "publisher": "prasenjeet-symon",
-      "version": "0.33.0",
+      "version": "0.34.0",
       "description": "Agentic coding assistant with web UI",
       "tags": [
         "coding-assistant",
@@ -206006,6 +206205,28 @@
       }
     },
     {
+      "id": "QUniBone.QUniLatorInstaller",
+      "name": "QUniLator Installer",
+      "publisher": "QUniBone",
+      "version": "0.5.0",
+      "description": "Writes a QUniLator image to an SD card and sets the card up before it boots",
+      "tags": [
+        "beaglebone",
+        "dec",
+        "emulator",
+        "imaging",
+        "pdp-11",
+        "sd-card",
+        "unibus"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "QI",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Quobyte.Client",
       "name": "quobyte-client",
       "publisher": "Quobyte Inc.",
@@ -208652,7 +208873,7 @@
       "id": "Recol.DLSSUpdater",
       "name": "DLSS Updater",
       "publisher": "Recol",
-      "version": "5.0.0",
+      "version": "5.0.1",
       "description": "A tool to update DLSS, XeSS, and DirectStorage DLLs for various games",
       "tags": [
         "directstorage",
@@ -214333,6 +214554,26 @@
       "icon": {
         "monogram": "BL",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "roethlar.Songr",
+      "name": "Songr",
+      "publisher": "roethlar",
+      "version": "1.3.0",
+      "description": "Multi platform controller for your Roon Core",
+      "tags": [
+        "audio",
+        "controller",
+        "music",
+        "roon",
+        "streaming"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "SO",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -226961,6 +227202,26 @@
       "icon": {
         "monogram": "OP",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "skh2945932142.OMPSwitch",
+      "name": "OMP Switch",
+      "publisher": "OMP Switch contributors",
+      "version": "0.3.0",
+      "description": "Desktop companion for managing Oh My Pi model providers",
+      "tags": [
+        "ai",
+        "cli",
+        "configuration",
+        "llm",
+        "oh-my-pi"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "OS",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -251373,7 +251634,7 @@
       "id": "tinyrack.dotweave",
       "name": "dotweave",
       "publisher": "tinyrack",
-      "version": "2.5.1",
+      "version": "2.6.0",
       "description": "Git-backed configuration synchronization tool for dotfiles",
       "tags": [
         "cli",
@@ -259883,7 +260144,7 @@
       "id": "venipa.ytmdesktop",
       "name": "YouTube Music for Desktop",
       "publisher": "Venipa",
-      "version": "1.7.6",
+      "version": "1.8.1",
       "description": "Beautiful Unofficial YouTube Music desktop app that includes several customizations for users and developers.",
       "tags": [
         "discord",
@@ -263391,8 +263652,8 @@
       "id": "VoltKraft.ImmichFolderWatch",
       "name": "Immich Folder Watch",
       "publisher": "VoltKraft",
-      "version": "2.10.1",
-      "description": "A folder watcher and uploader for Immich that ingests new media files via the Immich HTTP API, built for automated, real-time media import on Windows and Linux.",
+      "version": "2.11.0",
+      "description": "A desktop app for uploading media and synchronizing local folders with Immich, with per-folder modes, album mapping, file filters, and transfer controls on Windows and Linux.",
       "tags": [
         "immich",
         "immich-api"
@@ -278868,7 +279129,7 @@
       "id": "Yerong.OfficeToolPlus",
       "name": "Office Tool Plus",
       "publisher": "Yerong",
-      "version": "11.6.6.0",
+      "version": "11.7.9.0",
       "description": "A powerful and useful tool for Office deployments.",
       "tags": [
         "microsoft-365",
@@ -279873,7 +280134,7 @@
       "id": "Yubico.Authenticator",
       "name": "Yubico Authenticator",
       "publisher": "Yubico AB",
-      "version": "7.4.1",
+      "version": "7.4.2",
       "description": "Authenticator to generate 2-step verification codes using your YubiKey",
       "tags": [
         "2fa",
