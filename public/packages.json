@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T21:07:30.000Z",
+  "generatedAt": "2026-09-09T04:25:06.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "dcc98d0a4b757b30e09d8722e51f0d97d2c99d10"
+    "commit": "d399bc6ea05edf69e7f624370c73d19bc1f9b09a"
   },
   "data": [
     {
@@ -96,7 +96,7 @@
       "id": "0xJacky.nginx-ui",
       "name": "Nginx UI",
       "publisher": "0xJacky",
-      "version": "2.1.12",
+      "version": "2.5.10",
       "description": "Yet another Web UI for Nginx",
       "tags": [
         "chatgpt-app",
@@ -1552,7 +1552,7 @@
       "id": "7zip.7zip",
       "name": "7-Zip",
       "publisher": "Igor Pavlov",
-      "version": "26.02",
+      "version": "26.03",
       "description": "A file archiver with a high compression ratio.",
       "tags": [
         "7zfiles",
@@ -1743,7 +1743,7 @@
       "id": "8x8.Work",
       "name": "8x8 Work",
       "publisher": "8x8 Inc.",
-      "version": "8.36.2",
+      "version": "8.37.2",
       "description": "All your essential business communications brought together in one simple app.",
       "tags": [
         "bussiness",
@@ -1815,6 +1815,27 @@
       "icon": {
         "monogram": "KI",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "996xiaozhe.SoftKVM.Beta",
+      "name": "SoftKVM",
+      "publisher": "softkvm",
+      "version": "0.1.0-beta.2",
+      "description": "通过 DDC/CI 扫描并切换多台显示器输入源的 Windows 工具",
+      "tags": [
+        "ddc",
+        "ddc-ci",
+        "display",
+        "input-source",
+        "kvm",
+        "monitor"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "SO",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -3994,7 +4015,7 @@
       "id": "adamtheturtle.literalizer-cli",
       "name": "literalizer-cli",
       "publisher": "Adam Dangoor",
-      "version": "2026.08.16.1",
+      "version": "2026.08.30.1",
       "description": "Convert data structures to native language literal syntax",
       "tags": [
         "cli",
@@ -5696,7 +5717,7 @@
       "id": "aelassas.Servy",
       "name": "Servy",
       "publisher": "Akram El Assas",
-      "version": "9.9",
+      "version": "10.0",
       "description": "Servy lets you run any app as a native Windows service with full control over the working directory, startup type, process priority, CPU affinity, logging, health checks, hooks, and parameters.",
       "tags": [
         "admin",
@@ -6907,7 +6928,7 @@
       "id": "ahpxex.Aictionary",
       "name": "Aictionary",
       "publisher": "ahpxex",
-      "version": "3.0.0",
+      "version": "3.3.1",
       "description": "Another desktop dictionary, but way more faster and definition-rich, which makes you truly understand language.",
       "tags": [
         "dictionary",
@@ -7147,7 +7168,7 @@
       "id": "AIDotNet.OpenCowork",
       "name": "OpenCoWork",
       "publisher": "example.com",
-      "version": "1.3.26",
+      "version": "1.4.0",
       "description": "Open-source desktop platform for multi-agent collaboration. Empowering AI agents with local tools, parallel teamwork, and seamless workplace integration.",
       "tags": [
         "agent",
@@ -7588,6 +7609,27 @@
       "icon": {
         "monogram": "AI",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AirUSB.Client",
+      "name": "AirUSB Client",
+      "publisher": "AirUSB",
+      "version": "1.1.2",
+      "description": "Windows client for AirUSB wireless print and scan bridges.",
+      "tags": [
+        "airusb",
+        "print-server",
+        "printer",
+        "scanner",
+        "usbip",
+        "wireless"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "AC",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -12964,7 +13006,7 @@
       "id": "Amazon.AWSCLI",
       "name": "AWS Command Line Interface",
       "publisher": "Amazon Web Services",
-      "version": "2.36.40",
+      "version": "2.36.41",
       "description": "Universal Command Line Interface for Amazon Web Services",
       "tags": [
         "aws",
@@ -13914,7 +13956,7 @@
       "id": "AmintaCCCP.GithubStarsManager",
       "name": "GitHub Stars Manager",
       "publisher": "AmintaCCCP",
-      "version": "0.7.9",
+      "version": "0.8.0",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking.",
       "tags": [
         "gists",
@@ -19417,7 +19459,7 @@
       "id": "aroum.che",
       "name": "che",
       "publisher": "aroum",
-      "version": "26.8.15",
+      "version": "26.8.28",
       "description": "Blazing fast terminal file manager written in Rust, based on async I/O with true dual panel mode",
       "tags": [],
       "category": "Utilities",
@@ -21693,7 +21735,7 @@
       "id": "Audacious.MediaPlayer",
       "name": "Audacious",
       "publisher": "Audacious developers",
-      "version": "4.5.1",
+      "version": "4.6.1",
       "description": "Open source audio player",
       "tags": [],
       "category": "Multimedia",
@@ -31184,7 +31226,7 @@
       "id": "binaricat.Netcatty",
       "name": "Netcatty",
       "publisher": "binaricat",
-      "version": "1.1.82",
+      "version": "1.1.83",
       "description": "AI-powered SSH client, SFTP browser and terminal manager.",
       "tags": [
         "console",
@@ -40238,7 +40280,7 @@
       "id": "CABS.SalesPrix",
       "name": "SalesPrix",
       "publisher": "CAB+S GmbH",
-      "version": "7.1.0",
+      "version": "7.2.0",
       "description": "Installiert SalesPrix",
       "tags": [],
       "category": "Others",
@@ -40252,7 +40294,7 @@
       "id": "CABS.ScanPrix",
       "name": "ScanPrix",
       "publisher": "CAB+S GmbH",
-      "version": "7.1.0",
+      "version": "7.2.0",
       "description": "Installationsprogramm für ScanPrix",
       "tags": [],
       "category": "Others",
@@ -45117,7 +45159,7 @@
       "id": "Chromium.ChromeDriver",
       "name": "ChromeDriver",
       "publisher": "Chromium",
-      "version": "152.0.7977.82",
+      "version": "153.0.8010.36",
       "description": "An open source tool for automated testing of webapps across many browsers",
       "tags": [],
       "category": "Browsers",
@@ -45509,7 +45551,7 @@
       "id": "Cindy.Cindy",
       "name": "Cindy",
       "publisher": "XD Inc.",
-      "version": "0.1.38",
+      "version": "0.1.72",
       "description": "An open-source AI agent that works out of the box. Consider it done.",
       "tags": [
         "agent",
@@ -45723,7 +45765,7 @@
       "id": "ciromattia.KCC",
       "name": "Kindle Comic Converter",
       "publisher": "ciromattia",
-      "version": "11.1.0",
+      "version": "11.2.0",
       "description": "Kindle Comic Converter is a Python app to convert comic/manga files or folders to EPUB, Panel View MOBI or E-Ink optimized CBZ.",
       "tags": [
         "azw3",
@@ -47320,7 +47362,7 @@
       "id": "closeio.Close",
       "name": "Close",
       "publisher": "closeio",
-      "version": "9.3.1",
+      "version": "9.3.2",
       "description": "Close desktop application",
       "tags": [],
       "category": "Others",
@@ -50415,7 +50457,7 @@
       "id": "Comfy.ComfyUI-Desktop",
       "name": "ComfyUI",
       "publisher": "Comfy Org",
-      "version": "1.0.46",
+      "version": "1.0.47",
       "description": "A desktop app for ComfyUI, the most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface",
       "tags": [
         "comfyui",
@@ -50885,7 +50927,7 @@
       "id": "CondaForge.Miniforge3",
       "name": "Miniforge3",
       "publisher": "conda-forge",
-      "version": "26.5.3-0",
+      "version": "26.7.2-0",
       "description": "Miniforge is a free minimal installer for conda specific to conda-forge.",
       "tags": [
         "anaconda",
@@ -52794,7 +52836,7 @@
       "id": "CozyCloud.CozyDrive",
       "name": "Cozy Drive",
       "publisher": "Cozy Cloud",
-      "version": "5.1.1",
+      "version": "5.5.0",
       "description": "File Synchronisation for Cozy on Desktop and Laptop.",
       "tags": [
         "backup",
@@ -53169,7 +53211,7 @@
       "id": "cpvalente.ontime",
       "name": "ontime",
       "publisher": "Carlos Valente",
-      "version": "4.12.0",
+      "version": "4.13.0",
       "description": "Free, open-source time keeping for live events",
       "tags": [
         "entertainment",
@@ -55697,7 +55739,7 @@
       "id": "CylCastillo.AgentConsole",
       "name": "Agent Console",
       "publisher": "Carlos Castillo",
-      "version": "0.76.0",
+      "version": "0.78.0",
       "description": "Minimalist AI-native console for directing coding agents inside a repository.",
       "tags": [
         "agent",
@@ -60494,7 +60536,7 @@
       "id": "demkada.ArgyCode",
       "name": "Argy Code",
       "publisher": "demkada",
-      "version": "2.6.1",
+      "version": "2.6.2",
       "description": "The AI coding agent built for the terminal",
       "tags": [],
       "category": "Others",
@@ -60578,7 +60620,7 @@
       "id": "den4b.ReNamer",
       "name": "ReNamer",
       "publisher": "den4b Team",
-      "version": "7.9",
+      "version": "7.10",
       "description": "A very powerful and flexible file renaming tool",
       "tags": [
         "file",
@@ -63334,7 +63376,7 @@
       "id": "DinamoNetworks.HSMDinamo",
       "name": "HSM Dinamo",
       "publisher": "Dinamo Networks",
-      "version": "4.27.0",
+      "version": "4.28.0",
       "description": "Hardware Security Module (HSM) management tools and drivers.",
       "tags": [
         "cryptography",
@@ -63672,7 +63714,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1158",
+      "version": "1.0.1159",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -63695,7 +63737,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.491",
+      "version": "1.0.492",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -66479,7 +66521,7 @@
       "id": "DoublOneStudios.Glucose",
       "name": "Glucose",
       "publisher": "DoublOne Studios",
-      "version": "3.7.0",
+      "version": "3.7.1",
       "description": "A minimal video player built with Rust and Svelte",
       "tags": [
         "ai-subtitles",
@@ -69817,6 +69859,26 @@
       }
     },
     {
+      "id": "EazyMake.EazyMake",
+      "name": "EazyMake",
+      "publisher": "EazyMake",
+      "version": "1.1.3",
+      "description": "A simple C/C++ build tool",
+      "tags": [
+        "build-tool",
+        "c",
+        "compiler",
+        "cpp",
+        "package-manager"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "EA",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "EAZYPETITIONLLC.eazyPetition",
       "name": "eazyPetition",
       "publisher": "EAZYPETITION LLC",
@@ -70785,7 +70847,7 @@
       "id": "EclipseFoundation.TheiaIDE",
       "name": "TheiaIDE",
       "publisher": "Eclipse Theia",
-      "version": "1.74.100",
+      "version": "1.75.0",
       "description": "A modern and open IDE for cloud and desktop.",
       "tags": [
         "code",
@@ -74516,7 +74578,7 @@
       "id": "Emurasoft.EmEditor",
       "name": "EmEditor",
       "publisher": "Emurasoft, Inc.",
-      "version": "26.2.7",
+      "version": "26.2.8",
       "description": "A fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows.",
       "tags": [
         "code",
@@ -78075,7 +78137,7 @@
       "id": "EvolveOS.Optimizer",
       "name": "EvolveOS Optimizer",
       "publisher": "EvolveOS Software",
-      "version": "1.2.5.418",
+      "version": "1.2.6.428",
       "description": "A powerful, self-contained Windows management suite that combines aggressive system optimization, deep privacy controls, telemetry debloating, and OS tweaks.",
       "tags": [],
       "category": "Security & Privacy",
@@ -78286,7 +78348,7 @@
       "id": "Excelano.xftp",
       "name": "xftp",
       "publisher": "Excelano LLC",
-      "version": "1.9.0",
+      "version": "1.10.0",
       "description": "FTP-style interactive client for SharePoint document libraries",
       "tags": [
         "cli",
@@ -81280,7 +81342,7 @@
       "id": "Figma.Figma",
       "name": "Figma",
       "publisher": "Figma, Inc.",
-      "version": "126.8.16",
+      "version": "126.8.18",
       "description": "The Collaborative Interface Design Tool",
       "tags": [
         "build",
@@ -85187,7 +85249,7 @@
       "id": "Foxit.PhantomPDF",
       "name": "Foxit PDF Editor",
       "publisher": "Foxit Software Inc.",
-      "version": "14.0.6.33584",
+      "version": "14.0.7.33751",
       "description": "Powerful desktop PDF solution to create and edit PDF documents and integrate with Foxit eSign.",
       "tags": [
         "annotate",
@@ -86300,7 +86362,7 @@
       "id": "Frnsys.Half_earth",
       "name": "Half-Earth Socialism: The Game",
       "publisher": "Frnsys",
-      "version": "1.0.12",
+      "version": "1.0.14",
       "description": "Half-Earth Socialism: The Game, for Half-Earth Socialism (Verso 2022)",
       "tags": [],
       "category": "Gaming",
@@ -86456,7 +86518,7 @@
       "id": "FSPProductions.FileHasher",
       "name": "FileHasher",
       "publisher": "FSP Productions, LLC",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "description": "Windows GUI utility to hash files and folders, write sidecar hash files, and export results to CSV.",
       "tags": [
         "checksum",
@@ -87031,7 +87093,7 @@
       "id": "FxSound.FxSound",
       "name": "FxSound",
       "publisher": "FxSound LLC",
-      "version": "1.2.12.0",
+      "version": "1.2.14.0",
       "description": "Free open-source software to boost sound quality, volume, and bass. Including an equalizer, effects, and presets for customized audio.",
       "tags": [
         "audio-equalizer",
@@ -87178,7 +87240,7 @@
       "id": "Gabriel2392.BrokkrFlash",
       "name": "Brokkr Flash",
       "publisher": "Gabriel2392",
-      "version": "1.4.7",
+      "version": "2.4.8",
       "description": "Odin but better (and open-source).",
       "tags": [],
       "category": "Others",
@@ -89270,7 +89332,7 @@
       "id": "GeodeSDK.GeodeCLI",
       "name": "Geode CLI",
       "publisher": "GeodeSDK",
-      "version": "3.8.0",
+      "version": "3.9.0",
       "description": "Command line utilities for working with the Geode SDK",
       "tags": [
         "geode",
@@ -91177,7 +91239,7 @@
       "id": "GitHub.CopilotApp",
       "name": "GitHub Copilot",
       "publisher": "GitHub Inc.",
-      "version": "1.1.15",
+      "version": "1.1.16",
       "description": "The GitHub Copilot app is a desktop application for agent-driven development that brings parallel workstreams, GitHub integration, and PR lifecycle management into one place.",
       "tags": [],
       "category": "Development",
@@ -92903,7 +92965,7 @@
       "id": "GNU.TeXmacs",
       "name": "Texmacs",
       "publisher": "MAGIX",
-      "version": "2.1.2",
+      "version": "2.1.5",
       "description": "A free scientific editing platform designed to create beautiful technical documents using a wysiwyg interface",
       "tags": [],
       "category": "Others",
@@ -94146,7 +94208,7 @@
       "id": "Google.Chrome",
       "name": "Google Chrome",
       "publisher": "Google LLC",
-      "version": "152.0.7977.83",
+      "version": "153.0.8010.37",
       "description": "The Fast & Secure Web Browser Built to be Yours",
       "tags": [
         "browser",
@@ -94194,7 +94256,7 @@
       "id": "Google.Chrome.Beta.EXE",
       "name": "Google Chrome Beta (EXE)",
       "publisher": "Google LLC",
-      "version": "153.0.8010.5",
+      "version": "153.0.8010.12",
       "description": "Try new features with Chrome Beta",
       "tags": [
         "browser",
@@ -104365,7 +104427,7 @@
       "id": "Huawei.HiSuite",
       "name": "HiSuite",
       "publisher": "Huawei Technologies Co., Ltd.",
-      "version": "14.0.0.370",
+      "version": "14.0.0.380",
       "description": "The smart way to manage your device",
       "tags": [
         "android",
@@ -104608,7 +104670,7 @@
       "id": "HubDev.HubDev",
       "name": "HubDev",
       "publisher": "HubDev",
-      "version": "1.29.0",
+      "version": "1.30.0",
       "description": "Hybrid Development Environment Manager",
       "tags": [],
       "category": "Development",
@@ -112035,7 +112097,7 @@
       "id": "iQIYI.iQIYI",
       "name": "爱奇艺",
       "publisher": "爱奇艺",
-      "version": "14.8.5.10223",
+      "version": "14.8.5.10228",
       "description": "iQIYI Windows client app.",
       "tags": [
         "china",
@@ -116386,7 +116448,7 @@
       "id": "jawollo07.spl",
       "name": "SPL",
       "publisher": "Jawollo07",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "description": "Eine IDE für die Programmiersprache SPL",
       "tags": [],
       "category": "Development",
@@ -118701,7 +118763,7 @@
       "id": "JGraph.Draw",
       "name": "draw.io",
       "publisher": "JGraph",
-      "version": "31.3.2",
+      "version": "31.4.4",
       "description": "A diagramming desktop app based on Electron that wraps the core draw.io editor.",
       "tags": [
         "chart",
@@ -122618,7 +122680,7 @@
       "id": "Kaizen3C.KaizenCLI",
       "name": "Kaizen CLI",
       "publisher": "Kaizen 3C",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "description": "Architecture-driven modernization — decompose legacy codebases into ADRs, recompose to modern stacks.",
       "tags": [
         "adr",
@@ -122959,7 +123021,7 @@
       "id": "kangfenmao.CherryStudio",
       "name": "Cherry Studio",
       "publisher": "support@cherry-ai.com",
-      "version": "2.0.12",
+      "version": "2.0.13",
       "description": "A desktop client that supports for multiple LLM providers",
       "tags": [
         "ai",
@@ -129758,7 +129820,7 @@
       "id": "KuestenLogik.Bowire",
       "name": "Bowire",
       "publisher": "Küstenlogik",
-      "version": "2.6.0",
+      "version": "2.7.0",
       "description": "Interactive multi-protocol API browser and CLI for .NET — gRPC, REST, GraphQL, SignalR, MCP, SSE, WebSocket, MQTT, Socket.IO, OData, Surgewave, Kafka, DIS, UDP.",
       "tags": [
         "api",
@@ -135452,7 +135514,7 @@
       "id": "LizardByte.Sunshine",
       "name": "Sunshine",
       "publisher": "LizardByte",
-      "version": "2026.516.143833",
+      "version": "2026.906.222525",
       "description": "Sunshine is a Gamestream host for Moonlight.",
       "tags": [
         "gamestream",
@@ -140840,7 +140902,7 @@
       "id": "Malwarebytes.Malwarebytes",
       "name": "Malwarebytes",
       "publisher": "Malwarebytes",
-      "version": "5.6.5.306",
+      "version": "5.7.0.328",
       "description": "Cyber Security Software and Anti-Malware",
       "tags": [
         "anti-malware",
@@ -143529,7 +143591,7 @@
       "id": "max-sixty.worktrunk",
       "name": "worktrunk",
       "publisher": "max-sixty",
-      "version": "v0.76.0",
+      "version": "v0.77.0",
       "description": "A Git worktree manager for trunk-based development",
       "tags": [
         "cli",
@@ -144102,7 +144164,7 @@
       "id": "mayocream.koharu",
       "name": "Koharu",
       "publisher": "mayocream",
-      "version": "0.81.7",
+      "version": "0.81.9",
       "description": "ML-powered manga translator, written in Rust.",
       "tags": [
         "computer-vision",
@@ -147241,7 +147303,7 @@
       "id": "Microsoft.365Copilot",
       "name": "Microsoft 365 Copilot",
       "publisher": "Microsoft Corporation",
-      "version": "19.2607.33010",
+      "version": "19.2609.33020.0",
       "description": "Move from idea to outcome with the Microsoft 365 Copilot app, your AI-first productivity app.",
       "tags": [
         "9wzdncrd29v9",
@@ -147348,7 +147410,7 @@
       "id": "Microsoft.AdvertisingEditor",
       "name": "Microsoft Advertising Editor",
       "publisher": "Microsoft Corporation",
-      "version": "11.31.22589.11583",
+      "version": "11.31.22619",
       "description": "Manage Microsoft Advertising campaigns in bulk from a desktop app, online or offline.",
       "tags": [],
       "category": "Microsoft Tools",
@@ -147592,6 +147654,28 @@
       "category": "Microsoft Tools",
       "icon": {
         "monogram": "AS",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Microsoft.AxeWindows",
+      "name": "Axe.Windows",
+      "publisher": "Microsoft",
+      "version": "2.4.2",
+      "description": "A tool for running automated accessibility tests on Windows applications.",
+      "tags": [
+        "accessibility-tests",
+        "accessibilitytests",
+        "automated-tests",
+        "automatedtests",
+        "microsoft-axe-windows",
+        "microsoftaxewindows",
+        "requirescmd"
+      ],
+      "category": "Microsoft Tools",
+      "icon": {
+        "monogram": "AW",
         "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
@@ -148895,7 +148979,7 @@
       "id": "Microsoft.DotNet.AspNetCore.10",
       "name": "Microsoft ASP.NET Core Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.11",
+      "version": "10.0.12",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -149204,7 +149288,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.10",
       "name": "Microsoft .NET Windows Desktop Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.11",
+      "version": "10.0.12",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -149709,7 +149793,7 @@
       "id": "Microsoft.DotNet.HostingBundle.10",
       "name": "Microsoft ASP.NET Core Hosting Bundle 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.11",
+      "version": "10.0.12",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -149994,7 +150078,7 @@
       "id": "Microsoft.DotNet.Runtime.10",
       "name": "Microsoft .NET Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.11",
+      "version": "10.0.12",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -150223,7 +150307,7 @@
       "id": "Microsoft.DotNet.SDK.10",
       "name": "Microsoft .NET SDK 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.400",
+      "version": "10.0.401",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -150353,7 +150437,7 @@
       "id": "Microsoft.DotNet.SDK.8",
       "name": "Microsoft .NET SDK 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.424",
+      "version": "8.0.425",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -150379,7 +150463,7 @@
       "id": "Microsoft.DotNet.SDK.9",
       "name": "Microsoft .NET SDK 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.317",
+      "version": "9.0.318",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -150405,7 +150489,7 @@
       "id": "Microsoft.DotNet.SDK.Preview",
       "name": "Microsoft .NET SDK 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.100-preview.7.26381.103",
+      "version": "11.0.100-rc.1.26425.128",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -152737,7 +152821,7 @@
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
       "publisher": "Microsoft Corporation",
-      "version": "7.6.5.0",
+      "version": "7.6.6.0",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "tags": [
         "command-line",
@@ -152758,7 +152842,7 @@
       "id": "Microsoft.PowerShell.Preview",
       "name": "PowerShell Preview",
       "publisher": "Microsoft Corporation",
-      "version": "7.7.3.0",
+      "version": "7.7.4.0",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "tags": [
         "command-line",
@@ -153650,7 +153734,7 @@
       "id": "Microsoft.SQLServerManagementStudio.22",
       "name": "Microsoft SQL Server Management Studio 22",
       "publisher": "Microsoft Corporation",
-      "version": "22.9.1",
+      "version": "22.10.0",
       "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure",
       "tags": [
         "management-studio",
@@ -155194,7 +155278,7 @@
       "id": "Microsoft.VisualStudio.2022.RemoteTools",
       "name": "Remote Tools for Visual Studio 2022",
       "publisher": "Microsoft Corporation",
-      "version": "17.14.38",
+      "version": "17.14.40",
       "description": "Remote Tools for Visual Studio 2022 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.",
       "tags": [
         "ext",
@@ -155212,7 +155296,7 @@
       "id": "Microsoft.VisualStudio.BuildTools",
       "name": "Visual Studio BuildTools 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.3",
+      "version": "18.10.0",
       "description": "These Build Tools allow you to build Visual Studio projects from a command-line interface.",
       "tags": [
         "c#",
@@ -155230,7 +155314,7 @@
       "id": "Microsoft.VisualStudio.Community",
       "name": "Visual Studio Community 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.1",
+      "version": "18.10.0",
       "description": "Everything you need to build modern apps - free for you, built for impact.",
       "tags": [
         "c#",
@@ -155248,7 +155332,7 @@
       "id": "Microsoft.VisualStudio.Community.Insiders",
       "name": "Visual Studio Community 2026 Insiders",
       "publisher": "Microsoft Corporation",
-      "version": "18.10.12113.136",
+      "version": "18.11.12202.211",
       "description": "Everything you need to build modern apps - free for you, built for impact.",
       "tags": [
         "c#",
@@ -155280,7 +155364,7 @@
       "id": "Microsoft.VisualStudio.Enterprise",
       "name": "Visual Studio Enterprise 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.1",
+      "version": "18.10.0",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -155298,7 +155382,7 @@
       "id": "Microsoft.VisualStudio.Enterprise.Insiders",
       "name": "Visual Studio Enterprise 2026 Insiders",
       "publisher": "Microsoft Corporation",
-      "version": "18.10.12113.136",
+      "version": "18.11.12202.211",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -155349,7 +155433,7 @@
       "id": "Microsoft.VisualStudio.OnecoreMsvsmon",
       "name": "Visual Studio Remote Debugger for Devices",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.0",
+      "version": "18.10.0",
       "description": "Visual Studio Remote Debugger for devices allows remote debugging on Windows (non-Desktop) devices.",
       "tags": [
         "ext",
@@ -155367,7 +155451,7 @@
       "id": "Microsoft.VisualStudio.Professional",
       "name": "Visual Studio Professional 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.1",
+      "version": "18.10.0",
       "description": "The trusted IDE for professional developers - from desktop to cloud.",
       "tags": [
         "c#",
@@ -155403,7 +155487,7 @@
       "id": "Microsoft.VisualStudio.RemoteTools",
       "name": "Remote Tools for Visual Studio",
       "publisher": "Microsoft Corporation",
-      "version": "18.9.0",
+      "version": "18.10.0",
       "description": "Remote Tools for Visual Studio enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.",
       "tags": [
         "ext",
@@ -158037,7 +158121,7 @@
       "id": "misxzaiz.Polaris",
       "name": "Polaris",
       "publisher": "misxzaiz",
-      "version": "10.4.8",
+      "version": "10.4.9",
       "description": "Cross-platform desktop client for multi-engine AI coding assistants",
       "tags": [
         "agent",
@@ -159772,7 +159856,7 @@
       "id": "molenzwiebel.Deceive",
       "name": "Deceive",
       "publisher": "Thijs Molendijk",
-      "version": "1.17.2",
+      "version": "1.18.0",
       "description": "Appear offline for League of Legends, VALORANT, and Legends of Runeterra.",
       "tags": [
         "deceive",
@@ -161498,7 +161582,7 @@
       "id": "Mozilla.Firefox.ach",
       "name": "Mozilla Firefox (ach)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -161613,7 +161697,7 @@
       "id": "Mozilla.Firefox.az",
       "name": "Mozilla Firefox (az)",
       "publisher": "Mozilla",
-      "version": "154.0",
+      "version": "154.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -161868,7 +161952,7 @@
       "id": "Mozilla.Firefox.cy",
       "name": "Mozilla Firefox (cy)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -164309,7 +164393,7 @@
       "id": "Mozilla.Firefox.el",
       "name": "Mozilla Firefox (el)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -164562,7 +164646,7 @@
       "id": "Mozilla.Firefox.ESR.an",
       "name": "Mozilla Firefox ESR (an)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -164585,7 +164669,7 @@
       "id": "Mozilla.Firefox.ESR.ar",
       "name": "Mozilla Firefox ESR (ar)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -164861,7 +164945,7 @@
       "id": "Mozilla.Firefox.ESR.cy",
       "name": "Mozilla Firefox ESR (cy)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165229,7 +165313,7 @@
       "id": "Mozilla.Firefox.ESR.fi",
       "name": "Mozilla Firefox ESR (fi)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165275,7 +165359,7 @@
       "id": "Mozilla.Firefox.ESR.fur",
       "name": "Mozilla Firefox ESR (fur)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165551,7 +165635,7 @@
       "id": "Mozilla.Firefox.ESR.hy-AM",
       "name": "Mozilla Firefox ESR (hy-AM)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165643,7 +165727,7 @@
       "id": "Mozilla.Firefox.ESR.it",
       "name": "Mozilla Firefox ESR (it)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165942,7 +166026,7 @@
       "id": "Mozilla.Firefox.ESR.ms",
       "name": "Mozilla Firefox ESR (ms)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -167023,7 +167107,7 @@
       "id": "Mozilla.Firefox.fy-NL",
       "name": "Mozilla Firefox (fy-NL)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -167831,7 +167915,7 @@
       "id": "Mozilla.Firefox.nn-NO",
       "name": "Mozilla Firefox (nn-NO)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168199,7 +168283,7 @@
       "id": "Mozilla.Firefox.sr",
       "name": "Mozilla Firefox (sr)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168565,7 +168649,7 @@
       "id": "Mozilla.Firefox.zh-CN",
       "name": "Mozilla Firefox (zh-CN)",
       "publisher": "Mozilla",
-      "version": "154.0.1",
+      "version": "155.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -173246,7 +173330,7 @@
       "id": "Myriad-Dreamin.Typlite",
       "name": "Typlite",
       "publisher": "Myriad-Dreamin",
-      "version": "0.15.2",
+      "version": "0.15.6",
       "description": "Converts a subset of typst to markdown.",
       "tags": [],
       "category": "Others",
@@ -180874,7 +180958,7 @@
       "id": "NoMachine.NoMachine",
       "name": "NoMachine",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "Free remote desktop for everybody. This version contains both the server and the client side parts of the application.",
       "tags": [
         "remote",
@@ -180893,7 +180977,7 @@
       "id": "NoMachine.NoMachine.CloudServer",
       "name": "NoMachine Cloud Server",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "For smaller deployments Cloud Server permits up to 20 connections, connecting users located outside the LAN to their NoMachine-enabled computers. Users can connect from any device or Web browser to Windows, Mac or Linux desktops on the corporate network.",
       "tags": [
         "remote",
@@ -180912,7 +180996,7 @@
       "id": "NoMachine.NoMachine.EnterpriseClient",
       "name": "NoMachine Enterprise Client",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "Get access to all your remote PCs and desktop computers where you have provided a NoMachine server product. Do that with a minimal install, including only the client-side components of the NoMachine software suite.",
       "tags": [
         "remote",
@@ -180931,7 +181015,7 @@
       "id": "NoMachine.NoMachine.EnterpriseCloudServer",
       "name": "NoMachine Enterprise Cloud Server",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "A remote access gateway which securely tunnels connections to NoMachine Windows, macOS or Linux nodes as well as foreign Unix hosts residing on the corporate network.",
       "tags": [
         "remote",
@@ -180950,7 +181034,7 @@
       "id": "NoMachine.NoMachine.EnterpriseCloudServerCluster",
       "name": "NoMachine Enterprise Cloud Server Cluster",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "A powerful, resilient gateway to your entire desktop and server infrastructure with integrated high-availability and load-balancing capabilities providing automatic failover in the case of a server outage.",
       "tags": [
         "remote",
@@ -180969,7 +181053,7 @@
       "id": "NoMachine.NoMachine.EnterpriseDesktop",
       "name": "NoMachine Enterprise Desktop",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "Make any computer accessible from remote",
       "tags": [
         "remote",
@@ -181007,7 +181091,7 @@
       "id": "NoMachine.NoMachine.WorkgroupCloudServer",
       "name": "NoMachine Workgroup Cloud Server",
       "publisher": "NoMachine S.a.r.l.",
-      "version": "10.0.59",
+      "version": "10.0.60",
       "description": "Centralize user access through a single gateway allowing NoMachine client devices to connect securely from outside the corporate network to remote desktops and servers residing inside.",
       "tags": [
         "remote",
@@ -181308,7 +181392,7 @@
       "id": "NoRiskClient.Launcher",
       "name": "NoRiskClient",
       "publisher": "norisk",
-      "version": "0.6.24",
+      "version": "0.6.25",
       "description": "noriskclient launcher written in tauri (svelte + rust)",
       "tags": [
         "hacktoberfest"
@@ -184800,7 +184884,7 @@
       "id": "okteto.okteto",
       "name": "okteto",
       "publisher": "okteto",
-      "version": "3.23.0",
+      "version": "3.23.1",
       "description": "Okteto is a cloud-native development platform that bridges the gap between local development and production, enabling seamless development and deployment in Kubernetes clusters.",
       "tags": [
         "cloud-native",
@@ -188915,7 +188999,7 @@
       "id": "OpenRunDev.OpenRun",
       "name": "OpenRun",
       "publisher": "OpenRunDev",
-      "version": "0.19.3",
+      "version": "0.19.4",
       "description": "Declarative web app deployment platform",
       "tags": [
         "cloud",
@@ -188956,7 +189040,7 @@
       "id": "OpenSC.OpenSC.Light",
       "name": "OpenSC smartcard framework Light",
       "publisher": "OpenSC Project",
-      "version": "0.26.1",
+      "version": "0.27.1",
       "description": "Open Source smartcard driver for Windows",
       "tags": [
         "c",
@@ -189237,7 +189321,7 @@
       "id": "OpenTelemetry.Weaver",
       "name": "Weaver",
       "publisher": "OpenTelemetry",
-      "version": "0.26.0",
+      "version": "0.26.1",
       "description": "OTel Weaver lets you easily develop, validate, document, and deploy semantic conventions",
       "tags": [
         "codegen",
@@ -191717,7 +191801,7 @@
       "id": "ovh.okms-cli",
       "name": "okms-cli",
       "publisher": "OVHcloud",
-      "version": "0.4.4",
+      "version": "0.5.0",
       "description": "The Command Line Interface to interact with your OVHcloud KMS services.",
       "tags": [
         "cli",
@@ -194029,7 +194113,7 @@
       "id": "PatrikLaszlo.P3XRedisUI",
       "name": "P3X Redis UI",
       "publisher": "Patrik Laszlo",
-      "version": "2025.10.110",
+      "version": "2026.10.100",
       "description": "📡 P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app",
       "tags": [
         "redis-ui"
@@ -194128,7 +194212,7 @@
       "id": "PaulSori.mStreamServer",
       "name": "mStream Server",
       "publisher": "Paul Sori",
-      "version": "5.13.1",
+      "version": "6.25.0",
       "description": "The easiest music streaming server available.",
       "tags": [
         "javascript",
@@ -200955,7 +201039,7 @@
       "id": "PreVeil.PreVeil",
       "name": "PreVeil",
       "publisher": "PreVeil",
-      "version": "6.3.0",
+      "version": "6.3.1",
       "description": "Secure end-to-end encrypted email and file sharing desktop app that integrates with Outlook, Gmail, File Explorer, and Mac Finder.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -204494,9 +204578,9 @@
     },
     {
       "id": "Qingfeng.HeyboxWow",
-      "name": "黑盒工坊",
+      "name": "HeyboxWow",
       "publisher": "Qingfeng",
-      "version": "2.0.11",
+      "version": "2.0.12",
       "description": "World of Warcraft plugin assistant.",
       "tags": [
         "china",
@@ -204506,7 +204590,7 @@
       ],
       "category": "Others",
       "icon": {
-        "monogram": "黑盒",
+        "monogram": "HE",
         "background": "#047857",
         "foreground": "#FFFFFF"
       }
@@ -210832,7 +210916,7 @@
       "id": "Revopoint.RevoScan.6",
       "name": "Revo Scan 6",
       "publisher": "Revopoint",
-      "version": "6.2.3.875",
+      "version": "6.3.1.986",
       "description": "3D Scanning and Post-processing Software",
       "tags": [
         "3d",
@@ -210870,7 +210954,7 @@
       "id": "Revopoint.RevoTrack",
       "name": "Revo Track",
       "publisher": "Revopoint",
-      "version": "5.7.9.1185",
+      "version": "5.7.10.1290",
       "description": "Specialized 3D scanning and post-processing software for Trackit 3D scanners.",
       "tags": [
         "3d",
@@ -213982,7 +214066,7 @@
       "id": "RoderickQiu.wnr",
       "name": "wnr",
       "publisher": "RoderickQiu",
-      "version": "1.30.3",
+      "version": "1.34.0",
       "description": "Work and rest, with wnr now!",
       "tags": [
         "time-management"
@@ -216361,7 +216445,7 @@
       "id": "rvben.rumdl",
       "name": "rumdl",
       "publisher": "Ruben J. Jongejan",
-      "version": "0.2.68",
+      "version": "0.2.69",
       "description": "A fast Markdown linter and formatter written in Rust.",
       "tags": [
         "cli",
@@ -216610,7 +216694,7 @@
       "id": "Ryko.GodotHub",
       "name": "GodotHub",
       "publisher": "Ryko",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "description": "What if Unity Hub and GitHub Desktop had a Baby but its Adopted? Yeah..",
       "tags": [
         "godot",
@@ -216769,7 +216853,7 @@
       "id": "SabakiHQ.Sabaki",
       "name": "Sabaki",
       "publisher": "Yichuan Shen",
-      "version": "0.52.2",
+      "version": "0.60.0",
       "description": "An elegant Go board and SGF editor for a more civilized age.",
       "tags": [
         "baduk"
@@ -216785,7 +216869,7 @@
       "id": "SABnzbdTeam.SABnzbd",
       "name": "SABnzbd",
       "publisher": "The SABnzbd Team",
-      "version": "5.0.4",
+      "version": "5.1.2",
       "description": "SABnzbd is an Open Source Binary Newsreader written in Python.",
       "tags": [
         "binary-newsreader",
@@ -220344,9 +220428,15 @@
       "id": "Scorpio.sco",
       "name": "sco",
       "publisher": "Scorpio",
-      "version": "2.3.10",
+      "version": "2.7.0",
       "description": "sco是c#实现的解释型脚本,是一种高效,轻量,可嵌入的脚本语言,语法类似javascript,类型为弱类型,通过使用基于栈的虚拟机解释字节码来运行.",
-      "tags": [],
+      "tags": [
+        "sco",
+        "scorpio",
+        "scorpio-csharp",
+        "script",
+        "unity"
+      ],
       "category": "Others",
       "icon": {
         "monogram": "SC",
@@ -220372,7 +220462,7 @@
       "id": "Scorpio.stools",
       "name": "stools",
       "publisher": "Scorpio",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "stools",
       "tags": [],
       "category": "Others",
@@ -221981,7 +222071,7 @@
       "id": "Sefinek.GenshinStellaMod",
       "name": "Genshin Stella Mod",
       "publisher": "Sefinek Inc.",
-      "version": "8.12.0.0",
+      "version": "8.12.1.0",
       "description": "Safe Genshin Impact mod with beautiful shaders, FPS unlocker, and 3DMigoto support.",
       "tags": [
         "genshin",
@@ -223324,7 +223414,7 @@
       "id": "shakaran.whatly",
       "name": "Whatly",
       "publisher": "shakaran",
-      "version": "7.6.0",
+      "version": "7.6.1",
       "description": "Feature rich WhatsApp Client for Desktop Linux",
       "tags": [],
       "category": "Others",
@@ -225457,7 +225547,7 @@
       "id": "Silhouette.SilhouetteStudio",
       "name": "Silhouette Studio",
       "publisher": "Silhouette America",
-      "version": "5.0.523",
+      "version": "5.0.539",
       "description": "Silhouette Studio allows you to access or create designs and send them to a Silhouette cutting machine.",
       "tags": [],
       "category": "Others",
@@ -226920,7 +227010,7 @@
       "id": "skyhook-io.Radar",
       "name": "Radar",
       "publisher": "skyhook-io",
-      "version": "1.12.2",
+      "version": "1.13.0",
       "description": "Make sense of a live Kubernetes cluster - topology, events, Helm, GitOps, image internals, audits - over two surfaces: a UI optimized for humans, and an MCP server optimized for AI agents. Open source, on your laptop or in your cluster.",
       "tags": [
         "argocd",
@@ -227118,7 +227208,7 @@
       "id": "SlackTechnologies.Slack",
       "name": "Slack",
       "publisher": "Slack Technologies Inc.",
-      "version": "4.51.191",
+      "version": "4.52.155",
       "description": "Slack brings the team together, wherever you are.",
       "tags": [
         "9wzdncrdk3wp",
@@ -228093,7 +228183,7 @@
       "id": "SMPlayer.SMPlayer",
       "name": "SMPlayer",
       "publisher": "Ricardo Villalba",
-      "version": "25.6.0",
+      "version": "26.8.29",
       "description": "Free Media Player for Windows and Linux with Youtube support.",
       "tags": [
         "9n80q5m0qxw6",
@@ -234816,7 +234906,7 @@
       "id": "stacklok.thv",
       "name": "thv",
       "publisher": "stacklok",
-      "version": "0.47.0",
+      "version": "0.47.1",
       "description": "ToolHive is a lightweight, secure, and fast manager for MCP (Model Context Protocol) servers",
       "tags": [
         "cli",
@@ -236847,7 +236937,7 @@
       "id": "SteveTheKiller.KillerScan",
       "name": "KillerScan",
       "publisher": "Steve the Killer",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "description": "Fast network scanner for field techs. ARP + ping discovery, port probing, active fingerprinting (HTTP, SSH, TLS, NetBIOS, SNMP), and weighted-score device classification in a single portable Windows exe.",
       "tags": [
         "arp",
@@ -237756,8 +237846,8 @@
       "id": "StudioCodeAI.LyaStudioCoder",
       "name": "Lya Studio Coder",
       "publisher": "Studio Code AI",
-      "version": "1.3.6",
-      "description": "AI-powered IDE with multi-agent orchestration (COSMOS), a 9-language interface, and an integrated terminal.",
+      "version": "1.4.0",
+      "description": "AI-powered IDE with multi-agent orchestration (COSMOS), trilingual interface, and integrated terminal.",
       "tags": [
         "ai",
         "coding",
@@ -243422,7 +243512,7 @@
       "id": "TeamViewer.TeamViewer",
       "name": "TeamViewer",
       "publisher": "TeamViewer",
-      "version": "15.81.5",
+      "version": "15.81.6",
       "description": "Secure remote access and support.",
       "tags": [
         "conference",
@@ -243525,7 +243615,7 @@
       "id": "TechHit.EZDetach",
       "name": "EZDetach",
       "publisher": "TechHit",
-      "version": "7.3.14.1914",
+      "version": "7.3.28.1928",
       "description": "Save, process, manage and remove Outlook attachments",
       "tags": [
         "email",
@@ -243996,7 +244086,7 @@
       "id": "TechSmith.Snagit.2026",
       "name": "Snagit 2026",
       "publisher": "TechSmith Corporation",
-      "version": "26.2.2",
+      "version": "26.3.1",
       "description": "Screen capture and screen recording software from TechSmith.",
       "tags": [
         "capture",
@@ -255774,7 +255864,7 @@
       "id": "Tyrrrz.DiscordChatExporter.CLI",
       "name": "DiscordChatExporter.CLI",
       "publisher": "Tyrrrz",
-      "version": "2.47.1",
+      "version": "2.48",
       "description": "Exports Discord chat logs to a file",
       "tags": [
         "archival",
@@ -260146,7 +260236,7 @@
       "id": "viarotel.Escrcpy",
       "name": "Escrcpy",
       "publisher": "viarotel",
-      "version": "3.0.8",
+      "version": "3.2.0",
       "description": "Graphical Scrcpy to display and control Android, devices powered by Electron.",
       "tags": [
         "adb",
@@ -263075,7 +263165,7 @@
       "id": "VoltKraft.ImmichFolderWatch",
       "name": "Immich Folder Watch",
       "publisher": "VoltKraft",
-      "version": "2.8.2",
+      "version": "2.10.1",
       "description": "A folder watcher and uploader for Immich that ingests new media files via the Immich HTTP API, built for automated, real-time media import on Windows and Linux.",
       "tags": [
         "immich",
@@ -267376,7 +267466,7 @@
       "id": "wasmCloud.wash",
       "name": "wash",
       "publisher": "wasmCloud",
-      "version": "2.8.0",
+      "version": "2.9.0",
       "description": "The wasmCloud Shell (wash) - a CLI for building, running, and managing WebAssembly components and wasmCloud applications.",
       "tags": [
         "cli",
@@ -267429,7 +267519,7 @@
       "id": "Wasmer.Wasmer",
       "name": "Wasmer",
       "publisher": "Wasmer, Inc.",
-      "version": "7.4.0",
+      "version": "7.4.1",
       "description": "The leading WebAssembly Runtime supporting WASI and Emscripten",
       "tags": [
         "wasm",
@@ -270271,7 +270361,7 @@
       "id": "Windscribe.Windscribe",
       "name": "Windscribe",
       "publisher": "Windscribe Limited",
-      "version": "2.24.12",
+      "version": "2.24.13",
       "description": "Windscribe encrypts your browsing activity, blocks ads, and unblocks entertainment content",
       "tags": [
         "network",
@@ -274216,7 +274306,7 @@
       "id": "Wox.Wox",
       "name": "Wox",
       "publisher": "Wox",
-      "version": "2.3.0",
+      "version": "2.4.2",
       "description": "WoX is a launcher for Windows that simply works. It's an alternative to Alfred and Launchy.",
       "tags": [
         "alfred",
@@ -274543,7 +274633,7 @@
       "id": "wuxiran.CC-Panes",
       "name": "cc-panes",
       "publisher": "ccpanes",
-      "version": "0.12.12",
+      "version": "0.12.13",
       "description": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2",
       "tags": [
         "claude-code"
@@ -278628,7 +278718,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.29",
+      "version": "0.4.30",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -279387,7 +279477,7 @@
       "id": "yt-dlp.yt-dlp",
       "name": "yt-dlp",
       "publisher": "yt-dlp",
-      "version": "2026.07.04",
+      "version": "2026.08.19",
       "description": "A feature-rich command-line audio/video downloader.",
       "tags": [
         "audio",
@@ -279941,7 +280031,7 @@
       "id": "yutat23.lsoff",
       "name": "lsoff",
       "publisher": "yutat23",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "description": "CLI and TUI for listing listening TCP and UDP ports",
       "tags": [
         "cli",
@@ -280419,7 +280509,7 @@
       "id": "Zagrios.BSManager",
       "name": "BSManager",
       "publisher": "Zagrios",
-      "version": "1.5.6",
+      "version": "1.6.0",
       "description": "An all-in-one tool that lets you easly manage BeatSaber versions, maps, mods, and even more.",
       "tags": [
         "beatsaber",
@@ -281098,7 +281188,7 @@
       "id": "ZeroClawLabs.ZeroClaw",
       "name": "ZeroClaw",
       "publisher": "ZeroClaw Labs",
-      "version": "0.8.4",
+      "version": "0.8.5",
       "description": "Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀",
       "tags": [
         "agent",
@@ -281988,7 +282078,7 @@
       "id": "ZMGID.Kivio",
       "name": "Kivio",
       "publisher": "zmair",
-      "version": "2.9.5",
+      "version": "2.9.8",
       "description": "A lightweight desktop AI client and screen-level agent: chat, tools, translation, OCR, and visual Q&A in one small app.",
       "tags": [
         "ai",
