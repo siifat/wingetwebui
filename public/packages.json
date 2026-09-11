@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T16:29:39.000Z",
+  "generatedAt": "2026-09-11T20:42:27.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "2a7ff4222f0de14f8ca4bda39277bc0a7afdca43"
+    "commit": "b3627e6e02754c93b524697dea3e98efb35cf64e"
   },
   "data": [
     {
@@ -1098,6 +1098,27 @@
       "icon": {
         "monogram": "S3",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "4G0NYY.BAKA",
+      "name": "BAKA",
+      "publisher": "4G0NYY",
+      "version": "0.2.1",
+      "description": "BitTorrent Acquisition & Keyword Aggregator, a terminal torrent search and download tool",
+      "tags": [
+        "bittorrent",
+        "cli",
+        "downloader",
+        "search",
+        "torrent",
+        "tui"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "BA",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -6446,6 +6467,31 @@
       }
     },
     {
+      "id": "aglab2.SM64StarDisplay",
+      "name": "Star Display",
+      "publisher": "aglab2",
+      "version": "1.41",
+      "description": "A program to display acquired stars in casual playthroughs. The app reads game memory and depending on it displays Stars, Keys and Caps automatically. The level you are in is highlighted with yellow rectangle.",
+      "tags": [
+        "level-warps",
+        "nintendo-64",
+        "nintendo64",
+        "sm64-star-display",
+        "super-mario-64-mods",
+        "super-mario-64-rom-hacks",
+        "super-mario-64-star-display",
+        "supermario64mods",
+        "supermario64romhacks",
+        "supermario64stardisplay"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "SD",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "AGNTCY.agentbridge",
       "name": "agentbridge",
       "publisher": "AGNTCY",
@@ -8075,7 +8121,7 @@
       "id": "Akka.Cli",
       "name": "Akka CLI",
       "publisher": "Akka",
-      "version": "3.0.73",
+      "version": "3.0.74",
       "description": "CLI for building and deploying Akka applications",
       "tags": [],
       "category": "Others",
@@ -14176,7 +14222,7 @@
       "id": "AmN.yasb",
       "name": "yasb",
       "publisher": "AmN",
-      "version": "2.0.6",
+      "version": "2.0.7",
       "description": "A configurable Windows status bar.",
       "tags": [
         "status bar",
@@ -14951,6 +14997,28 @@
       "icon": {
         "monogram": "WI",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Anderix.luxc",
+      "name": "luxc",
+      "publisher": "Anderix",
+      "version": "0.19.13",
+      "description": "A small teaching language that runs anywhere and transpiles to Rust, Swift, and Go",
+      "tags": [
+        "cli",
+        "education",
+        "interpreter",
+        "language",
+        "learning",
+        "teaching",
+        "transpiler"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "LU",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -24016,7 +24084,7 @@
       "id": "axes4.axesPDF",
       "name": "axesPDF",
       "publisher": "axes4 GmbH",
-      "version": "2.2.5.0",
+      "version": "2.5.0.0",
       "description": "Test and correct PDF documents for accessibility.",
       "tags": [
         "accessibility",
@@ -27771,7 +27839,7 @@
       "id": "Beeper.Beeper",
       "name": "Beeper",
       "publisher": "Beeper Inc.",
-      "version": "4.3.104",
+      "version": "4.3.113",
       "description": "All your chats in one app. Yes, really.",
       "tags": [
         "chat",
@@ -30298,7 +30366,7 @@
       "id": "BereneFoundation.BereneApp",
       "name": "BereneApp",
       "publisher": "Berene Foundation",
-      "version": "v0.1.1",
+      "version": "0.1.2",
       "description": "Fast and secure desktop client for Berene Web",
       "tags": [],
       "category": "Others",
@@ -33589,7 +33657,7 @@
       "id": "blacktop.ipsw",
       "name": "ipsw",
       "publisher": "blacktop",
-      "version": "3.1.716",
+      "version": "3.1.717",
       "description": "iOS/macOS Research Swiss Army Knife",
       "tags": [],
       "category": "Others",
@@ -33603,7 +33671,7 @@
       "id": "blacktop.ipswd",
       "name": "ipswd",
       "publisher": "blacktop",
-      "version": "3.1.716",
+      "version": "3.1.717",
       "description": "ipsw - Daemon",
       "tags": [],
       "category": "Others",
@@ -36121,7 +36189,7 @@
       "id": "Brave.Brave.Nightly",
       "name": "Brave Nightly",
       "publisher": "Brave Software Inc",
-      "version": "153.1.97.22",
+      "version": "153.1.97.27",
       "description": "Brave Nightly is our testing and development version of Brave. Releases are updated every night.",
       "tags": [
         "browser",
@@ -36142,7 +36210,7 @@
       "id": "Brave.BraveOrigin.Nightly",
       "name": "Brave Origin Nightly",
       "publisher": "Brave Software Inc",
-      "version": "153.1.97.22",
+      "version": "153.1.97.27",
       "description": "The untested—but stable—version of Brave Origin for advanced users and developers.",
       "tags": [
         "browser",
@@ -37832,6 +37900,36 @@
       "icon": {
         "monogram": "FG",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "BtbN.FFmpeg.GPL.9.0",
+      "name": "FFmpeg (GPL static variant, 9.0 release branch)",
+      "publisher": "BtbN",
+      "version": "9.0.1-20260831",
+      "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
+      "tags": [
+        "audio",
+        "codec",
+        "convert",
+        "decode",
+        "demux",
+        "encode",
+        "filter",
+        "media",
+        "multimedia",
+        "mux",
+        "record",
+        "stream",
+        "streaming",
+        "transcode",
+        "video"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "FG",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -44016,6 +44114,25 @@
       }
     },
     {
+      "id": "ChawyeHsu.Moonup",
+      "name": "moonup",
+      "publisher": "Chawye Hsu",
+      "version": "0.6.1",
+      "description": "Manage multiple MoonBit installations with ease",
+      "tags": [
+        "cli",
+        "command-line",
+        "dev-tool",
+        "moonbit"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "MO",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ChawyeHsu.Nano",
       "name": "GNU nano for Windows",
       "publisher": "Chawye Hsu",
@@ -44466,7 +44583,7 @@
       "id": "ChiaNetwork.GUIforChiaBlockchain",
       "name": "Chia",
       "publisher": "Chia Network",
-      "version": "2.7.3",
+      "version": "2.7.4",
       "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
       "tags": [
         "blockchain",
@@ -50952,7 +51069,7 @@
       "id": "CommunicationPlatform.MAX",
       "name": "MAX",
       "publisher": "CommunicationPlatform",
-      "version": "26.30.0",
+      "version": "26.31.0",
       "description": "A fast and easy application for communication and solving everyday tasks",
       "tags": [
         "call",
@@ -55162,7 +55279,7 @@
       "id": "cubezombies.MidnightAthenaeum",
       "name": "Midnight Athenaeum",
       "publisher": "cubezombies",
-      "version": "0.16.2",
+      "version": "0.17.0",
       "description": "A desktop audiobook player for Windows, built with Electron.",
       "tags": [
         "audiobook",
@@ -64105,7 +64222,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1167",
+      "version": "1.0.1168",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -74010,7 +74127,7 @@
       "id": "EligianLabs.PIICrawlerCLI",
       "name": "PIICrawler CLI",
       "publisher": "Eligian Labs LLC",
-      "version": "26.0911.1452",
+      "version": "26.0911.1800",
       "description": "PII Crawler scans your files, network shares, and databases on your own hardware. Surface the SSNs, addresses, names, and emails hiding where SaaS tools can’t reach. Nothing ever leaves your network.",
       "tags": [
         "pii",
@@ -85814,7 +85931,7 @@
       "id": "Fragstats.Fragstats",
       "name": "Fragstats",
       "publisher": "Fragstats",
-      "version": "5.2",
+      "version": "6.0.934",
       "description": "A spatial pattern analysis program for categorical maps.",
       "tags": [
         "geospatial",
@@ -85833,7 +85950,7 @@
       "id": "Framefilter.Keyroost",
       "name": "keyroost",
       "publisher": "framefilter",
-      "version": "0.8.0",
+      "version": "0.9.0",
       "description": "Program Token2 Molto2 TOTP tokens and manage FIDO2/OATH/OpenPGP/PIV security keys.",
       "tags": [
         "2fa",
@@ -91066,7 +91183,7 @@
       "id": "GIMP.GIMP.3",
       "name": "GIMP",
       "publisher": "The GIMP Team",
-      "version": "3.2.4.0",
+      "version": "3.2.6.0",
       "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
       "tags": [
         "edit",
@@ -94846,7 +94963,7 @@
       "id": "Google.Chrome.EXE",
       "name": "Google Chrome (EXE)",
       "publisher": "Google LLC",
-      "version": "152.0.7977.83",
+      "version": "153.0.8010.37",
       "description": "The browser built by Google",
       "tags": [
         "browser",
@@ -96747,7 +96864,7 @@
       "id": "GrainIntelligence.Grain",
       "name": "Grain",
       "publisher": "Grain",
-      "version": "2026.33.3",
+      "version": "2026.34.1",
       "description": "The AI notetaker for agents and teams",
       "tags": [
         "caption",
@@ -101406,10 +101523,10 @@
     },
     {
       "id": "HelmutBuhler.8GadgetPack",
-      "name": "8GadgetPack",
-      "publisher": "8GadgetPack.net",
-      "version": "37.0.0",
-      "description": "8GadgetPack makes it possible to use gadgets on Windows 11 / 10 / 8.1 / 7.",
+      "name": "GadgetPack",
+      "publisher": "gadgetpack.net",
+      "version": "43.0.0",
+      "description": "GadgetPack makes it possible to use gadgets on Windows 11 / 10 / 8.1 / 7.",
       "tags": [
         "gadget",
         "sidebar",
@@ -101417,7 +101534,7 @@
       ],
       "category": "Others",
       "icon": {
-        "monogram": "8G",
+        "monogram": "GA",
         "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
@@ -104671,7 +104788,7 @@
       "id": "hrzlgnm.mdns-browser",
       "name": "mdns-browser",
       "publisher": "hrzlgnm",
-      "version": "1.20.4",
+      "version": "1.21.0",
       "description": "mDNS Browser",
       "tags": [
         "leptos",
@@ -104691,7 +104808,7 @@
       "id": "hrzlgnm.mdns-tui-browser",
       "name": "mDNS TUI Browser",
       "publisher": "hrzlgnm",
-      "version": "v1.34.6",
+      "version": "v1.34.8",
       "description": "Cross platform TUI mdns-browser written in rust, vibe coded with opencode free model",
       "tags": [
         "mdns-sd",
@@ -104710,7 +104827,7 @@
       "id": "hrzlgnm.zux",
       "name": "zux",
       "publisher": "hrzlgnm",
-      "version": "1.13.0",
+      "version": "1.13.2",
       "description": "zux",
       "tags": [
         "mdns-sd",
@@ -111956,7 +112073,7 @@
       "id": "io.github.frathe.picfetch",
       "name": "PicFetch",
       "publisher": "Florian Rathe",
-      "version": "1.0.3",
+      "version": "1.1.0",
       "description": "A small multi-platform desktop app for quickly viewing and browsing images.",
       "tags": [
         "fyne",
@@ -118976,7 +119093,7 @@
       "id": "JetBrains.RubyMine.EAP",
       "name": "RubyMine (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "263.3889.66",
+      "version": "263.4732.30",
       "description": "Empowering Ruby Developers",
       "tags": [
         "code",
@@ -121185,7 +121302,7 @@
       "id": "Joplin.Joplin",
       "name": "Joplin",
       "publisher": "Laurent Cozic",
-      "version": "3.7.16",
+      "version": "3.7.18",
       "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
       "tags": [
         "checklist",
@@ -132038,7 +132155,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.96.0",
+      "version": "1.97.1",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -135158,7 +135275,7 @@
       "id": "Lingbao.EasyClaw",
       "name": "EasyClaw",
       "publisher": "EasyClaw Team",
-      "version": "1.3.105",
+      "version": "1.3.106",
       "description": "The AI Assistant That Just Works. Based on the OpenClaw framework. One-click install. Zero configuration. No API key required.",
       "tags": [
         "agent",
@@ -139258,7 +139375,7 @@
       "id": "LuisPater.CLIProxyAPI",
       "name": "CLI Proxy API",
       "publisher": "Luis Pater",
-      "version": "7.2.157",
+      "version": "7.2.158",
       "description": "Wrap Gemini CLI, ChatGPT Codex as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5 model through API",
       "tags": [
         "ai",
@@ -148159,8 +148276,15 @@
       "name": "Microsoft Advertising Editor",
       "publisher": "Microsoft Corporation",
       "version": "11.31.22640",
-      "description": "Manage Microsoft Advertising campaigns in bulk from a desktop app, online or offline.",
-      "tags": [],
+      "description": "Manage Microsoft Advertising campaigns in bulk from a desktop app, online or offline",
+      "tags": [
+        "advertising",
+        "bulk-edit",
+        "campaigns",
+        "microsoft-ads",
+        "ppc",
+        "sem"
+      ],
       "category": "Microsoft Tools",
       "icon": {
         "monogram": "MA",
@@ -153846,7 +153970,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.160.0",
+      "version": "1.459.162.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -158849,7 +158973,7 @@
       "id": "MistralAI.MistralVibe.ACP",
       "name": "Mistral Vibe (ACP mode)",
       "publisher": "Mistral AI",
-      "version": "2.25.2",
+      "version": "2.25.3",
       "description": "Minimal CLI coding agent by Mistral",
       "tags": [
         "agent",
@@ -159881,7 +160005,7 @@
       "id": "Mobatek.MobaXterm",
       "name": "MobaXterm",
       "publisher": "Mobatek",
-      "version": "26.4.0.5512",
+      "version": "26.5.0.5542",
       "description": "Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more",
       "tags": [
         "ftp",
@@ -160310,7 +160434,7 @@
       "id": "Modrinth.ModrinthApp",
       "name": "Modrinth App",
       "publisher": "Modrinth",
-      "version": "0.20.2",
+      "version": "0.20.3",
       "description": "The Modrinth App is a unique, open source Minecraft launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package.",
       "tags": [
         "minecraft",
@@ -165553,7 +165677,7 @@
       "id": "Mozilla.Firefox.ESR.be",
       "name": "Mozilla Firefox ESR (be)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165645,7 +165769,7 @@
       "id": "Mozilla.Firefox.ESR.bs",
       "name": "Mozilla Firefox ESR (bs)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165898,7 +166022,7 @@
       "id": "Mozilla.Firefox.ESR.en-GB",
       "name": "Mozilla Firefox ESR (en-GB)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165944,7 +166068,7 @@
       "id": "Mozilla.Firefox.ESR.es-AR",
       "name": "Mozilla Firefox ESR (es-AR)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -165967,7 +166091,7 @@
       "id": "Mozilla.Firefox.ESR.es-CL",
       "name": "Mozilla Firefox ESR (es-CL)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166013,7 +166137,7 @@
       "id": "Mozilla.Firefox.ESR.es-MX",
       "name": "Mozilla Firefox ESR (es-MX)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166036,7 +166160,7 @@
       "id": "Mozilla.Firefox.ESR.et",
       "name": "Mozilla Firefox ESR (et)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166289,7 +166413,7 @@
       "id": "Mozilla.Firefox.ESR.gn",
       "name": "Mozilla Firefox ESR (gn)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166404,7 +166528,7 @@
       "id": "Mozilla.Firefox.ESR.hsb",
       "name": "Mozilla Firefox ESR (hsb)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166611,7 +166735,7 @@
       "id": "Mozilla.Firefox.ESR.kab",
       "name": "Mozilla Firefox ESR (kab)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -166887,7 +167011,7 @@
       "id": "Mozilla.Firefox.ESR.my",
       "name": "Mozilla Firefox ESR (my)",
       "publisher": "Mozilla",
-      "version": "153.1.0",
+      "version": "153.2.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -167922,7 +168046,7 @@
       "id": "Mozilla.Firefox.fy-NL",
       "name": "Mozilla Firefox (fy-NL)",
       "publisher": "Mozilla",
-      "version": "155.0",
+      "version": "155.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -172942,6 +173066,26 @@
       "icon": {
         "monogram": "MU",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "MudabbirulSaad.NetPulse",
+      "name": "NetPulse",
+      "publisher": "Mudabbirul Saad",
+      "version": "1.0.0",
+      "description": "A compact Windows dashboard for monitoring HTTP endpoints and DNS resolvers.",
+      "tags": [
+        "dns",
+        "http",
+        "monitoring",
+        "network",
+        "wpf"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "NE",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -193323,6 +193467,20 @@
       }
     },
     {
+      "id": "P1N2O.CodeRadio",
+      "name": "CodeRadio",
+      "publisher": "P1N2O",
+      "version": "0.1.0",
+      "description": "A tiny, single-binary, zero configuration cross-platform **terminal player for freeCodeCamp Code Radio.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "CO",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "P1NK0.GoType",
       "name": "GoType",
       "publisher": "P1NK0",
@@ -195946,7 +196104,7 @@
       "id": "PEAKSystem.PEAKDrivers",
       "name": "PEAK-Drivers",
       "publisher": "PEAK-System Technik GmbH",
-      "version": "5.1.2.1151",
+      "version": "5.1.3.1189",
       "description": "Device drivers, tools, and APIs for PEAK-System PC interfaces.",
       "tags": [],
       "category": "Others",
@@ -210542,7 +210700,7 @@
       "id": "Regressi.Regressi64",
       "name": "Regressi",
       "publisher": "Evariste",
-      "version": "5.26.8.0",
+      "version": "5.26.9.0",
       "description": "Logiciel de traitements de données expérimentales",
       "tags": [],
       "category": "Others",
@@ -214320,6 +214478,29 @@
       }
     },
     {
+      "id": "RobertasTa.TempCleaner",
+      "name": "Temp Cleaner",
+      "publisher": "RobertasTa",
+      "version": "1.1",
+      "description": "Transparent temp-file cleaner that shows its reasoning, previews every deletion, and keeps a full audit log.",
+      "tags": [
+        "cleaner",
+        "disk-cleanup",
+        "disk-space",
+        "open-source",
+        "portable",
+        "privacy",
+        "temp-files",
+        "transparent"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "TC",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "RobertFFrasca.PDFKeeper",
       "name": "PDFKeeper",
       "publisher": "Robert F. Frasca",
@@ -214332,6 +214513,29 @@
       "icon": {
         "monogram": "PD",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "RobertoB.SussurroIA",
+      "name": "Sussurro IA",
+      "publisher": "RobertoB",
+      "version": "1.0.0",
+      "description": "Voice dictation for Windows that types into the field you are already using.",
+      "tags": [
+        "dictation",
+        "groq",
+        "italian",
+        "productivity",
+        "speech-to-text",
+        "transcription",
+        "voice",
+        "whisper"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "SI",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -222792,7 +222996,7 @@
       "id": "seerge.g-helper.PreRelease",
       "name": "G-Helper PreRelease",
       "publisher": "seerge",
-      "version": "0.281",
+      "version": "0.283",
       "description": "Lightweight Armoury Crate alternative for Asus laptops.",
       "tags": [
         "armoury-crate",
@@ -226346,7 +226550,7 @@
       "id": "Sidero.omnictl",
       "name": "omnictl",
       "publisher": "Sidero Labs",
-      "version": "1.11.0",
+      "version": "1.12.0",
       "description": "A command line tool for communicating with Omni",
       "tags": [
         "k8s",
@@ -229443,7 +229647,7 @@
       "id": "SmokeTurner.Vouch",
       "name": "Vouch",
       "publisher": "Smoke Turner, LLC",
-      "version": "2026.9.1",
+      "version": "2026.9.2",
       "description": "Hardware-backed identity for developers",
       "tags": [
         "aws",
@@ -234157,7 +234361,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1789113641-gcd8b8a",
+      "version": "0.0.1789128057-g5b22e8",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -236143,7 +236347,7 @@
       "id": "Stack-Cairn.LiveAgent",
       "name": "LiveAgent",
       "publisher": "Stack-Cairn",
-      "version": "1.3.3",
+      "version": "1.3.5",
       "description": "A local-first AI agent desktop client that deeply integrates large language model reasoning with local system tools.",
       "tags": [
         "agent",
@@ -236238,7 +236442,7 @@
       "id": "stacklok.thv",
       "name": "thv",
       "publisher": "stacklok",
-      "version": "0.48.0",
+      "version": "0.49.0",
       "description": "ToolHive is a lightweight, secure, and fast manager for MCP (Model Context Protocol) servers",
       "tags": [
         "cli",
@@ -239114,7 +239318,7 @@
       "id": "StruisICT.ClutterCutter",
       "name": "ClutterCutter",
       "publisher": "Struis ICT",
-      "version": "0.13.2",
+      "version": "0.14.0",
       "description": "Fast disk-usage browser with NTFS MFT scanning.",
       "tags": [
         "disk",
@@ -239839,7 +240043,7 @@
       "id": "SumbitLabs.Aptakube",
       "name": "Aptakube",
       "publisher": "Sumbit Labs Limited",
-      "version": "1.20.0",
+      "version": "1.20.1",
       "description": "Modern, lightweight and multi-cluster Kubernetes GUI.",
       "tags": [
         "cluster",
@@ -243447,9 +243651,20 @@
       "id": "TanmoyTheBoT.PyDM",
       "name": "PyDM",
       "publisher": "TanmoyTheBoT",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "description": "A modern Python download manager.",
-      "tags": [],
+      "tags": [
+        "desktop-application",
+        "httpx",
+        "open-source-project",
+        "pydm",
+        "pyside6",
+        "python-download-manager",
+        "python-packaging",
+        "qt6",
+        "uv",
+        "windows-installer"
+      ],
       "category": "Others",
       "icon": {
         "monogram": "PY",
@@ -247147,7 +247362,7 @@
       "id": "termio.soft-jp.com.TermioWin",
       "name": "TermioWin",
       "publisher": "termio.soft-jp.com",
-      "version": "1.2.23",
+      "version": "1.2.24",
       "description": "A lightweight local web terminal for Windows with AI CLI integration.",
       "tags": [],
       "category": "Others",
@@ -247529,7 +247744,7 @@
       "id": "tessl.tessl",
       "name": "Tessl CLI",
       "publisher": "Tessl",
-      "version": "0.107.0",
+      "version": "0.108.0",
       "description": "Tessl CLI for managing plugins, skills, and evals.",
       "tags": [
         "agentic",
@@ -257275,7 +257490,7 @@
       "id": "Tympanix.Electorrent",
       "name": "Electorrent",
       "publisher": "tympanix",
-      "version": "2.16.2",
+      "version": "2.17.0",
       "description": "An Electron remote client app for uTorrent server",
       "tags": [
         "bittorrent-client",
@@ -269961,8 +270176,8 @@
       "id": "Weita.AitNative",
       "name": "ait-native",
       "publisher": "Weita",
-      "version": "1.0.0-rc.5",
-      "description": "Language-neutral native AIT CLI and inactive self-hosted server",
+      "version": "1.1.3",
+      "description": "Language-neutral native AIT CLI and runner with an inactive self-hosted server",
       "tags": [
         "ai",
         "cli",
