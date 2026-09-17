@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T17:00:44.000Z",
+  "generatedAt": "2026-09-17T21:20:18.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "af5c74957b91af8a6ad3eb91592bdef15db9d18f"
+    "commit": "69d567771988c588ad5ef766acca6b18602707a3"
   },
   "data": [
     {
@@ -2686,7 +2686,7 @@
       "id": "AbishekNarasimhan.RavensPort",
       "name": "RavensPort",
       "publisher": "Abishek Narasimhan",
-      "version": "4.6.0",
+      "version": "4.6.1",
       "description": "A tray-resident local proxy that owns the OAuth2 flow for the APIs and MCP servers you use, pools several servers behind one endpoint, and exposes only the tools each AI agent is allowed.",
       "tags": [
         "1password",
@@ -7910,7 +7910,7 @@
       "id": "Aixbox.DesktopGo",
       "name": "DesktopGo",
       "publisher": "Aixbox",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "A Windows desktop launchpad that brings app launching, icon organization, and Everything-powered file search into one focused entry point.",
       "tags": [
         "directory",
@@ -8086,7 +8086,7 @@
       "id": "Akiflow.Akiflow",
       "name": "Akiflow",
       "publisher": "Akiflow Inc.",
-      "version": "2.78.15",
+      "version": "2.81.8",
       "description": "One App for Tasks & Calendars",
       "tags": [
         "agenda",
@@ -14855,7 +14855,7 @@
       "id": "Anchore.Grype",
       "name": "Grype",
       "publisher": "Anchore Inc",
-      "version": "0.118.0",
+      "version": "0.119.0",
       "description": "A vulnerability scanner for container images and filesystems",
       "tags": [
         "container-image",
@@ -33475,7 +33475,7 @@
       "id": "Bitwarden.DirectoryConnector.CLI",
       "name": "Bitwarden Directory Connector (CLI)",
       "publisher": "Bitwarden",
-      "version": "2026.6.1",
+      "version": "2026.9.0",
       "description": "A desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups.",
       "tags": [
         "bitwarden-directory-connector",
@@ -33663,7 +33663,7 @@
       "id": "blacktop.ipsw",
       "name": "ipsw",
       "publisher": "blacktop",
-      "version": "3.1.721",
+      "version": "3.1.722",
       "description": "iOS/macOS Research Swiss Army Knife",
       "tags": [],
       "category": "Others",
@@ -33677,7 +33677,7 @@
       "id": "blacktop.ipswd",
       "name": "ipswd",
       "publisher": "blacktop",
-      "version": "3.1.721",
+      "version": "3.1.722",
       "description": "ipsw - Daemon",
       "tags": [],
       "category": "Others",
@@ -36195,7 +36195,7 @@
       "id": "Brave.Brave.Nightly",
       "name": "Brave Nightly",
       "publisher": "Brave Software Inc",
-      "version": "154.1.97.39",
+      "version": "154.1.98.5",
       "description": "Brave Nightly is our testing and development version of Brave. Releases are updated every night.",
       "tags": [
         "browser",
@@ -36216,7 +36216,7 @@
       "id": "Brave.BraveOrigin.Nightly",
       "name": "Brave Origin Nightly",
       "publisher": "Brave Software Inc",
-      "version": "154.1.97.39",
+      "version": "154.1.98.5",
       "description": "The untested—but stable—version of Brave Origin for advanced users and developers.",
       "tags": [
         "browser",
@@ -48268,7 +48268,7 @@
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
       "publisher": "MPC-HC Team",
-      "version": "2.8.1",
+      "version": "2.8.2",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "tags": [
         "audio",
@@ -49941,9 +49941,15 @@
       "id": "Codice.PlasticSCM.CloudEdition",
       "name": "PlasticSCM Cloud Edition",
       "publisher": "Codice Software S.L.",
-      "version": "11.0.16.7134",
+      "version": "11.0.16.10371",
       "description": "Unity Plastic SCM is source control designed for game development.",
-      "tags": [],
+      "tags": [
+        "plastic-scm",
+        "source-control",
+        "unity",
+        "uvcs",
+        "version-control"
+      ],
       "category": "Cloud & Storage",
       "icon": {
         "monogram": "PC",
@@ -53829,7 +53835,7 @@
       "id": "CrazyFigure.MyTerminal",
       "name": "MyTerminal",
       "publisher": "CrazyFigure",
-      "version": "0.8.7",
+      "version": "0.8.8",
       "description": "A modern desktop SSH terminal manager built with Rust, Tauri 2, and React.",
       "tags": [
         "console",
@@ -62290,7 +62296,7 @@
       "id": "Devolutions.Launcher",
       "name": "Launcher",
       "publisher": "Devolutions inc.",
-      "version": "2026.3.5.0",
+      "version": "2026.3.8.0",
       "description": "Remote Connection Launching Tool for Devolutions Server & Devolutions Hub Business!",
       "tags": [
         "devolutions",
@@ -62343,7 +62349,7 @@
       "id": "Devolutions.RemoteDesktopManager",
       "name": "Remote Desktop Manager",
       "publisher": "Devolutions inc.",
-      "version": "2026.3.5.0",
+      "version": "2026.3.8.0",
       "description": "Remote Connections & Passwords. Everywhere!",
       "tags": [
         "ard",
@@ -63511,7 +63517,7 @@
       "id": "DigitalVolcanoSoftware.DuplicateCleaner.5",
       "name": "Duplicate Cleaner Pro 5",
       "publisher": "DigitalVolcano Software Ltd",
-      "version": "5.27.0.0",
+      "version": "5.28.0.0",
       "description": "Find and delete duplicate files, music, photos, documents and much more!",
       "tags": [
         "clean",
@@ -64401,7 +64407,7 @@
       "id": "Discord.Discord.PTB",
       "name": "Discord PTB",
       "publisher": "Discord Inc.",
-      "version": "1.0.1220",
+      "version": "1.0.1221",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -64424,7 +64430,7 @@
       "id": "Discord.Discord.PTB.arm64",
       "name": "Discord PTB (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.1220",
+      "version": "1.0.1221",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -66860,6 +66866,20 @@
       "icon": {
         "monogram": "UW",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "dosa.achu",
+      "name": "achu",
+      "publisher": "NaveenKumar Namachivayam",
+      "version": "26.8.1",
+      "description": "A lightweight Windows desktop application for beautifying screenshots.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "AC",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -93128,6 +93148,26 @@
       }
     },
     {
+      "id": "gmhoward9289-ops.legbar",
+      "name": "legbar",
+      "publisher": "George M. Howard",
+      "version": "0.2.0",
+      "description": "One screen for the whole fleet - live agent sessions beside GitHub CI",
+      "tags": [
+        "claude",
+        "cli",
+        "cursor",
+        "dashboard",
+        "monitoring"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "LE",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "gmhoward9289-ops.roost",
       "name": "roost",
       "publisher": "George M. Howard",
@@ -97047,7 +97087,7 @@
       "id": "Granola.Granola",
       "name": "Granola",
       "publisher": "Granola",
-      "version": "7.568.0",
+      "version": "7.576.0",
       "description": "The AI notepad for people in back-to-back meetings",
       "tags": [
         "audio",
@@ -99858,7 +99898,7 @@
       "id": "hanshutx.NeZha",
       "name": "NeZha",
       "publisher": "hanshutx",
-      "version": "0.4.7",
+      "version": "0.5.0",
       "description": "Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.",
       "tags": [
         "agent",
@@ -104598,7 +104638,7 @@
       "id": "HP.HPClick",
       "name": "HP Click",
       "publisher": "HP",
-      "version": "4.10.42",
+      "version": "4.11.31",
       "description": "Print the most common formats like PDF, JPEG, TIFF, and HP-GL/2 files with one click.",
       "tags": [
         "print",
@@ -112142,7 +112182,7 @@
       "id": "io.github.frathe.picfetch",
       "name": "PicFetch",
       "publisher": "Florian Rathe",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "description": "A small multi-platform desktop app for quickly viewing and browsing images.",
       "tags": [
         "fyne",
@@ -119294,7 +119334,7 @@
       "id": "JetBrains.Toolbox",
       "name": "JetBrains Toolbox",
       "publisher": "JetBrains",
-      "version": "3.8.0.0",
+      "version": "3.8.1.0",
       "description": "Manage your IDEs the easy way.",
       "tags": [
         "jetbrains-ides",
@@ -123315,7 +123355,7 @@
       "id": "Kabeen.KabeenServerAgent",
       "name": "KabeenServerAgent",
       "publisher": "Kabeen",
-      "version": "3.2.1",
+      "version": "3.2.2",
       "description": "Server monitoring agent",
       "tags": [
         "agent",
@@ -124381,7 +124421,7 @@
       "id": "kawayiYokami.P-ai",
       "name": "P-ai",
       "publisher": "yokami",
-      "version": "0.91.0",
+      "version": "0.91.1",
       "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation.",
       "tags": [
         "agent",
@@ -124483,7 +124523,7 @@
       "id": "kayodante.Siphon",
       "name": "Siphon",
       "publisher": "kayodante",
-      "version": "1.14.4",
+      "version": "1.14.5",
       "description": "Windows tray app that tracks Claude Code usage in real time.",
       "tags": [
         "ai",
@@ -126794,7 +126834,7 @@
       "id": "KeeperSecurity.KeeperDesktop",
       "name": "Keeper® Password Manager",
       "publisher": "Keeper Security Inc",
-      "version": "18.6.2.0",
+      "version": "18.6.3.0",
       "description": "The top-rated password manager for protecting you, your family and your business from password-related data breaches and cyberthreats.",
       "tags": [
         "9n040srq0s8c",
@@ -129676,7 +129716,7 @@
       "id": "Kraken.KrakenDesktop",
       "name": "Kraken Desktop",
       "publisher": "Payward Inc.",
-      "version": "1.29.1",
+      "version": "1.30.0",
       "description": "Professional desktop trading terminal for the Kraken cryptocurrency exchange.",
       "tags": [
         "chart",
@@ -130680,7 +130720,7 @@
       "id": "Kuddev.Nebula",
       "name": "Nebula Terminal",
       "publisher": "Kuddev",
-      "version": "1.8.0",
+      "version": "1.8.2",
       "description": "A GPU-accelerated terminal for Windows that keeps your sessions alive.",
       "tags": [
         "claude",
@@ -134165,7 +134205,7 @@
       "id": "LGUplus.UplusWorksMessenger",
       "name": "U+Works Messenger",
       "publisher": "LGU+",
-      "version": "1.0.38",
+      "version": "1.0.39",
       "description": "U+Works Messenger",
       "tags": [],
       "category": "Others",
@@ -134964,7 +135004,7 @@
       "id": "LilBuba.K8",
       "name": "K8",
       "publisher": "LilBuba",
-      "version": "1.8.0",
+      "version": "1.8.1",
       "description": "Safe, private, one-time Windows dedupe and cleanup - find duplicate files, photos, media and developer junk, with quarantine-and-restore.",
       "tags": [
         "cleanup",
@@ -136517,7 +136557,7 @@
       "id": "llt22.Talkio",
       "name": "Talkio",
       "publisher": "llt22",
-      "version": "2.15.0",
+      "version": "2.16.0",
       "description": "Let multiple AIs chat simultaneously on your desktop.",
       "tags": [
         "ai",
@@ -144064,7 +144104,7 @@
       "id": "Mateuscruz19.BATorrent",
       "name": "BATorrent",
       "publisher": "Mateus Cruz",
-      "version": "3.0.3",
+      "version": "4.8.0",
       "description": "A privacy-first BitTorrent client with movie & game cover art, six themes, and zero ads.",
       "tags": [
         "bittorrent",
@@ -148030,7 +148070,7 @@
       "id": "MichalTrojnara.Stunnel",
       "name": "Stunnel",
       "publisher": "Michal Trojnara",
-      "version": "5.81",
+      "version": "5.82",
       "description": "Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code.",
       "tags": [
         "encryption",
@@ -151631,7 +151671,7 @@
       "id": "Microsoft.Edge",
       "name": "Microsoft Edge",
       "publisher": "Microsoft Corporation",
-      "version": "153.0.4234.32",
+      "version": "153.0.4234.46",
       "description": "Microsoft Edge is a cross-platform web browser built for modern life.",
       "tags": [
         "browser",
@@ -154096,7 +154136,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.255.0",
+      "version": "1.459.258.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -185035,7 +185075,7 @@
       "id": "OCaml.opam",
       "name": "opam",
       "publisher": "OCaml, Inc.",
-      "version": "2.5.2",
+      "version": "2.6.0",
       "description": "A package manager for OCaml.",
       "tags": [
         "dependency-manager",
@@ -203281,7 +203321,7 @@
       "id": "Proma.Proma",
       "name": "Proma",
       "publisher": "Proma",
-      "version": "0.19.57",
+      "version": "0.19.61",
       "description": "A local-first AI desktop application that integrates multi-model Chat, general Agent, workspace, Skills, MCP, remote bots, and memory capabilities into a single open-source client.",
       "tags": [
         "agent",
@@ -215794,7 +215834,7 @@
       "id": "Roman-16.ProtonCLI",
       "name": "proton-cli",
       "publisher": "Roman-16",
-      "version": "4.2.0",
+      "version": "4.2.1",
       "description": "Unofficial CLI for Proton Mail, Drive, Calendar, Pass and Contacts",
       "tags": [
         "cli",
@@ -234581,7 +234621,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1789646488-g024bbd",
+      "version": "0.0.1789660852-g000545",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -235210,7 +235250,7 @@
       "id": "SpecScore.CLI",
       "name": "SpecScore",
       "publisher": "SpecScore",
-      "version": "0.53.0",
+      "version": "0.53.1",
       "description": "Lint, validate, and navigate Markdown specifications.",
       "tags": [],
       "category": "Others",
@@ -235855,7 +235895,7 @@
       "id": "Spotify.Spotify",
       "name": "Spotify",
       "publisher": "Spotify AB",
-      "version": "1.3.0.277.g5441bb3e",
+      "version": "1.3.1.234.g59d6bf59",
       "description": "All the music you’ll ever need.",
       "tags": [
         "9ncbcszsjrsb",
@@ -237367,6 +237407,30 @@
       "icon": {
         "monogram": "FI",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "StarWhisper.StarWhisper",
+      "name": "StarWhisper",
+      "publisher": "StarWhisper",
+      "version": "1.3.296",
+      "description": "AI-powered voice-to-text dictation for Windows using whisper.cpp. Works 100% offline.",
+      "tags": [
+        "accessibility",
+        "ai",
+        "dictation",
+        "offline",
+        "speech-to-text",
+        "transcription",
+        "voice",
+        "voice-dictation",
+        "whisper"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "ST",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -264328,7 +264392,7 @@
       "id": "Vita3K.Vita3K",
       "name": "Vita3K",
       "publisher": "Vita3K",
-      "version": "0.2.1.4095",
+      "version": "0.2.1.4096",
       "description": "Experimental PlayStation Vita emulator.",
       "tags": [
         "cpp",
@@ -278419,7 +278483,7 @@
       "id": "XinTaoFei.Codeg",
       "name": "codeg",
       "publisher": "codeg",
-      "version": "0.30.8",
+      "version": "0.30.10",
       "description": "Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.",
       "tags": [
         "agent",
@@ -280541,6 +280605,25 @@
       "category": "Others",
       "icon": {
         "monogram": "YC",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "yd-null.DateCalc",
+      "name": "DateCalc for Command Palette",
+      "publisher": "yd-null",
+      "version": "0.1.0",
+      "description": "Perform date arithmetic in the PowerToys Command Palette.",
+      "tags": [
+        "date",
+        "date-calculator",
+        "powertoys",
+        "windows-commandpalette-extension"
+      ],
+      "category": "Microsoft Tools",
+      "icon": {
+        "monogram": "DF",
         "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
