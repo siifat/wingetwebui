@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T17:48:54.000Z",
+  "generatedAt": "2026-09-19T23:22:19.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "c756d90f579df18b05a35cd12ab6a3cf4fe539dd"
+    "commit": "e0ae057620e2fcbfe77a25e72c023526b3a8657d"
   },
   "data": [
     {
@@ -45614,7 +45614,7 @@
       "id": "ChristofMueller.DeviceShelf",
       "name": "DeviceShelf",
       "publisher": "Christof Müller",
-      "version": "1.9.6",
+      "version": "1.9.30",
       "description": "Local-first network scanner that finds and identifies every device on your LAN.",
       "tags": [
         "device-discovery",
@@ -101109,6 +101109,27 @@
       }
     },
     {
+      "id": "hclivess.diskmaster",
+      "name": "diskmaster",
+      "publisher": "hclivess",
+      "version": "1.1",
+      "description": "Drive health monitor with native SMART, an explained health score and surface scans",
+      "tags": [
+        "disk-health",
+        "hard-drive",
+        "hdd",
+        "monitoring",
+        "smart",
+        "ssd"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "DI",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "hcs64.ww2ogg",
       "name": "ww2ogg",
       "publisher": "hcs64",
@@ -104928,7 +104949,7 @@
       "id": "HP.ConnectivityKit",
       "name": "HP Connectivity Kit",
       "publisher": "HP",
-      "version": "2.4",
+      "version": "2.4.2",
       "description": "Windows-based software for connecting to the HP Prime calculator.",
       "tags": [
         "calculator"
@@ -122894,20 +122915,6 @@
       }
     },
     {
-      "id": "JumpingBytes.PureSync.Personal",
-      "name": "PureSync",
-      "publisher": "Jumping Bytes",
-      "version": "8.6.1",
-      "description": "PureSync, a file and folder synchronization and backup tool, by Jumping Bytes",
-      "tags": [],
-      "category": "Cloud & Storage",
-      "icon": {
-        "monogram": "PU",
-        "background": "#C2410C",
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
       "id": "jumppad.jumppad",
       "name": "Jumppad",
       "publisher": "Jumppad",
@@ -129148,6 +129155,25 @@
       "icon": {
         "monogram": "LA",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "kkamegawa.syncwingetlink",
+      "name": "syncwingetlink",
+      "publisher": "kkamegawa",
+      "version": "0.1.0",
+      "description": "Recreate missing WinGet command aliases for portable packages.",
+      "tags": [
+        "cli",
+        "portable",
+        "utility",
+        "winget"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "SY",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -185319,6 +185345,28 @@
       }
     },
     {
+      "id": "OBD2FaultFinder.OBD2FaultFinder",
+      "name": "OBD2 FaultFinder",
+      "publisher": "OBD2 FaultFinder",
+      "version": "1.1.3",
+      "description": "OBD2 diagnostic software for Windows and Linux. Reads trouble codes and explains them in plain language, shows live engine sensors, records a drive and plays it back, and compares two drives to show whether a repair worked.",
+      "tags": [
+        "automotive",
+        "car",
+        "diagnostics",
+        "obd",
+        "obd2",
+        "obdii",
+        "scanner"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "OF",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Obiddable.Obiddable",
       "name": "Obiddable",
       "publisher": "Obiddable",
@@ -204927,7 +204975,7 @@
       "id": "PulseHD.PulseHD",
       "name": "PulseHD",
       "publisher": "PulseHD",
-      "version": "5.4.3",
+      "version": "8.7.0",
       "description": "The most reliable, high quality calls wherever you are",
       "tags": [],
       "category": "Others",
@@ -224476,7 +224524,7 @@
       "id": "SejinChun.Imagine",
       "name": "Imagine",
       "publisher": "Sejin Chun",
-      "version": "2.6.4",
+      "version": "2.6.5",
       "description": "Imagine Freeware Image & Animation Viewer for Windows",
       "tags": [
         "animation",
@@ -225236,6 +225284,33 @@
       }
     },
     {
+      "id": "SerZhyAle.FastMediaSorter.Server",
+      "name": "Fast Media Sorter Folder Share Server",
+      "publisher": "SerZhyAle",
+      "version": "26.8.15.1510",
+      "description": "Always-on folder sharing to Android over SFTP - a Windows service that starts at boot and serves with nobody signed in. Administrator rights required.",
+      "tags": [
+        "android",
+        "backup",
+        "file-server",
+        "file-sharing",
+        "headless",
+        "lan",
+        "media",
+        "server",
+        "service",
+        "sftp",
+        "share",
+        "windows-service"
+      ],
+      "category": "Cloud & Storage",
+      "icon": {
+        "monogram": "FM",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "SerZhyAle.FileDO",
       "name": "FileDO",
       "publisher": "SZA",
@@ -225524,6 +225599,33 @@
       "icon": {
         "monogram": "SI",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "SgarD.VPX",
+      "name": "VPX",
+      "publisher": "SgarD",
+      "version": "2.0.54",
+      "description": "Desktop music player for about 70 audio and tracker formats, with a colour-changing oscilloscope per channel.",
+      "tags": [
+        "audio",
+        "chiptune",
+        "equalizer",
+        "flac",
+        "mod",
+        "module",
+        "mp3",
+        "music",
+        "oscilloscope",
+        "player",
+        "retro",
+        "tracker"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "VP",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
