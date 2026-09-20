@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T23:22:19.000Z",
+  "generatedAt": "2026-09-20T19:35:19.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "e0ae057620e2fcbfe77a25e72c023526b3a8657d"
+    "commit": "04ffc1fd8fdb1cf71950a80a635fffc674c6520c"
   },
   "data": [
     {
@@ -75127,6 +75127,28 @@
       "icon": {
         "monogram": "SI",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "EmDiSoftware.SimplPlayer",
+      "name": "SimplPlayer",
+      "publisher": "EmDiSoftware",
+      "version": "1.1.0.0",
+      "description": "A compact, resident music player for Windows with a taskbar mini-player, media library, playlists, queue, and internet radio.",
+      "tags": [
+        "audio",
+        "equalizer",
+        "music",
+        "player",
+        "playlist",
+        "radio",
+        "windows"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "SI",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -224631,6 +224653,28 @@
       }
     },
     {
+      "id": "Sensslen.CameraControl",
+      "name": "Camera Control",
+      "publisher": "Simon Ensslen",
+      "version": "0.4.0",
+      "description": "Drive Blackmagic ATEM switchers and PTZ cameras from a game controller",
+      "tags": [
+        "atem",
+        "blackmagic",
+        "broadcast",
+        "camera",
+        "gamepad",
+        "ptz",
+        "video"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "CC",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Sentinel.SentinelCLI",
       "name": "Sentinel CLI",
       "publisher": "Sentinel",
@@ -281582,6 +281626,24 @@
       "icon": {
         "monogram": "DF",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "yd-null.sbscraper",
+      "name": "sbscraper",
+      "publisher": "yd-null",
+      "version": "1.0.20",
+      "description": "Scrape Structure Builder reports and export related CSV data.",
+      "tags": [
+        "cli",
+        "reports",
+        "scraper"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "SB",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
