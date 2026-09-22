@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T16:58:01.000Z",
+  "generatedAt": "2026-09-22T20:58:41.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "9f86dbb65a91c67e7a64ca6ccde02b15b9daac9d"
+    "commit": "4f4dcc1108da914f899ca7d2d24e5eca205af648"
   },
   "data": [
     {
@@ -2104,7 +2104,7 @@
       "id": "Aardappel.lobster",
       "name": "lobster",
       "publisher": "Wouter van Oortmerssen",
-      "version": "2026.6",
+      "version": "2026.7",
       "description": "A programming language that tries to combine the advantages of static typing and compile-time memory management with a very lightweight, friendly and terse syntax",
       "tags": [
         "lobster",
@@ -4446,6 +4446,30 @@
       }
     },
     {
+      "id": "AdiDusi.MediaMango",
+      "name": "MediaMango",
+      "publisher": "AdiDusi",
+      "version": "1.1.10",
+      "description": "Private, local-first desktop app for cleaning up and organising photos, videos, music, and documents.",
+      "tags": [
+        "autosort",
+        "compressor",
+        "deduplication",
+        "duplicate-finder",
+        "local-first",
+        "media",
+        "organization",
+        "photos",
+        "video"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "ME",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ADInstruments.ConfigSoft",
       "name": "ConfigSoft",
       "publisher": "KahaTelemetry",
@@ -5805,7 +5829,7 @@
       "id": "AES256Afro.VideoKidnapper",
       "name": "VideoKidnapper",
       "publisher": "AES256Afro",
-      "version": "1.8.3",
+      "version": "1.8.4",
       "description": "Open-source desktop app to trim, caption, GIF, and download videos from multiple platforms using yt-dlp and FFmpeg.",
       "tags": [
         "customtkinter",
@@ -15968,7 +15992,7 @@
       "id": "Anthropic.Ant",
       "name": "Claude Platform CLI",
       "publisher": "Anthropic PBC",
-      "version": "1.34.0",
+      "version": "1.35.0",
       "description": "Interact with the Claude API directly from your terminal with the ant command-line tool",
       "tags": [
         "claude"
@@ -17364,7 +17388,7 @@
       "id": "Appest.Dida",
       "name": "滴答清单",
       "publisher": "杭州随笔记网络技术有限公司",
-      "version": "8.2.0.1",
+      "version": "8.2.1.5",
       "description": "To-Do List & Calendar.",
       "tags": [
         "agenda",
@@ -17394,7 +17418,7 @@
       "id": "Appest.TickTick",
       "name": "TickTick",
       "publisher": "Appest.com",
-      "version": "8.2.0.1",
+      "version": "8.2.1.0",
       "description": "To-Do List & Calendar",
       "tags": [
         "agenda",
@@ -19807,7 +19831,7 @@
       "id": "artem4150.VeilBox",
       "name": "VeilBox",
       "publisher": "artem4150",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "description": "VPN client with full VLESS transport support, AmneziaWG, subscription management, and system-level TUN mode",
       "tags": [
         "amnezia-vpn",
@@ -21506,7 +21530,7 @@
       "id": "athrvk.Vayu",
       "name": "Vayu",
       "publisher": "Atharva Kusumbia",
-      "version": "0.35.0",
+      "version": "0.35.2",
       "description": "Open-source API client with a native C++ load-testing engine - Postman-style requests and k6-level load tests in one local app.",
       "tags": [
         "api",
@@ -22293,7 +22317,7 @@
       "id": "AuraMarker.Lattics",
       "name": "Lattics",
       "publisher": "AuraMarker",
-      "version": "4.1.3",
+      "version": "4.2.0",
       "description": "\"Brain-like\" Knowledge Management Notes",
       "tags": [
         "backlink",
@@ -30098,7 +30122,7 @@
       "id": "BenjiButten.StreamDecky",
       "name": "StreamDecky",
       "publisher": "BenjiButten",
-      "version": "2026.9.1",
+      "version": "2026.9.2",
       "description": "Customizable desktop command deck and overlay for Windows.",
       "tags": [
         "desktop",
@@ -30160,7 +30184,7 @@
       "id": "Bennewitz.Ninja.ClaudeForge",
       "name": "ClaudeForge",
       "publisher": "Brian Bennewitz",
-      "version": "2026.3.916",
+      "version": "2026.3.922",
       "description": "A cross-platform desktop editor for Claude Code and Claude Desktop configuration files.",
       "tags": [
         "ai",
@@ -36366,7 +36390,7 @@
       "id": "Brave.Brave.Nightly",
       "name": "Brave Nightly",
       "publisher": "Brave Software Inc",
-      "version": "154.1.98.14",
+      "version": "154.1.98.18",
       "description": "Brave Nightly is our testing and development version of Brave. Releases are updated every night.",
       "tags": [
         "browser",
@@ -36387,7 +36411,7 @@
       "id": "Brave.BraveOrigin.Nightly",
       "name": "Brave Origin Nightly",
       "publisher": "Brave Software Inc",
-      "version": "154.1.98.14",
+      "version": "154.1.98.18",
       "description": "The untested—but stable—version of Brave Origin for advanced users and developers.",
       "tags": [
         "browser",
@@ -41216,7 +41240,7 @@
       "id": "CallMarcus.DJIMetadataEmbedder",
       "name": "DJI Metadata Embedder",
       "publisher": "CallMarcus",
-      "version": "2.16.0",
+      "version": "2.16.1",
       "description": "Embed telemetry data from DJI drone SRT files into MP4 video files",
       "tags": [
         "cli",
@@ -41241,7 +41265,7 @@
       "id": "CallMarcus.DJIMetadataEmbedder.Desktop",
       "name": "DJI Metadata Embedder Desktop",
       "publisher": "CallMarcus",
-      "version": "2.16.0",
+      "version": "2.16.1",
       "description": "Desktop app to map DJI drone footage and embed flight telemetry into videos",
       "tags": [
         "dji",
@@ -42999,7 +43023,7 @@
       "id": "CDESoftware.BTM-2026",
       "name": "BTM-2026",
       "publisher": "CDE Software",
-      "version": "26.03.0002",
+      "version": "26.03.0003",
       "description": "CDE Software BTM-2026 is a bowling tournament software management program",
       "tags": [
         "bowling",
@@ -45842,7 +45866,7 @@
       "id": "Chromium.ChromeDriver",
       "name": "ChromeDriver",
       "publisher": "Chromium",
-      "version": "153.0.8010.52",
+      "version": "154.0.8037.57",
       "description": "An open source tool for automated testing of webapps across many browsers",
       "tags": [],
       "category": "Browsers",
@@ -46378,7 +46402,7 @@
       "id": "CircleCI.CLI",
       "name": "CircleCI CLI",
       "publisher": "CircleCI",
-      "version": "1.0.50849",
+      "version": "1.0.50961",
       "description": "CircleCI command line tool.",
       "tags": [
         "circle-ci",
@@ -50823,7 +50847,7 @@
       "id": "CologneCodeCompany.XYplorer",
       "name": "XYplorer",
       "publisher": "Donald Lessau, Cologne Code Company",
-      "version": "28.30.3000",
+      "version": "28.40.0000",
       "description": "XYplorer is a file manager for Windows",
       "tags": [
         "file-manager",
@@ -50840,7 +50864,7 @@
       "id": "CologneCodeCompany.XYplorerPortable",
       "name": "XYplorer Portable",
       "publisher": "Cologne Code Company",
-      "version": "28.30.3000",
+      "version": "28.40.0000",
       "description": "XYplorer is a file manager for Windows",
       "tags": [
         "file-manager",
@@ -54660,7 +54684,7 @@
       "id": "Crossplane.CrossplaneCli",
       "name": "Crossplane CLI",
       "publisher": "Crossplane",
-      "version": "2.4.1",
+      "version": "2.4.2",
       "description": "CLI for the Crossplane - The Cloud Native Control Plane",
       "tags": [],
       "category": "Cloud & Storage",
@@ -55913,7 +55937,7 @@
       "id": "CuteCutPro.CuteCutPro",
       "name": "CuteCut Pro",
       "publisher": "Asmatullah Developer",
-      "version": "2.4.2",
+      "version": "2.4.4",
       "description": "Professional multi-track video editor with Quranic audio-to-text synchronization.",
       "tags": [
         "audio-editor",
@@ -61481,7 +61505,7 @@
       "id": "den4b.RandPass",
       "name": "RandPass",
       "publisher": "den4b Team",
-      "version": "2.2",
+      "version": "2.3",
       "description": "Random password generator",
       "tags": [
         "generate",
@@ -62085,7 +62109,7 @@
       "id": "DesktopPlus.DesktopPlus",
       "name": "Desktop Plus",
       "publisher": "Desktop Plus",
-      "version": "3.6.6-r0",
+      "version": "3.6.6-r1",
       "description": "A GitHub Desktop fork with advanced functionality and improvements.",
       "tags": [
         "bitbucket",
@@ -62677,7 +62701,7 @@
       "id": "Devolutions.Launcher",
       "name": "Launcher",
       "publisher": "Devolutions inc.",
-      "version": "2026.3.8.0",
+      "version": "2026.3.9.0",
       "description": "Remote Connection Launching Tool for Devolutions Server & Devolutions Hub Business!",
       "tags": [
         "devolutions",
@@ -62916,7 +62940,7 @@
       "id": "DevProxy.DevProxy",
       "name": "Dev Proxy",
       "publisher": ".NET Foundation",
-      "version": "3.3.0",
+      "version": "3.3.1",
       "description": "Dev Proxy is a command line tool for simulating APIs for testing apps",
       "tags": [],
       "category": "Others",
@@ -62930,7 +62954,7 @@
       "id": "DevProxy.DevProxy.Beta",
       "name": "Dev Proxy Beta",
       "publisher": ".NET Foundation",
-      "version": "3.2.0-beta.1",
+      "version": "4.0.0-beta.3",
       "description": "Dev Proxy Beta is a preview build of the command line tool for simulating APIs for testing apps",
       "tags": [],
       "category": "Others",
@@ -66479,6 +66503,28 @@
       }
     },
     {
+      "id": "doanduc.MultiScreenRecorder",
+      "name": "Multi Screen Recorder",
+      "publisher": "doanduc",
+      "version": "1.0.0",
+      "description": "Record multiple screens at once, combined into a single video.",
+      "tags": [
+        "ffmpeg",
+        "multi-monitor",
+        "recorder",
+        "screen-capture",
+        "screen-recorder",
+        "tauri",
+        "video"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "MS",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Docker.Agent",
       "name": "Agent",
       "publisher": "Docker",
@@ -66642,7 +66688,7 @@
       "id": "Docker.sbx",
       "name": "Docker Sandboxes",
       "publisher": "Docker Inc.",
-      "version": "0.45.0",
+      "version": "0.45.1",
       "description": "Docker Sandboxes gives agents safe, isolated environments to work in.",
       "tags": [],
       "category": "Others",
@@ -72757,7 +72803,7 @@
       "id": "eeyzs1.DevWit",
       "name": "DevWit",
       "publisher": "eeyzs1",
-      "version": "0.7.17",
+      "version": "0.7.28",
       "description": "Lean-context AI-native desktop IDE. Describe your intent; the agent plans, executes with your approval, and delivers reviewable diffs with a full execution trace.",
       "tags": [
         "agent",
@@ -86762,7 +86808,7 @@
       "id": "frathe.picfetch",
       "name": "PicFetch",
       "publisher": "Florian Rathe",
-      "version": "1.1.7",
+      "version": "1.1.8",
       "description": "A small multi-platform desktop app for quickly viewing and browsing images.",
       "tags": [
         "fyne",
@@ -90871,6 +90917,28 @@
       "icon": {
         "monogram": "GS",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Gergilcan.Concentus",
+      "name": "Concentus",
+      "publisher": "Gerard Gilabert",
+      "version": "0.1.4",
+      "description": "Visual multi-agent AI orchestration that runs on your Claude subscription.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "claude",
+        "llm",
+        "orchestration",
+        "workflow"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CO",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -105781,7 +105849,7 @@
       "id": "Huawei.Cangjie.STS",
       "name": "STS",
       "publisher": "Huawei",
-      "version": "1.1.3",
+      "version": "1.2.0",
       "description": "A new-generation programming language oriented to full-scenario intelligence",
       "tags": [
         "harmonyos",
@@ -105802,7 +105870,7 @@
       "id": "Huawei.Cangjie.STS.Android",
       "name": "Android",
       "publisher": "Huawei",
-      "version": "1.1.3",
+      "version": "1.2.0",
       "description": "A new-generation programming language oriented to full-scenario intelligence",
       "tags": [
         "harmonyos",
@@ -105823,7 +105891,7 @@
       "id": "Huawei.Cangjie.STS.OHOS",
       "name": "OHOS",
       "publisher": "Huawei",
-      "version": "1.1.3",
+      "version": "1.2.0",
       "description": "A new-generation programming language oriented to full-scenario intelligence",
       "tags": [
         "harmonyos",
@@ -106449,7 +106517,7 @@
       "id": "HunterBown.CodeWhale",
       "name": "CodeWhale",
       "publisher": "Hunter Bown",
-      "version": "0.9.13",
+      "version": "0.10.0",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "tags": [
         "agent",
@@ -110834,7 +110902,7 @@
       "id": "InferenceHub.InferenceHub",
       "name": "InferenceHub",
       "publisher": "InferenceHub",
-      "version": "0.2.22",
+      "version": "0.2.24",
       "description": "Native desktop client for InferenceHub chat — frontier and open-weight models with web search and deep research.",
       "tags": [
         "ai",
@@ -110955,7 +111023,7 @@
       "id": "infisical.infisical",
       "name": "infisical",
       "publisher": "infisical",
-      "version": "0.43.133",
+      "version": "0.43.134",
       "description": "The official Infisical CLI",
       "tags": [],
       "category": "Others",
@@ -118694,7 +118762,7 @@
       "id": "jens-duttke.usage-monitor-for-claude",
       "name": "Usage-Monitor-for-Claude",
       "publisher": "Jens Duttke",
-      "version": "1.22.0",
+      "version": "1.23.0",
       "description": "Lightweight Windows tray app that monitors your Claude rate limits in real time - portable single EXE, zero configuration, fully auditable",
       "tags": [
         "anthropic",
@@ -121079,6 +121147,20 @@
       "icon": {
         "monogram": "ZC",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "jkcoxson.idevice_pair",
+      "name": "idevice_pair",
+      "publisher": "jkcoxson",
+      "version": "1.1.0",
+      "description": "A cross-platform GUI for creating iOS pairing files, over USB or over Wi-Fi.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "IP",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -133100,7 +133182,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.112.4",
+      "version": "1.112.5",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -134880,6 +134962,26 @@
       "icon": {
         "monogram": "SD",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "lezli01.Vincent",
+      "name": "Vincent",
+      "publisher": "László Szabó",
+      "version": "0.5.0",
+      "description": "Vendor-independent control plane for native coding-agent CLIs",
+      "tags": [
+        "ai",
+        "automation",
+        "cli",
+        "developer-tools",
+        "orchestration"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "VI",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -137067,6 +137169,27 @@
       "icon": {
         "monogram": "SV",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Liu-Bot24.DSH-Tunnel",
+      "name": "DSH-Tunnel",
+      "publisher": "Liu-Bot24",
+      "version": "0.1.1",
+      "description": "A desktop utility for launching DeepSeek Harness (DSH) locally and securely connecting to remote DSH instances through the system OpenSSH client.",
+      "tags": [
+        "ai",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "large-language-model",
+        "llm"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "DT",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -141320,7 +141443,7 @@
       "id": "M-Igashi.baken",
       "name": "Bake'n Deck",
       "publisher": "M-Igashi",
-      "version": "3.7.0",
+      "version": "3.8.0",
       "description": "Rekordbox to CDJ prep toolkit - loudness gain, Key+BPM playlist sort, CDJ-safe MP3 transcode, and direct USB export",
       "tags": [
         "aac",
@@ -144762,7 +144885,7 @@
       "id": "MasterPackager.MasterPackagerDev",
       "name": "Master Packager Dev",
       "publisher": "Master Packager",
-      "version": "2.2.0",
+      "version": "2.3.0",
       "description": "Enables developers to create enterprise-quality Windows application packages (MSI, MSIX) that end-users love, enterprises want, and the Windows OS needs.",
       "tags": [
         "developer",
@@ -144814,7 +144937,7 @@
       "id": "MasujiSUTO.StereoPhotoMaker",
       "name": "StereoPhoto Maker",
       "publisher": "Masuji SUTO",
-      "version": "6.33",
+      "version": "6.41",
       "description": "Create and manage stereoscopic images for Nintendo 3DS, 3D TVs and screens, and 3D photo cameras.",
       "tags": [
         "3d-images",
@@ -148108,6 +148231,26 @@
       }
     },
     {
+      "id": "MetaCubeX.MetaCubeXD",
+      "name": "MetaCubeXD",
+      "publisher": "MetaCubeX",
+      "version": "1.273.0",
+      "description": "A modern, beautiful, and fully-featured web dashboard for Mihomo (Clash Meta), available as a cross-platform desktop app with a bundled kernel",
+      "tags": [
+        "clash",
+        "clash-meta",
+        "dashboard",
+        "mihomo",
+        "proxy"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "ME",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "MetaCubeX.Mihomo",
       "name": "Mihomo",
       "publisher": "MetaCubeX",
@@ -149487,7 +149630,7 @@
       "id": "Microsoft.ApplicationInspector",
       "name": "Microsoft Application Inspector",
       "publisher": "Microsoft",
-      "version": "1.9.55",
+      "version": "1.10.2",
       "description": "A software source code characterization tool that helps identify coding features of first or third party software components based on well-known library/API calls and is helpful in security and non-security use cases.",
       "tags": [
         "microsoft-application-inspector",
@@ -154312,7 +154455,7 @@
       "id": "Microsoft.OpenAPI.Hidi",
       "name": "OpenAPI.NET Hidi",
       "publisher": "Microsoft",
-      "version": "3.1.2.0",
+      "version": "3.10.2.0",
       "description": "Contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.",
       "tags": [
         "csdl-documents",
@@ -155565,7 +155708,7 @@
       "id": "Microsoft.SQLServer.OLEDBDriver",
       "name": "Microsoft OLE DB Driver for SQL Server",
       "publisher": "Microsoft Corporation",
-      "version": "19.4.1.0",
+      "version": "19.4.2",
       "description": "The OLE DB Driver for SQL Server is a stand-alone data access application programming interface (API), used for OLE Database.",
       "tags": [],
       "category": "System Tools",
@@ -157227,7 +157370,7 @@
       "id": "Microsoft.VisualStudio.BuildTools",
       "name": "Visual Studio BuildTools 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.10.1",
+      "version": "18.10.2",
       "description": "These Build Tools allow you to build Visual Studio projects from a command-line interface.",
       "tags": [
         "c#",
@@ -157245,7 +157388,7 @@
       "id": "Microsoft.VisualStudio.Community",
       "name": "Visual Studio Community 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.10.1",
+      "version": "18.10.2",
       "description": "Everything you need to build modern apps - free for you, built for impact.",
       "tags": [
         "c#",
@@ -157263,7 +157406,7 @@
       "id": "Microsoft.VisualStudio.Community.Insiders",
       "name": "Visual Studio Community 2026 Insiders",
       "publisher": "Microsoft Corporation",
-      "version": "18.11.12210.170",
+      "version": "18.11.12217.175",
       "description": "Everything you need to build modern apps - free for you, built for impact.",
       "tags": [
         "c#",
@@ -157295,7 +157438,7 @@
       "id": "Microsoft.VisualStudio.Enterprise",
       "name": "Visual Studio Enterprise 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.10.1",
+      "version": "18.10.2",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -157313,7 +157456,7 @@
       "id": "Microsoft.VisualStudio.Enterprise.Insiders",
       "name": "Visual Studio Enterprise 2026 Insiders",
       "publisher": "Microsoft Corporation",
-      "version": "18.11.12210.170",
+      "version": "18.11.12217.175",
       "description": "Built for scale, security, and speed - the IDE for complex, high-impact development.",
       "tags": [
         "c#",
@@ -157382,7 +157525,7 @@
       "id": "Microsoft.VisualStudio.Professional",
       "name": "Visual Studio Professional 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.10.1",
+      "version": "18.10.2",
       "description": "The trusted IDE for professional developers - from desktop to cloud.",
       "tags": [
         "c#",
@@ -160894,6 +161037,25 @@
       }
     },
     {
+      "id": "mmletgo.cc-partner",
+      "name": "cc-partner",
+      "publisher": "mmletgo",
+      "version": "0.9.0",
+      "description": "A local-first multi-device project workbench for AI coding workflows, bringing projects, worktrees, terminals, files, Git, Mobile Workbench, and automated delivery into one visible flow.",
+      "tags": [
+        "agent",
+        "ai",
+        "git",
+        "workbench"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "CP",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "mmozeiko.TwitchNotify",
       "name": "TwitchNotify",
       "publisher": "mmozeiko",
@@ -163777,7 +163939,7 @@
       "id": "Mozilla.Firefox.bg",
       "name": "Mozilla Firefox (bg)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163846,7 +164008,7 @@
       "id": "Mozilla.Firefox.bs",
       "name": "Mozilla Firefox (bs)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163869,7 +164031,7 @@
       "id": "Mozilla.Firefox.ca",
       "name": "Mozilla Firefox (ca)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163892,7 +164054,7 @@
       "id": "Mozilla.Firefox.ca-valencia",
       "name": "Mozilla Firefox (ca-valencia)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163915,7 +164077,7 @@
       "id": "Mozilla.Firefox.cak",
       "name": "Mozilla Firefox (cak)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163938,7 +164100,7 @@
       "id": "Mozilla.Firefox.cs",
       "name": "Mozilla Firefox (cs)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163961,7 +164123,7 @@
       "id": "Mozilla.Firefox.cy",
       "name": "Mozilla Firefox (cy)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -163984,7 +164146,7 @@
       "id": "Mozilla.Firefox.da",
       "name": "Mozilla Firefox (da)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -164007,7 +164169,7 @@
       "id": "Mozilla.Firefox.de",
       "name": "Mozilla Firefox (de)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166379,7 +166541,7 @@
       "id": "Mozilla.Firefox.dsb",
       "name": "Mozilla Firefox (dsb)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166402,7 +166564,7 @@
       "id": "Mozilla.Firefox.el",
       "name": "Mozilla Firefox (el)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166425,7 +166587,7 @@
       "id": "Mozilla.Firefox.en-CA",
       "name": "Mozilla Firefox (en-CA)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166448,7 +166610,7 @@
       "id": "Mozilla.Firefox.en-GB",
       "name": "Mozilla Firefox (en-GB)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166471,7 +166633,7 @@
       "id": "Mozilla.Firefox.eo",
       "name": "Mozilla Firefox (eo)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166494,7 +166656,7 @@
       "id": "Mozilla.Firefox.es-AR",
       "name": "Mozilla Firefox (es-AR)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166517,7 +166679,7 @@
       "id": "Mozilla.Firefox.es-CL",
       "name": "Mozilla Firefox (es-CL)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166540,7 +166702,7 @@
       "id": "Mozilla.Firefox.es-ES",
       "name": "Mozilla Firefox (es-ES)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -166563,7 +166725,7 @@
       "id": "Mozilla.Firefox.es-MX",
       "name": "Mozilla Firefox (es-MX)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168955,7 +169117,7 @@
       "id": "Mozilla.Firefox.et",
       "name": "Mozilla Firefox (et)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -168978,7 +169140,7 @@
       "id": "Mozilla.Firefox.eu",
       "name": "Mozilla Firefox (eu)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169001,7 +169163,7 @@
       "id": "Mozilla.Firefox.fa",
       "name": "Mozilla Firefox (fa)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169024,7 +169186,7 @@
       "id": "Mozilla.Firefox.ff",
       "name": "Mozilla Firefox (ff)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169047,7 +169209,7 @@
       "id": "Mozilla.Firefox.fi",
       "name": "Mozilla Firefox (fi)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169070,7 +169232,7 @@
       "id": "Mozilla.Firefox.fr",
       "name": "Mozilla Firefox (fr)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169093,7 +169255,7 @@
       "id": "Mozilla.Firefox.fur",
       "name": "Mozilla Firefox (fur)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169116,7 +169278,7 @@
       "id": "Mozilla.Firefox.fy-NL",
       "name": "Mozilla Firefox (fy-NL)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169139,7 +169301,7 @@
       "id": "Mozilla.Firefox.ga-IE",
       "name": "Mozilla Firefox (ga-IE)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169162,7 +169324,7 @@
       "id": "Mozilla.Firefox.gd",
       "name": "Mozilla Firefox (gd)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169185,7 +169347,7 @@
       "id": "Mozilla.Firefox.gl",
       "name": "Mozilla Firefox (gl)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169208,7 +169370,7 @@
       "id": "Mozilla.Firefox.gn",
       "name": "Mozilla Firefox (gn)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169231,7 +169393,7 @@
       "id": "Mozilla.Firefox.gu-IN",
       "name": "Mozilla Firefox (gu-IN)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169254,7 +169416,7 @@
       "id": "Mozilla.Firefox.he",
       "name": "Mozilla Firefox (he)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169277,7 +169439,7 @@
       "id": "Mozilla.Firefox.hi-IN",
       "name": "Mozilla Firefox (hi-IN)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169300,7 +169462,7 @@
       "id": "Mozilla.Firefox.hr",
       "name": "Mozilla Firefox (hr)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169323,7 +169485,7 @@
       "id": "Mozilla.Firefox.hsb",
       "name": "Mozilla Firefox (hsb)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169346,7 +169508,7 @@
       "id": "Mozilla.Firefox.hu",
       "name": "Mozilla Firefox (hu)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169369,7 +169531,7 @@
       "id": "Mozilla.Firefox.hy-AM",
       "name": "Mozilla Firefox (hy-AM)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169392,7 +169554,7 @@
       "id": "Mozilla.Firefox.ia",
       "name": "Mozilla Firefox (ia)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169415,7 +169577,7 @@
       "id": "Mozilla.Firefox.id",
       "name": "Mozilla Firefox (id)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169438,7 +169600,7 @@
       "id": "Mozilla.Firefox.is",
       "name": "Mozilla Firefox (is)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169461,7 +169623,7 @@
       "id": "Mozilla.Firefox.it",
       "name": "Mozilla Firefox (it)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169484,7 +169646,7 @@
       "id": "Mozilla.Firefox.ja",
       "name": "Mozilla Firefox (ja)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169507,7 +169669,7 @@
       "id": "Mozilla.Firefox.ka",
       "name": "Mozilla Firefox (ka)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169530,7 +169692,7 @@
       "id": "Mozilla.Firefox.kab",
       "name": "Mozilla Firefox (kab)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169553,7 +169715,7 @@
       "id": "Mozilla.Firefox.kk",
       "name": "Mozilla Firefox (kk)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169576,7 +169738,7 @@
       "id": "Mozilla.Firefox.km",
       "name": "Mozilla Firefox (km)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169599,7 +169761,7 @@
       "id": "Mozilla.Firefox.kn",
       "name": "Mozilla Firefox (kn)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169622,7 +169784,7 @@
       "id": "Mozilla.Firefox.ko",
       "name": "Mozilla Firefox (ko)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169645,7 +169807,7 @@
       "id": "Mozilla.Firefox.lij",
       "name": "Mozilla Firefox (lij)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169668,7 +169830,7 @@
       "id": "Mozilla.Firefox.lt",
       "name": "Mozilla Firefox (lt)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169691,7 +169853,7 @@
       "id": "Mozilla.Firefox.lv",
       "name": "Mozilla Firefox (lv)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169714,7 +169876,7 @@
       "id": "Mozilla.Firefox.mk",
       "name": "Mozilla Firefox (mk)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169737,7 +169899,7 @@
       "id": "Mozilla.Firefox.mr",
       "name": "Mozilla Firefox (mr)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169760,7 +169922,7 @@
       "id": "Mozilla.Firefox.ms",
       "name": "Mozilla Firefox (ms)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169783,7 +169945,7 @@
       "id": "Mozilla.Firefox.MSIX",
       "name": "Mozilla Firefox (MSIX)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "9nzvdkpmr9rd",
@@ -169809,7 +169971,7 @@
       "id": "Mozilla.Firefox.my",
       "name": "Mozilla Firefox (my)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169832,7 +169994,7 @@
       "id": "Mozilla.Firefox.nb-NO",
       "name": "Mozilla Firefox (nb-NO)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169855,7 +170017,7 @@
       "id": "Mozilla.Firefox.ne-NP",
       "name": "Mozilla Firefox (ne-NP)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169901,7 +170063,7 @@
       "id": "Mozilla.Firefox.nl",
       "name": "Mozilla Firefox (nl)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169924,7 +170086,7 @@
       "id": "Mozilla.Firefox.nn-NO",
       "name": "Mozilla Firefox (nn-NO)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169947,7 +170109,7 @@
       "id": "Mozilla.Firefox.oc",
       "name": "Mozilla Firefox (oc)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169970,7 +170132,7 @@
       "id": "Mozilla.Firefox.pa-IN",
       "name": "Mozilla Firefox (pa-IN)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -169993,7 +170155,7 @@
       "id": "Mozilla.Firefox.pl",
       "name": "Mozilla Firefox (pl)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170016,7 +170178,7 @@
       "id": "Mozilla.Firefox.pt-BR",
       "name": "Mozilla Firefox (pt-BR)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170039,7 +170201,7 @@
       "id": "Mozilla.Firefox.pt-PT",
       "name": "Mozilla Firefox (pt-PT)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170062,7 +170224,7 @@
       "id": "Mozilla.Firefox.rm",
       "name": "Mozilla Firefox (rm)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170108,7 +170270,7 @@
       "id": "Mozilla.Firefox.ru",
       "name": "Mozilla Firefox (ru)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170131,7 +170293,7 @@
       "id": "Mozilla.Firefox.sc",
       "name": "Mozilla Firefox (sc)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170154,7 +170316,7 @@
       "id": "Mozilla.Firefox.sco",
       "name": "Mozilla Firefox (sco)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170177,7 +170339,7 @@
       "id": "Mozilla.Firefox.si",
       "name": "Mozilla Firefox (si)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170200,7 +170362,7 @@
       "id": "Mozilla.Firefox.sk",
       "name": "Mozilla Firefox (sk)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170223,7 +170385,7 @@
       "id": "Mozilla.Firefox.sl",
       "name": "Mozilla Firefox (sl)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170246,7 +170408,7 @@
       "id": "Mozilla.Firefox.son",
       "name": "Mozilla Firefox (son)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170269,7 +170431,7 @@
       "id": "Mozilla.Firefox.sq",
       "name": "Mozilla Firefox (sq)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170292,7 +170454,7 @@
       "id": "Mozilla.Firefox.sr",
       "name": "Mozilla Firefox (sr)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170315,7 +170477,7 @@
       "id": "Mozilla.Firefox.sv-SE",
       "name": "Mozilla Firefox (sv-SE)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170338,7 +170500,7 @@
       "id": "Mozilla.Firefox.szl",
       "name": "Mozilla Firefox (szl)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170361,7 +170523,7 @@
       "id": "Mozilla.Firefox.ta",
       "name": "Mozilla Firefox (ta)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170384,7 +170546,7 @@
       "id": "Mozilla.Firefox.te",
       "name": "Mozilla Firefox (te)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170407,7 +170569,7 @@
       "id": "Mozilla.Firefox.tg",
       "name": "Mozilla Firefox (tg)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170430,7 +170592,7 @@
       "id": "Mozilla.Firefox.th",
       "name": "Mozilla Firefox (th)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170453,7 +170615,7 @@
       "id": "Mozilla.Firefox.tl",
       "name": "Mozilla Firefox (tl)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170476,7 +170638,7 @@
       "id": "Mozilla.Firefox.tr",
       "name": "Mozilla Firefox (tr)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170499,7 +170661,7 @@
       "id": "Mozilla.Firefox.trs",
       "name": "Mozilla Firefox (trs)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170522,7 +170684,7 @@
       "id": "Mozilla.Firefox.uk",
       "name": "Mozilla Firefox (uk)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170566,7 +170728,7 @@
       "id": "Mozilla.Firefox.ur",
       "name": "Mozilla Firefox (ur)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170589,7 +170751,7 @@
       "id": "Mozilla.Firefox.uz",
       "name": "Mozilla Firefox (uz)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170612,7 +170774,7 @@
       "id": "Mozilla.Firefox.vi",
       "name": "Mozilla Firefox (vi)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170635,7 +170797,7 @@
       "id": "Mozilla.Firefox.xh",
       "name": "Mozilla Firefox (xh)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170658,7 +170820,7 @@
       "id": "Mozilla.Firefox.zh-CN",
       "name": "Mozilla Firefox (zh-CN)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -170681,7 +170843,7 @@
       "id": "Mozilla.Firefox.zh-TW",
       "name": "Mozilla Firefox (zh-TW)",
       "publisher": "Mozilla",
-      "version": "156.0",
+      "version": "156.0.1",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -178519,7 +178681,7 @@
       "id": "NetEase.LobsterAI",
       "name": "LobsterAI",
       "publisher": "NetEase",
-      "version": "2026.9.20",
+      "version": "2026.9.22",
       "description": "A 24/7 personal assistant Agent that gets things done",
       "tags": [
         "agent",
@@ -178782,7 +178944,7 @@
       "id": "Nethermind.Nethermind",
       "name": "Nethermind",
       "publisher": "Demerzel Solutions Limited",
-      "version": "1.39.2",
+      "version": "2.0.0",
       "description": "A robust, high-performance execution client for Ethereum node operators.",
       "tags": [
         "blockchain",
@@ -181396,7 +181558,7 @@
       "id": "ningbainb.DeepSeekHarnessDesktop",
       "name": "DeepSeekHarnessDesktop",
       "publisher": "ningbainb",
-      "version": "4.2.1",
+      "version": "4.3.0",
       "description": "A lossless Windows desktop app for DeepSeek Harness with the complete DSH Web UI, plugins, skins, and skill dock.",
       "tags": [
         "ai",
@@ -186791,7 +186953,7 @@
       "id": "oipoistar.Tinta",
       "name": "Tinta",
       "publisher": "oipoistar",
-      "version": "3.7.3",
+      "version": "3.7.4",
       "description": "Fast, lightweight markdown and Mermaid viewer for Windows",
       "tags": [
         "direct2d",
@@ -187090,7 +187252,7 @@
       "id": "Oksion.XiControl",
       "name": "Xi Control",
       "publisher": "Oksion",
-      "version": "0.14.0",
+      "version": "0.15.0",
       "description": "Tray utility for Xiaomi/Redmi laptops - battery charge limit, performance modes, OSD and Mi button, driver-free via the stock firmware WMI interface (MIFS).",
       "tags": [
         "battery",
@@ -192780,7 +192942,7 @@
       "id": "Oracle.VirtualBox",
       "name": "Oracle VirtualBox",
       "publisher": "Oracle and/or its affiliates",
-      "version": "7.2.18",
+      "version": "7.2.20",
       "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
       "tags": [
         "cross-platform",
@@ -193881,7 +194043,7 @@
       "id": "Outcasts.Fuseforks",
       "name": "Outcasts Fuseforks",
       "publisher": "Outcasts",
-      "version": "0.3.5",
+      "version": "0.3.6",
       "description": "Desktop multi-agent AI orchestration - connect agents into workflows, delegate tasks in parallel, and integrate MCP tools.",
       "tags": [
         "agent",
@@ -196913,6 +197075,30 @@
       "icon": {
         "monogram": "PO",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Pazent.ExploitSpec",
+      "name": "ExploitSpec",
+      "publisher": "pazent",
+      "version": "0.2.0",
+      "description": "Turn proven HTTP security findings into local, repeatable regression tests.",
+      "tags": [
+        "application-security",
+        "appsec",
+        "authorization",
+        "bola",
+        "ci",
+        "cli",
+        "idor",
+        "regression-testing",
+        "security-testing"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "EX",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -202552,7 +202738,7 @@
       "id": "Powerformer.OpenDesign",
       "name": "Open Design",
       "publisher": "Powerformer, Inc.",
-      "version": "0.23.0",
+      "version": "0.24.0",
       "description": "The open-source alternative to Claude Design. Your existing coding agent — Claude · Codex · Cursor · Gemini · OpenCode · Qwen — becomes the design engine, driven by 31 composable skills and 72 brand-grade design systems.",
       "tags": [
         "agent",
@@ -205978,7 +206164,7 @@
       "id": "pyfa.pyfa",
       "name": "pyfa",
       "publisher": "pyfa",
-      "version": "2.68.0",
+      "version": "2.69.0",
       "description": "Cross-platform fitting tool for EVE Online",
       "tags": [
         "eve-online"
@@ -207844,6 +208030,27 @@
       "icon": {
         "monogram": "AR",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Quadrillion.Qualia",
+      "name": "Qualia",
+      "publisher": "Quadrillion Labs, Inc.",
+      "version": "0.8.4",
+      "description": "A native desktop app for running AI research agents, connected to your notebooks.",
+      "tags": [
+        "agent",
+        "ai",
+        "data-analysis",
+        "jupyter",
+        "jupyter-notebook",
+        "research"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "QU",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -212429,7 +212636,7 @@
       "id": "RemcoStoeten.Dora",
       "name": "Dora",
       "publisher": "Remco Stoeten",
-      "version": "0.42.0",
+      "version": "0.42.1",
       "description": "Dora is a desktop database studio for PostgreSQL, SQLite, and LibSQL.",
       "tags": [
         "database",
@@ -212786,7 +212993,7 @@
       "id": "Reon-Jin.JYYCode.Desktop",
       "name": "JYYCode",
       "publisher": "jyycode",
-      "version": "1.2.7",
+      "version": "1.2.8",
       "description": "A multi-agent engineering workflow that plans, delegates, reviews, revises, and delivers.",
       "tags": [
         "agent",
@@ -216553,6 +216760,30 @@
       "icon": {
         "monogram": "BE",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "RobWalsh.BertCut",
+      "name": "BertCut",
+      "publisher": "Rob Walsh",
+      "version": "0.1.0",
+      "description": "A fast, small video editor for cutting, cropping, and overlaying",
+      "tags": [
+        "crop",
+        "cut",
+        "editor",
+        "ffmpeg",
+        "movie",
+        "overlay",
+        "trim",
+        "video",
+        "video-editor"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "BE",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -223568,7 +223799,7 @@
       "id": "ScryerMedia.Scryer",
       "name": "Scryer",
       "publisher": "Scryer Media",
-      "version": "0.21.7",
+      "version": "0.21.9",
       "description": "Self-hosted media acquisition and management platform.",
       "tags": [
         "media",
@@ -236115,7 +236346,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790082161-g365795",
+      "version": "0.0.1790092836-g666022",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -238124,7 +238355,7 @@
       "id": "StackExchange.DNSControl",
       "name": "DNSControl",
       "publisher": "Stack Exchange, Inc.",
-      "version": "5.1.0",
+      "version": "5.2.0",
       "description": "Infrastructure as code for DNS!",
       "tags": [
         "dns"
@@ -242492,7 +242723,7 @@
       "id": "surge-downloader.surge",
       "name": "Surge Downloader",
       "publisher": "Junaid Islam",
-      "version": "0.12.1",
+      "version": "0.12.2",
       "description": "Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.",
       "tags": [
         "cli",
@@ -244536,7 +244767,7 @@
       "id": "t8y2.DBX",
       "name": "DBX",
       "publisher": "t8y2",
-      "version": "0.6.19",
+      "version": "0.6.20",
       "description": "15MB,lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "tags": [
         "clickhouse",
@@ -247177,7 +247408,7 @@
       "id": "TechPowerUp.GPU-Z",
       "name": "TechPowerUp GPU-Z",
       "publisher": "TechPowerUp",
-      "version": "2.70.0",
+      "version": "2.71.0",
       "description": "GPU-Z is a lightweight system utility designed to provide vital information about your video card and graphics processor.",
       "tags": [
         "gpu",
@@ -254222,7 +254453,7 @@
       "id": "TIMi.TIMi",
       "name": "TIMi",
       "publisher": "TIMi SPRL",
-      "version": "2026.09.08",
+      "version": "2026.09.22",
       "description": "Boost analytical culture inside your company",
       "tags": [
         "analytics",
@@ -256756,6 +256987,27 @@
       "icon": {
         "monogram": "CC",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "TraceCommons.Contributor",
+      "name": "Trace Commons Contributor",
+      "publisher": "Iqlusion Inc",
+      "version": "0.4.6",
+      "description": "Share the traces your coding agents produce, on your terms, and earn credits.",
+      "tags": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "llm",
+        "traces"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "TC",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -262054,7 +262306,7 @@
       "id": "UweSieber.UsbTreeView",
       "name": "USB Device Tree Viewer",
       "publisher": "Uwe Sieber",
-      "version": "4.7.3",
+      "version": "4.7.4",
       "description": "View the USB Device Tree.",
       "tags": [
         "usb"
@@ -271428,7 +271680,7 @@
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
       "publisher": "BrowserWorks",
-      "version": "6.7.3",
+      "version": "6.7.4",
       "description": "Fast and Private Web Browser",
       "tags": [
         "browser",
@@ -276788,7 +277040,7 @@
       "id": "Wondershare.Filmora",
       "name": "Wondershare Filmora",
       "publisher": "Wondershare Software",
-      "version": "15.7.25.21914",
+      "version": "16.0.9.22260",
       "description": "An intuitive video editor for every skill level.",
       "tags": [
         "clip",
@@ -276813,7 +277065,7 @@
       "id": "Wondershare.Filmora.CN",
       "name": "万兴喵影",
       "publisher": "Wondershare Software",
-      "version": "15.7.25.21915",
+      "version": "16.0.9.22261",
       "description": "A Chinese video editor that is popular around the world",
       "tags": [
         "clip",
@@ -277461,7 +277713,7 @@
       "id": "Wondershare.Recoverit",
       "name": "Wondershare Recoverit",
       "publisher": "Wondershare Software Co.,Ltd.",
-      "version": "14.5.2.6",
+      "version": "15.0.0.22",
       "description": "Quickly restore precious documents, emails, and other files.",
       "tags": [
         "data",
@@ -280171,7 +280423,7 @@
       "id": "XinTaoFei.Codeg",
       "name": "codeg",
       "publisher": "codeg",
-      "version": "0.31.1",
+      "version": "0.31.2",
       "description": "Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.",
       "tags": [
         "agent",
@@ -282617,7 +282869,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.104",
+      "version": "0.4.107",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -283753,7 +284005,7 @@
       "id": "yukimemi.shun",
       "name": "shun",
       "publisher": "yukimemi",
-      "version": "5.1.5",
+      "version": "5.2.0",
       "description": "A cross-platform, keyboard-driven minimal launcher like Alfred/Raycast",
       "tags": [
         "alfred",
@@ -285613,18 +285865,20 @@
     },
     {
       "id": "ZhipuAI.ChatGLM",
-      "name": "智谱清言",
-      "publisher": "北京智谱华章科技有限公司",
+      "name": "ChatGLM",
+      "publisher": "ZhipuAI",
       "version": "2.0.6",
       "description": "Find fun, get answers, and learn new ideas!",
       "tags": [
         "ai",
-        "ai-chat",
-        "chat-ai"
+        "chatbot",
+        "glm",
+        "large-language-model",
+        "llm"
       ],
-      "category": "Communications",
+      "category": "Others",
       "icon": {
-        "monogram": "智谱",
+        "monogram": "CH",
         "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
@@ -285771,7 +286025,7 @@
       "id": "zhukunpenglinyutong.CCGUI",
       "name": "CCGUI",
       "publisher": "zhukunpenglinyutong",
-      "version": "1.0.5",
+      "version": "1.0.7",
       "description": "CC GUI Client (Vibe Coding Platform Designed for Developers)",
       "tags": [
         "ai",
@@ -286045,7 +286299,7 @@
       "id": "zn0wii.Satelite",
       "name": "Satelite",
       "publisher": "zn0wii",
-      "version": "1.0.39",
+      "version": "1.0.40",
       "description": "A lightweight and modern proxy client for macOS and Windows, featuring subscription management, node switching, TUN mode, smart DNS, traffic monitoring and rule-based routing.",
       "tags": [
         "clash",
