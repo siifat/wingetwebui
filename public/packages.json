@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T05:38:41.000Z",
+  "generatedAt": "2026-09-25T17:10:47.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "f4aeb1ab56fcd0e6a1a91e5852645e0920392cce"
+    "commit": "518097c7fe80d3d92497b2c03301d35913351daa"
   },
   "data": [
     {
@@ -13393,7 +13393,7 @@
       "id": "Amazon.AWSCLI",
       "name": "AWS Command Line Interface",
       "publisher": "Amazon Web Services",
-      "version": "2.37.2",
+      "version": "2.37.3",
       "description": "Universal Command Line Interface for Amazon Web Services",
       "tags": [
         "aws",
@@ -19173,7 +19173,7 @@
       "id": "Argente.DataShredder",
       "name": "Argente Data Shredder",
       "publisher": "Raúl Argente",
-      "version": "1.0.7.8",
+      "version": "1.0.7.9",
       "description": "Securely delete all types of files and sensitive data, ensuring they can never be recovered.",
       "tags": [
         "data-shredder"
@@ -19189,7 +19189,7 @@
       "id": "Argente.DriveCleaner",
       "name": "Argente Drive Cleaner",
       "publisher": "Raúl Argente",
-      "version": "3.1.1.3",
+      "version": "3.1.1.4",
       "description": "Detect and remove all types of unnecessary files, freeing up space quickly and safely.",
       "tags": [],
       "category": "Others",
@@ -19203,7 +19203,7 @@
       "id": "Argente.DuplicateFinder",
       "name": "Argente Duplicate Finder",
       "publisher": "Raúl Argente",
-      "version": "2.0.6.4",
+      "version": "2.0.6.5",
       "description": "Search for all duplicate files on your computer and remove those that only take up unnecessary space.",
       "tags": [],
       "category": "Others",
@@ -19217,7 +19217,7 @@
       "id": "Argente.RegistryCleaner",
       "name": "Argente Registry Cleaner",
       "publisher": "Raúl Argente",
-      "version": "4.1.0.3",
+      "version": "4.1.0.4",
       "description": "Detect and remove errors in the Windows® registry to improve system performance and stability.",
       "tags": [],
       "category": "Others",
@@ -19231,7 +19231,7 @@
       "id": "Argente.SoftwareUpdater",
       "name": "Argente Software Updater",
       "publisher": "Raúl Argente",
-      "version": "1.0.9.4",
+      "version": "1.0.9.5",
       "description": "Detect and automatically update your programs to keep the system secure, stable, and up to date with the latest versions.",
       "tags": [],
       "category": "Others",
@@ -19245,7 +19245,7 @@
       "id": "Argente.StartupManager",
       "name": "Argente Startup Manager",
       "publisher": "Raúl Argente",
-      "version": "4.0.9.2",
+      "version": "4.0.9.3",
       "description": "Manage all applications that start with Windows® when your computer boots. Gain speed and security by disabling or removing startup applications that slow down system startup.",
       "tags": [],
       "category": "Security & Privacy",
@@ -19259,7 +19259,7 @@
       "id": "Argente.SystemManager",
       "name": "Argente System Manager",
       "publisher": "Raúl Argente",
-      "version": "1.0.4.8",
+      "version": "1.0.4.9",
       "description": "Automate system configuration, install or uninstall applications, and automatically optimize system performance with ease.",
       "tags": [],
       "category": "Others",
@@ -19273,7 +19273,7 @@
       "id": "Argente.SystemRepair",
       "name": "Argente System Repair",
       "publisher": "Raúl Argente",
-      "version": "1.0.9.9",
+      "version": "1.1.0.0",
       "description": "Repair all types of system errors and optimize it automatically to keep it stable, secure, and running at peak performance.",
       "tags": [],
       "category": "Others",
@@ -19287,7 +19287,7 @@
       "id": "Argente.UninstallManager",
       "name": "Argente Uninstall Manager",
       "publisher": "Raúl Argente",
-      "version": "4.0.9.7",
+      "version": "4.0.9.8",
       "description": "Manage all installed applications on your computer. Free up space by uninstalling or removing applications you no longer use.",
       "tags": [],
       "category": "Others",
@@ -20475,6 +20475,27 @@
       "icon": {
         "monogram": "AS",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "asanabrial.leteo",
+      "name": "Leteo",
+      "publisher": "Alexis Sanabria Lopez",
+      "version": "0.1.2",
+      "description": "Local-first persistent memory for AI coding agents",
+      "tags": [
+        "agent",
+        "ai",
+        "cli",
+        "mcp",
+        "memory",
+        "sqlite"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "LE",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -22904,6 +22925,28 @@
       "category": "Others",
       "icon": {
         "monogram": "MC",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Austin-Patrician.Wordless",
+      "name": "Wordless",
+      "publisher": "Wordless Contributors",
+      "version": "0.2.7",
+      "description": "A local-first desktop Agent workspace for documents, data, presentations, and code.",
+      "tags": [
+        "agent",
+        "ai",
+        "automation",
+        "local-first",
+        "mcp",
+        "productivity",
+        "workspace"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "WO",
         "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
@@ -41759,7 +41802,7 @@
       "id": "can1357.oh-my-pi",
       "name": "oh-my-pi",
       "publisher": "Can Bölük",
-      "version": "18.3.0",
+      "version": "18.3.1",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "tags": [
         "agent",
@@ -45044,7 +45087,7 @@
       "id": "ChengSoon.Belfry",
       "name": "Belfry",
       "publisher": "ChengSoon",
-      "version": "0.19.0",
+      "version": "0.21.8",
       "description": "A cross-platform terminal that hosts CLI coding agents such as Codex and Claude Code.",
       "tags": [
         "ai",
@@ -51681,7 +51724,7 @@
       "id": "Comfy.ComfyUI-Desktop",
       "name": "ComfyUI",
       "publisher": "Comfy Org",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "description": "A desktop app for ComfyUI, the most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface",
       "tags": [
         "comfyui",
@@ -63018,6 +63061,20 @@
       }
     },
     {
+      "id": "DeveloperXHarsh.Xary",
+      "name": "Xary Engine",
+      "publisher": "DeveloperXHarsh",
+      "version": "1.0.0",
+      "description": "High-performance C++20 binary stream processing and stealth archiving engine.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "XE",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Devflow.Uzi",
       "name": "Uzi",
       "publisher": "Devflow, Inc.",
@@ -73801,6 +73858,22 @@
       }
     },
     {
+      "id": "EIGHTY3.FlopzillaPro",
+      "name": "FlopzillaPro",
+      "publisher": "FlopzillaPro",
+      "version": "2.1.5",
+      "description": "Range and Equity Analysis Software for Hold'Em",
+      "tags": [
+        "poker"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "FL",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "EinsVier.BlitzText",
       "name": "BlitzText Windows",
       "publisher": "EinsVier",
@@ -79289,7 +79362,7 @@
       "id": "Eugeny.Tabby",
       "name": "Tabby",
       "publisher": "Eugene Pankov",
-      "version": "1.0.235",
+      "version": "1.0.237",
       "description": "A terminal for a more modern age.",
       "tags": [
         "command-line",
@@ -81243,7 +81316,7 @@
       "id": "FactoryAI.Factory",
       "name": "Factory",
       "publisher": "Factory AI",
-      "version": "0.183.2",
+      "version": "0.184.0",
       "description": "Agent-Native Software Development",
       "tags": [
         "agent",
@@ -83222,6 +83295,26 @@
       "icon": {
         "monogram": "FF",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "fgilde.QuickRun",
+      "name": "QuickRun",
+      "publisher": "Florian Gilde",
+      "version": "0.9.3",
+      "description": "Run any git repository with one click",
+      "tags": [
+        "automation",
+        "developer-tools",
+        "git",
+        "github",
+        "runner"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "QU",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -85898,7 +85991,7 @@
       "id": "Floweb.Floweb",
       "name": "Floweb",
       "publisher": "floweb",
-      "version": "2.0.7",
+      "version": "2.0.8",
       "description": "A powerful ultra-lightweight floating browser.",
       "tags": [
         "browser",
@@ -90198,7 +90291,7 @@
       "id": "GaoyangZhang.RivonClaw",
       "name": "TK Copilot",
       "publisher": "RIVON LLC",
-      "version": "1.9.22",
+      "version": "1.9.23",
       "description": "An easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers.",
       "tags": [
         "agent",
@@ -92427,6 +92520,22 @@
       "icon": {
         "monogram": "RF",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Gihosoft.FreeVideoCutter",
+      "name": "Gihosoft Video Trimmer",
+      "publisher": "HONGKONG JIHO CO., LIMITED",
+      "version": "2.0.48.0",
+      "description": "Free video trimming tool for cutting long videos into shorter clips without quality loss.",
+      "tags": [
+        "video-trimmer"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "GV",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -96319,7 +96428,7 @@
       "id": "Google.AntigravityCLI",
       "name": "Antigravity CLI",
       "publisher": "Google",
-      "version": "1.2.10",
+      "version": "1.2.11",
       "description": "Work with Antigravity directly in your codebase. Build, debug, and ship from your terminal. Describe what you need, and Antigravity handles the rest.",
       "tags": [
         "agent",
@@ -110591,6 +110700,26 @@
       }
     },
     {
+      "id": "IGEXAO.SEEElectrical",
+      "name": "SEE Electrical",
+      "publisher": "IGE+XAO",
+      "version": "8.4.8.1",
+      "description": "Easy-to-use 2D/3D electrical CAD software for creating electrical schematics and wiring",
+      "tags": [
+        "cad",
+        "electrical-cad",
+        "electrical-design",
+        "schematics",
+        "wiring"
+      ],
+      "category": "Design & Creation",
+      "icon": {
+        "monogram": "SE",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ignatandrei.MakeBookCLI",
       "name": "MakeBookCLI",
       "publisher": "ignatandrei",
@@ -116207,7 +116336,7 @@
       "id": "j178.Prek",
       "name": "Prek",
       "publisher": "j178",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "tags": [
         "git",
@@ -126374,7 +126503,7 @@
       "id": "kawayiYokami.P-ai",
       "name": "P-ai",
       "publisher": "yokami",
-      "version": "0.94.1",
+      "version": "0.94.2",
       "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation.",
       "tags": [
         "agent",
@@ -129603,6 +129732,26 @@
       }
     },
     {
+      "id": "KhanhKit.PxGo",
+      "name": "PxGo",
+      "publisher": "KhanhKit",
+      "version": "0.7.1",
+      "description": "Lightweight HTTP/HTTPS proxy with NTLM, Kerberos/SPNEGO, PAC, and Windows SSPI support.",
+      "tags": [
+        "kerberos",
+        "ntlm",
+        "pac",
+        "proxy",
+        "spnego"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "PX",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "khanhtd36.herdr-khanhtd36",
       "name": "herdr-khanhtd36",
       "publisher": "khanhtd36",
@@ -131805,6 +131954,26 @@
       "icon": {
         "monogram": "CR",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "KreativAnders.FinanzGecko",
+      "name": "FinanzGecko",
+      "publisher": "Manuel Steinberg",
+      "version": "1.11.0",
+      "description": "Net-worth tracker — local, encrypted, no cloud and no bank login.",
+      "tags": [
+        "finance",
+        "net-worth",
+        "offline",
+        "privacy",
+        "savings"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "FI",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -134657,7 +134826,7 @@
       "id": "lbjlaq.AntigravityTools",
       "name": "AntigravityTools",
       "publisher": "lbjlaq",
-      "version": "4.8.0",
+      "version": "4.8.1",
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).",
       "tags": [],
       "category": "Others",
@@ -138731,6 +138900,25 @@
       "icon": {
         "monogram": "EX",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "lkraider.Keywise",
+      "name": "Keywise",
+      "publisher": "lkraider",
+      "version": "2.4.0",
+      "description": "View saved logins from a local Firefox profile",
+      "tags": [
+        "firefox",
+        "password",
+        "security",
+        "zig"
+      ],
+      "category": "Browsers",
+      "icon": {
+        "monogram": "KE",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -144368,6 +144556,25 @@
       }
     },
     {
+      "id": "maneeshth.DesktopPet",
+      "name": "Desktop Pet",
+      "publisher": "maneeshth",
+      "version": "0.1.0",
+      "description": "A tiny desktop pet that chases your cursor in a transparent, click-through overlay.",
+      "tags": [
+        "desktop-pet",
+        "electron",
+        "neko",
+        "pet"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "DP",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ManfredMueller.Relock",
       "name": "Relock",
       "publisher": "Manfred Mueller",
@@ -147588,6 +147795,26 @@
       }
     },
     {
+      "id": "MbasonAI.Copilot",
+      "name": "Mbason Copilot",
+      "publisher": "Mbason AI LLC",
+      "version": "0.2.2",
+      "description": "Live interview copilot overlay that answers questions in real time and stays invisible in screen shares.",
+      "tags": [
+        "ai",
+        "career",
+        "copilot",
+        "interview",
+        "jobs"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "MC",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Mbelgin.PivBO",
       "name": "PivBO",
       "publisher": "Mbelgin",
@@ -149529,7 +149756,7 @@
       "id": "Meta.QuestRemoteDesktop",
       "name": "Meta Quest Remote Desktop",
       "publisher": "Facebook",
-      "version": "106.0.1.107",
+      "version": "107.0.1.109",
       "description": "Pair your computer to your Meta Quest headset, streaming what is on your computer screen into VR.",
       "tags": [
         "oculus",
@@ -154150,7 +154377,7 @@
       "id": "Microsoft.EdgeWebView2Runtime",
       "name": "Microsoft Edge WebView2 Runtime",
       "publisher": "Microsoft Corporation",
-      "version": "153.0.4234.48",
+      "version": "154.0.4258.37",
       "description": "Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.",
       "tags": [
         "webview"
@@ -164136,6 +164363,25 @@
       "icon": {
         "monogram": "MG",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "MoonlightOS.Helios",
+      "name": "Helios",
+      "publisher": "Moonlight OS",
+      "version": "0.5.2",
+      "description": "Game stream host for Selene and Moonlight OS.",
+      "tags": [
+        "game-streaming",
+        "moonlight",
+        "remote-play",
+        "selene"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "HE",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -176656,7 +176902,7 @@
       "id": "MyCloudGame.YiLink",
       "name": "YiLink",
       "publisher": "MyCloudGame",
-      "version": "0.9.26",
+      "version": "0.9.27",
       "description": "Connect to your PC with low latency from the browser on any device",
       "tags": [
         "cloud-gaming",
@@ -195276,6 +195522,26 @@
       }
     },
     {
+      "id": "Oscium.Chanalyzer",
+      "name": "Chanalyzer",
+      "publisher": "Oscium, LLC",
+      "version": "5.17.0.2",
+      "description": "Visualize your radio frequency (RF) spectrum",
+      "tags": [
+        "interference",
+        "spectrum",
+        "spectrum-analyzer",
+        "wifi",
+        "wlan"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CH",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Oscium.inSSIDer",
       "name": "inSSIDer",
       "publisher": "Oscium LLC",
@@ -204227,7 +204493,7 @@
       "id": "Postman.Postman",
       "name": "Postman",
       "publisher": "Postman",
-      "version": "12.29.2",
+      "version": "12.29.4",
       "description": "The Collaboration Platform for API Development",
       "tags": [
         "api",
@@ -204252,7 +204518,7 @@
       "id": "Postman.Postman.arm64",
       "name": "Postman (arm64)",
       "publisher": "Postman",
-      "version": "12.29.2",
+      "version": "12.29.4",
       "description": "The Collaboration Platform for API Development",
       "tags": [
         "api",
@@ -206427,7 +206693,7 @@
       "id": "Proma.Proma",
       "name": "Proma",
       "publisher": "Proma",
-      "version": "0.19.70",
+      "version": "0.19.71",
       "description": "A local-first AI desktop application that integrates multi-model Chat, general Agent, workspace, Skills, MCP, remote bots, and memory capabilities into a single open-source client.",
       "tags": [
         "agent",
@@ -206524,6 +206790,24 @@
       "category": "Others",
       "icon": {
         "monogram": "DR",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ProtagonistLabs.FileLabs",
+      "name": "File Labs",
+      "publisher": "Protagonist Labs",
+      "version": "1.0.13",
+      "description": "A dual-pane file manager for Windows 11 with tabs, Quick View, and copies that list every conflict up front and show their speed.",
+      "tags": [
+        "explorer",
+        "file-manager",
+        "productivity"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "FL",
         "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
@@ -216549,6 +216833,33 @@
       }
     },
     {
+      "id": "RidoIT.RidoGuard",
+      "name": "RidoGuard",
+      "publisher": "RidoIT",
+      "version": "1.2.4",
+      "description": "Windows privacy, security and optimization suite with change previews, audit logging and rollback from the command line.",
+      "tags": [
+        "debloat",
+        "firewall",
+        "hardening",
+        "optimization",
+        "privacy",
+        "security",
+        "services",
+        "system",
+        "telemetry",
+        "tweaks",
+        "utility",
+        "windows"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "RI",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "RightNow-AI.OpenFang",
       "name": "OpenFang",
       "publisher": "RightNow AI, Inc.",
@@ -220721,7 +221032,7 @@
       "id": "RubyInstallerTeam.Ruby.3.4",
       "name": "Ruby 3.4",
       "publisher": "RubyInstaller Team",
-      "version": "3.4.10-1",
+      "version": "3.4.11-1",
       "description": "The Ruby language execution environment",
       "tags": [
         "language",
@@ -221873,7 +222184,7 @@
       "id": "s0beran0.ngx",
       "name": "ngx",
       "publisher": "s0beran0",
-      "version": "0.1.2",
+      "version": "0.2.0",
       "description": "nginx CLI with structured output for agents and humans",
       "tags": [
         "cli",
@@ -228616,7 +228927,7 @@
       "id": "Shade.Shade",
       "name": "Shade",
       "publisher": "Shade Inc",
-      "version": "2.3.19",
+      "version": "2.3.21",
       "description": "Intelligent file streaming, review and approval, automated metadata, AI search and a whole lot more for media teams. All in one platform.",
       "tags": [
         "asset",
@@ -231181,6 +231492,30 @@
       "icon": {
         "monogram": "WH",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "silviuk.Lunifier",
+      "name": "Lunifier",
+      "publisher": "silviuk",
+      "version": "1.0.6",
+      "description": "Seamless multi-border screen switching for Logitech Easy-Switch keyboards and mice across Windows & Linux",
+      "tags": [
+        "bluetooth",
+        "bolt",
+        "cross-platform",
+        "easy-switch",
+        "flow",
+        "logitech",
+        "mx-keys",
+        "mx-master",
+        "unifying"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "LU",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -240540,7 +240875,7 @@
       "id": "StablyAI.Orca",
       "name": "Orca",
       "publisher": "stablyai",
-      "version": "1.4.210",
+      "version": "1.4.211",
       "description": "Ship 100x With The Agent IDE",
       "tags": [
         "agent",
@@ -244219,6 +244554,25 @@
       }
     },
     {
+      "id": "SucharyAPI.SucharyCLI",
+      "name": "Suchary CLI",
+      "publisher": "SucharyAPI",
+      "version": "1.0.0",
+      "description": "Oficjalne narzędzie CLI do pobierania sucharów z bazy SucharyAPI",
+      "tags": [
+        "cli",
+        "jokes",
+        "suchary",
+        "terminal"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "SC",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Sudhanshu-Ambastha.jar-cart",
       "name": "jar-cart",
       "publisher": "Sudhanshu-Ambastha",
@@ -244777,7 +245131,7 @@
       "id": "SuperGness.Codey",
       "name": "Codey",
       "publisher": "SuperGness",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "description": "An enhancement launcher for the Codex desktop client",
       "tags": [
         "agent",
@@ -246733,7 +247087,7 @@
       "id": "Syrize.OpenFic",
       "name": "OpenFic",
       "publisher": "Syrize",
-      "version": "0.11.1",
+      "version": "0.12.0",
       "description": "An all-in-one, cross-platform, AI-native writing tool for fiction authors.",
       "tags": [
         "ai",
@@ -247964,7 +248318,7 @@
       "id": "TandemHealth.Tandem",
       "name": "Tandem",
       "publisher": "Tandem",
-      "version": "2026.9.24",
+      "version": "2026.9.25",
       "description": "Enables Tandem to work fully for video/phone calls (by capturing patient audio) and enables transfer to local medical record systems.",
       "tags": [],
       "category": "Others",
@@ -262215,6 +262569,27 @@
       "icon": {
         "monogram": "TY",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Tyroger.Capiory",
+      "name": "Capiory",
+      "publisher": "tyroger",
+      "version": "0.4.1",
+      "description": "Poste de pilotage personnel et local pour vos projets, priorités, blocages et charge de travail.",
+      "tags": [
+        "local",
+        "organisation",
+        "pilotage",
+        "priorités",
+        "productivité",
+        "projets"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CA",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -285545,7 +285920,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.142",
+      "version": "0.4.145",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -288998,7 +289373,7 @@
       "id": "zn0wii.Satelite",
       "name": "Satelite",
       "publisher": "zn0wii",
-      "version": "1.0.44",
+      "version": "1.0.45",
       "description": "A lightweight and modern proxy client for macOS and Windows, featuring subscription management, node switching, TUN mode, smart DNS, traffic monitoring and rule-based routing.",
       "tags": [
         "clash",
@@ -289723,6 +290098,74 @@
       "icon": {
         "monogram": "ZT",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ZUBOLAND.HONJIN",
+      "name": "HONJIN",
+      "publisher": "ZUBOLAND Inc.",
+      "version": "0.1.5",
+      "description": "A local desk that collects what happened across your own tools into one stream.",
+      "tags": [
+        "dashboard",
+        "desktop",
+        "events",
+        "local",
+        "monitoring",
+        "notes",
+        "productivity"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "HO",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ZUBOLAND.KUZIRA",
+      "name": "KUZIRA",
+      "publisher": "ZUBOLAND Inc.",
+      "version": "0.9.36",
+      "description": "A Chromium-based browser designed to be operated by AI agents over MCP.",
+      "tags": [
+        "ai",
+        "automation",
+        "browser",
+        "chromium",
+        "electron",
+        "mcp",
+        "research",
+        "web"
+      ],
+      "category": "Browsers",
+      "icon": {
+        "monogram": "KU",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ZUBOLAND.UNICREW",
+      "name": "UNICREW",
+      "publisher": "ZUBOLAND Inc.",
+      "version": "0.2.50",
+      "description": "A desktop launcher for running several AI coding agents side by side.",
+      "tags": [
+        "acp",
+        "agent",
+        "ai",
+        "claude",
+        "cli",
+        "developer-tools",
+        "llm",
+        "ollama"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "UN",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
