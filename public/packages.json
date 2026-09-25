@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-24T21:29:56.000Z",
+  "generatedAt": "2026-09-25T04:24:13.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "19553ea9fb420d1ca338ebe3fa9014fe4785945f"
+    "commit": "8769ed6c24d4ee0c276e78f711f4b257e7b6c146"
   },
   "data": [
     {
@@ -2222,6 +2222,29 @@
       }
     },
     {
+      "id": "Aayush.NepaliDateWidget",
+      "name": "Nepali Date Widget",
+      "publisher": "Aayush",
+      "version": "3.5.1",
+      "description": "A lightweight, native C++ desktop widget for Windows that displays the current Nepali (Bikram Sambat) date.",
+      "tags": [
+        "bikram-sambat",
+        "calendar",
+        "date",
+        "desktop",
+        "nepal",
+        "nepali",
+        "taskbar",
+        "widget"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "ND",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "AB0WV.PinPoint",
       "name": "PinPoint",
       "publisher": "AB0WV",
@@ -2373,6 +2396,31 @@
       "icon": {
         "monogram": "中国",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AbdallahElbatal.WakeWhile",
+      "name": "WakeWhile",
+      "publisher": "Abdallah Elbatal",
+      "version": "1.0.0",
+      "description": "Keeps Windows awake only while the app you pick is actually working, then releases the lock by itself.",
+      "tags": [
+        "awake",
+        "keep-awake",
+        "no-sleep",
+        "power",
+        "power-management",
+        "prevent-sleep",
+        "sleep",
+        "stay-awake",
+        "tray",
+        "utility"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "WA",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -3462,6 +3510,29 @@
       "icon": {
         "monogram": "PD",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AceisX.MiniBar",
+      "name": "MiniBar",
+      "publisher": "AceisX",
+      "version": "1.1.0",
+      "description": "The lightest music overlay for Windows 11.",
+      "tags": [
+        "audio",
+        "media-controls",
+        "music",
+        "now-playing",
+        "overlay",
+        "smtc",
+        "spotify",
+        "taskbar"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "MI",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -8538,6 +8609,28 @@
       "icon": {
         "monogram": "CT",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AlcyoneSystems.Tester",
+      "name": "Tester by Alcyone Systems",
+      "publisher": "Alcyone Systems OÜ",
+      "version": "1.0.1",
+      "description": "On-prem test automation for web, API, Android and iOS",
+      "tags": [
+        "appium",
+        "on-premise",
+        "qa",
+        "selenium",
+        "self-hosted",
+        "test-automation",
+        "testing"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "TB",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -21329,7 +21422,7 @@
       "id": "astral-sh.uv",
       "name": "uv",
       "publisher": "Astral Software Inc.",
-      "version": "0.12.18",
+      "version": "0.12.19",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "tags": [
         "python"
@@ -44948,6 +45041,25 @@
       }
     },
     {
+      "id": "ChengSoon.Belfry",
+      "name": "Belfry",
+      "publisher": "ChengSoon",
+      "version": "0.19.0",
+      "description": "A cross-platform terminal that hosts CLI coding agents such as Codex and Claude Code.",
+      "tags": [
+        "ai",
+        "command-line",
+        "console",
+        "terminal"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "BE",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "chenjia404.go-p2ptunnel",
       "name": "go-p2ptunnel",
       "publisher": "Chen Jia",
@@ -46171,6 +46283,25 @@
       "icon": {
         "monogram": "AG",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Chromatic.Registry",
+      "name": "Registry",
+      "publisher": "Chromatic",
+      "version": "0.2.2",
+      "description": "Registry is a modern Windows Registry Editor.",
+      "tags": [
+        "inno-setup",
+        "registry",
+        "windows",
+        "winui3"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "RE",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -57246,6 +57377,25 @@
       }
     },
     {
+      "id": "cyprx.gh-wanted",
+      "name": "gh-wanted",
+      "publisher": "cyprx",
+      "version": "0.1.0",
+      "description": "A terminal watchlist for open-source contributors",
+      "tags": [
+        "github",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "GW",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "CyrilPeng.VeneraNext",
       "name": "VeneraNext",
       "publisher": "CyrilPeng/venera-next",
@@ -59083,7 +59233,7 @@
       "id": "Datalust.Seq",
       "name": "Seq",
       "publisher": "Datalust Pty Ltd",
-      "version": "11.0.17114.0",
+      "version": "11.0.17182.0",
       "description": "The self-hosted search, analysis, and alerting server built for structured logs and traces.",
       "tags": [
         "log",
@@ -59544,7 +59694,7 @@
       "id": "DavidEngelhart.Termpolis",
       "name": "Termpolis",
       "publisher": "Termpolis",
-      "version": "1.47.2",
+      "version": "1.47.4",
       "description": "The open-source multi-agent terminal where Claude, Codex, Gemini, and Qwen work together as a team — without your source code leaving the machine.",
       "tags": [
         "ai",
@@ -63346,6 +63496,26 @@
       }
     },
     {
+      "id": "DevPossible.DesktopPossible",
+      "name": "DesktopPossible",
+      "publisher": "DevPossible",
+      "version": "1.3.0",
+      "description": "Free, open-source desktop organizer that groups icons into frames, mirrors folders, and holds notes and images.",
+      "tags": [
+        "desktop",
+        "fences",
+        "icons",
+        "organizer",
+        "productivity"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "DE",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "DevProxy.DevProxy",
       "name": "Dev Proxy",
       "publisher": ".NET Foundation",
@@ -65127,7 +65297,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1190",
+      "version": "1.0.1191",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -65150,7 +65320,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.523",
+      "version": "1.0.524",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -65265,7 +65435,7 @@
       "id": "Discord.Discord.PTB",
       "name": "Discord PTB",
       "publisher": "Discord Inc.",
-      "version": "1.0.1221",
+      "version": "1.0.1222",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -65288,7 +65458,7 @@
       "id": "Discord.Discord.PTB.arm64",
       "name": "Discord PTB (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.1221",
+      "version": "1.0.1222",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -72644,6 +72814,26 @@
       }
     },
     {
+      "id": "EdgeDelta.edx",
+      "name": "edx",
+      "publisher": "Edge Delta",
+      "version": "0.21.0",
+      "description": "Edge Delta command-line interface",
+      "tags": [
+        "cli",
+        "logs",
+        "metrics",
+        "observability",
+        "traces"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "ED",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "EdgelessPE.ept",
       "name": "ept",
       "publisher": "Edgeless",
@@ -75250,6 +75440,25 @@
       "icon": {
         "monogram": "UE",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Elitech.ElitechLogWin",
+      "name": "ElitechLogWin",
+      "publisher": "Elitech Technology, Inc.",
+      "version": "8.0.5.0",
+      "description": "Desktop software for analyzing and managing temperature and humidity data recorded by Elitech data loggers.",
+      "tags": [
+        "cold-chain",
+        "data-logger",
+        "humidity",
+        "temperature"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "EL",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -82879,6 +83088,31 @@
       "icon": {
         "monogram": "QT",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "FernloopTechnologies.WhatsAppAIPro",
+      "name": "WhatsApp AI Pro",
+      "publisher": "Fernloop Technologies Limited",
+      "version": "2.0.14",
+      "description": "Desktop AI that auto-replies on your own WhatsApp account in 90+ languages, no Business API required. Paid subscription, USD 49/month or USD 499/year, with a 7-day free trial.",
+      "tags": [
+        "ai",
+        "auto-reply",
+        "automation",
+        "chatbot",
+        "customer-support",
+        "messaging",
+        "productivity",
+        "sales",
+        "translation",
+        "whatsapp"
+      ],
+      "category": "Communications",
+      "icon": {
+        "monogram": "WA",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -96215,7 +96449,7 @@
       "id": "Google.Chrome.Canary",
       "name": "Google Chrome Canary",
       "publisher": "Google LLC",
-      "version": "156.0.8072.0",
+      "version": "156.0.8073.0",
       "description": "Nightly build for developers",
       "tags": [
         "browser",
@@ -98966,6 +99200,28 @@
       "icon": {
         "monogram": "OP",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "GregorDadera.AIContextBuilder",
+      "name": "AI Context Builder",
+      "publisher": "Gregor Dadera",
+      "version": "0.5.464.35",
+      "description": "Roslyn-backed code context for AI coding agents - MCP server, CLI and Windows app.",
+      "tags": [
+        "ai",
+        "code-analysis",
+        "context",
+        "dotnet",
+        "llm",
+        "mcp",
+        "roslyn"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "AC",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -108622,7 +108878,7 @@
       "id": "IBM.Semeru.21.JDK",
       "name": "IBM Semeru Runtime Open Edition (JDK)",
       "publisher": "Semeru",
-      "version": "21.0.12.10",
+      "version": "21.0.12.15",
       "description": "Build and deploy Java apps that start quickly, deliver great performance, and use less memory.",
       "tags": [
         "java",
@@ -108861,7 +109117,7 @@
       "id": "IBM.Semeru.8.JDK",
       "name": "IBM Semeru Runtime Open Edition (JDK) 8",
       "publisher": "Semeru",
-      "version": "8.0.504.0",
+      "version": "8.0.504.5",
       "description": "Build and deploy Java apps that start quickly, deliver great performance, and use less memory.",
       "tags": [
         "java",
@@ -115553,6 +115809,27 @@
       }
     },
     {
+      "id": "ItTiger.TigerSqlCmd",
+      "name": "TigerSqlCmd",
+      "publisher": "IT Tiger",
+      "version": "0.8.8",
+      "description": "SQL Server script and query runner built on the TigerQuery engine.",
+      "tags": [
+        "cli",
+        "database",
+        "dotnet",
+        "sql",
+        "sql-server",
+        "sqlcmd"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "TI",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ItTiger.TigerWrap",
       "name": "TigerWrap CLI",
       "publisher": "IT Tiger",
@@ -116348,6 +116625,25 @@
       "icon": {
         "monogram": "NO",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "jacking75.TabBouncer",
+      "name": "TabBouncer",
+      "publisher": "Choi HeungBae",
+      "version": "1.1.0",
+      "description": "Closes automatic ad tabs and popups in a dedicated Chrome window while keeping the tabs you opened.",
+      "tags": [
+        "ad-blocker",
+        "chrome",
+        "popup-blocker",
+        "privacy"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "TA",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -121180,7 +121476,7 @@
       "id": "JGraph.Draw",
       "name": "draw.io",
       "publisher": "JGraph",
-      "version": "31.4.5",
+      "version": "31.5.2",
       "description": "A diagramming desktop app based on Electron that wraps the core draw.io editor.",
       "tags": [
         "chart",
@@ -124228,6 +124524,34 @@
       "category": "Others",
       "icon": {
         "monogram": "FZ",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "jungdosa.QuotaDock",
+      "name": "QuotaDock",
+      "publisher": "jungdosa",
+      "version": "0.7.34",
+      "description": "Desktop widget showing remaining Claude, OpenAI Codex and Google Antigravity usage quota and reset times.",
+      "tags": [
+        "ai",
+        "antigravity",
+        "claude",
+        "claude-code",
+        "codex",
+        "desktop-widget",
+        "gemini",
+        "monitor",
+        "openai",
+        "quota",
+        "rate-limit",
+        "system-tray",
+        "usage"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "QU",
         "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
@@ -131485,6 +131809,33 @@
       }
     },
     {
+      "id": "Krekel81.Netorizer",
+      "name": "Netorizer",
+      "publisher": "Krekel81",
+      "version": "1.2.1",
+      "description": "Portable Windows network scanner",
+      "tags": [
+        "arp",
+        "cli",
+        "inventory",
+        "ip-scanner",
+        "mac-address",
+        "network",
+        "network-scanner",
+        "port-scanner",
+        "portable",
+        "scanner",
+        "snmp",
+        "sysadmin"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "NE",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "krishisrani.appel",
       "name": "Appel",
       "publisher": "Krish Israni",
@@ -134424,7 +134775,7 @@
       "id": "Lean.Lean",
       "name": "Lean",
       "publisher": "Lean FRO",
-      "version": "4.34.0",
+      "version": "4.34.1",
       "description": "Programming Language and Theorem Prover",
       "tags": [
         "language",
@@ -135838,7 +136189,7 @@
       "id": "lezli01.Vincent",
       "name": "Vincent",
       "publisher": "László Szabó",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "description": "Vendor-independent control plane for native coding-agent CLIs",
       "tags": [
         "ai",
@@ -153664,7 +154015,7 @@
       "id": "Microsoft.Dynamics365ContactCenterDesktop",
       "name": "Desktop companion application for Dynamics 365 Contact Center",
       "publisher": "Microsoft Corporation",
-      "version": "1.8.26215.3",
+      "version": "1.8.26259.1",
       "description": "The desktop companion application serves as a backup system for the web application for Dynamics 365 Contact Center, so customer service representatives can continue customer conversations without interruption during web application issues.",
       "tags": [
         "companion-app",
@@ -153779,7 +154130,7 @@
       "id": "Microsoft.EdgeDriver",
       "name": "Microsoft Edge WebDriver",
       "publisher": "Microsoft Corporation",
-      "version": "153.0.4234.48",
+      "version": "154.0.4258.37",
       "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge with Microsoft Edge WebDriver",
       "tags": [
         "automate",
@@ -175090,7 +175441,7 @@
       "id": "MSKazemi.YazSes",
       "name": "YazSes",
       "publisher": "MSKazemi",
-      "version": "2.36.0",
+      "version": "2.39.1",
       "description": "Offline voice dictation — hold a key, speak, release. No cloud, no API key, no subscription.",
       "tags": [
         "accessibility",
@@ -185908,6 +186259,25 @@
       }
     },
     {
+      "id": "ntwind.PromptSense",
+      "name": "PromptSense",
+      "publisher": "NTWIND LLC",
+      "version": "1.0.2",
+      "description": "Save, organize, and reuse your best AI prompts.",
+      "tags": [
+        "ai-prompts",
+        "ntwind",
+        "productivity",
+        "prompt-manager"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "PR",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ntwind.UploadRemote",
       "name": "Upload Remote",
       "publisher": "NTWIND LLC",
@@ -187881,6 +188251,26 @@
       }
     },
     {
+      "id": "Odikon.DoomScroller",
+      "name": "DoomScroller",
+      "publisher": "Odikon AS",
+      "version": "0.1.43",
+      "description": "Feed reader and internet portal. YouTube subscriptions grouped your way, plus RSS news, discussions, blogs and podcasts in one place, read on your terms.",
+      "tags": [
+        "feed",
+        "news",
+        "reader",
+        "rss",
+        "youtube"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "DO",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Odikon.RissNotes",
       "name": "Riss Notes",
       "publisher": "Odikon AS",
@@ -188302,7 +188692,7 @@
       "id": "OK1DIX.VUSC4WIN",
       "name": "VUSC for Windows",
       "publisher": "OK1DIX",
-      "version": "7.09",
+      "version": "7.10",
       "description": "New generation of the free VHF/UHF/SHF Contest Log VUSC for WINDOWS XP, VISTA, WIN 7, 8, 10 and 11",
       "tags": [
         "ham-radio",
@@ -205581,7 +205971,7 @@
       "id": "ProcessingFoundation.Processing",
       "name": "Processing",
       "publisher": "Processing Foundation",
-      "version": "4.5.6",
+      "version": "4.5.7",
       "description": "A language and environment for creative coding",
       "tags": [
         "creative-coding",
@@ -205973,6 +206363,30 @@
       "icon": {
         "monogram": "PR",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ProjectTeamForYou.CHATDA",
+      "name": "CHATDA",
+      "publisher": "Project Team For You",
+      "version": "0.1.0",
+      "description": "Find the file by a word inside it, not by its name.",
+      "tags": [
+        "desktop-search",
+        "file-search",
+        "full-text-search",
+        "hwp",
+        "korean",
+        "ocr",
+        "offline",
+        "pdf",
+        "search"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CH",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -206958,7 +207372,7 @@
       "id": "ptweezy.cronstable",
       "name": "cronstable",
       "publisher": "ptweezy",
-      "version": "1.2.56",
+      "version": "1.2.57",
       "description": "A distributed cron replacement.",
       "tags": [
         "container",
@@ -207140,6 +207554,26 @@
       "icon": {
         "monogram": "PU",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Pungo.JoyConnectUniversal",
+      "name": "JoyConnect Universal",
+      "publisher": "Pungo Ltd",
+      "version": "1.0.15",
+      "description": "Connect patients with local community services",
+      "tags": [
+        "community-care",
+        "nhs",
+        "patient-referrals",
+        "referral-tool",
+        "social-prescribing"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "JU",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -207486,6 +207920,25 @@
       "icon": {
         "monogram": "CH",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "PWPW.SigillumSign",
+      "name": "SigillumSign",
+      "publisher": "PWPW",
+      "version": "1.13.13",
+      "description": "Application for signing and verifying electronic signatures.",
+      "tags": [
+        "e-signature",
+        "electronic-signature",
+        "signing",
+        "verification"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "SI",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -208087,6 +208540,27 @@
       "icon": {
         "monogram": "PI",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "pzielinski.puredeck",
+      "name": "puredeck",
+      "publisher": "Piotr Zieliński",
+      "version": "0.1.0",
+      "description": "puredeck - a keyboard-driven, file-based desktop flashcards app",
+      "tags": [
+        "anki",
+        "flashcards",
+        "learning",
+        "memory",
+        "spaced-repetition",
+        "srs"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "PU",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -211526,6 +212000,20 @@
       "icon": {
         "monogram": "RH",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ransh2014.TRACE",
+      "name": "TRACE",
+      "publisher": "ransh2014",
+      "version": "0.2.6",
+      "description": "GT7 Telemetry Suite -- live dashboard, lap analyst, and race analyst for Gran Turismo 7",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "TR",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -220521,6 +221009,28 @@
       }
     },
     {
+      "id": "rugbedbugg.resonanceid-cli",
+      "name": "resonanceid-cli",
+      "publisher": "rugbedbugg",
+      "version": "1.0.0",
+      "description": "Shazam-style audio fingerprinting CLI that identifies songs from song clips",
+      "tags": [
+        "audio",
+        "cli",
+        "fingerprinting",
+        "music",
+        "recognition",
+        "rust",
+        "shazam"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "RC",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "rugbedbugg.RetroTetris",
       "name": "Retro Tetris",
       "publisher": "rugbedbugg",
@@ -220675,6 +221185,31 @@
       "icon": {
         "monogram": "RU",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "RunTheWall.Constly",
+      "name": "Constly",
+      "publisher": "Run The Wall",
+      "version": "4.8.1",
+      "description": "A WYSIWYG Markdown editor that renders as you type and never rewrites a byte you didn't touch.",
+      "tags": [
+        "editor",
+        "markdown",
+        "md",
+        "mermaid",
+        "notes",
+        "offline",
+        "privacy",
+        "text-editor",
+        "writing",
+        "wysiwyg"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "CO",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -223162,7 +223697,7 @@
       "id": "Sangoma.SangomaTeamHub",
       "name": "Sangoma TeamHub",
       "publisher": "Sangoma",
-      "version": "3.12.0-315",
+      "version": "3.12.1-317",
       "description": "Connect people and help them share ideas, discuss projects, and get work done",
       "tags": [
         "business",
@@ -225867,6 +226402,26 @@
       "category": "Utilities",
       "icon": {
         "monogram": "GA",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "SecAmmo.LocalResolver",
+      "name": "SecAmmo Local Resolver",
+      "publisher": "SecAmmo",
+      "version": "0.15.0",
+      "description": "Optional Windows companion for local DNS and secure SecAmmo BYOK lookups.",
+      "tags": [
+        "dns",
+        "native-messaging",
+        "opera",
+        "security",
+        "threat-intelligence"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "SL",
         "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
@@ -237941,7 +238496,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790265644-gf7438f",
+      "version": "0.0.1790294503-g39c830",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -238568,7 +239123,7 @@
       "id": "SpecialK.SpecialK",
       "name": "Special K",
       "publisher": "The Special K Group",
-      "version": "26.9.17",
+      "version": "26.9.25",
       "description": "The Swiss Army Knife of PC Gaming",
       "tags": [
         "framerate-fixer",
@@ -245141,7 +245696,7 @@
       "id": "SWIG.SWIG",
       "name": "SWIG",
       "publisher": "SWIG",
-      "version": "4.4.1",
+      "version": "4.5.1",
       "description": "Interface compiler that connects C/C++ to other languages.",
       "tags": [
         "bindings",
@@ -258920,7 +259475,7 @@
       "id": "TraceCommons.Contributor",
       "name": "Trace Commons Contributor",
       "publisher": "Iqlusion Inc",
-      "version": "0.4.6",
+      "version": "0.4.7",
       "description": "Share the traces your coding agents produce, on your terms, and earn credits.",
       "tags": [
         "agent",
@@ -261184,6 +261739,32 @@
       "icon": {
         "monogram": "OP",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "TVasilev.RainCleaner",
+      "name": "Rain Cleaner",
+      "publisher": "T. Vasilev",
+      "version": "2.9.1",
+      "description": "Windows cleaner, driver installer and ransomware guard that explains every change before it makes it. Free, with an optional Pro upgrade.",
+      "tags": [
+        "clean",
+        "cleaner",
+        "disk-cleanup",
+        "driver",
+        "driver-updater",
+        "game-booster",
+        "optimizer",
+        "ransomware",
+        "security",
+        "system",
+        "utility"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "RC",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -266865,7 +267446,7 @@
       "id": "viorizz.diskutility",
       "name": "diskutility",
       "publisher": "viorizz",
-      "version": "0.4.6",
+      "version": "0.4.8",
       "description": "A fast terminal disk utility for Windows - format, erase, benchmark, back up, clone and write bootable images with a beautiful TUI.",
       "tags": [
         "backup",
@@ -269883,6 +270464,26 @@
       "icon": {
         "monogram": "VD",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "VovSoft.DiskBenchmark",
+      "name": "Vovsoft Disk Benchmark",
+      "publisher": "VOVSOFT",
+      "version": "2.0.0.0",
+      "description": "Measure hard drive and SSD performance. Benchmark programs usually measure theoretical top speeds of devices. On the contrary Vovsoft Disk Benchmark measures the real-world speeds by allowing the user to change some parameters.",
+      "tags": [
+        "Benchmark",
+        "Disk",
+        "Drive",
+        "Hard-Drive",
+        "Speed-Test"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "VD",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -284944,7 +285545,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.139",
+      "version": "0.4.142",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -287919,7 +288520,7 @@
       "id": "ZhipuAI.AutoClaw",
       "name": "AutoClaw",
       "publisher": "ZhipuAI",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "description": "Embed Agent execution capabilities into a single IM entry point.",
       "tags": [
         "agent",
