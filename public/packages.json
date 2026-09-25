@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T17:10:47.000Z",
+  "generatedAt": "2026-09-25T21:29:54.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "518097c7fe80d3d92497b2c03301d35913351daa"
+    "commit": "e2ad72f18744968b8e1117293e4d1a825fac85b5"
   },
   "data": [
     {
@@ -1020,7 +1020,7 @@
       "id": "3Dconnexion.3DxWare.10",
       "name": "3Dconnexion 3DxWare 10",
       "publisher": "3Dconnexion",
-      "version": "10.9.14.745",
+      "version": "10.9.15.753",
       "description": "Support and customize your 3Dconnexion products.",
       "tags": [
         "3dxhid.inf",
@@ -1998,7 +1998,7 @@
       "id": "a2aproject.a2acli",
       "name": "a2a",
       "publisher": "a2aproject",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "description": "The official command-line interface for A2A-compatible agents.",
       "tags": [
         "a2a",
@@ -3233,6 +3233,26 @@
       "icon": {
         "monogram": "VP",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AcclaimSoftware.Fast-Backup",
+      "name": "Fast-Backup",
+      "publisher": "Acclaim Software Ltd",
+      "version": "4.01",
+      "description": "Free, open-source incremental backup software for Windows that stores backups as ordinary browsable files.",
+      "tags": [
+        "automatic-backup",
+        "backup",
+        "file-backup",
+        "incremental-backup",
+        "windows"
+      ],
+      "category": "Cloud & Storage",
+      "icon": {
+        "monogram": "FB",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -6510,7 +6530,7 @@
       "id": "agentty.agentty",
       "name": "agentty",
       "publisher": "agentty",
-      "version": "0.9.9",
+      "version": "0.9.11",
       "description": "Blazing-fast Claude in your terminal — a C++26 alternative to claude-code.",
       "tags": [
         "ai",
@@ -6720,6 +6740,26 @@
       "icon": {
         "monogram": "AG",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AGNTCY.shadictl",
+      "name": "shadictl",
+      "publisher": "AGNTCY",
+      "version": "0.1.6",
+      "description": "Command-line interface for SHADI policy, secrets, memory, and SLIM operations.",
+      "tags": [
+        "agent",
+        "cli",
+        "sandbox",
+        "security",
+        "slim"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "SH",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -13393,7 +13433,7 @@
       "id": "Amazon.AWSCLI",
       "name": "AWS Command Line Interface",
       "publisher": "Amazon Web Services",
-      "version": "2.37.3",
+      "version": "2.37.4",
       "description": "Universal Command Line Interface for Amazon Web Services",
       "tags": [
         "aws",
@@ -14932,7 +14972,7 @@
       "id": "Anaconda.Anaconda3",
       "name": "Anaconda3",
       "publisher": "Anaconda, Inc.",
-      "version": "2025.12-2",
+      "version": "2026.07-1",
       "description": "Python/R distribution for data science and machine learning.",
       "tags": [
         "anaconda",
@@ -15035,7 +15075,7 @@
       "id": "AnalyseDeCircuit.OxideTerm",
       "name": "OxideTerm",
       "publisher": "AnalyseDeCircuit",
-      "version": "2.0.31",
+      "version": "2.1.0",
       "description": "Local-first SSH workspace for local shells and remote machines.Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.",
       "tags": [
         "agent",
@@ -16046,7 +16086,7 @@
       "id": "Anki.Anki",
       "name": "Anki",
       "publisher": "Anki",
-      "version": "26.09.2",
+      "version": "26.09.3",
       "description": "Powerful and intelligent flash cards.",
       "tags": [
         "education",
@@ -17466,6 +17506,28 @@
       }
     },
     {
+      "id": "Aplexica.Aplexica",
+      "name": "Aplexica",
+      "publisher": "Aplexica",
+      "version": "1.0.74",
+      "description": "Cross-agent state portability for AI coding agents.",
+      "tags": [
+        "agents",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "developer-tools",
+        "synchronization"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "AP",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Apollo.Music",
       "name": "Apollo Music",
       "publisher": "Apollo",
@@ -18361,7 +18423,7 @@
       "id": "AprilNEA.OpenLogi",
       "name": "OpenLogi",
       "publisher": "AprilNEA",
-      "version": "0.8.7",
+      "version": "0.8.8",
       "description": "A native, local-first desktop app for configuring Logitech HID++ devices.",
       "tags": [
         "button-remapping",
@@ -18442,7 +18504,7 @@
       "id": "ApSIC.Xbench",
       "name": "ApSIC Xbench",
       "publisher": "ApSIC, S.L.",
-      "version": "3.0.0.1620",
+      "version": "3.0.0.1622",
       "description": "Easy Quality Assurance and Terminology",
       "tags": [
         "translate",
@@ -19093,7 +19155,7 @@
       "id": "Arelle.Arelle",
       "name": "Arelle",
       "publisher": "Arelle",
-      "version": "2.45.2",
+      "version": "2.45.3",
       "description": "Arelle is an end-to-end open source XBRL platform",
       "tags": [],
       "category": "Others",
@@ -19373,7 +19435,7 @@
       "id": "Argotronic.ArgusMonitor",
       "name": "Argus Monitor",
       "publisher": "Argotronic GmbH",
-      "version": "7.4.2.3181",
+      "version": "7.4.3.3190",
       "description": "Fan speed control based on all available temperature sources, like HDD/SSD or GPU temperatures.",
       "tags": [
         "cpu",
@@ -19884,7 +19946,7 @@
       "id": "ArnsteinSkara.AppCenter",
       "name": "App Center",
       "publisher": "Arnstein Skara",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "description": "Ubuntu's App Center, rebuilt for Windows on top of winget.",
       "tags": [
         "app-store",
@@ -21823,7 +21885,7 @@
       "id": "athrvk.Vayu",
       "name": "Vayu",
       "publisher": "Atharva Kusumbia",
-      "version": "0.36.0",
+      "version": "0.37.0",
       "description": "Open-source API client with a native C++ load-testing engine - Postman-style requests and k6-level load tests in one local app.",
       "tags": [
         "api",
@@ -22289,7 +22351,7 @@
       "id": "aube.aube",
       "name": "aube",
       "publisher": "en.dev",
-      "version": "2.3.0",
+      "version": "2.4.0",
       "description": "A fast Node.js package manager",
       "tags": [],
       "category": "System Tools",
@@ -22655,7 +22717,7 @@
       "id": "AurelioAvila.PCTweaker",
       "name": "PC Tweaker",
       "publisher": "Aurelio Avila",
-      "version": "1.14.7",
+      "version": "1.14.9",
       "description": "Windows tuning for performance, gaming and privacy, with recorded changes and restore tools for supported settings.",
       "tags": [
         "gaming",
@@ -22933,7 +22995,7 @@
       "id": "Austin-Patrician.Wordless",
       "name": "Wordless",
       "publisher": "Wordless Contributors",
-      "version": "0.2.7",
+      "version": "0.5.9",
       "description": "A local-first desktop Agent workspace for documents, data, presentations, and code.",
       "tags": [
         "agent",
@@ -23174,7 +23236,7 @@
       "id": "autobrr.upbrr.cli",
       "name": "upbrr CLI",
       "publisher": "autobrr",
-      "version": "0.3.4",
+      "version": "0.3.5",
       "description": "upbrr is an upload preparation app for private-tracker workflows.",
       "tags": [
         "cli"
@@ -27142,7 +27204,7 @@
       "id": "Bambulab.CyberBrick",
       "name": "CyberBrick",
       "publisher": "Bambu Lab",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "description": "CyberBrick offers a spacious interface for full configuration editing, and keeps everything you need conveniently within reach on your computer. Perfect your project, then upload directly to MakerWorld to share it with the community.",
       "tags": [],
       "category": "Others",
@@ -27459,7 +27521,7 @@
       "id": "BartelsMedia.MacroRecorder",
       "name": "MacroRecorder",
       "publisher": "Bartels Media GmbH",
-      "version": "4.0.51",
+      "version": "5.0.40",
       "description": "Macro Recorder captures mouse events and keystrokes like a tape recorder, enabling automation of tedious procedures on your computer.",
       "tags": [
         "automation",
@@ -28319,7 +28381,7 @@
       "id": "Beeper.Beeper",
       "name": "Beeper",
       "publisher": "Beeper Inc.",
-      "version": "4.3.144",
+      "version": "4.3.152",
       "description": "All your chats in one app. Yes, really.",
       "tags": [
         "chat",
@@ -33869,7 +33931,7 @@
       "id": "BitSum.ProcessLasso.Beta",
       "name": "Process Lasso (Beta)",
       "publisher": "Bitsum",
-      "version": "18.4.0.29",
+      "version": "18.4.0.33",
       "description": "Real-Time CPU Optimization and Automation",
       "tags": [
         "optimize",
@@ -35657,7 +35719,7 @@
       "id": "BohdanKoudelka.FileSearchManager",
       "name": "File Search Manager",
       "publisher": "Bohdan Koudelka",
-      "version": "0.9.5",
+      "version": "0.9.6",
       "description": "Fast Windows file search and management with NTFS MFT indexing.",
       "tags": [
         "desktop",
@@ -36787,7 +36849,7 @@
       "id": "Brave.Brave.Nightly",
       "name": "Brave Nightly",
       "publisher": "Brave Software Inc",
-      "version": "154.1.98.28",
+      "version": "154.1.98.33",
       "description": "Brave Nightly is our testing and development version of Brave. Releases are updated every night.",
       "tags": [
         "browser",
@@ -37985,6 +38047,26 @@
       "icon": {
         "monogram": "BR",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Browzwear.VStitcher",
+      "name": "VStitcher",
+      "publisher": "Browzwear Solutions Pte Ltd",
+      "version": "2026.2",
+      "description": "Industry's leading 3D fashion design and development software.",
+      "tags": [
+        "3d-fashion",
+        "apparel",
+        "fashion-design",
+        "garment",
+        "simulation"
+      ],
+      "category": "Design & Creation",
+      "icon": {
+        "monogram": "VS",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -39897,7 +39979,7 @@
       "id": "BURSUsofts.BURSUcm",
       "name": "BURSU Connection Manager",
       "publisher": "BURSUsofts",
-      "version": "5.0.2",
+      "version": "5.1.0",
       "description": "SSH, RDP, VNC, Telnet, WinRM, SFTP and FTP connection manager with a zero-knowledge cloud catalog",
       "tags": [
         "connection-manager",
@@ -44317,7 +44399,7 @@
       "id": "ChangeXbc.WorkBuddySwitch",
       "name": "WorkBuddySwitch",
       "publisher": "ChangeXbc",
-      "version": "0.1.47",
+      "version": "0.1.50",
       "description": "A multi-account switching tool for WorkBuddy (Tencent AI coding assistant) that supports account switching, session copying, automatic daily check-in, credit-expiry monitoring, and automatic CodeBuddy CLI rotation.",
       "tags": [
         "codebuddy",
@@ -46922,7 +47004,7 @@
       "id": "CircleCI.CLI",
       "name": "CircleCI CLI",
       "publisher": "CircleCI",
-      "version": "1.0.51336",
+      "version": "1.0.51515",
       "description": "CircleCI command line tool.",
       "tags": [
         "circle-ci",
@@ -50704,7 +50786,7 @@
       "id": "CodeZeno.ClaudeCodeUsageMonitor",
       "name": "Claude Code Usage Monitor",
       "publisher": "Code Zeno Pty Ltd",
-      "version": "2.15.14",
+      "version": "2.15.19",
       "description": "Windows taskbar widget for monitoring Claude Code usage and rate limits",
       "tags": [
         "claude",
@@ -51140,7 +51222,7 @@
       "id": "coldhighsun.sloc",
       "name": "sloc",
       "publisher": "coldhighsun",
-      "version": "3.3.0",
+      "version": "4.0.0",
       "description": "Sloc (Source Lines Of Code) is a .NET global command-line tool for counting lines of source code. It analyzes files individually, distinguishing code lines, comment lines, and blank lines, then aggregates results by programming language.",
       "tags": [
         "cli",
@@ -53205,6 +53287,26 @@
       }
     },
     {
+      "id": "Coreho.nudl",
+      "name": "nudl",
+      "publisher": "Coreho",
+      "version": "0.1.1",
+      "description": "Strips tracking junk off any link you copy — the same real URL, trimmed.",
+      "tags": [
+        "clipboard",
+        "privacy",
+        "tracking",
+        "url",
+        "utm"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "NU",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Corel.MindManager.23",
       "name": "MindManager",
       "publisher": "Corel Corporation",
@@ -54560,7 +54662,7 @@
       "id": "cpvalente.ontime",
       "name": "ontime",
       "publisher": "Carlos Valente",
-      "version": "4.13.0",
+      "version": "4.14.0",
       "description": "Free, open-source time keeping for live events",
       "tags": [
         "entertainment",
@@ -54985,7 +55087,7 @@
       "id": "CreativeTechnology.CreativeNexus",
       "name": "Creative Nexus",
       "publisher": "Creative Technology Ltd.",
-      "version": "1.0.0.92",
+      "version": "1.2.1.491",
       "description": "Creative's all-new companion app designed to transform how users manage, personalize, and optimize their PC audio experience.",
       "tags": [],
       "category": "Design & Creation",
@@ -55098,7 +55200,7 @@
       "id": "CrewHaus.CLI",
       "name": "crewhaus",
       "publisher": "CrewHaus",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "description": "Modular meta-harness — compile a single spec into multiple agent runtimes.",
       "tags": [
         "agent",
@@ -55225,7 +55327,7 @@
       "id": "Croppick.CroppickVoice",
       "name": "CroppickVoice",
       "publisher": "Croppick",
-      "version": "1.4.0",
+      "version": "1.4.3",
       "description": "Free on-device voice typing for any app, plus Crop & Speak — annotate a region of your screen and narrate it into ChatGPT or Claude. No cloud, no caps, no account.",
       "tags": [
         "annotation",
@@ -56500,7 +56602,7 @@
       "id": "CuteCutPro.CuteCutPro",
       "name": "CuteCut Pro",
       "publisher": "Asmatullah Developer",
-      "version": "2.4.5",
+      "version": "2.5.0",
       "description": "Professional multi-track video editor with Quranic audio-to-text synchronization.",
       "tags": [
         "audio-editor",
@@ -57171,7 +57273,7 @@
       "id": "CylCastillo.AgentConsole",
       "name": "Agent Console",
       "publisher": "Carlos Castillo",
-      "version": "0.80.1",
+      "version": "0.80.3",
       "description": "Minimalist AI-native console for directing coding agents inside a repository.",
       "tags": [
         "agent",
@@ -58328,6 +58430,29 @@
       "icon": {
         "monogram": "MS",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "DanielKreutz.SWXKIAssistent",
+      "name": "SWX KI-Assistent",
+      "publisher": "Daniel Kreutz",
+      "version": "1.7.0",
+      "description": "Local, offline RAG assistant that searches your own documents and answers questions with sources - no cloud.",
+      "tags": [
+        "documents",
+        "llm",
+        "local-ai",
+        "offline",
+        "otrs",
+        "privacy",
+        "rag",
+        "search"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "SK",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -60534,7 +60659,7 @@
       "id": "DebaA17.CVECLI",
       "name": "CVE Scanner CLI",
       "publisher": "DebaA17",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "description": "Command-line tool to search CVEs (Common Vulnerabilities and Exposures) using public APIs.",
       "tags": [
         "cve",
@@ -62043,7 +62168,7 @@
       "id": "demkada.ArgyCode",
       "name": "Argy Code",
       "publisher": "demkada",
-      "version": "2.7.2",
+      "version": "2.7.3",
       "description": "The AI coding agent built for the terminal",
       "tags": [],
       "category": "Others",
@@ -63205,7 +63330,7 @@
       "id": "Devlint.GitWand",
       "name": "GitWand",
       "publisher": "gitwand",
-      "version": "3.10.1",
+      "version": "3.11.1",
       "description": "Git client with deterministic merge-conflict auto-resolution",
       "tags": [
         "developer-tools",
@@ -63317,7 +63442,7 @@
       "id": "Devolutions.Launcher",
       "name": "Launcher",
       "publisher": "Devolutions inc.",
-      "version": "2026.3.9.0",
+      "version": "2026.3.10.0",
       "description": "Remote Connection Launching Tool for Devolutions Server & Devolutions Hub Business!",
       "tags": [
         "devolutions",
@@ -63898,6 +64023,20 @@
       "icon": {
         "monogram": "OO",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "dheijl.swyh-rs",
+      "name": "swyh-rs",
+      "publisher": "dheijl",
+      "version": "1.21.0",
+      "description": "Stream what you hear to UPNP/DLNA and SqueezeLite players",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "SR",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -65052,7 +65191,7 @@
       "id": "Diodeme.GoldBand",
       "name": "Gold Band",
       "publisher": "gold-band",
-      "version": "0.13.1",
+      "version": "0.17.2",
       "description": "A local-first desktop client for AI coding agents.",
       "tags": [
         "agent",
@@ -67583,7 +67722,7 @@
       "id": "DollarLint.DollarLint",
       "name": "DollarLint",
       "publisher": "DollarLint",
-      "version": "0.1.24",
+      "version": "0.1.25",
       "description": "Validate JSON-family, YAML, and TOML files against their declared JSON Schemas.",
       "tags": [
         "cli",
@@ -67808,7 +67947,7 @@
       "id": "DonislawDev.BeanNetworkTester",
       "name": "Bean Network Tester",
       "publisher": "DonislawDev",
-      "version": "0.6.0",
+      "version": "0.7.0",
       "description": "Simulate a bad network on Windows",
       "tags": [
         "bandwidth",
@@ -68959,7 +69098,7 @@
       "id": "Dropbox.dbxcli",
       "name": "dbxcli",
       "publisher": "Dropbox",
-      "version": "3.7.3",
+      "version": "3.7.4",
       "description": "Command-line tool for Dropbox users and team admins",
       "tags": [
         "cli",
@@ -73861,7 +74000,7 @@
       "id": "EIGHTY3.FlopzillaPro",
       "name": "FlopzillaPro",
       "publisher": "FlopzillaPro",
-      "version": "2.1.5",
+      "version": "2.1.7",
       "description": "Range and Equity Analysis Software for Hold'Em",
       "tags": [
         "poker"
@@ -74784,7 +74923,7 @@
       "id": "electerm.electerm",
       "name": "electerm",
       "publisher": "ZHAO Xudong",
-      "version": "5.5.25",
+      "version": "5.5.35",
       "description": "Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, windows, MacOS, iOS, Android, HarmonyOS)",
       "tags": [
         "developer-tools",
@@ -76314,7 +76453,7 @@
       "id": "emoacht.Monitorian",
       "name": "Monitorian",
       "publisher": "emoacht",
-      "version": "4.16.0",
+      "version": "4.16.1",
       "description": "Monitorian is a Windows desktop tool to adjust the brightness of multiple monitors with ease.",
       "tags": [
         "brightness",
@@ -76878,7 +77017,7 @@
       "id": "Enreach.SwyxIt",
       "name": "SwyxIt!",
       "publisher": "Enreach",
-      "version": "14.26.0.0",
+      "version": "15.00.15188.0",
       "description": "Installation von SwyxIt!",
       "tags": [],
       "category": "Others",
@@ -77958,7 +78097,7 @@
       "id": "Equicord.Equibop",
       "name": "Equibop",
       "publisher": "Equicord",
-      "version": "3.3.0",
+      "version": "3.3.1",
       "description": "Equibop is a custom Discord App aiming to give you better performance and improve linux support",
       "tags": [
         "client",
@@ -79103,7 +79242,7 @@
       "id": "etcd-io.etcd",
       "name": "etcd",
       "publisher": "etcd-io",
-      "version": "3.7.1",
+      "version": "3.7.2",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "tags": [
         "cncf",
@@ -81435,7 +81574,7 @@
       "id": "FahrenheitResearch.ArWen",
       "name": "ArWen",
       "publisher": "Fahrenheit Research",
-      "version": "2.7.5",
+      "version": "2.7.6",
       "description": "ArWen: GPU-native WRF-ARW-class regional weather model, verified against WRF v4.6.1",
       "tags": [],
       "category": "Others",
@@ -82159,7 +82298,7 @@
       "id": "Fastfetch-cli.Fastfetch",
       "name": "fastfetch",
       "publisher": "fastfetch-cli",
-      "version": "2.68.1",
+      "version": "2.69.0",
       "description": "Like neofetch, but much faster because written mostly in C.",
       "tags": [
         "cli",
@@ -82415,7 +82554,7 @@
       "id": "Feci.ParleyDeckSkill",
       "name": "Parley Deck Skill",
       "publisher": "Feci",
-      "version": "2.13.0",
+      "version": "2.14.0",
       "description": "Installer for the Parley Deck multi-agent cooperation skill.",
       "tags": [
         "agents",
@@ -82947,7 +83086,7 @@
       "id": "FengZeng.Soia",
       "name": "Soia",
       "publisher": "FengZeng",
-      "version": "0.2.11",
+      "version": "0.2.12",
       "description": "High-performance cross-platform media player with HDR/Dolby Vision, WebDAV/DLNA/SMB streaming, dual subtitles, and browser remote control.",
       "tags": [
         "dlna-client",
@@ -83145,7 +83284,7 @@
       "id": "FernandoTonon.QtMeshEditor",
       "name": "QtMeshEditor",
       "publisher": "Fernando Tonon",
-      "version": "3.41.1",
+      "version": "3.42.1",
       "description": "Free 3D asset tool for indie game developers",
       "tags": [
         "3d",
@@ -84873,7 +85012,7 @@
       "id": "Fleet.fleetctl",
       "name": "fleetctl",
       "publisher": "Fleet Device Management Inc.",
-      "version": "4.92.0",
+      "version": "4.92.1",
       "description": "A command line interface (CLI) tool for managing Fleet from the command line.",
       "tags": [
         "fleet"
@@ -86268,7 +86407,7 @@
       "id": "Fluxer.Fluxer",
       "name": "Fluxer",
       "publisher": "Fluxer Contributors",
-      "version": "2026.924.13630",
+      "version": "2026.925.141246",
       "description": "A chat app that puts you first.",
       "tags": [
         "chat",
@@ -86288,7 +86427,7 @@
       "id": "Fluxzero.FluxzeroCLI",
       "name": "Fluxzero CLI",
       "publisher": "Fluxzero",
-      "version": "1.19.1",
+      "version": "1.19.3",
       "description": "Develop, test, and manage Fluxzero applications from the command line.",
       "tags": [
         "cli",
@@ -87005,7 +87144,7 @@
       "id": "Formlabs.PreForm",
       "name": "PreForm",
       "publisher": "Formlabs",
-      "version": "3.63.0.651",
+      "version": "3.63.1.652",
       "description": "PreForm is the 3D printing software that prepares your models for printing on Formlabs 3D printers in just a few minutes.",
       "tags": [
         "3d-printing"
@@ -87140,7 +87279,7 @@
       "id": "FOSSA.FOSSA-cli",
       "name": "fossa-cli",
       "publisher": "FOSSA",
-      "version": "3.19.1",
+      "version": "3.19.3",
       "description": "Fast, portable and reliable dependency analysis for any codebase.",
       "tags": [
         "open-source-licensing",
@@ -89902,7 +90041,7 @@
       "id": "GAM-Team.gam",
       "name": "gam",
       "publisher": "GAM Team - google-apps-manager@googlegroups.com",
-      "version": "7.48.12",
+      "version": "7.48.13",
       "description": "command line management for Google Workspace",
       "tags": [
         "gam",
@@ -91917,7 +92056,7 @@
       "id": "GetItSimple.SoundMixer",
       "name": "Sound Mixer",
       "publisher": "Get it Simple",
-      "version": "0.15.14",
+      "version": "0.15.32",
       "description": "Per-application volume mixer for Windows",
       "tags": [
         "audio",
@@ -92057,7 +92196,7 @@
       "id": "gg.ai.ggcode-cli",
       "name": "ggcode",
       "publisher": "GG AI Studio",
-      "version": "1.3.245",
+      "version": "1.3.246",
       "description": "AI coding agent for the terminal.",
       "tags": [
         "ai",
@@ -92078,7 +92217,7 @@
       "id": "gg.ai.ggcode-desktop",
       "name": "GGCode Desktop",
       "publisher": "GG AI Studio",
-      "version": "1.3.245",
+      "version": "1.3.246",
       "description": "AI coding agent with a native desktop interface.",
       "tags": [
         "ai",
@@ -92099,7 +92238,7 @@
       "id": "ggml.llamacpp",
       "name": "llama.cpp",
       "publisher": "ggml",
-      "version": "b11149",
+      "version": "b11175",
       "description": "LLM inference in C/C++",
       "tags": [
         "ggml",
@@ -96578,7 +96717,7 @@
       "id": "Google.Chrome.Dev",
       "name": "Google Chrome Dev",
       "publisher": "Google LLC",
-      "version": "156.0.8063.3",
+      "version": "156.0.8072.0",
       "description": "Google Chrome for developers",
       "tags": [
         "browser",
@@ -96602,7 +96741,7 @@
       "id": "Google.Chrome.Dev.EXE",
       "name": "Google Chrome Dev (EXE)",
       "publisher": "Google LLC",
-      "version": "156.0.8063.3",
+      "version": "156.0.8072.0",
       "description": "Google Chrome for developers",
       "tags": [
         "browser",
@@ -98385,7 +98524,7 @@
       "id": "GrafanaLabs.Alloy",
       "name": "Alloy",
       "publisher": "Grafana Labs",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "description": "Grafana Alloy",
       "tags": [
         "alloy",
@@ -98540,7 +98679,7 @@
       "id": "GrainIntelligence.Grain",
       "name": "Grain",
       "publisher": "Grain",
-      "version": "2026.35.2",
+      "version": "2026.36.2",
       "description": "The AI notetaker for agents and teams",
       "tags": [
         "caption",
@@ -98673,7 +98812,7 @@
       "id": "Granola.Granola",
       "name": "Granola",
       "publisher": "Granola",
-      "version": "7.595.1",
+      "version": "7.595.2",
       "description": "The AI notepad for people in back-to-back meetings",
       "tags": [
         "audio",
@@ -99316,7 +99455,7 @@
       "id": "GregorDadera.AIContextBuilder",
       "name": "AI Context Builder",
       "publisher": "Gregor Dadera",
-      "version": "0.5.464.35",
+      "version": "0.5.464.44",
       "description": "Roslyn-backed code context for AI coding agents - MCP server, CLI and Windows app.",
       "tags": [
         "ai",
@@ -102449,6 +102588,28 @@
       }
     },
     {
+      "id": "haZii.VoZii",
+      "name": "VoZii",
+      "publisher": "haZii.org",
+      "version": "1.8.0",
+      "description": "Local voice-to-text for Windows — hold a hotkey, speak, done.",
+      "tags": [
+        "dictation",
+        "offline",
+        "speech-recognition",
+        "speech-to-text",
+        "transcription",
+        "voice",
+        "whisper"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "VO",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "HBK.MicrophoneViewer",
       "name": "Brüel & Kjær Microphone Viewer",
       "publisher": "Brüel & Kjær",
@@ -102714,7 +102875,7 @@
       "id": "heartached.Noctis",
       "name": "Noctis",
       "publisher": "heartached",
-      "version": "1.5.2",
+      "version": "1.5.4",
       "description": "A music player that respects what's yours.",
       "tags": [
         "audio",
@@ -104026,7 +104187,7 @@
       "id": "HetoAndrade.NoteZap",
       "name": "NoteZap",
       "publisher": "HetoAndrade",
-      "version": "1.9.2401",
+      "version": "1.9.2501",
       "description": "Organizacao e sincronizacao de notas pessoais.",
       "tags": [],
       "category": "Others",
@@ -104434,6 +104595,27 @@
       "icon": {
         "monogram": "HS",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "hhdtc.LNReaderTUI",
+      "name": "LNReaderTUI",
+      "publisher": "hhdtc",
+      "version": "1.1.5",
+      "description": "Terminal-based light novel reader for bilinovel.com.",
+      "tags": [
+        "epub",
+        "go",
+        "light-novel",
+        "reader",
+        "terminal",
+        "tui"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "LN",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -105668,7 +105850,7 @@
       "id": "Holepunch.Keet",
       "name": "Keet",
       "publisher": "Holepunch",
-      "version": "4.22.4.0",
+      "version": "4.22.5.0",
       "description": "Peer-to-peer chat application with end-to-end encryption for private messaging, calls, and file sharing.",
       "tags": [
         "chat",
@@ -105715,7 +105897,7 @@
       "id": "holland-built.Bloxsmith",
       "name": "Bloxsmith",
       "publisher": "holland-built",
-      "version": "3.70.6",
+      "version": "3.71.0",
       "description": "Self-contained Infoblox BloxOne NOC dashboard.",
       "tags": [],
       "category": "Others",
@@ -106229,6 +106411,26 @@
       "icon": {
         "monogram": "HO",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "HostTracker.ht-cli",
+      "name": "ht-cli",
+      "publisher": "HostTracker",
+      "version": "0.2.0",
+      "description": "The official HostTracker command-line client",
+      "tags": [
+        "api",
+        "cli",
+        "devops",
+        "monitoring",
+        "uptime"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "HC",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -109872,7 +110074,7 @@
       "id": "Ideamerit.GalaxyModeler",
       "name": "Galaxy Modeler",
       "publisher": "Ideamerit",
-      "version": "13.5.0",
+      "version": "13.6.0",
       "description": "A schema design tool for GraphQL for easy and fast visual GraphQL data modeling",
       "tags": [
         "graphql"
@@ -109888,7 +110090,7 @@
       "id": "Ideamerit.LunaModeler",
       "name": "Luna Modeler",
       "publisher": "Ideamerit",
-      "version": "14.5.0",
+      "version": "14.6.0",
       "description": "A powerful desktop data modeling tool for relational databases like PostgreSQL, Oracle, SQL Server, MariaDB, MySQL and SQLite",
       "tags": [
         "database",
@@ -109913,7 +110115,7 @@
       "id": "Ideamerit.MeteorModeler",
       "name": "Meteor Modeler",
       "publisher": "Ideamerit",
-      "version": "13.5.0",
+      "version": "13.6.0",
       "description": "A visual designer for Sequelize ORM",
       "tags": [
         "database",
@@ -109932,7 +110134,7 @@
       "id": "Ideamerit.MoonModeler",
       "name": "Moon Modeler",
       "publisher": "Ideamerit",
-      "version": "13.5.0",
+      "version": "13.6.0",
       "description": "An easy-to-use desktop data modeling tool for MongoDB and Mongoose ODM",
       "tags": [
         "database",
@@ -110443,7 +110645,7 @@
       "id": "Iewnfod.LuminaTerminal",
       "name": "Lumina Terminal",
       "publisher": "iewnfod",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "description": "A modern, cross-platform terminal emulator built with Tauri, React, and Xterm.js.",
       "tags": [
         "console",
@@ -111037,7 +111239,7 @@
       "id": "IJHack.QtPass",
       "name": "QtPass",
       "publisher": "IJHack",
-      "version": "1.8.1",
+      "version": "1.8.2",
       "description": "A multi-platform GUI for pass, the standard unix password manager.",
       "tags": [
         "cross-platform",
@@ -112124,7 +112326,7 @@
       "id": "infisical.infisical",
       "name": "infisical",
       "publisher": "infisical",
-      "version": "0.43.136",
+      "version": "0.43.137",
       "description": "The official Infisical CLI",
       "tags": [],
       "category": "Others",
@@ -112941,7 +113143,7 @@
       "id": "IntegrIT.Hackolade",
       "name": "Hackolade",
       "publisher": "Hackolade",
-      "version": "8.13.1",
+      "version": "8.13.2",
       "description": "Polyglot Data Modeling for SQL and NoSQL databases, APIs, and storage formats",
       "tags": [
         "database",
@@ -114288,7 +114490,7 @@
       "id": "iOfficeAI.AionUi",
       "name": "AionUi",
       "publisher": "aionui",
-      "version": "2.1.61",
+      "version": "2.2.2",
       "description": "Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more",
       "tags": [
         "ai",
@@ -116336,7 +116538,7 @@
       "id": "j178.Prek",
       "name": "Prek",
       "publisher": "j178",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "tags": [
         "git",
@@ -116600,7 +116802,7 @@
       "id": "Jackaopen.JaTubePlayer",
       "name": "JaTubePlayer",
       "publisher": "Jackaopen",
-      "version": "3.0",
+      "version": "3.1",
       "description": "A feature-rich Windows media player for local and online playback.",
       "tags": [
         "media-player",
@@ -116699,7 +116901,7 @@
       "id": "Jackett.Jackett",
       "name": "Jackett",
       "publisher": "Jackett",
-      "version": "0.24.2663",
+      "version": "0.24.2668",
       "description": "API Support for your favorite torrent trackers.",
       "tags": [
         "indexer",
@@ -117518,7 +117720,7 @@
       "id": "Jamie.WespondUG.JamieAI",
       "name": "Jamie AI",
       "publisher": "Jamie (Wespond UG)",
-      "version": "5.7.19",
+      "version": "5.7.21",
       "description": "Jamie AI is an AI-powered meeting assistant that automatically records, transcribes, and summarizes meetings across platforms.",
       "tags": [],
       "category": "Others",
@@ -118039,7 +118241,7 @@
       "id": "janosmiko.lfk",
       "name": "lfk",
       "publisher": "janosmiko",
-      "version": "0.19.0",
+      "version": "0.19.1",
       "description": "Lightning Fast Kubernetes navigator",
       "tags": [
         "cli",
@@ -120026,7 +120228,7 @@
       "id": "JericX.SyncClipboard",
       "name": "SyncClipboard",
       "publisher": "SyncClipboard",
-      "version": "3.1.9",
+      "version": "3.3.0",
       "description": "Cross-platform clipboard synchronization and clipboard history tool.",
       "tags": [
         "clipboard",
@@ -120692,7 +120894,7 @@
       "id": "JetBrains.IntelliJIDEA.EAP",
       "name": "IntelliJ IDEA (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "263.4732.28",
+      "version": "263.5701.42",
       "description": "The Leading Java and Kotlin IDE",
       "tags": [
         "code",
@@ -120880,7 +121082,7 @@
       "id": "JetBrains.PhpStorm.EAP",
       "name": "PhpStorm (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "263.5153.42",
+      "version": "263.5701.46",
       "description": "Lightning-smart PHP IDE",
       "tags": [
         "code",
@@ -121227,7 +121429,7 @@
       "id": "JetBrains.RustRover.EAP",
       "name": "RustRover (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "263.5153.48",
+      "version": "263.5701.45",
       "description": "A brand new JetBrains IDE for Rust Developers",
       "tags": [
         "code",
@@ -121358,7 +121560,7 @@
       "id": "JetBrains.WebStorm.EAP",
       "name": "WebStorm (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "263.5153.41",
+      "version": "263.5701.38",
       "description": "The smartest JavaScript IDE",
       "tags": [
         "code",
@@ -123634,6 +123836,23 @@
       }
     },
     {
+      "id": "JoshProject.Josh",
+      "name": "Josh",
+      "publisher": "Josh Project authors",
+      "version": "26.08.28",
+      "description": "Work with and transform Git repos locally",
+      "tags": [
+        "git",
+        "monorepo"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "JO",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "jousse.pomodorolm",
       "name": "pomodorolm",
       "publisher": "jousse",
@@ -125215,7 +125434,7 @@
       "id": "JYH1878.KimiCodeBar",
       "name": "KimiCodeBar",
       "publisher": "JYH1878",
-      "version": "1.9.3",
+      "version": "1.10.1",
       "description": "Windows system tray app that monitors Kimi Code usage quotas and alerts before they run out",
       "tags": [
         "kimi",
@@ -125760,6 +125979,28 @@
       "icon": {
         "monogram": "AC",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "KALMIX.Trace",
+      "name": "KALMIX Trace",
+      "publisher": "Shanghai IOTARS Co., Ltd.",
+      "version": "1.5.7",
+      "description": "Portable Windows GNSS serial monitor and NTRIP correction client.",
+      "tags": [
+        "gnss",
+        "gps",
+        "nmea",
+        "ntrip",
+        "rtcm",
+        "rtk",
+        "serial"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "KT",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -129755,7 +129996,7 @@
       "id": "khanhtd36.herdr-khanhtd36",
       "name": "herdr-khanhtd36",
       "publisher": "khanhtd36",
-      "version": "0.9.1-khanhtd36.2",
+      "version": "0.9.1-khanhtd36.4",
       "description": "Minimized fork of herdr that can disable agent features",
       "tags": [
         "agents",
@@ -131204,19 +131445,27 @@
       "id": "KnightAIAV.TalkDAT",
       "name": "Talk DAT!",
       "publisher": "Knight AI+AV",
-      "version": "0.4.162-beta",
-      "description": "Hold a key, talk, and the text appears where you're typing.",
+      "version": "0.4.168-beta",
+      "description": "Free dictation for Windows. Hold a key, talk, and the text appears where you're typing. Speech recognition runs on your PC.",
       "tags": [
         "accessibility",
-        "ai",
+        "dictate",
         "dictation",
+        "local-first",
         "offline",
-        "productivity",
+        "open-source",
+        "parakeet",
+        "push-to-talk",
+        "speech-recognition",
         "speech-to-text",
+        "stt",
+        "transcribe",
         "transcription",
-        "voice-typing"
+        "voice-to-text",
+        "voice-typing",
+        "whisper"
       ],
-      "category": "Productivity",
+      "category": "Others",
       "icon": {
         "monogram": "TD",
         "background": "#BE123C",
@@ -131290,7 +131539,7 @@
       "id": "KoalaFacts.HeroParser",
       "name": "HeroParser CLI",
       "publisher": "KoalaFacts",
-      "version": "2.5.2",
+      "version": "2.7.0",
       "description": "High-performance, cross-platform CLI tool for parsing, converting, formatting, and profiling CSV, Fixed-Width, Excel, JSONL, and HTB files.",
       "tags": [
         "cli",
@@ -133166,7 +133415,7 @@
       "id": "kunobi-ninja.kobe",
       "name": "kobe",
       "publisher": "Kunobi Ninja",
-      "version": "0.56.0",
+      "version": "0.57.0",
       "description": "CLI for the kobe cluster-pool operator — instant CI/dev Kubernetes clusters",
       "tags": [
         "ci",
@@ -133682,7 +133931,7 @@
       "id": "Lablicate.OpenChrom",
       "name": "OpenChrom",
       "publisher": "Lablicate GmbH",
-      "version": "1.6.32",
+      "version": "1.6.34",
       "description": "Open Source software for chromatography, spectrometry and spectroscopy",
       "tags": [
         "chemistry",
@@ -134462,7 +134711,7 @@
       "id": "LasseMarkusRautiainen.TextEditorPro",
       "name": "Text Editor Pro",
       "publisher": "Lasse Markus Rautiainen",
-      "version": "37.2.0",
+      "version": "37.2.1",
       "description": "Powerful text editing tool",
       "tags": [
         "code",
@@ -134571,7 +134820,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.113.12",
+      "version": "1.114.3",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -135129,7 +135378,7 @@
       "id": "Ledgerful.Ledgerful",
       "name": "Ledgerful",
       "publisher": "Ledgerful, LLC",
-      "version": "0.2.14",
+      "version": "0.2.15",
       "description": "Local-first change intelligence CLI for impact analysis and verification",
       "tags": [
         "change-intelligence",
@@ -136090,7 +136339,7 @@
       "id": "leonsnajdr.sast",
       "name": "sast",
       "publisher": "leonsnajdr",
-      "version": "26.9.65",
+      "version": "26.9.67",
       "description": "Stop running commands one by one yourself",
       "tags": [],
       "category": "Others",
@@ -136356,9 +136605,9 @@
     },
     {
       "id": "lezli01.Vincent",
-      "name": "Vincent",
+      "name": "vincent",
       "publisher": "László Szabó",
-      "version": "0.6.0",
+      "version": "0.10.1",
       "description": "Vendor-independent control plane for native coding-agent CLIs",
       "tags": [
         "ai",
@@ -137155,7 +137404,7 @@
       "id": "LifetimeLabs.PrivacyNotes",
       "name": "PrivacyNotes",
       "publisher": "Lifetime Labs LLC",
-      "version": "0.524.2",
+      "version": "0.534.0",
       "description": "End-to-end encrypted notes, tasks, and journal",
       "tags": [
         "e2ee",
@@ -138031,7 +138280,7 @@
       "id": "LinuxContainers.Incus",
       "name": "Incus",
       "publisher": "LinuxContainers",
-      "version": "7.4.0",
+      "version": "7.5.1",
       "description": "Incus is a modern, secure and powerful system container and virtual machine manager.",
       "tags": [
         "cloud",
@@ -138749,7 +138998,7 @@
       "id": "LiveKit.LiveKitCLI",
       "name": "LiveKit CLI",
       "publisher": "LiveKit",
-      "version": "2.18.7",
+      "version": "2.18.8",
       "description": "Command line interface to LiveKit",
       "tags": [],
       "category": "Others",
@@ -139382,7 +139631,7 @@
       "id": "loft-sh.vcluster",
       "name": "vcluster",
       "publisher": "loft-sh",
-      "version": "0.37.1",
+      "version": "0.37.2",
       "description": "Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
       "tags": [
         "cloud-native",
@@ -144211,7 +144460,7 @@
       "id": "makhlwf.HexPlayer",
       "name": "HexPlayer",
       "publisher": "makhlwf",
-      "version": "5.1.0",
+      "version": "5.2.0",
       "description": "HexPlayer",
       "tags": [
         "hexplayer"
@@ -146547,7 +146796,7 @@
       "id": "matchmycolor.ColibriAlpha",
       "name": "Colibri Alpha",
       "publisher": "matchmycolor",
-      "version": "26.3.0.405",
+      "version": "26.3.0.406",
       "description": "Colibri color management systems help brand owners, brand management companies, designers, and material manufacturers and suppliers to specify, manage, produce and communicate color.",
       "tags": [],
       "category": "Others",
@@ -146561,7 +146810,7 @@
       "id": "matchmycolor.ColibriBeta",
       "name": "Colibri Beta",
       "publisher": "matchmycolor",
-      "version": "26.2.0.3132",
+      "version": "26.2.0.3134",
       "description": "Colibri color management systems help brand owners, brand management companies, designers, and material manufacturers and suppliers to specify, manage, produce and communicate color.",
       "tags": [],
       "category": "Others",
@@ -146662,7 +146911,7 @@
       "id": "MathiasSvensson.MultiCommander",
       "name": "MultiCommander",
       "publisher": "Mathias Svensson",
-      "version": "16.5.0.3220",
+      "version": "16.5.0.3221",
       "description": "File Manager for Professionals",
       "tags": [
         "archive",
@@ -150089,7 +150338,7 @@
       "id": "mg-chao.snow-shot",
       "name": "Snow Shot",
       "publisher": "mg-chao",
-      "version": "1.1.2-beta",
+      "version": "1.1.3-beta",
       "description": "超好用的截图工具",
       "tags": [
         "chatbot",
@@ -150599,6 +150848,31 @@
       "icon": {
         "monogram": "VO",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "MichalFoist.ViktorTheCleaner",
+      "name": "Viktor the Cleaner",
+      "publisher": "Michal Foist",
+      "version": "1.1.0",
+      "description": "A careful Windows cleaner that shows what it would delete before it deletes anything.",
+      "tags": [
+        "cache",
+        "cleaner",
+        "cleanup",
+        "disk-space",
+        "disk-usage",
+        "maintenance",
+        "privacy",
+        "startup",
+        "temp",
+        "temporary-files"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "VT",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -151118,7 +151392,7 @@
       "id": "Microsoft.APM",
       "name": "APM – Agent Package Manager",
       "publisher": "Microsoft Corporation",
-      "version": "0.31.0",
+      "version": "0.32.0",
       "description": "The package manager for AI-Native Development.",
       "tags": [
         "ai-agents",
@@ -151167,7 +151441,7 @@
       "id": "Microsoft.AppInstaller",
       "name": "App Installer",
       "publisher": "Microsoft Corporation",
-      "version": "1.29.290",
+      "version": "1.29.380",
       "description": "Microsoft App Installer lets you easily install Windows apps with a double-click. It also includes WinGet for powerful command-line app management.",
       "tags": [
         "command-line",
@@ -151425,8 +151699,8 @@
       "id": "Microsoft.Azure.Auth",
       "name": "AzureAuth",
       "publisher": "Microsoft",
-      "version": "0.9.2",
-      "description": "A CLI wrapper for performing AAD Authentication. It makes use of MSAL for authentication and caching. Not to be confused with \"Microsoft Authenticator\".",
+      "version": "0.9.6",
+      "description": "A CLI wrapper for performing Microsoft Entra ID (Azure AD) authentication.",
       "tags": [
         "aad-authentication",
         "azure-auth",
@@ -151441,7 +151715,7 @@
         "public-client-aad-applications",
         "requirescmd"
       ],
-      "category": "Security & Privacy",
+      "category": "Microsoft Tools",
       "icon": {
         "monogram": "AZ",
         "background": "#4338CA",
@@ -154638,7 +154912,7 @@
       "id": "Microsoft.GameInput",
       "name": "Microsoft GameInput",
       "publisher": "Microsoft Corporation",
-      "version": "3.5.274",
+      "version": "3.5.278",
       "description": "A next-generation input API that exposes input devices of all kinds through a single consistent interface.",
       "tags": [
         "directinput",
@@ -156490,7 +156764,7 @@
       "id": "Microsoft.PowerShell.Preview",
       "name": "PowerShell Preview",
       "publisher": "Microsoft Corporation",
-      "version": "7.7.4.0",
+      "version": "7.7.5.0",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "tags": [
         "command-line",
@@ -156746,7 +157020,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.384.0",
+      "version": "1.459.403.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -161818,7 +162092,7 @@
       "id": "misxzaiz.Polaris",
       "name": "Polaris",
       "publisher": "misxzaiz",
-      "version": "10.5.4",
+      "version": "10.5.5",
       "description": "Cross-platform desktop client for multi-engine AI coding assistants",
       "tags": [
         "agent",
@@ -163415,7 +163689,7 @@
       "id": "Moises.Moises",
       "name": "Moises",
       "publisher": "Moises Systems",
-      "version": "2.0.7",
+      "version": "2.0.9",
       "description": "The Musician's App | Vocal Remover & much more.",
       "tags": [
         "accompaniment",
@@ -163852,7 +164126,7 @@
       "id": "MongoDB.Compass.Full",
       "name": "MongoDB Compass",
       "publisher": "MongoDB Inc",
-      "version": "1.50.0.0",
+      "version": "1.51.0.0",
       "description": "The GUI for MongoDB. Visually explore your data.",
       "tags": [
         "compass",
@@ -163871,7 +164145,7 @@
       "id": "MongoDB.Compass.Isolated",
       "name": "MongoDB Compass Isolated Edition",
       "publisher": "MongoDB Inc",
-      "version": "1.50.0.0",
+      "version": "1.51.0.0",
       "description": "The GUI for MongoDB. Visually explore your data.",
       "tags": [
         "compass",
@@ -163891,7 +164165,7 @@
       "id": "MongoDB.Compass.Readonly",
       "name": "MongoDB Compass Readonly",
       "publisher": "MongoDB Inc",
-      "version": "1.50.0.0",
+      "version": "1.51.0.0",
       "description": "The GUI for MongoDB. Visually explore your data.",
       "tags": [
         "compass",
@@ -164793,7 +165067,7 @@
       "id": "mostlygeek.llama-swap",
       "name": "llama-swap",
       "publisher": "mostlygeek",
-      "version": "257",
+      "version": "258",
       "description": "Model swapping for llama.cpp",
       "tags": [
         "golang",
@@ -175687,7 +175961,7 @@
       "id": "MSKazemi.YazSes",
       "name": "YazSes",
       "publisher": "MSKazemi",
-      "version": "2.39.1",
+      "version": "2.40.1",
       "description": "Offline voice dictation — hold a key, speak, release. No cloud, no API key, no subscription.",
       "tags": [
         "accessibility",
@@ -176642,7 +176916,7 @@
       "id": "MurkyYT.CSAuto",
       "name": "CSAuto",
       "publisher": "Murky",
-      "version": "2.2.7",
+      "version": "2.2.8",
       "description": "Counter-Strike 2 companion that automates in-game tasks, such as accepting match, buying items and more.",
       "tags": [
         "auto",
@@ -177264,6 +177538,30 @@
       "icon": {
         "monogram": "TY",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "myselfrxvi.sysfetchme",
+      "name": "sysfetchme",
+      "publisher": "myselfrxvi",
+      "version": "1.0.0",
+      "description": "Ultra-fast, zero-dependency 3D system information engine and telemetry suite.",
+      "tags": [
+        "3d",
+        "cli",
+        "fastfetch",
+        "fetch",
+        "neofetch",
+        "sysfetch",
+        "telemetry",
+        "terminal",
+        "wallpaper"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "SY",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -178006,7 +178304,7 @@
       "id": "Namespace.nsc",
       "name": "nsc",
       "publisher": "Namespace Labs, Inc",
-      "version": "0.0.576",
+      "version": "0.0.578",
       "description": "Manage Namespace compute, builds, containers, caches, and cloud resources from the terminal.",
       "tags": [
         "ci",
@@ -178142,7 +178440,7 @@
       "id": "nao1215.gup",
       "name": "gup",
       "publisher": "Chikamatsu Naohiro",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "description": "gup - Update binaries installed by \"go install\" with goroutines",
       "tags": [
         "cli-app",
@@ -178583,7 +178881,7 @@
       "id": "NASS.Wrok",
       "name": "Wrok",
       "publisher": "NASS e.K.",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "description": "Modern, portable WebView2-based Grok client with macro hotkeys, a boss key, a media viewer and a tray menu.",
       "tags": [
         "ai",
@@ -180681,7 +180979,7 @@
       "id": "Nethesis.NethLink",
       "name": "NethLink",
       "publisher": "NethesisSRL",
-      "version": "1.5.1",
+      "version": "1.5.2",
       "description": "NethLink is a tool designed to link NethServer systems and provide remote access tools. This project aims to offer a simple yet powerful user interface for managing NethServer systems more efficiently.",
       "tags": [],
       "category": "Others",
@@ -181126,7 +181424,7 @@
       "id": "NeuralNomadsAI.CodeNomad",
       "name": "CodeNomad",
       "publisher": "NeuralNomadsAI",
-      "version": "0.19.0",
+      "version": "0.20.0",
       "description": "CodeNomad is the command center that puts AI coding on steroids.",
       "tags": [
         "ai",
@@ -181990,7 +182288,7 @@
       "id": "neyham.AIUsageDashboard",
       "name": "AI Usage Dashboard",
       "publisher": "neyham",
-      "version": "0.8.5",
+      "version": "0.8.6",
       "description": "Local Windows dashboard for Claude Code, Codex, Grok Build, Cursor, Antigravity, and DeepSeek usage.",
       "tags": [
         "ai",
@@ -184992,7 +185290,7 @@
       "id": "NoirArchitects.Ncored",
       "name": "Ncored",
       "publisher": "Noir architects",
-      "version": "2026.2.5",
+      "version": "2026.2.8",
       "description": "Fast PDF editor for large CAD and construction drawings",
       "tags": [
         "annotation",
@@ -185453,7 +185751,7 @@
       "id": "NordSecurity.NordPass",
       "name": "NordPass",
       "publisher": "NordPass Team",
-      "version": "7.9.3",
+      "version": "7.11.7",
       "description": "Securely Store, Manage & Autofill Passwords",
       "tags": [
         "credential",
@@ -185654,7 +185952,7 @@
       "id": "NotedeckDev.NoteDeck",
       "name": "NoteDeck",
       "publisher": "notedeck-dev",
-      "version": "1.65.1",
+      "version": "1.68.0",
       "description": "Misskey Pro — an integrated deck environment (IDE) for Misskey power users",
       "tags": [
         "deck",
@@ -186508,7 +186806,7 @@
       "id": "ntwind.PromptSense",
       "name": "PromptSense",
       "publisher": "NTWIND LLC",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Save, organize, and reuse your best AI prompts.",
       "tags": [
         "ai-prompts",
@@ -186712,7 +187010,7 @@
       "id": "nukeop.nuclear",
       "name": "nuclear",
       "publisher": "nukeop",
-      "version": "1.48.6",
+      "version": "1.49.0",
       "description": "Streaming music player that finds free music for you.",
       "tags": [
         "cross-platform",
@@ -188090,7 +188388,7 @@
       "id": "OCBase.OCCT.Personal.Mono",
       "name": "OCCT Mono",
       "publisher": "OCCT",
-      "version": "17.1.3.0",
+      "version": "17.1.5.0",
       "description": "OCCT Personal with the Mono skin is an all-in-one stability check and stress test tool.",
       "tags": [],
       "category": "Others",
@@ -191024,7 +191322,7 @@
       "id": "OpenAI.Codex",
       "name": "Codex CLI",
       "publisher": "OpenAI, Inc.",
-      "version": "0.156.1",
+      "version": "0.157.0",
       "description": "Codex CLI is an open‐source local coding agent that runs in your terminal, letting you write, edit, and understand code without leaving the command line.",
       "tags": [
         "agent",
@@ -193455,7 +193753,7 @@
       "id": "OpenScreen.OpenScreen",
       "name": "OpenScreen",
       "publisher": "OpenScreen",
-      "version": "1.12.2",
+      "version": "1.13.0",
       "description": "Desktop screen recorder with built-in editor",
       "tags": [
         "screen-recorder",
@@ -193801,7 +194099,7 @@
       "id": "OpenTubeX.OpenTubeX",
       "name": "OpenTubeX",
       "publisher": "OpenTubeX contributors",
-      "version": "0.34.1",
+      "version": "0.35.1",
       "description": "A private YouTube client",
       "tags": [
         "cross-platform",
@@ -193996,7 +194294,7 @@
       "id": "openwong2kim.wmux",
       "name": "wmux",
       "publisher": "openwong2kim",
-      "version": "3.60.0",
+      "version": "3.61.0",
       "description": "Windows terminal multiplexer with MCP server for AI agents",
       "tags": [
         "ai-agent",
@@ -194143,7 +194441,7 @@
       "id": "Opera.OperaGX",
       "name": "Opera GX Stable",
       "publisher": "Opera Software",
-      "version": "136.0.6008.50",
+      "version": "136.0.6008.67",
       "description": "Opera GX is a special version of the Opera browser which, on top of Opera’s great features for privacy, security and efficiency, includes special features designed to complement gaming.",
       "tags": [
         "chromium",
@@ -197047,6 +197345,30 @@
       }
     },
     {
+      "id": "pagebrooks.maxdop",
+      "name": "maxdop",
+      "publisher": "Page Brooks",
+      "version": "0.1.1",
+      "description": "An opinionated T-SQL formatter that runs in CI and checks its own work.",
+      "tags": [
+        "cli",
+        "database",
+        "formatter",
+        "mssql",
+        "sql",
+        "sql-server",
+        "sqlserver",
+        "t-sql",
+        "tsql"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "MA",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "paimonchan.paimon-mcp-fetch",
       "name": "paimon-mcp-fetch",
       "publisher": "paimonchan",
@@ -197178,7 +197500,7 @@
       "id": "Pane.Pane",
       "name": "Pane",
       "publisher": "Pane",
-      "version": "0.4.54",
+      "version": "0.4.55",
       "description": "All your AI subscription limits in one liquid-glass tray popover.",
       "tags": [
         "ai",
@@ -199015,7 +199337,7 @@
       "id": "pbek.QOwnNotes",
       "name": "QOwnNotes",
       "publisher": "pbek",
-      "version": "26.9.9",
+      "version": "26.9.11",
       "description": "QOwnNotes is the open source notepad with markdown support and todo list manager",
       "tags": [
         "markdown",
@@ -203082,7 +203404,7 @@
       "id": "pnpm.pnpm",
       "name": "pnpm",
       "publisher": "pnpm",
-      "version": "12.5.1",
+      "version": "12.6.0",
       "description": "Fast, disk space efficient package manager.",
       "tags": [
         "dependency-manager",
@@ -204902,6 +205224,25 @@
       }
     },
     {
+      "id": "PragmAI.PragmAI",
+      "name": "PragmAI",
+      "publisher": "PragmAI",
+      "version": "0.7.18",
+      "description": "Privacy-safe local connector for PragmAI.",
+      "tags": [
+        "ai",
+        "analytics",
+        "cli",
+        "privacy"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "PR",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "PragmaTwice.proxinject",
       "name": "proxinject",
       "publisher": "PragmaTwice",
@@ -205896,7 +206237,7 @@
       "id": "PrimeBuild.LightCrosshair",
       "name": "LightCrosshair",
       "publisher": "PrimeBuild",
-      "version": "1.7.0",
+      "version": "1.8.0",
       "description": "LightCrosshair is a Windows desktop application that provides a customizable crosshair overlay for gaming and other applications.",
       "tags": [
         "amd",
@@ -206943,7 +207284,7 @@
       "id": "Proton.ProtonPass",
       "name": "Proton Pass",
       "publisher": "Proton AG",
-      "version": "1.40.2",
+      "version": "1.41.1",
       "description": "Open-source and encrypted password manager",
       "tags": [
         "encrypted",
@@ -207505,7 +207846,7 @@
       "id": "Psychotoxical.Psysonic",
       "name": "Psysonic",
       "publisher": "Psysonic",
-      "version": "1.54.0",
+      "version": "1.55.0",
       "description": "Gorgeous, modern desktop client for Navidrome and Subsonic music servers",
       "tags": [
         "audio",
@@ -213138,7 +213479,7 @@
       "id": "Readdle.Spark",
       "name": "Spark Desktop",
       "publisher": "Spark Mail Limited",
-      "version": "3.31.2",
+      "version": "3.31.3",
       "description": "Smart. Focused. Email.",
       "tags": [
         "email",
@@ -214724,7 +215065,7 @@
       "id": "Relic.Relic",
       "name": "Relic",
       "publisher": "Relic",
-      "version": "1.0.53",
+      "version": "1.0.54",
       "description": "Clipboard manager with end-to-end encrypted sync, on-device AI search, and secret protection.",
       "tags": [
         "clipboard",
@@ -214747,7 +215088,7 @@
       "id": "relmer.MatrixRain",
       "name": "MatrixRain",
       "publisher": "relmer",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "description": "GPU-accelerated Matrix digital rain screensaver and live wallpaper for Windows",
       "tags": [
         "animation",
@@ -214850,7 +215191,7 @@
       "id": "Rem0o.FanControl",
       "name": "FanControl",
       "publisher": "Remi Mercier Software Inc",
-      "version": "278",
+      "version": "279",
       "description": "A highly focused fan controlling software for Windows.",
       "tags": [
         "control",
@@ -214967,7 +215308,7 @@
       "id": "Remio.RemioClient",
       "name": "Remio Client",
       "publisher": "Remio",
-      "version": "2.8.11",
+      "version": "3.0.1",
       "description": "Control and stream any computer running Remio Host, right from your Windows PC.",
       "tags": [
         "client",
@@ -214992,7 +215333,7 @@
       "id": "Remio.RemioHost",
       "name": "Remio Host",
       "publisher": "Remio",
-      "version": "2.8.8",
+      "version": "3.0.1",
       "description": "Stream your Windows PC to any device with native, GPU-accelerated remote desktop.",
       "tags": [
         "host",
@@ -215253,7 +215594,7 @@
       "id": "Reon-Jin.JYYCode.Desktop",
       "name": "JYYCode",
       "publisher": "jyycode",
-      "version": "1.2.8",
+      "version": "1.2.9",
       "description": "A multi-agent engineering workflow that plans, delegates, reviews, revises, and delivers.",
       "tags": [
         "agent",
@@ -216160,7 +216501,7 @@
       "id": "RevoUninstaller.RevoUninstallerPro",
       "name": "Revo Uninstaller Pro",
       "publisher": "VS Revo Group, Ltd.",
-      "version": "5.5.2.0",
+      "version": "5.5.4.0",
       "description": "Uninstall unwanted programs and their leftovers, quickly and easily!",
       "tags": [
         "backup",
@@ -223753,7 +224094,7 @@
       "id": "Sandboxie.Classic",
       "name": "Sandboxie",
       "publisher": "sandboxie-plus.com",
-      "version": "5.73.4",
+      "version": "5.73.5",
       "description": "Sandboxie is a sandbox-based isolation software for 32- and 64-bit Windows NT-based operating systems.",
       "tags": [
         "sandbox"
@@ -223769,7 +224110,7 @@
       "id": "Sandboxie.Plus",
       "name": "Sandboxie-Plus",
       "publisher": "http://xanasoft.com/",
-      "version": "1.18.4",
+      "version": "1.18.5",
       "description": "Sandboxie is a sandbox-based isolation software for 32- and 64-bit Windows NT-based operating systems.",
       "tags": [
         "sandbox"
@@ -224341,7 +224682,7 @@
       "id": "SAP.btp",
       "name": "btp",
       "publisher": "SAP SE",
-      "version": "2.116.2",
+      "version": "2.116.3",
       "description": "SAP BTP Command Line Interface (btp CLI)",
       "tags": [
         "btp",
@@ -225593,7 +225934,7 @@
       "id": "schn4ppi.SyncManga",
       "name": "SyncManga",
       "publisher": "schn4ppi",
-      "version": "0.4.1",
+      "version": "0.4.6",
       "description": "Your manga reading list, on autopilot - built from your browser history.",
       "tags": [
         "manga",
@@ -226109,6 +226450,30 @@
       }
     },
     {
+      "id": "ScreenSlinger.ScreenSlinger",
+      "name": "Screen Slinger",
+      "publisher": "Screen Slinger",
+      "version": "3.6.69",
+      "description": "Fast Windows screen capture with automatic scrolling capture, real annotation and smart redaction.",
+      "tags": [
+        "annotation",
+        "capture",
+        "ocr",
+        "offline",
+        "privacy",
+        "redaction",
+        "screen-capture",
+        "screenshot",
+        "scrolling-capture"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "SS",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ScreenSteps.ScreenSteps",
       "name": "ScreenSteps",
       "publisher": "ScreenSteps, Inc.",
@@ -226158,7 +226523,7 @@
       "id": "ScryerMedia.Scryer",
       "name": "Scryer",
       "publisher": "Scryer Media",
-      "version": "0.21.9",
+      "version": "0.21.10",
       "description": "Self-hosted media acquisition and management platform.",
       "tags": [
         "media",
@@ -226177,7 +226542,7 @@
       "id": "ScryerMedia.Weaver",
       "name": "Weaver",
       "publisher": "Scryer Media",
-      "version": "0.13.3",
+      "version": "0.13.4",
       "description": "High-performance Usenet binary downloader.",
       "tags": [
         "downloader",
@@ -226793,7 +227158,7 @@
       "id": "SecretLUL.WinMedic",
       "name": "WinMedic",
       "publisher": "SecretLUL",
-      "version": "0.3.4",
+      "version": "0.5.3",
       "description": "High-performance Windows self-healing and diagnostic TUI written in Rust",
       "tags": [
         "cleanup",
@@ -227732,7 +228097,7 @@
       "id": "Seiraiyu.Keon",
       "name": "Keon CLI",
       "publisher": "Seiraiyu",
-      "version": "0.1.64",
+      "version": "0.1.65",
       "description": "Command-line client for the Kisenon serverless Postgres platform.",
       "tags": [
         "cli",
@@ -228860,7 +229225,7 @@
       "id": "SFXTechInnovation.SimpleFixAI",
       "name": "SimpleFixAI",
       "publisher": "SFX Tech Innovation LLC",
-      "version": "1.7.56",
+      "version": "1.7.57",
       "description": "AI-powered Windows PC repair tool that diagnoses, explains, and reversibly fixes common Windows problems.",
       "tags": [
         "diagnostics",
@@ -230979,7 +231344,7 @@
       "id": "Siemens.JT2Go",
       "name": "JT2Go",
       "publisher": "Siemens PLM Software",
-      "version": "2606.0.26191",
+      "version": "2606.0.26230",
       "description": "JT2Go Desktop App provides the richest feature set of all the supported platforms. The Desktop App will display not only .jt files but .vfz session files authored in the Siemens Digital Industries Software Flagship Teamcenter Visualization product.",
       "tags": [],
       "category": "Others",
@@ -231499,7 +231864,7 @@
       "id": "silviuk.Lunifier",
       "name": "Lunifier",
       "publisher": "silviuk",
-      "version": "1.0.6",
+      "version": "1.0.10",
       "description": "Seamless multi-border screen switching for Logitech Easy-Switch keyboards and mice across Windows & Linux",
       "tags": [
         "bluetooth",
@@ -231801,6 +232166,29 @@
       "icon": {
         "monogram": "ST",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "SimonThorpe.Octomon",
+      "name": "octomon",
+      "publisher": "Simon Thorpe",
+      "version": "0.7.3",
+      "description": "Btop-style terminal network monitor: latency, bandwidth, and Wi-Fi signal",
+      "tags": [
+        "bandwidth",
+        "diagnostics",
+        "latency",
+        "monitor",
+        "network",
+        "ping",
+        "terminal",
+        "tui"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "OC",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -233493,7 +233881,7 @@
       "id": "Smallstep.step",
       "name": "step",
       "publisher": "Smallstep",
-      "version": "0.30.6",
+      "version": "0.31.0",
       "description": "A Swiss army knife for working with X.509 certificates, JWTs, etc.",
       "tags": [
         "certificates",
@@ -233520,7 +233908,7 @@
       "id": "Smallstep.step-agent",
       "name": "step-agent",
       "publisher": "Smallstep Labs, LLC",
-      "version": "0.69.3",
+      "version": "0.70.0",
       "description": "Device identity and certificate management daemon.",
       "tags": [
         "acme",
@@ -234513,7 +234901,7 @@
       "id": "Snesnopic.Mseedout",
       "name": "Mseedout",
       "publisher": "Snesnopic",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "description": "Recompress miniSEED files to the smallest possible",
       "tags": [
         "cli",
@@ -234834,6 +235222,20 @@
       "icon": {
         "monogram": "AP",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "SnowMint.FluentScrobbler",
+      "name": "Fluent Scrobbler",
+      "publisher": "Snow Mint",
+      "version": "0.5.0-beta",
+      "description": "A Native Scrobbler for Windows 11",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "FS",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -237698,7 +238100,7 @@
       "id": "solpbc.Solstone",
       "name": "solstone",
       "publisher": "sol pbc",
-      "version": "2.0.10",
+      "version": "2.0.11",
       "description": "the solstone app for windows",
       "tags": [
         "journal",
@@ -238831,7 +239233,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790294503-g39c830",
+      "version": "0.0.1790352060-g26b83c",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -239444,7 +239846,7 @@
       "id": "Speakeasy.speakeasy",
       "name": "speakeasy",
       "publisher": "Speakeasy",
-      "version": "1.798.0",
+      "version": "1.799.0",
       "description": "Speakeasy CLI makes validating API specs and generating idiomatic SDKs easy!",
       "tags": [],
       "category": "Others",
@@ -239736,6 +240138,30 @@
       "icon": {
         "monogram": "IE",
         "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "SpiceLogic.8051Disassembler",
+      "name": "8051 Disassembler",
+      "publisher": "SpiceLogic Inc.",
+      "version": "5.0.0",
+      "description": "Disassemble Intel HEX files for the 8051 microcontroller family back into readable assembly.",
+      "tags": [
+        "8051",
+        "assembly",
+        "disassembler",
+        "embedded",
+        "firmware",
+        "hex",
+        "intel-hex",
+        "microcontroller",
+        "reverse-engineering"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "8D",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -240196,8 +240622,8 @@
       "id": "SPRIC76.KIT",
       "name": "KIT",
       "publisher": "MK1 Enterprise",
-      "version": "1.0.52",
-      "description": "Hassle-free awake modes that keep your PC, Apps & AI ticking.",
+      "version": "1.1.0",
+      "description": "Hassle-free screen blackout and awake modes that keep your PC, Apps & AI ticking.",
       "tags": [
         "ai-friendly",
         "animation",
@@ -240363,7 +240789,7 @@
       "id": "SQLBI.Whiteboard",
       "name": "SQLBI Whiteboard",
       "publisher": "SQLBI Corp",
-      "version": "1.2.2",
+      "version": "1.6.2",
       "description": "A native Windows whiteboard for pen, touch, and live application capture.",
       "tags": [
         "annotation",
@@ -241024,7 +241450,7 @@
       "id": "stacklok.thv",
       "name": "thv",
       "publisher": "stacklok",
-      "version": "0.51.1",
+      "version": "0.51.2",
       "description": "ToolHive is a lightweight, secure, and fast manager for MCP (Model Context Protocol) servers",
       "tags": [
         "cli",
@@ -241096,7 +241522,7 @@
       "id": "StacksLabs.Clarinet",
       "name": "Clarinet",
       "publisher": "Stacks Labs",
-      "version": "3.24.0",
+      "version": "3.24.1",
       "description": "Write, test and deploy high-quality smart contracts to the Stacks blockchain.",
       "tags": [
         "blockchain",
@@ -243083,7 +243509,7 @@
       "id": "SteveTheKiller.KillerPDF",
       "name": "KillerPDF",
       "publisher": "Steve the Killer",
-      "version": "1.8.61",
+      "version": "1.8.70",
       "description": "PDF editor for Windows. No account, no subscription, no telemetry.",
       "tags": [
         "dotnet",
@@ -244376,7 +244802,7 @@
       "id": "SublimeHQ.SublimeText.4",
       "name": "Sublime Text 4",
       "publisher": "Sublime HQ Pty Ltd",
-      "version": "4.0.0.421300",
+      "version": "4.0.0.421500",
       "description": "Sublime is a sophisticated cross-platform text editor for code, markup and prose.",
       "tags": [
         "editor",
@@ -244394,7 +244820,7 @@
       "id": "SublimeHQ.SublimeText.4.Dev",
       "name": "Sublime Text 4 (Dev)",
       "publisher": "Sublime HQ Pty Ltd",
-      "version": "4.0.0.421200",
+      "version": "4.0.0.421400",
       "description": "Sublime is a sophisticated cross-platform text editor for code, markup and prose.",
       "tags": [
         "editor",
@@ -245188,7 +245614,7 @@
       "id": "SuperRadCompany.Microsandbox",
       "name": "Microsandbox",
       "publisher": "Super Rad Company",
-      "version": "0.7.2",
+      "version": "0.7.3",
       "description": "Fast local microVM runtime for running untrusted workloads with hardware isolation.",
       "tags": [
         "ai",
@@ -245327,7 +245753,7 @@
       "id": "SureshJanakiReddy.GeminiDesktop",
       "name": "Gemini Desktop",
       "publisher": "Suresh Janaki Reddy",
-      "version": "0.2.10",
+      "version": "0.2.14",
       "description": "Modern native desktop client for Gemini CLI via Agent Client Protocol (ACP)",
       "tags": [
         "acp",
@@ -245384,7 +245810,7 @@
       "id": "Surfshark.Surfshark",
       "name": "Surfshark",
       "publisher": "Surfshark",
-      "version": "6.18.0.999",
+      "version": "6.19.0.999",
       "description": "Surf the web without tracking with a VPN, shield your devices with Antivirus, & guard your identity with an all-in-one app.",
       "tags": [
         "network",
@@ -247335,7 +247761,7 @@
       "id": "szTheory.exifcleaner",
       "name": "ExifCleaner",
       "publisher": "szTheory",
-      "version": "4.3.0",
+      "version": "4.4.0",
       "description": "Desktop app to clean metadata from images, videos, PDFs, and other files.",
       "tags": [
         "clean",
@@ -247467,7 +247893,7 @@
       "id": "t8y2.DBX",
       "name": "DBX",
       "publisher": "t8y2",
-      "version": "0.6.22",
+      "version": "0.6.23",
       "description": "15MB,lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "tags": [
         "clickhouse",
@@ -252115,7 +252541,7 @@
       "id": "Termaxa.Termaxa",
       "name": "Termaxa",
       "publisher": "Termaxa",
-      "version": "0.17.0",
+      "version": "0.19.4",
       "description": "Cooperative gate for the shell commands AI coding agents run",
       "tags": [
         "agents",
@@ -256614,7 +257040,7 @@
       "id": "Thurbeen.thurbox",
       "name": "thurbox",
       "publisher": "LeTuR",
-      "version": "2.35.2",
+      "version": "2.35.3",
       "description": "TUI for orchestrating multiple coding-agent CLI sessions in persistent panels.",
       "tags": [
         "agent",
@@ -257667,7 +258093,7 @@
       "id": "TinyHumansAI.OpenHuman",
       "name": "OpenHuman",
       "publisher": "openhuman",
-      "version": "0.63.12",
+      "version": "0.64.0",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "tags": [
         "ai",
@@ -259163,7 +259589,7 @@
       "id": "Toolport.Toolport",
       "name": "Toolport",
       "publisher": "Toolport",
-      "version": "1.20.0",
+      "version": "1.21.2",
       "description": "Local-first MCP gateway. One port for every tool and every AI client.",
       "tags": [
         "agent",
@@ -260443,7 +260869,7 @@
       "id": "TrellisLab.Trellis",
       "name": "Trellis",
       "publisher": "Trellis Lab",
-      "version": "1.7.0",
+      "version": "1.8.1",
       "description": "Mermaid-compatible diagram renderer with overlap-free orthogonal edge routing",
       "tags": [
         "cli",
@@ -260626,7 +261052,7 @@
       "id": "TriliumNext.Notes",
       "name": "TriliumNext Notes",
       "publisher": "TriliumNext Notes Team",
-      "version": "0.105.0",
+      "version": "0.106.0",
       "description": "Build your personal knowledge base with TriliumNext Notes",
       "tags": [
         "documentation-tool",
@@ -262803,7 +263229,7 @@
       "id": "Ubiquiti.WiFimanDesktop",
       "name": "WiFiman Desktop",
       "publisher": "Ubiquiti Inc.",
-      "version": "1.2.8",
+      "version": "1.3.0",
       "description": "WiFiman is a desktop app which can scan local network for active devices and configure them.",
       "tags": [],
       "category": "Others",
@@ -264733,7 +265159,7 @@
       "id": "urwithajit9.evnx",
       "name": "evnx",
       "publisher": "Ajit Kumar",
-      "version": "0.4.0",
+      "version": "0.5.2",
       "description": "CLI tool for managing .env files — validation, secret scanning, format conversion",
       "tags": [
         "cli",
@@ -269314,7 +269740,7 @@
       "id": "Vivaldi.Vivaldi.Snapshot",
       "name": "Vivaldi (Snapshot)",
       "publisher": "Vivaldi Technologies AS.",
-      "version": "8.3.4161.3",
+      "version": "8.3.4171.3",
       "description": "Powerful, Personal and Private web browser",
       "tags": [
         "browser",
@@ -270054,7 +270480,7 @@
       "id": "Voltius.Voltius",
       "name": "Voltius",
       "publisher": "Voltius",
-      "version": "0.41.0",
+      "version": "0.42.0",
       "description": "Cross-platform SSH client and terminal",
       "tags": [
         "crdt",
@@ -272205,7 +272631,7 @@
       "id": "VovSoft.TextEditPlus",
       "name": "Vovsoft Text Edit Plus",
       "publisher": "VOVSOFT",
-      "version": "16.6.0.0",
+      "version": "16.7.0.0",
       "description": "Text Edit Plus is a powerful yet straightforward plain text editor with helpful features. It is a lightweight tool that enables users to easily create new text documents or modify existing ones.",
       "tags": [
         "Editor",
@@ -275779,7 +276205,7 @@
       "id": "WestWind.MarkdownMonster",
       "name": "Markdown Monster",
       "publisher": "West Wind Technologies",
-      "version": "4.5.3.0",
+      "version": "4.5.4.0",
       "description": "The Markdown Editor for Windows",
       "tags": [
         "documentation",
@@ -277340,7 +277766,7 @@
       "id": "WinDirStat.WinDirStat.Beta",
       "name": "WinDirStat (Beta)",
       "publisher": "The WinDirStat Team",
-      "version": "2.8.7.2026-09-20",
+      "version": "2.8.8.2026-09-25",
       "description": "Disk usage statistics viewer and cleanup tool",
       "tags": [
         "cleanup",
@@ -281171,7 +281597,7 @@
       "id": "Workrave.Workrave",
       "name": "Workrave",
       "publisher": "Rob Caelers & Raymond Penners",
-      "version": "1.11.1",
+      "version": "1.11.4",
       "description": "A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI)",
       "tags": [
         "health",
@@ -282949,7 +283375,7 @@
       "id": "XiaoweiCloud.CalendarTask",
       "name": "CalendarTask",
       "publisher": "Xiaowei Cloud, Inc.",
-      "version": "3.32.307.9350",
+      "version": "3.32.308.9360",
       "description": "Your Personal Time Management Expert",
       "tags": [
         "Calendar",
@@ -285264,7 +285690,7 @@
       "id": "YanMing-lxb.PyTeXMK",
       "name": "PyTeXMK",
       "publisher": "YanMing-lxb",
-      "version": "1.2.3",
+      "version": "1.2.6",
       "description": "LaTeX 辅助编译命令行工具 LaTeX Auxiliary Compilation Command Line Tool",
       "tags": [],
       "category": "Others",
@@ -285920,7 +286346,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.145",
+      "version": "0.4.146",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -288407,6 +288833,20 @@
       }
     },
     {
+      "id": "zer0ken.xmux",
+      "name": "xmux",
+      "publisher": "zer0ken",
+      "version": "0.6.5",
+      "description": "Cross-environment tmux/psmux session switcher",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "XM",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ZermeloSoftwareBV.ZermeloDesktop",
       "name": "Zermelo Desktop",
       "publisher": "Zermelo Software BV",
@@ -288648,7 +289088,7 @@
       "id": "zevnda.SteamGameIdler",
       "name": "Steam Game Idler",
       "publisher": "zevnda",
-      "version": "6.2.6",
+      "version": "6.2.7",
       "description": "Farm Steam trading cards, manage achievements, and idle games automatically — an all-in-one alternative to ArchiSteamFarm, Steam Achievement Manager, and Idle Master",
       "tags": [
         "steam steam-idle-master steam-farm"
@@ -288706,7 +289146,7 @@
       "id": "ZhaoKeli.FastGestures",
       "name": "鼠标/触控板全局手势",
       "publisher": "赵克立",
-      "version": "2.2.73",
+      "version": "2.2.74",
       "description": "Mouse/Touchpad/Touchscreen Gestures",
       "tags": [
         "cursor",
@@ -289000,6 +289440,25 @@
       "icon": {
         "monogram": "ZR",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ZhoelSherk.VALVET",
+      "name": "VALVET",
+      "publisher": "Zhoel Sherk",
+      "version": "0.2.0",
+      "description": "SMT BOM and pick-and-place prep (clean, merge, export). ALPHA.",
+      "tags": [
+        "bom",
+        "electronics",
+        "pnp",
+        "smt"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "VA",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -289592,7 +290051,7 @@
       "id": "Zoho.Voice",
       "name": "ZohoVoice-Desktop",
       "publisher": "Zoho Corporation Pvt. Ltd.",
-      "version": "4.4.0",
+      "version": "4.5.0",
       "description": "Desktop client for making and receiving business calls using the Zoho Voice cloud-based phone system.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -289674,7 +290133,7 @@
       "id": "ZoiteChat.ZoiteChat",
       "name": "Zoite Chat",
       "publisher": "ZoiteChat",
-      "version": "2.19.0",
+      "version": "2.19.1",
       "description": "GTK+ IRC client",
       "tags": [],
       "category": "Communications",
