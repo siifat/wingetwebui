@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T11:11:06.000Z",
+  "generatedAt": "2026-09-26T16:24:28.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "6056b5e9a577db0f8d503323ae8b05a585e6c2be"
+    "commit": "75b897798efe9e214f508361e386db11416ef649"
   },
   "data": [
     {
@@ -1466,7 +1466,7 @@
       "id": "7836246.KCode",
       "name": "KCode",
       "publisher": "7836246",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "description": "Open-source AI coding workspace with a desktop app, a browser UI, and a terminal Agent",
       "tags": [
         "agent",
@@ -9082,7 +9082,7 @@
       "id": "Alex313031.Thorium.AVX2",
       "name": "Thorium (AVX2)",
       "publisher": "The Thorium Authors",
-      "version": "138.0.7204.303",
+      "version": "154.0.8037.45",
       "description": "Chromium fork for Linux, Windows, macOS, Android, and Raspberry Pi named after radioactive element No. 90.",
       "tags": [
         "browser",
@@ -10096,7 +10096,7 @@
       "id": "Alibaba.QoderWake",
       "name": "QoderWake",
       "publisher": "Qoder",
-      "version": "0.4.4",
+      "version": "1.1.3",
       "description": "An always-on desktop app of autonomous AI employees that work inside your IM chats",
       "tags": [
         "agent",
@@ -17578,7 +17578,7 @@
       "id": "AppByTroye.KoodoReader",
       "name": "Koodo Reader",
       "publisher": "App by Troye",
-      "version": "2.4.4",
+      "version": "2.4.5",
       "description": "All-in-one ebook reader",
       "tags": [
         "ebook",
@@ -37397,6 +37397,28 @@
       }
     },
     {
+      "id": "BrightBrainCoder.OptimusCli",
+      "name": "Optimus CLI",
+      "publisher": "BrightBrainCoder",
+      "version": "0.289.3",
+      "description": "Autonomous command-line AI coding assistant that interacts with LLMs to inspect, modify, and manage codebases.",
+      "tags": [
+        "agent",
+        "ai",
+        "cli",
+        "coding",
+        "coding-assistant",
+        "developer-tools",
+        "llm"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "OC",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "BrightKitchen.PrintBridge",
       "name": "Bright Kitchen Print Bridge",
       "publisher": "BK One B.V.",
@@ -44517,7 +44539,7 @@
       "id": "ChangeXbc.WorkBuddySwitch",
       "name": "WorkBuddySwitch",
       "publisher": "ChangeXbc",
-      "version": "0.1.50",
+      "version": "0.1.52",
       "description": "A multi-account switching tool for WorkBuddy (Tencent AI coding assistant) that supports account switching, session copying, automatic daily check-in, credit-expiry monitoring, and automatic CodeBuddy CLI rotation.",
       "tags": [
         "codebuddy",
@@ -53429,13 +53451,17 @@
       "id": "Coreho.nudl",
       "name": "nudl",
       "publisher": "Coreho",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "description": "Strips tracking junk off any link you copy — the same real URL, trimmed.",
       "tags": [
+        "anti-tracking",
+        "cli",
         "clipboard",
+        "link-cleaner",
         "privacy",
         "tracking",
         "url",
+        "url-cleaner",
         "utm"
       ],
       "category": "Utilities",
@@ -60021,7 +60047,7 @@
       "id": "DavidEngelhart.Termpolis",
       "name": "Termpolis",
       "publisher": "Termpolis",
-      "version": "1.47.4",
+      "version": "1.48.0",
       "description": "The open-source multi-agent terminal where Claude, Codex, Gemini, and Qwen work together as a team — without your source code leaving the machine.",
       "tags": [
         "ai",
@@ -71909,7 +71935,7 @@
       "id": "EazyMake.EazyMake",
       "name": "EazyMake",
       "publisher": "EazyMake",
-      "version": "1.4.3",
+      "version": "1.4.4",
       "description": "A simple C/C++ build tool",
       "tags": [
         "build-tool",
@@ -74175,7 +74201,7 @@
       "id": "EinsVier.BlitzText",
       "name": "BlitzText Windows",
       "publisher": "EinsVier",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "description": "Native Windows dictation app with transcription, rewrite workflows, hotkeys, and paste automation.",
       "tags": [
         "ai",
@@ -78933,7 +78959,7 @@
       "id": "ESEngine.ReasonixDesktop",
       "name": "Reasonix",
       "publisher": "reasonix",
-      "version": "1.39.0",
+      "version": "1.39.1",
       "description": "A DeepSeek-native coding agent, for your terminal.",
       "tags": [
         "agent",
@@ -85949,7 +85975,7 @@
       "id": "flick9000.WinScript",
       "name": "WinScript",
       "publisher": "flick9000",
-      "version": "2.25.0",
+      "version": "2.25.1",
       "description": "Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.",
       "tags": [
         "bloatware",
@@ -106012,7 +106038,7 @@
       "id": "HNN.Bisnor",
       "name": "Bisnor",
       "publisher": "HNN",
-      "version": "5.1.1",
+      "version": "5.1.3",
       "description": "Open-source movie and TV streaming client for Windows",
       "tags": [
         "cinema",
@@ -109709,16 +109735,17 @@
       "id": "ibrahemid.Writ",
       "name": "Writ",
       "publisher": "ibrahemid",
-      "version": "0.3.2",
-      "description": "Lightweight, always-ready text editor for developers.",
+      "version": "0.5.0",
+      "description": "Light text editor for any text file, with full-text search and inline Markdown",
       "tags": [
         "editor",
-        "productivity",
-        "rust",
-        "scratchpad",
-        "tauri"
+        "markdown",
+        "plain-text",
+        "search",
+        "tauri",
+        "text-editor"
       ],
-      "category": "Productivity",
+      "category": "Utilities",
       "icon": {
         "monogram": "WR",
         "background": "#2563EB",
@@ -120093,7 +120120,7 @@
       "id": "JDEProjects.SimpleFirearmLogbook",
       "name": "Simple Firearm Logbook",
       "publisher": "JDE Projects",
-      "version": "1.6.0",
+      "version": "1.7.1",
       "description": "A private, offline logbook for your personal firearm collection: records, photos, documents, dispositions, imports, and exports.",
       "tags": [
         "collection",
@@ -127099,7 +127126,7 @@
       "id": "kawayiYokami.P-ai",
       "name": "P-ai",
       "publisher": "yokami",
-      "version": "0.94.3",
+      "version": "0.94.6",
       "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation.",
       "tags": [
         "agent",
@@ -134436,7 +134463,7 @@
       "id": "LadislavFoldyna.QLog",
       "name": "QLog",
       "publisher": "OK1MLG",
-      "version": "0.52.0-1",
+      "version": "0.53.0",
       "description": "Amateur radio logbook software.",
       "tags": [
         "amateur-radio",
@@ -137942,7 +137969,7 @@
       "id": "likehao19.InkNote",
       "name": "InkNote",
       "publisher": "likehao19",
-      "version": "0.2.3",
+      "version": "0.2.12",
       "description": "A local-first Markdown editor that feels like writing in a document",
       "tags": [
         "editor",
@@ -139263,7 +139290,7 @@
       "id": "Liu-Bot24.DSH-Tunnel",
       "name": "DSH-Tunnel",
       "publisher": "Liu-Bot24",
-      "version": "0.1.10",
+      "version": "0.1.11",
       "description": "A desktop utility for launching DeepSeek Harness (DSH) locally and securely connecting to remote DSH instances through the system OpenSSH client.",
       "tags": [
         "ai",
@@ -141265,7 +141292,7 @@
       "id": "loreste.mako",
       "name": "Mako",
       "publisher": "loreste",
-      "version": "0.6.37",
+      "version": "0.6.38",
       "description": "Mako systems/backend language (.mko to native via C)",
       "tags": [
         "backend",
@@ -143449,7 +143476,7 @@
       "id": "LyncWizard.TeamsWizard",
       "name": "Teams Wizard",
       "publisher": "LyncWizard.com",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "description": "Get more out of Microsoft Teams",
       "tags": [
         "microsoft-teams",
@@ -150795,7 +150822,7 @@
       "id": "mg-chao.snow-shot",
       "name": "Snow Shot",
       "publisher": "mg-chao",
-      "version": "1.1.3-beta",
+      "version": "1.1.4-beta",
       "description": "超好用的截图工具",
       "tags": [
         "chatbot",
@@ -157477,7 +157504,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.410.0",
+      "version": "1.459.413.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -164559,7 +164586,7 @@
       "id": "Monghoul.Monghoul",
       "name": "Monghoul",
       "publisher": "Kontsedal",
-      "version": "1.12.3",
+      "version": "1.13.0",
       "description": "A fast, beautiful MongoDB GUI for developers",
       "tags": [
         "gui",
@@ -177565,7 +177592,7 @@
       "id": "Muye.FlickerList",
       "name": "NarTick",
       "publisher": "NarTick Team",
-      "version": "5.12.0",
+      "version": "5.12.3",
       "description": "A pretty different floating todo-list APP.",
       "tags": [
         "agenda",
@@ -186446,7 +186473,7 @@
       "id": "NotedeckDev.NoteDeck",
       "name": "NoteDeck",
       "publisher": "notedeck-dev",
-      "version": "1.69.0",
+      "version": "1.70.0",
       "description": "Misskey Pro — an integrated deck environment (IDE) for Misskey power users",
       "tags": [
         "deck",
@@ -226123,7 +226150,7 @@
       "id": "SBCL.SBCL",
       "name": "Steel Bank Common Lisp",
       "publisher": "Steel Bank Common Lisp",
-      "version": "2.6.8",
+      "version": "2.6.9",
       "description": "Steel Bank Common Lisp (SBCL) is a high performance Common Lisp compiler.",
       "tags": [
         "lisp",
@@ -228936,7 +228963,7 @@
       "id": "SergeyMoskalev.CarambaSwitcher",
       "name": "Caramba Switcher",
       "publisher": "Sergey Moskalev",
-      "version": "2026.05.19",
+      "version": "2026.09.24",
       "description": "A smart automatic keyboard layout switcher.",
       "tags": [
         "keyboard",
@@ -233639,7 +233666,7 @@
       "id": "skssmd.Graft",
       "name": "Graft",
       "publisher": "skssmd",
-      "version": "2.5.9",
+      "version": "2.6.2",
       "description": "A high-performance, zero-overhead deployment engine that extends the Docker Compose workflow to cloud infrastructure via SSH",
       "tags": [
         "cloud",
@@ -239789,7 +239816,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790395249-g17ed45",
+      "version": "0.0.1790418058-gde3e20",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -246160,7 +246187,7 @@
       "id": "SuperGness.Codey",
       "name": "Codey",
       "publisher": "SuperGness",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "description": "An enhancement launcher for the Codex desktop client",
       "tags": [
         "agent",
@@ -248168,7 +248195,7 @@
       "id": "sysmanage.sysmanage",
       "name": "SysManage Server",
       "publisher": "SysManage",
-      "version": "3.9.0.8",
+      "version": "3.9.0.10",
       "description": "Open-source fleet management server for SysManage.",
       "tags": [],
       "category": "Others",
@@ -257467,7 +257494,7 @@
       "id": "Thunder.Thunder",
       "name": "迅雷",
       "publisher": "迅雷网络技术有限公司",
-      "version": "25.1.13.1637",
+      "version": "25.1.20.1642",
       "description": "Broadband Download, Thunder in a Flash!",
       "tags": [
         "bittorrent",
@@ -263215,7 +263242,7 @@
       "id": "TVasilev.RainCleaner",
       "name": "Rain Cleaner",
       "publisher": "T. Vasilev",
-      "version": "2.9.1",
+      "version": "2.11.1",
       "description": "Windows cleaner, driver installer and ransomware guard that explains every change before it makes it. Free, with an optional Pro upgrade.",
       "tags": [
         "clean",
@@ -286532,7 +286559,7 @@
       "id": "Yaps.Yaps",
       "name": "Yaps",
       "publisher": "yaps",
-      "version": "2.4.0",
+      "version": "2.4.344",
       "description": "Private, offline voice-to-text, text-to-speech, and notes for Windows.",
       "tags": [
         "dictation",
@@ -288257,7 +288284,7 @@
       "id": "yukimemi.shun",
       "name": "shun",
       "publisher": "yukimemi",
-      "version": "5.3.0",
+      "version": "5.4.1",
       "description": "A cross-platform, keyboard-driven minimal launcher like Alfred/Raycast",
       "tags": [
         "alfred",
