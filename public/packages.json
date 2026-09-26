@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T04:52:46.000Z",
+  "generatedAt": "2026-09-26T11:11:06.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "fb320ccf1a172acf2b815bfbe0402f8e18fd5a09"
+    "commit": "6056b5e9a577db0f8d503323ae8b05a585e6c2be"
   },
   "data": [
     {
@@ -5903,7 +5903,7 @@
       "id": "advancedfx.HLAE",
       "name": "HLAE",
       "publisher": "advancedfx.org",
-      "version": "2.192.4",
+      "version": "2.192.5",
       "description": "Half-Life Advanced Effects (HLAE) is a tool to enrich Source (mainly CS:GO) engine based movie making.",
       "tags": [
         "counter-strike",
@@ -6530,7 +6530,7 @@
       "id": "agentty.agentty",
       "name": "agentty",
       "publisher": "agentty",
-      "version": "0.9.11",
+      "version": "0.9.12",
       "description": "Blazing-fast Claude in your terminal — a C++26 alternative to claude-code.",
       "tags": [
         "ai",
@@ -20490,7 +20490,7 @@
       "id": "Arylmera.TokenDashboard",
       "name": "Token Dashboard",
       "publisher": "Arylmera",
-      "version": "5.1.6",
+      "version": "5.1.7",
       "description": "Local dashboard for Claude Code token usage",
       "tags": [
         "analytics-dashboard",
@@ -22744,7 +22744,7 @@
       "id": "AurelioAvila.PCTweaker",
       "name": "PC Tweaker",
       "publisher": "Aurelio Avila",
-      "version": "1.14.9",
+      "version": "1.14.10",
       "description": "Windows tuning for performance, gaming and privacy, with recorded changes and restore tools for supported settings.",
       "tags": [
         "gaming",
@@ -22762,10 +22762,30 @@
       }
     },
     {
+      "id": "AurelioAvila.Redaxa",
+      "name": "Redaxa",
+      "publisher": "Aurelio Avila",
+      "version": "0.4.4",
+      "description": "Review sensitive data in AI prompts and likely credential exposures in public GitHub repositories.",
+      "tags": [
+        "ai",
+        "credentials",
+        "privacy",
+        "redaction",
+        "security"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "RE",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "AurelioAvila.SocialDashboard",
       "name": "Redexa Social",
       "publisher": "Aurelio Avila",
-      "version": "1.10.4",
+      "version": "1.10.5",
       "description": "Local-first creator analytics for Windows, starting with YouTube.",
       "tags": [
         "analytics",
@@ -31405,7 +31425,7 @@
       "id": "bezzad.Downloader",
       "name": "Downloader",
       "publisher": "Behzad Khosravifar",
-      "version": "2.14.0",
+      "version": "2.14.1",
       "description": "Fast cross-platform multi-connection download manager.",
       "tags": [
         "download",
@@ -40416,7 +40436,7 @@
       "id": "BytecodeAlliance.Wasmtime.Portable",
       "name": "Wasmtime",
       "publisher": "Bytecode Alliance",
-      "version": "49.0.0",
+      "version": "49.0.1",
       "description": "A fast and secure runtime for WebAssembly",
       "tags": [
         "aot",
@@ -40544,7 +40564,7 @@
       "id": "ByteDance.DoubaoWork",
       "name": "DoubaoWork",
       "publisher": "ByteDance",
-      "version": "2.25.17",
+      "version": "2.31.8",
       "description": "Doubao Work is the Doubao desktop client for enterprise work.",
       "tags": [
         "agent",
@@ -48106,7 +48126,7 @@
       "id": "ClashVergeRev.ClashVergeRev",
       "name": "ClashVergeRev",
       "publisher": "ClashVergeRev",
-      "version": "2.5.5",
+      "version": "2.5.6",
       "description": "A Clash Meta GUI based on Tauri",
       "tags": [
         "clash",
@@ -49485,7 +49505,7 @@
       "id": "co2lab.Anchors",
       "name": "Anchors",
       "publisher": "co2lab",
-      "version": "0.1.2",
+      "version": "0.1.196",
       "description": "Spec-first continuity framework for AI-assisted development",
       "tags": [
         "ai",
@@ -50994,7 +51014,7 @@
       "id": "CodingWondersSoftware.DISMTools.Preview",
       "name": "DISMTools Preview",
       "publisher": "CodingWonders Software",
-      "version": "0.8.2.26091",
+      "version": "0.8.2.26092",
       "description": "The connected place for Windows system administration.",
       "tags": [
         "dism",
@@ -51013,7 +51033,7 @@
       "id": "CodingWondersSoftware.DISMTools.Stable",
       "name": "DISMTools",
       "publisher": "CodingWonders Software",
-      "version": "0.8.1.26083",
+      "version": "0.8.1.26092",
       "description": "The connected place for Windows system administration.",
       "tags": [
         "dism",
@@ -53233,7 +53253,7 @@
       "id": "CoralCreek.SQLiteExpert.Personal",
       "name": "SQLite Expert Personal",
       "publisher": "Coral Creek Software",
-      "version": "6.1.4.725",
+      "version": "6.2.1.735",
       "description": "SQLite administration",
       "tags": [
         "database",
@@ -53252,7 +53272,7 @@
       "id": "CoralCreek.SQLiteExpert.Professional",
       "name": "SQLite Expert Professional",
       "publisher": "Coral Creek Software",
-      "version": "6.1.4.725",
+      "version": "6.2.1.735",
       "description": "SQLite administration",
       "tags": [
         "database",
@@ -81594,7 +81614,7 @@
       "id": "FactoryAI.Factory",
       "name": "Factory",
       "publisher": "Factory AI",
-      "version": "0.184.0",
+      "version": "0.185.0",
       "description": "Agent-Native Software Development",
       "tags": [
         "agent",
@@ -83423,7 +83443,7 @@
       "id": "FernandoTonon.QtMeshEditor",
       "name": "QtMeshEditor",
       "publisher": "Fernando Tonon",
-      "version": "3.42.1",
+      "version": "3.43.0",
       "description": "Free 3D asset tool for indie game developers",
       "tags": [
         "3d",
@@ -85908,7 +85928,7 @@
       "id": "Flexoptix.FlexoptixApp",
       "name": "FLEXOPTIX App",
       "publisher": "Flexoptix GmbH",
-      "version": "5.66.0-latest",
+      "version": "5.68.0-latest",
       "description": "Desktop application for configuring FLEXOPTIX FLEXBOX transceiver modules.",
       "tags": [
         "flexbox",
@@ -86657,7 +86677,7 @@
       "id": "Fly-io.flyctl",
       "name": "flyctl",
       "publisher": "Fly.io",
-      "version": "0.4.107",
+      "version": "0.4.108",
       "description": "Command line tools for fly.io services",
       "tags": [
         "cli",
@@ -90251,7 +90271,7 @@
       "id": "GAM-Team.gam.Portable",
       "name": "gam.portable",
       "publisher": "GAM Team - google-apps-manager@googlegroups.com",
-      "version": "7.48.11",
+      "version": "7.48.14",
       "description": "command line management for Google Workspace",
       "tags": [
         "gam",
@@ -92420,7 +92440,7 @@
       "id": "ggml.llamacpp",
       "name": "llama.cpp",
       "publisher": "ggml",
-      "version": "b11175",
+      "version": "b11193",
       "description": "LLM inference in C/C++",
       "tags": [
         "ggml",
@@ -108351,7 +108371,7 @@
       "id": "HydraLauncher.Hydra",
       "name": "Hydra",
       "publisher": "Los Broxas",
-      "version": "4.1.4",
+      "version": "4.1.5",
       "description": "A game launcher with its own embedded BitTorrent client.",
       "tags": [
         "game",
@@ -117158,7 +117178,7 @@
       "id": "Jackett.Jackett",
       "name": "Jackett",
       "publisher": "Jackett",
-      "version": "0.24.2668",
+      "version": "0.24.2670",
       "description": "API Support for your favorite torrent trackers.",
       "tags": [
         "indexer",
@@ -126319,6 +126339,27 @@
       }
     },
     {
+      "id": "KalyteraSystems.IPCamLapse",
+      "name": "IPCamLapse",
+      "publisher": "Kalytera Systems",
+      "version": "0.4.4",
+      "description": "Turn IP camera snapshots into local timelapse videos.",
+      "tags": [
+        "camera",
+        "ffmpeg",
+        "ip-camera",
+        "security",
+        "timelapse",
+        "video"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "IP",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Kameleo.App",
       "name": "Kameleo App",
       "publisher": "Kameleo",
@@ -130053,7 +130094,7 @@
       "id": "KevinDoremy.SearchDeadCode",
       "name": "SearchDeadCode",
       "publisher": "Kevin Doremy",
-      "version": "0.19.1",
+      "version": "0.21.0",
       "description": "Detect and safely remove dead code in Android projects (Kotlin & Java)",
       "tags": [
         "android",
@@ -138079,7 +138120,7 @@
       "id": "Lime.Lime",
       "name": "Lime",
       "publisher": "Lime",
-      "version": "1.145.0",
+      "version": "1.146.0",
       "description": "An open-source AI content workbench built for Chinese creators.",
       "tags": [],
       "category": "Others",
@@ -139810,7 +139851,7 @@
       "id": "LocalTV.Remote",
       "name": "LocalTV Remote",
       "publisher": "LocalTV",
-      "version": "0.1.2",
+      "version": "1.1.4",
       "description": "Lightweight phone-as-remote-mouse/keyboard daemon for Windows",
       "tags": [
         "control",
@@ -142573,7 +142614,7 @@
       "id": "LuisPater.CLIProxyAPI",
       "name": "CLI Proxy API",
       "publisher": "Luis Pater",
-      "version": "7.3.17",
+      "version": "7.3.18",
       "description": "Wrap Gemini CLI, ChatGPT Codex as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5 model through API",
       "tags": [
         "ai",
@@ -145831,7 +145872,7 @@
       "id": "marcinz606.NegPy",
       "name": "NegPy",
       "publisher": "marcinz606",
-      "version": "0.59.0",
+      "version": "0.61.0",
       "description": "Tool for processing film negatives.",
       "tags": [
         "film-photography",
@@ -157436,7 +157477,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.405.0",
+      "version": "1.459.410.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -162508,7 +162549,7 @@
       "id": "misxzaiz.Polaris",
       "name": "Polaris",
       "publisher": "misxzaiz",
-      "version": "10.5.5",
+      "version": "10.5.6",
       "description": "Cross-platform desktop client for multi-engine AI coding assistants",
       "tags": [
         "agent",
@@ -165093,7 +165134,7 @@
       "id": "MoonshotAI.Kimi",
       "name": "Kimi",
       "publisher": "Beijing Yuezhi Dark Face Technology Co., Ltd.",
-      "version": "3.2.11",
+      "version": "3.2.14",
       "description": "An AI assistant that reasons and interprets, and thinks in depth",
       "tags": [
         "ai",
@@ -165497,7 +165538,7 @@
       "id": "mostlygeek.llama-swap",
       "name": "llama-swap",
       "publisher": "mostlygeek",
-      "version": "258",
+      "version": "259",
       "description": "Model swapping for llama.cpp",
       "tags": [
         "golang",
@@ -178326,6 +178367,29 @@
       }
     },
     {
+      "id": "NachoSC.ScreenTuner",
+      "name": "ScreenTuner",
+      "publisher": "NachoSC",
+      "version": "1.1.0",
+      "description": "Hotkey-switchable display profiles for Windows: NVIDIA digital vibrance, plus gamma, contrast and brightness on any GPU. Per-monitor, with live preview.",
+      "tags": [
+        "color",
+        "display",
+        "gaming",
+        "gamma",
+        "monitor",
+        "nvidia",
+        "saturation",
+        "vibrance"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "SC",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Nadeo.ManiaPlanet",
       "name": "ManiaPlanet",
       "publisher": "Nadeo",
@@ -178870,7 +178934,7 @@
       "id": "nao1215.gup",
       "name": "gup",
       "publisher": "Chikamatsu Naohiro",
-      "version": "1.10.1",
+      "version": "1.10.2",
       "description": "gup - Update binaries installed by \"go install\" with goroutines",
       "tags": [
         "cli-app",
@@ -179311,7 +179375,7 @@
       "id": "NASS.Wrok",
       "name": "Wrok",
       "publisher": "NASS e.K.",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "description": "Modern, portable WebView2-based Grok client with macro hotkeys, a boss key, a media viewer and a tray menu.",
       "tags": [
         "ai",
@@ -190920,7 +190984,7 @@
       "id": "OnePlan.OnePlanForProject",
       "name": "OnePlan For Project",
       "publisher": "OnePlan",
-      "version": "2.4.2",
+      "version": "2.5.2",
       "description": "Connect Microsoft Project files directly to OnePlan",
       "tags": [],
       "category": "Others",
@@ -203982,7 +204046,7 @@
       "id": "poco-ai.Agentero",
       "name": "Agentero",
       "publisher": "poco-ai",
-      "version": "0.11.2",
+      "version": "0.11.4",
       "description": "Agent-friendly reference management.",
       "tags": [
         "academics",
@@ -210916,7 +210980,7 @@
       "id": "QuadrantMC.Quadrant",
       "name": "Quadrant",
       "publisher": "MrQuantumOFF (Demir Yerli)",
-      "version": "26.9.0-stable",
+      "version": "26.10.0-stable",
       "description": "An easy way to manage your Minecraft mods and modpacks.",
       "tags": [
         "curseforge",
@@ -215450,7 +215514,7 @@
       "id": "rejetto.hfs",
       "name": "hfs",
       "publisher": "rejetto",
-      "version": "3.3.2",
+      "version": "3.3.3",
       "description": "HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.",
       "tags": [
         "file-server",
@@ -226183,7 +226247,7 @@
       "id": "ScalixWorld.ScalixCloud",
       "name": "Scalix Cloud CLI",
       "publisher": "Scalix World",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "description": "CLI for Scalix Cloud - database, functions, AI, storage and more behind one API key",
       "tags": [
         "ai",
@@ -229934,7 +229998,7 @@
       "id": "shakaran.whatly",
       "name": "Whatly",
       "publisher": "shakaran",
-      "version": "7.6.4",
+      "version": "7.6.5",
       "description": "Feature rich WhatsApp Client for Desktop Linux",
       "tags": [],
       "category": "Others",
@@ -239725,7 +239789,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790380893-geeadb1",
+      "version": "0.0.1790395249-g17ed45",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -242381,7 +242445,7 @@
       "id": "Stardock.Start11.v2",
       "name": "Stardock Start11",
       "publisher": "Stardock Software, Inc.",
-      "version": "2.8.0.2",
+      "version": "2.8.1.0",
       "description": "Customize the Start Menu and Taskbar in Windows 10/11",
       "tags": [],
       "category": "Others",
@@ -244210,7 +244274,7 @@
       "id": "stn1slv.md-paste",
       "name": "md-paste",
       "publisher": "stn1slv",
-      "version": "1.4.2",
+      "version": "1.4.3",
       "description": "Convert rich text on the clipboard to Markdown",
       "tags": [],
       "category": "Utilities",
@@ -246096,7 +246160,7 @@
       "id": "SuperGness.Codey",
       "name": "Codey",
       "publisher": "SuperGness",
-      "version": "1.1.10",
+      "version": "1.1.12",
       "description": "An enhancement launcher for the Codex desktop client",
       "tags": [
         "agent",
@@ -246292,7 +246356,7 @@
       "id": "SureshJanakiReddy.GeminiDesktop",
       "name": "Gemini Desktop",
       "publisher": "Suresh Janaki Reddy",
-      "version": "0.2.14",
+      "version": "0.2.15",
       "description": "Modern native desktop client for Gemini CLI via Agent Client Protocol (ACP)",
       "tags": [
         "acp",
@@ -255650,7 +255714,7 @@
       "id": "ThePokemonCompany.PokemonTCGLive",
       "name": "Pokemon Trading Card Game Live",
       "publisher": "The Pokemon Company International",
-      "version": "1.42.0.0",
+      "version": "1.42.2.0",
       "description": "Experience the newest way to play the Pokémon Trading Card Game!",
       "tags": [],
       "category": "Gaming",
@@ -257643,7 +257707,7 @@
       "id": "Thurbeen.thurbox",
       "name": "thurbox",
       "publisher": "LeTuR",
-      "version": "2.35.3",
+      "version": "2.35.6",
       "description": "TUI for orchestrating multiple coding-agent CLI sessions in persistent panels.",
       "tags": [
         "agent",
@@ -258546,7 +258610,7 @@
       "id": "Timus.TimusConnect",
       "name": "Timus Connect",
       "publisher": "Timus Networks",
-      "version": "5.0.18.260817695",
+      "version": "5.0.19.0",
       "description": "Secure zero trust network access (ZTNA) client to connect devices to corporate resources via Timus network",
       "tags": [],
       "category": "Others",
@@ -268167,6 +268231,20 @@
       }
     },
     {
+      "id": "Vibetuned.Battuta",
+      "name": "Battuta",
+      "publisher": "Vibetuned",
+      "version": "0.0.2",
+      "description": "A local-first MEI score editor that treats notation the way a text editor treats text",
+      "tags": [],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "BA",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "VICE-Team.VICE.GTK3",
       "name": "VICE",
       "publisher": "VICE Team",
@@ -276611,7 +276689,7 @@
       "id": "WendyLabs.Wendy",
       "name": "Wendy",
       "publisher": "Wendy Labs",
-      "version": "2026.09.16-025644",
+      "version": "2026.09.26-062348",
       "description": "CLI for building and deploying apps to WendyOS edge devices.",
       "tags": [
         "cli",
@@ -285215,7 +285293,7 @@
       "id": "Xournal++.Xournal++",
       "name": "Xournal++",
       "publisher": "The Xournal++ Team",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "description": "Take handwritten notes with ease.",
       "tags": [
         "diary",
@@ -285255,7 +285333,7 @@
       "id": "xpf0000.FlyEnv",
       "name": "FlyEnv",
       "publisher": "pengfei xu",
-      "version": "4.18.3",
+      "version": "4.19.0",
       "description": "Powerful Web Server and Environment Manager",
       "tags": [
         "server"
@@ -287043,7 +287121,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.146",
+      "version": "0.4.147",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -290660,7 +290738,7 @@
       "id": "Zoho.Meeting",
       "name": "ZohoMeeting",
       "publisher": "Zoho Corporation",
-      "version": "4.2.4",
+      "version": "5.0.0",
       "description": "Start meetings and effortlessly collaborate using our desktop application to get work done from anywhere, at any time.",
       "tags": [
         "chat",
