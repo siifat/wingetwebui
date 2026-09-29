@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28T23:07:02.000Z",
+  "generatedAt": "2026-09-29T05:23:28.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "f3ae133dff8445d93b7767fe4cb29aa1486b4aed"
+    "commit": "d4f92dac4157392cfab1622a97d8463e38ef2f48"
   },
   "data": [
     {
       "id": "0-don.clippy",
       "name": "Clippy",
       "publisher": "0-don",
-      "version": "1.7.7",
+      "version": "1.7.8",
       "description": "Clipboard Manager built with Rust & Typescript",
       "tags": [
         "clipboard",
@@ -5942,7 +5942,7 @@
       "id": "AdventDevelopmentInc.Kudu",
       "name": "Kudu",
       "publisher": "Advent Development, Inc.",
-      "version": "3.4.0",
+      "version": "3.5.0",
       "description": "A modern, open-source system cleaner for Windows, macOS, and Linux",
       "tags": [
         "ccleaner-alternative",
@@ -13499,7 +13499,7 @@
       "id": "Amazon.AthenaODBCDriver.2",
       "name": "Amazon Athena ODBC Driver",
       "publisher": "Amazon.com Services LLC",
-      "version": "2.3.0.0",
+      "version": "2.4.0.0",
       "description": "Athena ODBC 2.x driver",
       "tags": [
         "athena",
@@ -21626,7 +21626,7 @@
       "id": "astral-sh.uv",
       "name": "uv",
       "publisher": "Astral Software Inc.",
-      "version": "0.12.19",
+      "version": "0.12.20",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "tags": [
         "python"
@@ -23757,7 +23757,7 @@
       "id": "Automattic.Wordpress",
       "name": "WordPress.com",
       "publisher": "Automattic Inc.",
-      "version": "8.0.4",
+      "version": "8.2.4",
       "description": "A control panel for all your WordPress sites.",
       "tags": [
         "admin",
@@ -26675,7 +26675,7 @@
       "id": "Babashka.Babashka",
       "name": "Babashka",
       "publisher": "Babashka",
-      "version": "1.13.224",
+      "version": "1.13.225",
       "description": "Native, fast starting Clojure interpreter for scripting",
       "tags": [
         "babashka",
@@ -30661,7 +30661,7 @@
       "id": "BenjiButten.MicMixer",
       "name": "MicMixer",
       "publisher": "BenjiButten",
-      "version": "2026.9.4",
+      "version": "2026.9.5",
       "description": "Push-to-talk mixer that routes your mic, music, and voice changer into one virtual microphone.",
       "tags": [
         "audio",
@@ -43944,7 +43944,7 @@
       "id": "Celerp.Celerp",
       "name": "Celerp",
       "publisher": "Celerp",
-      "version": "2.5.0",
+      "version": "2.5.2",
       "description": "Free self-hosted ERP with inventory, invoicing, manufacturing, accounting, and CRM in one local-first app.",
       "tags": [
         "accounting",
@@ -46408,7 +46408,7 @@
       "id": "ChrisMcLennan.mnml",
       "name": "mnml",
       "publisher": "Chris McLennan",
-      "version": "v0.2.21",
+      "version": "v0.2.22",
       "description": "A NvChad-style terminal IDE in Rust.",
       "tags": [
         "editor",
@@ -49643,7 +49643,7 @@
       "id": "co2lab.Anchors",
       "name": "Anchors",
       "publisher": "co2lab",
-      "version": "0.1.221",
+      "version": "0.1.227",
       "description": "Spec-first continuity framework for AI-assisted development",
       "tags": [
         "ai",
@@ -51033,6 +51033,22 @@
       }
     },
     {
+      "id": "CodexTweaks.CodexTweaks",
+      "name": "CodexTweaks",
+      "publisher": "CodexTweaks",
+      "version": "3.5.5",
+      "description": "A local UI customization tool for the Codex desktop client",
+      "tags": [
+        "codex"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CO",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "codexu.NoteGen",
       "name": "NoteGen",
       "publisher": "codexu",
@@ -51063,7 +51079,7 @@
       "id": "CodeZeno.ClaudeCodeUsageMonitor",
       "name": "Claude Code Usage Monitor",
       "publisher": "Code Zeno Pty Ltd",
-      "version": "2.15.19",
+      "version": "2.15.22",
       "description": "Windows taskbar widget for monitoring Claude Code usage and rate limits",
       "tags": [
         "claude",
@@ -64280,7 +64296,7 @@
       "id": "DFNetResearch.DFdiscover",
       "name": "DFdiscover",
       "publisher": "DFNet Research",
-      "version": "5.11.1",
+      "version": "5.11.2",
       "description": "The complete suite of desktop apps for power users who need access to study setup and administration.",
       "tags": [],
       "category": "Others",
@@ -64294,7 +64310,7 @@
       "id": "DFNetResearch.DFexplore",
       "name": "DFexplore",
       "publisher": "DFNet Research",
-      "version": "5.11.1",
+      "version": "5.11.2",
       "description": "Full-featured clinical data management desktop app",
       "tags": [],
       "category": "Others",
@@ -65863,7 +65879,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1194",
+      "version": "1.0.1195",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -65886,7 +65902,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.527",
+      "version": "1.0.528",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -66714,7 +66730,7 @@
       "id": "DisplayNote.PhilipsScreenShare",
       "name": "DisplayNote App",
       "publisher": "DisplayNote Technologies Ltd",
-      "version": "2.53.0-52373",
+      "version": "2.58.0",
       "description": "Wirelessly share your screen and content from your device to a compatible DisplayNote or Philips ScreenShare display.",
       "tags": [],
       "category": "Others",
@@ -68092,7 +68108,7 @@
       "id": "DollarLint.DollarLint",
       "name": "DollarLint",
       "publisher": "DollarLint",
-      "version": "0.1.25",
+      "version": "0.1.26",
       "description": "Validate JSON-family, YAML, and TOML files against their declared JSON Schemas.",
       "tags": [
         "cli",
@@ -73551,7 +73567,7 @@
       "id": "EDPB.WebsiteAuditTool",
       "name": "website-audit",
       "publisher": "EDPB",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "description": "EDPB Website Auditing Tool",
       "tags": [
         "audit",
@@ -82024,7 +82040,7 @@
       "id": "FahrenheitResearch.ArWen",
       "name": "ArWen",
       "publisher": "Fahrenheit Research",
-      "version": "2.7.7",
+      "version": "2.8.0",
       "description": "ArWen: GPU-native WRF-ARW-class regional weather model, verified against WRF v4.6.1",
       "tags": [],
       "category": "Others",
@@ -86878,7 +86894,7 @@
       "id": "Fluxer.Fluxer",
       "name": "Fluxer",
       "publisher": "Fluxer Contributors",
-      "version": "2026.927.142044",
+      "version": "2026.928.213903",
       "description": "A chat app that puts you first.",
       "tags": [
         "chat",
@@ -88519,7 +88535,7 @@
       "id": "FreeCAD.FreeCAD",
       "name": "FreeCAD",
       "publisher": "FreeCAD Team",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "description": "A general purpose open source parametric 3D CAD modeler",
       "tags": [
         "3d-modeler",
@@ -92689,7 +92705,7 @@
       "id": "gg.ai.ggcode-cli",
       "name": "ggcode",
       "publisher": "GG AI Studio",
-      "version": "1.3.247",
+      "version": "1.3.248",
       "description": "AI coding agent for the terminal.",
       "tags": [
         "ai",
@@ -92710,7 +92726,7 @@
       "id": "gg.ai.ggcode-desktop",
       "name": "GGCode Desktop",
       "publisher": "GG AI Studio",
-      "version": "1.3.247",
+      "version": "1.3.248",
       "description": "AI coding agent with a native desktop interface.",
       "tags": [
         "ai",
@@ -102576,7 +102592,7 @@
       "id": "HarumiWeb.Xlflow",
       "name": "xlflow",
       "publisher": "HarumiWeb",
-      "version": "0.32.2",
+      "version": "0.33.0",
       "description": "Excel VBA development framework for CLI-first humans and AI agents.",
       "tags": [
         "automation",
@@ -103410,7 +103426,7 @@
       "id": "heartached.Noctis",
       "name": "Noctis",
       "publisher": "heartached",
-      "version": "1.5.6",
+      "version": "1.5.7",
       "description": "A music player that respects what's yours.",
       "tags": [
         "audio",
@@ -104257,7 +104273,7 @@
       "id": "Herdr.Herdr.Preview",
       "name": "herdr (Preview)",
       "publisher": "Herdr, Inc.",
-      "version": "0.9.0-preview.2026-09-16-2c29fb29e302",
+      "version": "0.9.1-preview.2026-09-28-80c0c07250d2",
       "description": "The runtime your coding agents live on. It holds real terminals open on your laptop, your desktop or a box you rent, so the work survives the lid closing and you can attach again from anything with a keyboard.",
       "tags": [
         "agent",
@@ -105353,7 +105369,7 @@
       "id": "HiggX.QFCLI",
       "name": "HiggX - Quotation Factory CLI",
       "publisher": "Quotation Factory",
-      "version": "0.3.7-beta",
+      "version": "0.3.8-beta",
       "description": "CLI for the Quotation Factory manufacturing API.",
       "tags": [
         "api",
@@ -106453,7 +106469,7 @@
       "id": "holland-built.Bloxsmith",
       "name": "Bloxsmith",
       "publisher": "holland-built",
-      "version": "3.78.2",
+      "version": "3.80.1",
       "description": "Self-contained Infoblox BloxOne NOC dashboard.",
       "tags": [],
       "category": "Others",
@@ -109157,7 +109173,7 @@
       "id": "i-snyder.unbramble",
       "name": "UnBramble",
       "publisher": "Ian Snyder",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "description": "Builds a dependency graph for Unity projects so coding agents can trace asset and C# relationships.",
       "tags": [
         "cli",
@@ -118193,9 +118209,23 @@
       "id": "jamerst.autotag",
       "name": "autotag",
       "publisher": "James Tattersall",
-      "version": "4.1.2",
+      "version": "4.1.3",
       "description": "Automatic tagging and renaming of TV show episodes and movies",
-      "tags": [],
+      "tags": [
+        "c-sharp",
+        "metadata",
+        "mkv",
+        "movie",
+        "mp4",
+        "rename",
+        "subtitles",
+        "taglib-sharp",
+        "tags",
+        "tmdb",
+        "tmdb-api",
+        "tv",
+        "tv-episodes"
+      ],
       "category": "Others",
       "icon": {
         "monogram": "AU",
@@ -118726,7 +118756,7 @@
       "id": "JanMesarc.GodMan",
       "name": "GodMan",
       "publisher": "Jan Mesarc",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "description": "GodMan is a console/TUI tool to install, manage, and activate Godot Engine builds (Standard and .NET) on Windows.",
       "tags": [
         "godot",
@@ -120443,7 +120473,7 @@
       "id": "JDE-Projects.SimpleSFTPClient",
       "name": "Simple SFTP Client",
       "publisher": "JDE-Projects",
-      "version": "1.9.0",
+      "version": "1.9.1",
       "description": "A clean, dual-pane SFTP client with a background transfer queue, saved sessions, and folder compare/sync/watch. Secure connections only.",
       "tags": [
         "client",
@@ -121277,7 +121307,7 @@
       "id": "JetBrains.CLion.EAP",
       "name": "CLion (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "263.3889.68",
+      "version": "263.5153.33",
       "description": "A cross-platform IDE for C and C++",
       "tags": [
         "c",
@@ -122100,7 +122130,7 @@
       "id": "JetBrains.Rider.EAP",
       "name": "JetBrains Rider (EAP)",
       "publisher": "JetBrains s.r.o.",
-      "version": "262.8665.68",
+      "version": "263.5153.35",
       "description": "Fast & powerful cross-platform .NET IDE",
       "tags": [
         ".net",
@@ -135714,7 +135744,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.114.24",
+      "version": "1.114.36",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -143171,7 +143201,7 @@
       "id": "LuisPater.CLIProxyAPI",
       "name": "CLI Proxy API",
       "publisher": "Luis Pater",
-      "version": "8.0.3",
+      "version": "8.0.4",
       "description": "Wrap Gemini CLI, ChatGPT Codex as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5 model through API",
       "tags": [
         "ai",
@@ -144138,7 +144168,7 @@
       "id": "M-Igashi.baken",
       "name": "Bake'n Deck",
       "publisher": "M-Igashi",
-      "version": "4.1.1",
+      "version": "4.2.1",
       "description": "Rekordbox to CDJ prep toolkit - loudness gain, Key+BPM playlist sort, CDJ-safe MP3 transcode, and direct USB export",
       "tags": [
         "aac",
@@ -155945,7 +155975,7 @@
       "id": "Microsoft.GameInput",
       "name": "Microsoft GameInput",
       "publisher": "Microsoft Corporation",
-      "version": "3.5.278",
+      "version": "3.5.283",
       "description": "A next-generation input API that exposes input devices of all kinds through a single consistent interface.",
       "tags": [
         "directinput",
@@ -157713,7 +157743,7 @@
       "id": "Microsoft.PowerBI",
       "name": "Microsoft PowerBI Desktop",
       "publisher": "Microsoft Corporation",
-      "version": "2.157.1354.0",
+      "version": "2.158.1177.0",
       "description": "Visualize any data and integrate the visuals into the apps you use every day with Power BI, a unified platform for self-service and business intelligence.",
       "tags": [
         "9ntxr16hnw1t",
@@ -158053,7 +158083,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.450.0",
+      "version": "1.459.453.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -158692,7 +158722,7 @@
       "id": "Microsoft.SQLServerManagementStudio.22",
       "name": "Microsoft SQL Server Management Studio 22",
       "publisher": "Microsoft Corporation",
-      "version": "22.10.1",
+      "version": "22.10.2",
       "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure",
       "tags": [
         "management-studio",
@@ -165255,7 +165285,7 @@
       "id": "MongoDB.MongoDBAtlasCLI",
       "name": "MongoDB Atlas CLI",
       "publisher": "MongoDB, Inc.",
-      "version": "1.58.3",
+      "version": "1.59.0",
       "description": "The Atlas CLI (mongodb-atlas-cli) lets you manage your MongoDB Atlas deployments from the command line.",
       "tags": [
         "atlas",
@@ -187575,7 +187605,7 @@
       "id": "NovitasWebWorks.NovaTerm",
       "name": "NovaTerm",
       "publisher": "Novitas Web Works",
-      "version": "1.4.0",
+      "version": "2.0.0",
       "description": "A Next-Generation, AI-Native Terminal Workspace",
       "tags": [
         "ai-coding",
@@ -194932,7 +194962,7 @@
       "id": "OpenRunDev.OpenRun",
       "name": "OpenRun",
       "publisher": "OpenRunDev",
-      "version": "0.19.4",
+      "version": "0.20.0",
       "description": "Declarative web app deployment platform",
       "tags": [
         "cloud",
@@ -199633,7 +199663,7 @@
       "id": "Paseo.Paseo",
       "name": "Paseo",
       "publisher": "Mohamed Boudra",
-      "version": "0.10.0",
+      "version": "0.10.1",
       "description": "Self-hosted daemon for Claude Code, Codex, Copilot, OpenCode, and Pi. Agents run on your machine with your full dev environment. Connect from phone, desktop, or web.",
       "tags": [
         "agent",
@@ -201641,7 +201671,7 @@
       "id": "Perforce.P4V",
       "name": "P4 Apps",
       "publisher": "Perforce Software, Inc.",
-      "version": "242.62.3",
+      "version": "242.63.1",
       "description": "Helix Visual Client (P4V) is a desktop app that provides access to versioned files in Helix Core through a graphical interface. It includes tools for merging and visualizing code evolution.",
       "tags": [
         "helix"
@@ -207813,7 +207843,7 @@
       "id": "PrismLauncher.PrismLauncher",
       "name": "Prism Launcher",
       "publisher": "Prism Launcher Contributors",
-      "version": "11.1.0",
+      "version": "11.1.1",
       "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once",
       "tags": [
         "fabricmc",
@@ -221452,7 +221482,7 @@
       "id": "Roman-16.ProtonCLI",
       "name": "proton-cli",
       "publisher": "Roman-16",
-      "version": "4.3.0",
+      "version": "5.0.1",
       "description": "Unofficial CLI for Proton Mail, Drive, Calendar, Pass and Contacts",
       "tags": [
         "cli",
@@ -227999,7 +228029,7 @@
       "id": "ScryerMedia.Weaver",
       "name": "Weaver",
       "publisher": "Scryer Media",
-      "version": "0.13.4",
+      "version": "0.14.1",
       "description": "High-performance Usenet binary downloader.",
       "tags": [
         "downloader",
@@ -228077,7 +228107,7 @@
       "id": "ScytheLabs.Reaper",
       "name": "Reaper",
       "publisher": "Scythe Labs",
-      "version": "2026.8.7",
+      "version": "2026.9.1",
       "description": "Finds unwatched media in your Plex library and safely removes it via Sonarr and Radarr.",
       "tags": [
         "cleanup",
@@ -234592,7 +234622,7 @@
       "id": "skssmd.AIBrowserToolkit",
       "name": "AI Browser Toolkit",
       "publisher": "skssmd",
-      "version": "0.3.6",
+      "version": "0.7.0",
       "description": "Agentic Browser Automation Tool",
       "tags": [
         "abt",
@@ -240814,7 +240844,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790625640-gdbe3f3",
+      "version": "0.0.1790640099-gd4f4ce",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -256438,7 +256468,7 @@
       "id": "TheBrowserCompany.Arc",
       "name": "Arc",
       "publisher": "The Browser Company of New York",
-      "version": "1.123.0.402",
+      "version": "1.124.0.336",
       "description": "Arc is a new browser that shapes itself to how you use the internet. It offers Spaces, Profiles, Split View, Themes, and more to organize and customize your online experience.",
       "tags": [
         "browser",
@@ -270115,7 +270145,7 @@
       "id": "vim.vim.nightly",
       "name": "Vim",
       "publisher": "Bram Moolenaar et al.",
-      "version": "9.2.1135",
+      "version": "9.2.1143",
       "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient",
       "tags": [
         "code-editor",
@@ -273705,7 +273735,7 @@
       "id": "VovSoft.HTTPRequester",
       "name": "Vovsoft HTTP Requester",
       "publisher": "VOVSOFT",
-      "version": "6.5.0.0",
+      "version": "6.6.0.0",
       "description": "Vovsoft HTTP Requester is a simple but powerful tool designed to streamline the process of sending batch HTTP requests and receiving responses.",
       "tags": [
         "Development",
@@ -274976,7 +275006,7 @@
       "id": "VovSoft.VovMusicPlayer",
       "name": "Vov Music Player",
       "publisher": "VOVSOFT",
-      "version": "12.8.0.0",
+      "version": "13.0.0.0",
       "description": "Vov Music Player is a lightweight, intuitive audio player designed for simplicity and functionality.",
       "tags": [
         "Audio",
@@ -280098,7 +280128,7 @@
       "id": "wingtk.gvsbuild.GTK4",
       "name": "gvsbuild",
       "publisher": "wingtk",
-      "version": "2026.4.1",
+      "version": "2026.8.0",
       "description": "Comes with the tools needed to run GTK on Windows, including GTK4, Cairo, PyGObject, Pycairo, GtkSourceView5, adwaita-icon-theme, and all of their dependencies.",
       "tags": [
         "adwaita-icon-theme",
@@ -281698,7 +281728,7 @@
       "id": "WK.WKRadar",
       "name": "WK Radar",
       "publisher": "WK WK Sistemas de Computação Ltda.",
-      "version": "7.21.0",
+      "version": "7.22.0",
       "description": "O ERP que não é qualquer ERP",
       "tags": [
         "Banco Digital",
@@ -281746,7 +281776,7 @@
       "id": "wkjarosz.hdrview",
       "name": "hdrview",
       "publisher": "wkjarosz",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "description": "simple image viewer for examining and comparing HDR images",
       "tags": [
         "comparison-tool",
@@ -284412,7 +284442,7 @@
       "id": "xAI.GrokBot",
       "name": "Grok Bot",
       "publisher": "SpaceXAI",
-      "version": "0.61.0",
+      "version": "0.62.0",
       "description": "AI teammates that use your tools, learn your workflows, and get real work done 24/7.",
       "tags": [
         "agent",
@@ -289946,7 +289976,7 @@
       "id": "yyqh01.reaper_yyqh",
       "name": "reaper_yyqh",
       "publisher": "yyqh01",
-      "version": "780.1",
+      "version": "781.1",
       "description": "yyqh installer",
       "tags": [],
       "category": "Others",
@@ -291040,7 +291070,7 @@
       "id": "zer0ken.xmux",
       "name": "xmux",
       "publisher": "zer0ken",
-      "version": "0.9.19",
+      "version": "0.9.20",
       "description": "Cross-environment tmux/psmux session switcher",
       "tags": [],
       "category": "Others",
