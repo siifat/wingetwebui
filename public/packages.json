@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T22:00:39.000Z",
+  "generatedAt": "2026-09-30T05:33:23.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "04ab98668f1ddd8c648c174e1df8c59bb312adbc"
+    "commit": "e52d1a0e337f355ab5e851d877954087da90f480"
   },
   "data": [
     {
@@ -2849,7 +2849,7 @@
       "id": "Ablaze.Floorp",
       "name": "Ablaze Floorp",
       "publisher": "Ablaze",
-      "version": "12.17.1@154.0.2",
+      "version": "12.18.0@156.0.1",
       "description": "Floorp is built on Firefox and was built in Japan and is a new browser with excellent privacy & flexibility.",
       "tags": [
         "browser",
@@ -3252,6 +3252,24 @@
       "icon": {
         "monogram": "VP",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "AccessData.RegistryViewer",
+      "name": "AccessData Registry Viewer",
+      "publisher": "AccessData",
+      "version": "2.0.0.7",
+      "description": "Free Windows forensic registry viewer that lets you view the contents of Windows operating system registries.",
+      "tags": [
+        "analysis",
+        "registry",
+        "viewer"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "AR",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -13517,7 +13535,7 @@
       "id": "Amazon.AWSCLI",
       "name": "AWS Command Line Interface",
       "publisher": "Amazon Web Services",
-      "version": "2.37.5",
+      "version": "2.37.6",
       "description": "Universal Command Line Interface for Amazon Web Services",
       "tags": [
         "aws",
@@ -21626,7 +21644,7 @@
       "id": "astral-sh.uv",
       "name": "uv",
       "publisher": "Astral Software Inc.",
-      "version": "0.12.20",
+      "version": "0.12.21",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "tags": [
         "python"
@@ -22472,7 +22490,7 @@
       "id": "aube.aube",
       "name": "aube",
       "publisher": "en.dev",
-      "version": "2.6.0",
+      "version": "2.6.1",
       "description": "A fast Node.js package manager",
       "tags": [],
       "category": "System Tools",
@@ -31335,7 +31353,7 @@
       "id": "Betterbird.Betterbird",
       "name": "Betterbird",
       "publisher": "Betterbird Project",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Betterbird is a fork of Mozilla Thunderbird with additional features and bugfixes.",
       "tags": [
         "email",
@@ -31389,7 +31407,7 @@
       "id": "Betterleaks.Betterleaks",
       "name": "Betterleaks",
       "publisher": "Zachary Rice",
-      "version": "1.8.1",
+      "version": "1.9.0",
       "description": "Scan the world (for secrets)",
       "tags": [
         "cicd",
@@ -34072,7 +34090,7 @@
       "id": "BitSum.ProcessLasso.Beta",
       "name": "Process Lasso (Beta)",
       "publisher": "Bitsum",
-      "version": "18.4.0.33",
+      "version": "18.4.0.43",
       "description": "Real-Time CPU Optimization and Automation",
       "tags": [
         "optimize",
@@ -34825,7 +34843,7 @@
       "id": "Blitz.Blitz",
       "name": "Blitz",
       "publisher": "Blitz, Inc.",
-      "version": "3.0.4",
+      "version": "3.0.5",
       "description": "Blitz App - Your personal gaming coach",
       "tags": [
         "gaming",
@@ -39710,7 +39728,7 @@
       "id": "Buildkite.Agent",
       "name": "Buildkite Agent",
       "publisher": "Buildkite Pty. Ltd.",
-      "version": "4.0.8",
+      "version": "4.0.9",
       "description": "The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network",
       "tags": [
         "buildkite",
@@ -42092,7 +42110,7 @@
       "id": "can1357.oh-my-pi",
       "name": "oh-my-pi",
       "publisher": "Can Bölük",
-      "version": "18.4.3",
+      "version": "18.4.4",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "tags": [
         "agent",
@@ -46408,7 +46426,7 @@
       "id": "ChrisMcLennan.mnml",
       "name": "mnml",
       "publisher": "Chris McLennan",
-      "version": "v0.2.22",
+      "version": "v0.3.0",
       "description": "A NvChad-style terminal IDE in Rust.",
       "tags": [
         "editor",
@@ -47246,7 +47264,7 @@
       "id": "CirclebackAI.Circleback",
       "name": "Circleback",
       "publisher": "Circleback AI, Inc.",
-      "version": "2.9.27",
+      "version": "2.9.29",
       "description": "AI-powered meeting notes, action items, automations, and search.",
       "tags": [],
       "category": "Productivity",
@@ -49643,7 +49661,7 @@
       "id": "co2lab.Anchors",
       "name": "Anchors",
       "publisher": "co2lab",
-      "version": "0.1.233",
+      "version": "0.1.240",
       "description": "Spec-first continuity framework for AI-assisted development",
       "tags": [
         "ai",
@@ -50116,7 +50134,7 @@
       "id": "Codeby.RIGStats",
       "name": "RIGStats",
       "publisher": "codeby.se",
-      "version": "1.40.0",
+      "version": "1.41.0",
       "description": "Real-time hardware monitor for Windows gaming PCs",
       "tags": [
         "cpu",
@@ -52012,7 +52030,7 @@
       "id": "ComfortSoftwareGroup.ComfortKeysPro",
       "name": "Comfort Keys Pro",
       "publisher": "Comfort Software Group",
-      "version": "9.6.3.0",
+      "version": "10.0.0.0",
       "description": "Comfort Keys Pro is a powerful keyboard macro and automation utility for Windows.",
       "tags": [
         "Keyboard",
@@ -52029,7 +52047,7 @@
       "id": "ComfortSoftwareGroup.ComfortOSK",
       "name": "Comfort On-Screen Keyboard Pro",
       "publisher": "Comfort Software Group",
-      "version": "9.6.3.0",
+      "version": "10.0.0.0",
       "description": "Comfort On-Screen Keyboard Pro is an advanced, customizable virtual keyboard software for Windows.",
       "tags": [
         "Keyboard",
@@ -57881,7 +57899,7 @@
       "id": "CyrilPeng.VeneraNext",
       "name": "VeneraNext",
       "publisher": "CyrilPeng/venera-next",
-      "version": "1.16.0",
+      "version": "1.17.0",
       "description": "A comic app.",
       "tags": [
         "comic",
@@ -63843,7 +63861,7 @@
       "id": "Devolutions.Pinget",
       "name": "Pinget",
       "publisher": "Devolutions",
-      "version": "0.10",
+      "version": "0.12.0",
       "description": "An experimental, portable, Winget-compatible package manager implementation by Devolutions.",
       "tags": [
         "defaultsource-packages",
@@ -65879,7 +65897,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1195",
+      "version": "1.0.1196",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -65902,7 +65920,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.528",
+      "version": "1.0.529",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -68174,7 +68192,7 @@
       "id": "DoltHub.Dolt",
       "name": "Dolt",
       "publisher": "DoltHub",
-      "version": "2.3.5",
+      "version": "2.4.0",
       "description": "Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
       "tags": [
         "cli",
@@ -68653,7 +68671,7 @@
       "id": "dotenvx.dotenvx",
       "name": "dotenvx",
       "publisher": "dotenvx",
-      "version": "2.31.1",
+      "version": "2.32.2",
       "description": "a better dotenv–from the creator of dotenv",
       "tags": [
         "cli",
@@ -70668,7 +70686,7 @@
       "id": "DuxburySystems.DBT",
       "name": "DBT",
       "publisher": "Duxbury Systems, Inc.",
-      "version": "15.1.0001",
+      "version": "15.1.0002",
       "description": "Braille Translation Software",
       "tags": [
         "braille"
@@ -73345,7 +73363,7 @@
       "id": "edde746.Plezy",
       "name": "Plezy",
       "publisher": "edde746",
-      "version": "2.21.0",
+      "version": "2.22.0",
       "description": "A media streaming client for Plex",
       "tags": [
         "media",
@@ -74866,7 +74884,7 @@
       "id": "eladser.mtop",
       "name": "mtop",
       "publisher": "Elad Sertshuk",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "description": "htop for your local AI",
       "tags": [
         "gpu",
@@ -82533,7 +82551,7 @@
       "id": "Fangyuan025.Chaty",
       "name": "Chaty",
       "publisher": "Fangyuan Lin",
-      "version": "2.3.0",
+      "version": "2.3.5",
       "description": "Private, local AI desktop app — run open LLMs fully offline with a coding agent, knowledge base and voice.",
       "tags": [
         "ai",
@@ -86983,7 +87001,7 @@
       "id": "Fly-io.flyctl",
       "name": "flyctl",
       "publisher": "Fly.io",
-      "version": "0.4.109",
+      "version": "0.4.110",
       "description": "Command line tools for fly.io services",
       "tags": [
         "cli",
@@ -92704,7 +92722,7 @@
       "id": "gg.ai.ggcode-cli",
       "name": "ggcode",
       "publisher": "GG AI Studio",
-      "version": "1.3.248",
+      "version": "1.3.249",
       "description": "AI coding agent for the terminal.",
       "tags": [
         "ai",
@@ -92725,7 +92743,7 @@
       "id": "gg.ai.ggcode-desktop",
       "name": "GGCode Desktop",
       "publisher": "GG AI Studio",
-      "version": "1.3.248",
+      "version": "1.3.249",
       "description": "AI coding agent with a native desktop interface.",
       "tags": [
         "ai",
@@ -93344,7 +93362,7 @@
       "id": "GiMeSpace.RAMTempFolderPro",
       "name": "GiMeSpace RAM Folder Pro",
       "publisher": "GiMeSpace",
-      "version": "2.4.0.64",
+      "version": "2.4.1.67",
       "description": "GiMeSpace RAM Folder Pro makes it possible to assign folders that will only store files in the RAM memory instead of on your disk as well as providing a safe write caching for file writes.",
       "tags": [
         "Folder",
@@ -94036,7 +94054,7 @@
       "id": "GitHub.cli",
       "name": "GitHub CLI",
       "publisher": "GitHub, Inc.",
-      "version": "2.101.0",
+      "version": "2.102.0",
       "description": "Take GitHub to the command line",
       "tags": [
         "cli",
@@ -96578,7 +96596,7 @@
       "id": "GOG.Galaxy",
       "name": "GOG GALAXY",
       "publisher": "GOG.com",
-      "version": "2.1.8.30",
+      "version": "2.1.10.56",
       "description": "All your games and friends in one place.",
       "tags": [
         "game-client",
@@ -99969,7 +99987,7 @@
       "id": "GregorDadera.AIContextBuilder",
       "name": "AI Context Builder",
       "publisher": "Gregor Dadera",
-      "version": "0.5.464.66",
+      "version": "0.5.465.1",
       "description": "Roslyn-backed code context for AI coding agents - MCP server, CLI and Windows app.",
       "tags": [
         "ai",
@@ -102269,7 +102287,7 @@
       "id": "Hanthor.BluefinCLI",
       "name": "BluefinCLI",
       "publisher": "Hanthor",
-      "version": "0.11.3",
+      "version": "0.11.4",
       "description": "Modern CLI for managing shell config and dev environment customization on Universal Blue.",
       "tags": [
         "bluefin",
@@ -102929,7 +102947,7 @@
       "id": "hatayama.uloop",
       "name": "Unity CLI Loop",
       "publisher": "hatayama",
-      "version": "3.2.0",
+      "version": "3.6.2",
       "description": "Let AI drive Unity, from Editor to Play Mode",
       "tags": [
         "ai",
@@ -104722,8 +104740,8 @@
     {
       "id": "HetoAndrade.CopieECole",
       "name": "CopieECole",
-      "publisher": "HetoAndrade",
-      "version": "1.9.2403",
+      "publisher": "Hetoandrade",
+      "version": "1.9.2903",
       "description": "Historico e sincronizacao da area de transferencia.",
       "tags": [],
       "category": "Others",
@@ -104737,7 +104755,7 @@
       "id": "HetoAndrade.NoteZap",
       "name": "NoteZap",
       "publisher": "Hetoandrade",
-      "version": "1.9.2907",
+      "version": "1.9.2909",
       "description": "Organizacao e sincronizacao de notas pessoais.",
       "tags": [],
       "category": "Others",
@@ -106831,7 +106849,7 @@
       "id": "HoraceMaxwell.Horosa",
       "name": "Horosa",
       "publisher": "Horace-Maxwell",
-      "version": "3.11.1",
+      "version": "3.11.2",
       "description": "Western astrology and Chinese metaphysics in one native Windows workstation.",
       "tags": [
         "astrology",
@@ -107154,7 +107172,7 @@
       "id": "HP.AnywarePCoIPClient",
       "name": "Anyware PCoIP Client",
       "publisher": "HP Development Company, L.P.",
-      "version": "26.5.4.0",
+      "version": "26.5.5.0",
       "description": "Connect securely to a remote desktop.",
       "tags": [],
       "category": "Development",
@@ -112898,7 +112916,7 @@
       "id": "infisical.infisical",
       "name": "infisical",
       "publisher": "infisical",
-      "version": "0.43.137",
+      "version": "0.43.138",
       "description": "The official Infisical CLI",
       "tags": [],
       "category": "Others",
@@ -118755,7 +118773,7 @@
       "id": "JanMesarc.GodMan",
       "name": "GodMan",
       "publisher": "Jan Mesarc",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "description": "GodMan is a console/TUI tool to install, manage, and activate Godot Engine builds (Standard and .NET) on Windows.",
       "tags": [
         "godot",
@@ -123277,7 +123295,7 @@
       "id": "JitzuLang.Jitzu",
       "name": "Jitzu",
       "publisher": "JitzuLang",
-      "version": "0.1.47",
+      "version": "0.1.48",
       "description": "An interactive shell and a typed scripting language written in .NET",
       "tags": [
         "language",
@@ -125721,7 +125739,7 @@
       "id": "JunkunDi.CrossDesk",
       "name": "CrossDesk",
       "publisher": "JunkunDi",
-      "version": "v1.5.3-20260927",
+      "version": "v1.6.0-20260930",
       "description": "A lightweight, cross-platform remote desktop software with support for Web Client access",
       "tags": [
         "home-office",
@@ -131214,7 +131232,7 @@
       "id": "Kindness-Kismet.Stelliberty",
       "name": "Stelliberty",
       "publisher": "Kindness-Kismet",
-      "version": "2.0.35",
+      "version": "2.0.36",
       "description": "A modern cross-platform Clash client built with Flutter and Rust Featuring the unique MD3M (Material Design 3 Modern) visual style",
       "tags": [
         "clash",
@@ -140257,7 +140275,7 @@
       "id": "LMCP.LocalMCP",
       "name": "LMCP",
       "publisher": "LMCP",
-      "version": "3.0.413",
+      "version": "3.0.415",
       "description": "Connect AI agents to your local apps — Outlook, Calendar, Teams, Excel, Word. 95+ tools, 100% local.",
       "tags": [
         "ai",
@@ -141818,7 +141836,7 @@
       "id": "LoreoInc.Loreo",
       "name": "Loreo",
       "publisher": "Loreo Inc.",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "description": "Turns meetings and long-form audio into transcripts and structured notes.",
       "tags": [
         "audio",
@@ -143515,7 +143533,7 @@
       "id": "LunarWerxs.SageThumbs2K",
       "name": "SageThumbs 2K",
       "publisher": "LunarWerx",
-      "version": "3.4.0",
+      "version": "3.4.1",
       "description": "Explorer thumbnails for 363 file types Windows can't read, plus a right-click image toolkit.",
       "tags": [
         "converter",
@@ -147836,7 +147854,7 @@
       "id": "matchmycolor.ColibriAlpha",
       "name": "Colibri Alpha",
       "publisher": "matchmycolor",
-      "version": "26.3.0.433",
+      "version": "26.3.0.439",
       "description": "Colibri color management systems help brand owners, brand management companies, designers, and material manufacturers and suppliers to specify, manage, produce and communicate color.",
       "tags": [],
       "category": "Others",
@@ -148248,7 +148266,7 @@
       "id": "MattJColes.lgtmaybe",
       "name": "lgtmaybe",
       "publisher": "Matt Coles",
-      "version": "2.6.0",
+      "version": "2.10.0",
       "description": "Provider-agnostic pull request reviewer for hosted, local, and OpenAI-compatible models.",
       "tags": [
         "ai",
@@ -155618,7 +155636,7 @@
       "id": "Microsoft.Edge",
       "name": "Microsoft Edge",
       "publisher": "Microsoft Corporation",
-      "version": "154.0.4258.37",
+      "version": "154.0.4258.48",
       "description": "Microsoft Edge is a cross-platform web browser built for modern life.",
       "tags": [
         "browser",
@@ -155694,7 +155712,7 @@
       "id": "Microsoft.EdgeDriver",
       "name": "Microsoft Edge WebDriver",
       "publisher": "Microsoft Corporation",
-      "version": "154.0.4258.37",
+      "version": "154.0.4258.48",
       "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge with Microsoft Edge WebDriver",
       "tags": [
         "automate",
@@ -155714,7 +155732,7 @@
       "id": "Microsoft.EdgeWebView2Runtime",
       "name": "Microsoft Edge WebView2 Runtime",
       "publisher": "Microsoft Corporation",
-      "version": "154.0.4258.37",
+      "version": "154.0.4258.48",
       "description": "Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.",
       "tags": [
         "webview"
@@ -157642,7 +157660,7 @@
       "id": "Microsoft.PerfView",
       "name": "PerfView",
       "publisher": "Microsoft Corporation",
-      "version": "3.2.6",
+      "version": "3.2.8",
       "description": "PerfView is a CPU and memory performance-analysis tool.",
       "tags": [
         "dotnet",
@@ -158083,7 +158101,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.466.0",
+      "version": "1.459.477.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -169749,7 +169767,7 @@
       "id": "Mozilla.Firefox.ESR",
       "name": "Mozilla Firefox ESR (en-US)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -169772,7 +169790,7 @@
       "id": "Mozilla.Firefox.ESR.ach",
       "name": "Mozilla Firefox ESR (ach)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -169818,7 +169836,7 @@
       "id": "Mozilla.Firefox.ESR.an",
       "name": "Mozilla Firefox ESR (an)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -169841,7 +169859,7 @@
       "id": "Mozilla.Firefox.ESR.ar",
       "name": "Mozilla Firefox ESR (ar)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -169887,7 +169905,7 @@
       "id": "Mozilla.Firefox.ESR.az",
       "name": "Mozilla Firefox ESR (az)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -169910,7 +169928,7 @@
       "id": "Mozilla.Firefox.ESR.be",
       "name": "Mozilla Firefox ESR (be)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -169933,7 +169951,7 @@
       "id": "Mozilla.Firefox.ESR.bg",
       "name": "Mozilla Firefox ESR (bg)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170002,7 +170020,7 @@
       "id": "Mozilla.Firefox.ESR.bs",
       "name": "Mozilla Firefox ESR (bs)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170025,7 +170043,7 @@
       "id": "Mozilla.Firefox.ESR.ca",
       "name": "Mozilla Firefox ESR (ca)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170048,7 +170066,7 @@
       "id": "Mozilla.Firefox.ESR.ca-valencia",
       "name": "Mozilla Firefox ESR (ca-valencia)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170094,7 +170112,7 @@
       "id": "Mozilla.Firefox.ESR.cs",
       "name": "Mozilla Firefox ESR (cs)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170140,7 +170158,7 @@
       "id": "Mozilla.Firefox.ESR.da",
       "name": "Mozilla Firefox ESR (da)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170163,7 +170181,7 @@
       "id": "Mozilla.Firefox.ESR.de",
       "name": "Mozilla Firefox ESR (de)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170209,7 +170227,7 @@
       "id": "Mozilla.Firefox.ESR.el",
       "name": "Mozilla Firefox ESR (el)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170232,7 +170250,7 @@
       "id": "Mozilla.Firefox.ESR.en-CA",
       "name": "Mozilla Firefox ESR (en-CA)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170255,7 +170273,7 @@
       "id": "Mozilla.Firefox.ESR.en-GB",
       "name": "Mozilla Firefox ESR (en-GB)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170278,7 +170296,7 @@
       "id": "Mozilla.Firefox.ESR.eo",
       "name": "Mozilla Firefox ESR (eo)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170301,7 +170319,7 @@
       "id": "Mozilla.Firefox.ESR.es-AR",
       "name": "Mozilla Firefox ESR (es-AR)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170324,7 +170342,7 @@
       "id": "Mozilla.Firefox.ESR.es-CL",
       "name": "Mozilla Firefox ESR (es-CL)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170347,7 +170365,7 @@
       "id": "Mozilla.Firefox.ESR.es-ES",
       "name": "Mozilla Firefox ESR (es-ES)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170370,7 +170388,7 @@
       "id": "Mozilla.Firefox.ESR.es-MX",
       "name": "Mozilla Firefox ESR (es-MX)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170393,7 +170411,7 @@
       "id": "Mozilla.Firefox.ESR.et",
       "name": "Mozilla Firefox ESR (et)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170416,7 +170434,7 @@
       "id": "Mozilla.Firefox.ESR.eu",
       "name": "Mozilla Firefox ESR (eu)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170462,7 +170480,7 @@
       "id": "Mozilla.Firefox.ESR.ff",
       "name": "Mozilla Firefox ESR (ff)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170485,7 +170503,7 @@
       "id": "Mozilla.Firefox.ESR.fi",
       "name": "Mozilla Firefox ESR (fi)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170508,7 +170526,7 @@
       "id": "Mozilla.Firefox.ESR.fr",
       "name": "Mozilla Firefox ESR (fr)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170531,7 +170549,7 @@
       "id": "Mozilla.Firefox.ESR.fur",
       "name": "Mozilla Firefox ESR (fur)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170554,7 +170572,7 @@
       "id": "Mozilla.Firefox.ESR.fy-NL",
       "name": "Mozilla Firefox ESR (fy-NL)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170577,7 +170595,7 @@
       "id": "Mozilla.Firefox.ESR.ga-IE",
       "name": "Mozilla Firefox ESR (ga-IE)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170600,7 +170618,7 @@
       "id": "Mozilla.Firefox.ESR.gd",
       "name": "Mozilla Firefox ESR (gd)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170623,7 +170641,7 @@
       "id": "Mozilla.Firefox.ESR.gl",
       "name": "Mozilla Firefox ESR (gl)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170646,7 +170664,7 @@
       "id": "Mozilla.Firefox.ESR.gn",
       "name": "Mozilla Firefox ESR (gn)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170669,7 +170687,7 @@
       "id": "Mozilla.Firefox.ESR.gu-IN",
       "name": "Mozilla Firefox ESR (gu-IN)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170692,7 +170710,7 @@
       "id": "Mozilla.Firefox.ESR.he",
       "name": "Mozilla Firefox ESR (he)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170715,7 +170733,7 @@
       "id": "Mozilla.Firefox.ESR.hi-IN",
       "name": "Mozilla Firefox ESR (hi-IN)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170738,7 +170756,7 @@
       "id": "Mozilla.Firefox.ESR.hr",
       "name": "Mozilla Firefox ESR (hr)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170761,7 +170779,7 @@
       "id": "Mozilla.Firefox.ESR.hsb",
       "name": "Mozilla Firefox ESR (hsb)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170784,7 +170802,7 @@
       "id": "Mozilla.Firefox.ESR.hu",
       "name": "Mozilla Firefox ESR (hu)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170807,7 +170825,7 @@
       "id": "Mozilla.Firefox.ESR.hy-AM",
       "name": "Mozilla Firefox ESR (hy-AM)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170830,7 +170848,7 @@
       "id": "Mozilla.Firefox.ESR.ia",
       "name": "Mozilla Firefox ESR (ia)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170853,7 +170871,7 @@
       "id": "Mozilla.Firefox.ESR.id",
       "name": "Mozilla Firefox ESR (id)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170876,7 +170894,7 @@
       "id": "Mozilla.Firefox.ESR.is",
       "name": "Mozilla Firefox ESR (is)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170899,7 +170917,7 @@
       "id": "Mozilla.Firefox.ESR.it",
       "name": "Mozilla Firefox ESR (it)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170922,7 +170940,7 @@
       "id": "Mozilla.Firefox.ESR.ja",
       "name": "Mozilla Firefox ESR (ja)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170945,7 +170963,7 @@
       "id": "Mozilla.Firefox.ESR.ka",
       "name": "Mozilla Firefox ESR (ka)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170968,7 +170986,7 @@
       "id": "Mozilla.Firefox.ESR.kab",
       "name": "Mozilla Firefox ESR (kab)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -170991,7 +171009,7 @@
       "id": "Mozilla.Firefox.ESR.kk",
       "name": "Mozilla Firefox ESR (kk)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171014,7 +171032,7 @@
       "id": "Mozilla.Firefox.ESR.km",
       "name": "Mozilla Firefox ESR (km)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171037,7 +171055,7 @@
       "id": "Mozilla.Firefox.ESR.kn",
       "name": "Mozilla Firefox ESR (kn)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171060,7 +171078,7 @@
       "id": "Mozilla.Firefox.ESR.ko",
       "name": "Mozilla Firefox ESR (ko)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171083,7 +171101,7 @@
       "id": "Mozilla.Firefox.ESR.lij",
       "name": "Mozilla Firefox ESR (lij)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171106,7 +171124,7 @@
       "id": "Mozilla.Firefox.ESR.lt",
       "name": "Mozilla Firefox ESR (lt)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171129,7 +171147,7 @@
       "id": "Mozilla.Firefox.ESR.lv",
       "name": "Mozilla Firefox ESR (lv)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171152,7 +171170,7 @@
       "id": "Mozilla.Firefox.ESR.mk",
       "name": "Mozilla Firefox ESR (mk)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171175,7 +171193,7 @@
       "id": "Mozilla.Firefox.ESR.mr",
       "name": "Mozilla Firefox ESR (mr)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171198,7 +171216,7 @@
       "id": "Mozilla.Firefox.ESR.ms",
       "name": "Mozilla Firefox ESR (ms)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171221,7 +171239,7 @@
       "id": "Mozilla.Firefox.ESR.MSIX",
       "name": "Mozilla Firefox ESR (MSIX)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171244,7 +171262,7 @@
       "id": "Mozilla.Firefox.ESR.my",
       "name": "Mozilla Firefox ESR (my)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171267,7 +171285,7 @@
       "id": "Mozilla.Firefox.ESR.nb-NO",
       "name": "Mozilla Firefox ESR (nb-NO)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171290,7 +171308,7 @@
       "id": "Mozilla.Firefox.ESR.ne-NP",
       "name": "Mozilla Firefox ESR (ne-NP)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171313,7 +171331,7 @@
       "id": "Mozilla.Firefox.ESR.nl",
       "name": "Mozilla Firefox ESR (nl)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171336,7 +171354,7 @@
       "id": "Mozilla.Firefox.ESR.nn-NO",
       "name": "Mozilla Firefox ESR (nn-NO)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171359,7 +171377,7 @@
       "id": "Mozilla.Firefox.ESR.oc",
       "name": "Mozilla Firefox ESR (oc)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171382,7 +171400,7 @@
       "id": "Mozilla.Firefox.ESR.pa-IN",
       "name": "Mozilla Firefox ESR (pa-IN)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171405,7 +171423,7 @@
       "id": "Mozilla.Firefox.ESR.pl",
       "name": "Mozilla Firefox ESR (pl)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171428,7 +171446,7 @@
       "id": "Mozilla.Firefox.ESR.pt-BR",
       "name": "Mozilla Firefox ESR (pt-BR)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171451,7 +171469,7 @@
       "id": "Mozilla.Firefox.ESR.pt-PT",
       "name": "Mozilla Firefox ESR (pt-PT)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171474,7 +171492,7 @@
       "id": "Mozilla.Firefox.ESR.rm",
       "name": "Mozilla Firefox ESR (rm)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171497,7 +171515,7 @@
       "id": "Mozilla.Firefox.ESR.ro",
       "name": "Mozilla Firefox ESR (ro)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171520,7 +171538,7 @@
       "id": "Mozilla.Firefox.ESR.ru",
       "name": "Mozilla Firefox ESR (ru)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171566,7 +171584,7 @@
       "id": "Mozilla.Firefox.ESR.sc",
       "name": "Mozilla Firefox ESR (sc)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171589,7 +171607,7 @@
       "id": "Mozilla.Firefox.ESR.sco",
       "name": "Mozilla Firefox ESR (sco)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171612,7 +171630,7 @@
       "id": "Mozilla.Firefox.ESR.si",
       "name": "Mozilla Firefox ESR (si)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171635,7 +171653,7 @@
       "id": "Mozilla.Firefox.ESR.sk",
       "name": "Mozilla Firefox ESR (sk)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171681,7 +171699,7 @@
       "id": "Mozilla.Firefox.ESR.sl",
       "name": "Mozilla Firefox ESR (sl)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171704,7 +171722,7 @@
       "id": "Mozilla.Firefox.ESR.son",
       "name": "Mozilla Firefox ESR (son)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171727,7 +171745,7 @@
       "id": "Mozilla.Firefox.ESR.sq",
       "name": "Mozilla Firefox ESR (sq)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171750,7 +171768,7 @@
       "id": "Mozilla.Firefox.ESR.sr",
       "name": "Mozilla Firefox ESR (sr)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171773,7 +171791,7 @@
       "id": "Mozilla.Firefox.ESR.sv-SE",
       "name": "Mozilla Firefox ESR (sv-SE)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171796,7 +171814,7 @@
       "id": "Mozilla.Firefox.ESR.szl",
       "name": "Mozilla Firefox ESR (szl)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171819,7 +171837,7 @@
       "id": "Mozilla.Firefox.ESR.ta",
       "name": "Mozilla Firefox ESR (ta)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171842,7 +171860,7 @@
       "id": "Mozilla.Firefox.ESR.te",
       "name": "Mozilla Firefox ESR (te)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171865,7 +171883,7 @@
       "id": "Mozilla.Firefox.ESR.tg",
       "name": "Mozilla Firefox ESR (tg)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171888,7 +171906,7 @@
       "id": "Mozilla.Firefox.ESR.th",
       "name": "Mozilla Firefox ESR (th)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171911,7 +171929,7 @@
       "id": "Mozilla.Firefox.ESR.tl",
       "name": "Mozilla Firefox ESR (tl)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171934,7 +171952,7 @@
       "id": "Mozilla.Firefox.ESR.tr",
       "name": "Mozilla Firefox ESR (tr)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171957,7 +171975,7 @@
       "id": "Mozilla.Firefox.ESR.trs",
       "name": "Mozilla Firefox ESR (trs)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -171980,7 +171998,7 @@
       "id": "Mozilla.Firefox.ESR.uk",
       "name": "Mozilla Firefox ESR (uk)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172003,7 +172021,7 @@
       "id": "Mozilla.Firefox.ESR.ur",
       "name": "Mozilla Firefox ESR (ur)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172026,7 +172044,7 @@
       "id": "Mozilla.Firefox.ESR.uz",
       "name": "Mozilla Firefox ESR (uz)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172049,7 +172067,7 @@
       "id": "Mozilla.Firefox.ESR.vi",
       "name": "Mozilla Firefox ESR (vi)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172072,7 +172090,7 @@
       "id": "Mozilla.Firefox.ESR.xh",
       "name": "Mozilla Firefox ESR (xh)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172095,7 +172113,7 @@
       "id": "Mozilla.Firefox.ESR.zh-CN",
       "name": "Mozilla Firefox ESR (zh-CN)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172118,7 +172136,7 @@
       "id": "Mozilla.Firefox.ESR.zh-TW",
       "name": "Mozilla Firefox ESR (zh-TW)",
       "publisher": "Mozilla",
-      "version": "153.3.0",
+      "version": "153.4.0",
       "description": "Get the Firefox Extended Support Release or Rapid Release browser for comprehensive data security and data protection.",
       "tags": [
         "browser",
@@ -172164,7 +172182,7 @@
       "id": "Mozilla.Firefox.eu",
       "name": "Mozilla Firefox (eu)",
       "publisher": "Mozilla",
-      "version": "156.0.1",
+      "version": "157.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -172946,7 +172964,7 @@
       "id": "Mozilla.Firefox.ms",
       "name": "Mozilla Firefox (ms)",
       "publisher": "Mozilla",
-      "version": "156.0.1",
+      "version": "157.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -173225,7 +173243,7 @@
       "id": "Mozilla.Firefox.pt-PT",
       "name": "Mozilla Firefox (pt-PT)",
       "publisher": "Mozilla",
-      "version": "156.0.1",
+      "version": "157.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -173340,7 +173358,7 @@
       "id": "Mozilla.Firefox.sco",
       "name": "Mozilla Firefox (sco)",
       "publisher": "Mozilla",
-      "version": "156.0.1",
+      "version": "157.0",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "tags": [
         "browser",
@@ -180519,7 +180537,7 @@
       "id": "Nbauma109.JDGUIDuo",
       "name": "JD-GUI Duo",
       "publisher": "Nicolas Baumann",
-      "version": "2.0.114",
+      "version": "2.0.115",
       "description": "A 2-in-1 Java decompiler based on JD-Core v0 and v1",
       "tags": [
         "decompiler",
@@ -180823,7 +180841,7 @@
       "id": "NearAI.IronClaw",
       "name": "ironclaw",
       "publisher": "NEAR AI",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "description": "Unleash Your AI Agent, With Peace of Mind",
       "tags": [
         "agent",
@@ -182876,7 +182894,7 @@
       "id": "NewLooper.VirtualSpace",
       "name": "VirtualSpace",
       "publisher": "newlooper.com",
-      "version": "1.1.1746.989",
+      "version": "1.1.1760.0",
       "description": "A Virtual Desktop Enhancement GUI Program For Win10 & Win11",
       "tags": [],
       "category": "Others",
@@ -186757,7 +186775,7 @@
       "id": "NoMoreFood.PuTTY-CAC",
       "name": "PuTTY CAC",
       "publisher": "Simon Tatham",
-      "version": "0.85.1.0",
+      "version": "0.85.2.0",
       "description": "Windows Secure Shell Client With Support For Smart Cards & Certificates",
       "tags": [
         "2fa",
@@ -187122,7 +187140,7 @@
       "id": "NotedeckDev.NoteDeck",
       "name": "NoteDeck",
       "publisher": "notedeck-dev",
-      "version": "1.74.2",
+      "version": "1.75.0",
       "description": "Misskey Pro — an integrated deck environment (IDE) for Misskey power users",
       "tags": [
         "deck",
@@ -188965,7 +188983,7 @@
       "id": "Nvidia.GeForceNow",
       "name": "NVIDIA GeForce NOW",
       "publisher": "NVIDIA Corporation",
-      "version": "2.0.88.129",
+      "version": "2.0.89.141",
       "description": "GeForce NOW connects to digital PC game stores so you can stream the library of games you already own",
       "tags": [
         "cloud-gaming",
@@ -189339,7 +189357,7 @@
       "id": "o-murphy.ebalistyka",
       "name": "eBalistyka",
       "publisher": "o-murphy",
-      "version": "0.1.18.191",
+      "version": "0.1.20.208",
       "description": "Ballistic Calculator",
       "tags": [
         "ballistic-calculator",
@@ -190193,7 +190211,7 @@
       "id": "OdinoCano.3va",
       "name": "3va",
       "publisher": "OdinoCano",
-      "version": "2.10.0",
+      "version": "2.11.0",
       "description": "Secure-by-default JavaScript and TypeScript runtime.",
       "tags": [
         "cli",
@@ -191266,7 +191284,7 @@
       "id": "Ollama.Ollama",
       "name": "Ollama",
       "publisher": "Ollama",
-      "version": "0.34.4",
+      "version": "0.35.0",
       "description": "Get up and running with large language models locally.",
       "tags": [
         "ai",
@@ -191289,7 +191307,7 @@
       "id": "Ollama.Ollama.Portable",
       "name": "Ollama (Portable)",
       "publisher": "Ollama",
-      "version": "0.34.4",
+      "version": "0.35.0",
       "description": "Start building with open models.",
       "tags": [
         "ai",
@@ -192675,7 +192693,7 @@
       "id": "OpenAI.Codex",
       "name": "Codex CLI",
       "publisher": "OpenAI, Inc.",
-      "version": "0.159.0",
+      "version": "0.159.2",
       "description": "Codex CLI is an open‐source local coding agent that runs in your terminal, letting you write, edit, and understand code without leaving the command line.",
       "tags": [
         "agent",
@@ -193711,7 +193729,7 @@
       "id": "OpenJS.Electron.42",
       "name": "Electron",
       "publisher": "OpenJS Foundation",
-      "version": "42.11.8",
+      "version": "42.11.9",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
       "tags": [
         "c-plus-plus",
@@ -193735,7 +193753,7 @@
       "id": "OpenJS.Electron.43",
       "name": "Electron",
       "publisher": "OpenJS Foundation",
-      "version": "43.7.5",
+      "version": "43.7.6",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
       "tags": [
         "c-plus-plus",
@@ -193759,7 +193777,7 @@
       "id": "OpenJS.Electron.44",
       "name": "Electron",
       "publisher": "OpenJS Foundation",
-      "version": "44.4.5",
+      "version": "44.5.0",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
       "tags": [
         "c-plus-plus",
@@ -200736,7 +200754,7 @@
       "id": "pbek.QOwnNotes",
       "name": "QOwnNotes",
       "publisher": "pbek",
-      "version": "26.9.13",
+      "version": "26.9.14",
       "description": "QOwnNotes is the open source notepad with markdown support and todo list manager",
       "tags": [
         "markdown",
@@ -201074,7 +201092,7 @@
       "id": "pdfcpu.pdfcpu",
       "name": "pdfcpu",
       "publisher": "pdfcpu",
-      "version": "0.15.0",
+      "version": "0.16.0",
       "description": "A PDF processor written in Go.",
       "tags": [
         "go",
@@ -204150,7 +204168,7 @@
       "id": "PlanetScale.CLI",
       "name": "PlanetScale CLI",
       "publisher": "PlanetScale, Inc.",
-      "version": "0.339.0",
+      "version": "0.341.0",
       "description": "PlanetScale is more than a database and our CLI is more than a jumble of commands. The pscale command line tool brings branches, deploy requests, and other PlanetScale concepts to your fingertips.",
       "tags": [
         "database",
@@ -204523,7 +204541,7 @@
       "id": "PLFJY.ContextMenuMgrPlus.Beta",
       "name": "Context Menu Manager Plus",
       "publisher": "PLFJY",
-      "version": "1.7.6-beta.20260920031605",
+      "version": "1.7.7-beta.20260930001545",
       "description": "Beta channel for Context Menu Manager Plus.",
       "tags": [
         "beta",
@@ -207686,7 +207704,7 @@
       "id": "PrimeBuild.ThreadPilot",
       "name": "ThreadPilot",
       "publisher": "Prime Build",
-      "version": "1.7.5",
+      "version": "1.7.6",
       "description": "Advanced Windows process and power plan manager.",
       "tags": [
         "performance",
@@ -208603,7 +208621,7 @@
       "id": "ProtagonistLabs.FileLabs",
       "name": "File Labs",
       "publisher": "Protagonist Labs",
-      "version": "1.0.23",
+      "version": "1.0.24",
       "description": "A dual-pane file manager for Windows 11 with tabs, Quick View, and copies that list every conflict up front and show their speed.",
       "tags": [
         "explorer",
@@ -209461,7 +209479,7 @@
       "id": "ptweezy.cronstable",
       "name": "cronstable",
       "publisher": "ptweezy",
-      "version": "1.2.58",
+      "version": "1.2.59",
       "description": "A distributed cron replacement.",
       "tags": [
         "container",
@@ -214667,7 +214685,7 @@
       "tags": [
         "file-compressing",
         "file-compression",
-        "imag-ecompressing",
+        "image-compressing",
         "image-compression",
         "image-compressor",
         "svg",
@@ -228029,7 +228047,7 @@
       "id": "ScryerMedia.Weaver",
       "name": "Weaver",
       "publisher": "Scryer Media",
-      "version": "0.14.1",
+      "version": "0.14.2",
       "description": "High-performance Usenet binary downloader.",
       "tags": [
         "downloader",
@@ -230132,7 +230150,7 @@
       "id": "Serverdata.Ascend",
       "name": "Ascend",
       "publisher": "Serverdata.net, Inc.",
-      "version": "2.32.143.0",
+      "version": "2.33.58",
       "description": "Call, message, meet, and access files, from wherever you are.",
       "tags": [
         "call",
@@ -231753,7 +231771,7 @@
       "id": "ShiningLight.OpenSSL.Dev",
       "name": "OpenSSL",
       "publisher": "Shining Light Productions",
-      "version": "4.0.2",
+      "version": "4.0.3",
       "description": "Install OpenSSL - a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication.",
       "tags": [],
       "category": "Communications",
@@ -231767,7 +231785,7 @@
       "id": "ShiningLight.OpenSSL.Light",
       "name": "OpenSSL Light",
       "publisher": "Shining Light Productions",
-      "version": "4.0.2",
+      "version": "4.0.3",
       "description": "Install the most commonly used essentials of OpenSSL - a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication.",
       "tags": [],
       "category": "Communications",
@@ -232798,7 +232816,7 @@
       "id": "Sidero.talosctl",
       "name": "talosctl",
       "publisher": "Sidero Labs",
-      "version": "1.14.1",
+      "version": "1.14.2",
       "description": "A command line tool for communicating with a Talos cluster",
       "tags": [
         "k8s",
@@ -236701,7 +236719,7 @@
       "id": "Snowflake.OdbcDriver",
       "name": "Snowflake ODBC Driver",
       "publisher": "Snowflake Computing",
-      "version": "3.19.0",
+      "version": "3.21.0",
       "description": "Driver for connecting to Snowflake using Open Database Connectivity (ODBC) and using SQL for accessing the data.",
       "tags": [
         "database",
@@ -240844,7 +240862,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790692375-ga7bdff",
+      "version": "0.0.1790726504-g9299b2",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -242137,7 +242155,7 @@
       "id": "Splunk.UniversalForwarder",
       "name": "UniversalForwarder",
       "publisher": "Splunk, Inc.",
-      "version": "10.4.3",
+      "version": "10.4.4",
       "description": "The universal forwarder collects data from a data source or another forwarder and sends it to a forwarder or a Splunk deployment. With a universal forwarder, you can send data to Splunk Enterprise, Splunk Light, or Splunk Cloud.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -242400,7 +242418,7 @@
       "id": "SQLBI.Whiteboard",
       "name": "SQLBI Whiteboard",
       "publisher": "SQLBI Corp",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "description": "A native Windows whiteboard for pen, touch, and live application capture.",
       "tags": [
         "annotation",
@@ -242807,7 +242825,7 @@
       "id": "srwi.EverythingToolbar.Deskband",
       "name": "EverythingToolbar",
       "publisher": "Stephan Rumswinkel",
-      "version": "3.2.0",
+      "version": "3.4.0",
       "description": "Everything integration for the Windows taskbar (Deskband variant)",
       "tags": [
         "everything",
@@ -242829,7 +242847,7 @@
       "id": "srwi.EverythingToolbar.Launcher",
       "name": "EverythingToolbar",
       "publisher": "Stephan Rumswinkel",
-      "version": "3.2.0",
+      "version": "3.4.0",
       "description": "Everything integration for the Windows taskbar (Launcher variant)",
       "tags": [
         "everything",
@@ -247731,7 +247749,7 @@
       "id": "Suwayomi.Suwayomi-Server",
       "name": "Suwayomi Server",
       "publisher": "Suwayomi",
-      "version": "v2.3.2243",
+      "version": "v2.4.2366",
       "description": "A free and open source manga reader that runs extensions built for Mihon(Tachiyomi).",
       "tags": [
         "foss",
@@ -249285,7 +249303,7 @@
       "id": "sysmanage.sysmanage",
       "name": "SysManage Server",
       "publisher": "SysManage",
-      "version": "3.9.0.17",
+      "version": "3.9.0.20",
       "description": "Open-source fleet management server for SysManage.",
       "tags": [],
       "category": "Others",
@@ -249299,7 +249317,7 @@
       "id": "sysmanage.sysmanage-agent",
       "name": "SysManage Agent",
       "publisher": "SysManage",
-      "version": "3.9.0.12",
+      "version": "3.9.0.14",
       "description": "Cross-platform system management agent for SysManage.",
       "tags": [],
       "category": "Others",
@@ -249618,7 +249636,7 @@
       "id": "T3Tools.T3Code",
       "name": "T3 Code",
       "publisher": "T3 Tools",
-      "version": "0.0.43",
+      "version": "0.0.44",
       "description": "T3 Code is a minimal web GUI for coding agents.",
       "tags": [],
       "category": "Others",
@@ -252006,7 +252024,7 @@
       "id": "TeamViewer.TeamViewer.Host",
       "name": "TeamViewer Host",
       "publisher": "TeamViewer",
-      "version": "15.81.6",
+      "version": "15.64.8",
       "description": "Set up unattended access to a device",
       "tags": [
         "control",
@@ -254303,7 +254321,7 @@
       "id": "teoslayer.shell.online",
       "name": "shell.online",
       "publisher": "Calin Teodor",
-      "version": "0.22.0",
+      "version": "0.23.3",
       "description": "A live browser link for any terminal process. Developed by Pilot Protocol.",
       "tags": [
         "cli",
@@ -260060,6 +260078,8 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "tags": [
         "ai",
+        "artificial-intelligence",
+        "artificialintelligence",
         "knowledge-base",
         "large-language-model",
         "llm",
@@ -262255,7 +262275,7 @@
       "id": "TrackerSoftware.PDF-Tools",
       "name": "PDF-Tools",
       "publisher": "PDF-XChange Co Ltd.",
-      "version": "11.0.1.0",
+      "version": "11.1.0.0",
       "description": "A flexible, powerful and wizard-driven application for the batch creation, manipulation and modification of PDF files - ideal for working with large PDFs or a number of PDFs simultaneously.",
       "tags": [
         "annotate",
@@ -262283,7 +262303,7 @@
       "id": "TrackerSoftware.PDF-XChangeEditor",
       "name": "PDF-XChange Editor",
       "publisher": "PDF-XChange Co Ltd.",
-      "version": "11.0.1.0",
+      "version": "11.1.0.0",
       "description": "The smallest, fastest and most feature-rich free PDF viewer/editor on the market.",
       "tags": [
         "annotate",
@@ -262357,7 +262377,7 @@
       "id": "TrackerSoftware.PDF-XChangeStandard",
       "name": "PDF-XChange Standard",
       "publisher": "PDF-XChange Co Ltd.",
-      "version": "11.0.1.0",
+      "version": "11.1.0.0",
       "description": "This feature-rich virtual printer allows you to print-to-PDF to create fully compatible, text-searchable PDF files.",
       "tags": [
         "conversion",
@@ -266488,7 +266508,7 @@
       "id": "Unity.UnityHub",
       "name": "Unity Hub",
       "publisher": "Unity Technologies Inc.",
-      "version": "3.21.3.65535",
+      "version": "3.22.0.65535",
       "description": "Manage multiple installations of the Unity Editor, create new projects, and access your work.",
       "tags": [
         "unity",
@@ -267819,7 +267839,7 @@
       "id": "v2rayA.v2rayA",
       "name": "v2rayA",
       "publisher": "v2rayA Organization",
-      "version": "2.5.7",
+      "version": "2.5.8",
       "description": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols.",
       "tags": [
         "gfw",
@@ -270148,7 +270168,7 @@
       "id": "vim.vim.nightly",
       "name": "Vim",
       "publisher": "Bram Moolenaar et al.",
-      "version": "9.2.1143",
+      "version": "9.2.1152",
       "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient",
       "tags": [
         "code-editor",
@@ -270584,7 +270604,7 @@
       "id": "VirusTotal.YARA-X",
       "name": "YARA-X",
       "publisher": "VirusTotal",
-      "version": "1.20.0",
+      "version": "1.21.0",
       "description": "YARA-X is a re-incarnation of YARA, a pattern matching tool designed with malware researchers in mind. This new incarnation intends to be faster, safer and more user-friendly than its predecessor.",
       "tags": [],
       "category": "Others",
@@ -270620,7 +270640,7 @@
       "id": "VisiGrid.VisiGrid",
       "name": "VisiGrid",
       "publisher": "VisiGrid",
-      "version": "0.38.0",
+      "version": "0.39.0",
       "description": "A fast, local-first spreadsheet for serious data work.",
       "tags": [
         "csv",
@@ -272558,7 +272578,7 @@
       "id": "Voltius.Voltius",
       "name": "Voltius",
       "publisher": "Voltius",
-      "version": "0.43.0",
+      "version": "0.44.0",
       "description": "Cross-platform SSH client and terminal",
       "tags": [
         "crdt",
@@ -272797,7 +272817,7 @@
       "id": "VovSoft.AIRequester",
       "name": "Vovsoft AI Requester",
       "publisher": "VOVSOFT",
-      "version": "5.3.0.0",
+      "version": "5.4.0.0",
       "description": "Vovsoft AI Requester is a program that can connect to OpenAI API and OpenAI-compatible APIs with ease.",
       "tags": [
         "GPT",
@@ -277201,7 +277221,7 @@
       "id": "WatchGuard.WatchGuardSystemManager",
       "name": "WatchGuard System Manager",
       "publisher": "WatchGuard Technologies, Inc.",
-      "version": "2026.3",
+      "version": "2026.3.2",
       "description": "Platform for managing all Firebox appliances on a network",
       "tags": [],
       "category": "Others",
@@ -279816,7 +279836,7 @@
       "id": "WinClip.WinClip",
       "name": "WinClip",
       "publisher": "duncansmith.tech",
-      "version": "2.1.2",
+      "version": "2.2.0",
       "description": "Smart clipboard actions for Windows — copy, transform, and paste with gestures",
       "tags": [
         "clipboard",
@@ -284445,7 +284465,7 @@
       "id": "xAI.GrokBot",
       "name": "Grok Bot",
       "publisher": "SpaceXAI",
-      "version": "0.62.0",
+      "version": "0.63.0",
       "description": "AI teammates that use your tools, learn your workflows, and get real work done 24/7.",
       "tags": [
         "agent",
@@ -286029,7 +286049,7 @@
       "id": "XinTaoFei.Codeg",
       "name": "codeg",
       "publisher": "codeg",
-      "version": "0.32.2",
+      "version": "0.32.3",
       "description": "Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.",
       "tags": [
         "agent",
@@ -288538,7 +288558,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.152",
+      "version": "0.4.153",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -292184,7 +292204,7 @@
       "id": "Zoho.Cliq",
       "name": "Cliq",
       "publisher": "Zoho Corporation",
-      "version": "1.8.4",
+      "version": "1.8.5",
       "description": "Stay connected to your team's collaborative workspace right from your taskbar with the Windows app for Zoho Cliq.",
       "tags": [
         "business",
