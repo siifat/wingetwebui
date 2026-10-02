@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T22:42:07.000Z",
+  "generatedAt": "2026-10-02T05:33:38.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "cc5fb44f626e60e82afd6bec85615dcc1237ae11"
+    "commit": "4dc2af7ca6266bb87188f5329237efb564cc6d1b"
   },
   "data": [
     {
@@ -918,7 +918,7 @@
       "id": "37signals.Basecamp",
       "name": "Basecamp",
       "publisher": "37signals",
-      "version": "5.2.0",
+      "version": "5.2.1",
       "description": "Basecamp is a project management and collaboration platform for organizing projects, communication, files, schedules, and work with clients.",
       "tags": [],
       "category": "Communications",
@@ -1422,7 +1422,7 @@
       "id": "66HEX.Frame",
       "name": "Frame",
       "publisher": "Marek Jóźwiak",
-      "version": "0.33.0",
+      "version": "0.33.1",
       "description": "Frame is a high-performance media conversion utility built on the Tauri v2 framework. It provides a native interface for FFmpeg operations",
       "tags": [
         "ffmpeg",
@@ -3945,7 +3945,7 @@
       "id": "ActiveDirectoryPro.ADProToolkit",
       "name": "AD Pro Toolkit",
       "publisher": "ActiveDirectoryPro",
-      "version": "3.2.5",
+      "version": "3.2.6",
       "description": "A collection of Active Directory Tools to streamline Active Directory",
       "tags": [
         "active-directory",
@@ -6277,6 +6277,31 @@
       }
     },
     {
+      "id": "AffluentLabs.ZestSSH",
+      "name": "ZestSSH",
+      "publisher": "Affluent Labs",
+      "version": "1.9.0",
+      "description": "Cross-platform SSH, SFTP, and terminal client for developers, sysadmins, and homelabs.",
+      "tags": [
+        "console",
+        "devops",
+        "port-forwarding",
+        "remote",
+        "sftp",
+        "shell",
+        "ssh",
+        "sysadmin",
+        "terminal",
+        "tunnel"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "ZE",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "afkarxyz.SpotiFLAC",
       "name": "SpotiFLAC",
       "publisher": "SpotiFLAC",
@@ -6586,7 +6611,7 @@
       "id": "agentty.agentty",
       "name": "agentty",
       "publisher": "agentty",
-      "version": "0.9.17",
+      "version": "0.9.18",
       "description": "Blazing-fast Claude in your terminal — a C++26 alternative to claude-code.",
       "tags": [
         "ai",
@@ -13535,7 +13560,7 @@
       "id": "Amazon.AWSCLI",
       "name": "AWS Command Line Interface",
       "publisher": "Amazon Web Services",
-      "version": "2.37.7",
+      "version": "2.37.8",
       "description": "Universal Command Line Interface for Amazon Web Services",
       "tags": [
         "aws",
@@ -14485,7 +14510,7 @@
       "id": "AmintaCCCP.GithubStarsManager",
       "name": "GitHub Stars Manager",
       "publisher": "AmintaCCCP",
-      "version": "0.8.4",
+      "version": "0.8.5",
       "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking.",
       "tags": [
         "gists",
@@ -16873,6 +16898,27 @@
       "icon": {
         "monogram": "AN",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "anttiak.LoFeline",
+      "name": "LoFeline",
+      "publisher": "Antti Ala-Könni",
+      "version": "1.0.0",
+      "description": "A pixel cat that naps in the notification area and plays lofi radio.",
+      "tags": [
+        "lofi",
+        "music",
+        "radio",
+        "somafm",
+        "streaming",
+        "tray"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "LO",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -20619,7 +20665,7 @@
       "id": "AryaPaw.Voxely",
       "name": "Voxely",
       "publisher": "AryaPaw",
-      "version": "0.2.12",
+      "version": "0.2.13",
       "description": "Windows voice dictation that inserts speech into the window you started in",
       "tags": [
         "dictation",
@@ -21681,7 +21727,7 @@
       "id": "astral-sh.uv",
       "name": "uv",
       "publisher": "Astral Software Inc.",
-      "version": "0.12.21",
+      "version": "0.12.22",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "tags": [
         "python"
@@ -30194,6 +30240,24 @@
       }
     },
     {
+      "id": "BellSoft.LibericaJRE.26.Full",
+      "name": "Liberica JRE 26 Full",
+      "publisher": "BellSoft",
+      "version": "26.0.2.1+1",
+      "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.",
+      "tags": [
+        "java",
+        "jre",
+        "runtime"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "LJ",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "BellSoft.LibericaJRE.8",
       "name": "Liberica JRE 8",
       "publisher": "BellSoft",
@@ -34505,7 +34569,7 @@
       "id": "blacktop.ipsw",
       "name": "ipsw",
       "publisher": "blacktop",
-      "version": "3.1.729",
+      "version": "3.1.730",
       "description": "iOS/macOS Research Swiss Army Knife",
       "tags": [],
       "category": "Others",
@@ -34519,7 +34583,7 @@
       "id": "blacktop.ipswd",
       "name": "ipswd",
       "publisher": "blacktop",
-      "version": "3.1.729",
+      "version": "3.1.730",
       "description": "ipsw - Daemon",
       "tags": [],
       "category": "Others",
@@ -34760,7 +34824,7 @@
       "id": "BlenderFoundation.Blender",
       "name": "blender",
       "publisher": "Blender Foundation",
-      "version": "5.2.1",
+      "version": "5.2.2",
       "description": "Free and Open 3D Creation Software",
       "tags": [
         "3d",
@@ -36485,7 +36549,7 @@
       "id": "Bostrot.WSLManager",
       "name": "WSL Manager",
       "publisher": "Bostrot",
-      "version": "2.4.1.0",
+      "version": "2.5.0.0",
       "description": "A GUI to quickly manage your WSL2 instances.",
       "tags": [
         "collaborate",
@@ -40285,7 +40349,7 @@
       "id": "BURSUsofts.BURSUcm",
       "name": "BURSU Connection Manager",
       "publisher": "BURSUsofts",
-      "version": "5.1.2",
+      "version": "5.1.4",
       "description": "SSH, RDP, VNC, Telnet, WinRM, SFTP and FTP connection manager with a zero-knowledge cloud catalog",
       "tags": [
         "connection-manager",
@@ -42761,7 +42825,7 @@
       "id": "CaptainKillSwitch.CaptainKillSwitch",
       "name": "Captain Kill Switch",
       "publisher": "Captain Kill Switch Team",
-      "version": "0.4.9",
+      "version": "0.4.10",
       "description": "Close every running application in one click from the system tray.",
       "tags": [],
       "category": "Others",
@@ -43744,7 +43808,7 @@
       "id": "CCPGames.EVEOnline",
       "name": "eve-online",
       "publisher": "CCP ehf",
-      "version": "1.16.1",
+      "version": "1.17.0",
       "description": "EVE Online is a free MMORPG sci-fi strategy game where you can embark on your own unique space adventure.",
       "tags": [],
       "category": "Gaming",
@@ -44325,6 +44389,26 @@
       }
     },
     {
+      "id": "Cenvero.Fleet",
+      "name": "Cenvero Fleet",
+      "publisher": "Cenvero",
+      "version": "2.4.1",
+      "description": "Self-hosted, operator-owned fleet management controller",
+      "tags": [
+        "cli",
+        "devops",
+        "fleet-management",
+        "self-hosted",
+        "ssh"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "CF",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "CerberAuth.jwtop",
       "name": "jwtop",
       "publisher": "CerberAuth",
@@ -44712,7 +44796,7 @@
       "id": "chaitanyagiri.MunderDifflin",
       "name": "Munder Difflin",
       "publisher": "Chaitanya Giri",
-      "version": "0.5.3",
+      "version": "0.5.5",
       "description": "Agent harness to run an office of your clones",
       "tags": [
         "agent",
@@ -47378,7 +47462,7 @@
       "id": "CircleCI.CLI",
       "name": "CircleCI CLI",
       "publisher": "CircleCI",
-      "version": "1.0.51648",
+      "version": "1.0.51853",
       "description": "CircleCI command line tool.",
       "tags": [
         "circle-ci",
@@ -49761,7 +49845,7 @@
       "id": "co2lab.Anchors",
       "name": "Anchors",
       "publisher": "co2lab",
-      "version": "0.1.247",
+      "version": "0.1.250",
       "description": "Spec-first continuity framework for AI-assisted development",
       "tags": [
         "ai",
@@ -51216,7 +51300,7 @@
       "id": "CodeZeno.ClaudeCodeUsageMonitor",
       "name": "Claude Code Usage Monitor",
       "publisher": "Code Zeno Pty Ltd",
-      "version": "2.15.22",
+      "version": "2.17.0",
       "description": "Windows taskbar widget for monitoring Claude Code usage and rate limits",
       "tags": [
         "claude",
@@ -51603,7 +51687,7 @@
       "id": "coldhighsun.AIUsageMonitor.Cli",
       "name": "AIUsageMonitor.Cli",
       "publisher": "coldhighsun",
-      "version": "0.5.2",
+      "version": "0.6.0",
       "description": "Read-only CLI/WPF analytics for Claude Code's local usage data — usage reports, model breakdowns, and cost estimates without calling the Anthropic API.",
       "tags": [
         "ai",
@@ -51934,7 +52018,7 @@
       "id": "ColonyLabs.ScribeDesktopCapture",
       "name": "Scribe",
       "publisher": "Colony Labs, Inc",
-      "version": "6.9.17.0",
+      "version": "6.10.1.0",
       "description": "Turn any process into a step-by-step guide, instantly.",
       "tags": [
         "documentation",
@@ -52149,7 +52233,7 @@
       "id": "ComfortSoftwareGroup.ComfortKeysPro",
       "name": "Comfort Keys Pro",
       "publisher": "Comfort Software Group",
-      "version": "10.0.0.0",
+      "version": "10.0.1.0",
       "description": "Comfort Keys Pro is a powerful keyboard macro and automation utility for Windows.",
       "tags": [
         "Keyboard",
@@ -52166,7 +52250,7 @@
       "id": "ComfortSoftwareGroup.ComfortOSK",
       "name": "Comfort On-Screen Keyboard Pro",
       "publisher": "Comfort Software Group",
-      "version": "10.0.0.0",
+      "version": "10.0.1.0",
       "description": "Comfort On-Screen Keyboard Pro is an advanced, customizable virtual keyboard software for Windows.",
       "tags": [
         "Keyboard",
@@ -54463,6 +54547,20 @@
       }
     },
     {
+      "id": "Cosmoboyn.AdminPRO",
+      "name": "AdminPRO",
+      "publisher": "Cosmoboyn",
+      "version": "1.0.0",
+      "description": "Windows administration utility.",
+      "tags": [],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "AD",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "CosmoX.Lepton",
       "name": "Lepton",
       "publisher": "CosmoX",
@@ -55799,6 +55897,29 @@
       }
     },
     {
+      "id": "Cromis.Alcove",
+      "name": "Alcove",
+      "publisher": "Cromis",
+      "version": "0.2.4",
+      "description": "A Windows desktop organizer that swaps the loose icon grid for named drawers.",
+      "tags": [
+        "desktop",
+        "explorer",
+        "files",
+        "icons",
+        "launcher",
+        "organizer",
+        "productivity",
+        "shell"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "AL",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Croppick.CroppickVoice",
       "name": "CroppickVoice",
       "publisher": "Croppick",
@@ -56091,7 +56212,7 @@
       "id": "CryptoPro.Chromium-Gost",
       "name": "Chromium-Gost",
       "publisher": "The Chromium-Gost Authors",
-      "version": "152.0.7977.134",
+      "version": "152.0.7977.149",
       "description": "Chromium с поддержкой алгоритмов ГОСТ",
       "tags": [
         "blink",
@@ -57352,7 +57473,7 @@
       "id": "Cyanfish.NAPS2",
       "name": "NAPS2",
       "publisher": "NAPS2 Software",
-      "version": "8.3.2",
+      "version": "8.4.0",
       "description": "Scan documents to PDF and other file types, as simply as possible.",
       "tags": [
         "pdf",
@@ -59787,7 +59908,7 @@
       "id": "Dataflare.Dataflare",
       "name": "Dataflare",
       "publisher": "Dataflare",
-      "version": "3.2.2",
+      "version": "3.2.3",
       "description": "Dataflare is a simple, easy-to-use database manager. Connect to your databases, manage tables, view data, write SQL and run queries easily.",
       "tags": [],
       "category": "Others",
@@ -60145,7 +60266,7 @@
       "id": "Datto.WindowsAgent",
       "name": "Datto Windows Agent",
       "publisher": "Datto Inc.",
-      "version": "3.0.18.24",
+      "version": "3.0.18.25",
       "description": "The Datto Backup Agent is installed on the machine to be protected and works with a Datto Appliance to deliver backup and continuity.",
       "tags": [
         "backup",
@@ -61668,7 +61789,7 @@
       "id": "defendend.ast-index",
       "name": "ast-index",
       "publisher": "defendend",
-      "version": "3.53.0",
+      "version": "3.56.0",
       "description": "Fast code search CLI for Android, iOS, TypeScript, Rust, Ruby, C#, Python, Go, Perl, C++ projects",
       "tags": [
         "Android",
@@ -62225,14 +62346,14 @@
     },
     {
       "id": "Delinea.ThycoticAgent",
-      "name": "Thycotic Agent",
+      "name": "Delinea Privilege Manager Agent",
       "publisher": "Delinea Inc.",
-      "version": "12.0.5290",
+      "version": "13.0.1041",
       "description": "The core agent for all reporting and monitoring communication on the endpoint. It can be considered the managing agent, while the Application Control and Local Security Agents are the worker agents.",
       "tags": [],
       "category": "Communications",
       "icon": {
-        "monogram": "TA",
+        "monogram": "DP",
         "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
@@ -62267,14 +62388,14 @@
     },
     {
       "id": "Delinea.ThycoticLocalSecurityAgent",
-      "name": "Thycotic Local Security Agent",
+      "name": "Delinea Local Security Agent",
       "publisher": "Delinea Inc.",
-      "version": "12.0.5290",
+      "version": "13.0.1041",
       "description": "Monitor and execute Local Security functions on Windows based endpoints.",
       "tags": [],
       "category": "Security & Privacy",
       "icon": {
-        "monogram": "TL",
+        "monogram": "DL",
         "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
@@ -65141,7 +65262,7 @@
       "id": "DigitalOcean.Doctl",
       "name": "doctl",
       "publisher": "DigitalOcean",
-      "version": "1.175.0",
+      "version": "1.177.0",
       "description": "The official command line interface for the DigitalOcean API.",
       "tags": [
         "digitalocean",
@@ -66036,7 +66157,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1199",
+      "version": "1.0.1201",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -66059,7 +66180,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.532",
+      "version": "1.0.534",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -66174,7 +66295,7 @@
       "id": "Discord.Discord.PTB",
       "name": "Discord PTB",
       "publisher": "Discord Inc.",
-      "version": "1.0.1222",
+      "version": "1.0.1223",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -66197,7 +66318,7 @@
       "id": "Discord.Discord.PTB.arm64",
       "name": "Discord PTB (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.1222",
+      "version": "1.0.1223",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -68227,7 +68348,7 @@
       "id": "Doist.Todoist",
       "name": "Todoist",
       "publisher": "Doist",
-      "version": "9.30.0",
+      "version": "9.31.0",
       "description": "Become focused, organized, and calm with Todoist. The world’s #1 task manager and to-do list app.",
       "tags": [
         "agenda",
@@ -68834,7 +68955,7 @@
       "id": "dotenvx.dotenvx",
       "name": "dotenvx",
       "publisher": "dotenvx",
-      "version": "2.32.3",
+      "version": "2.32.4",
       "description": "a better dotenv–from the creator of dotenv",
       "tags": [
         "cli",
@@ -71602,7 +71723,7 @@
       "id": "EarendilWorks.pi",
       "name": "pi",
       "publisher": "EARENDIL INC.",
-      "version": "0.99.2",
+      "version": "1.0.0",
       "description": "AI coding assistant with read, bash, edit, write tools",
       "tags": [
         "agent",
@@ -80614,7 +80735,7 @@
       "id": "Evernote.Evernote",
       "name": "Evernote",
       "publisher": "Evernote Corporation",
-      "version": "11.36.3",
+      "version": "11.36.4",
       "description": "Remember everything and tackle any project with your notes, tasks, and schedule all in one place.",
       "tags": [
         "9wzdncrfj3mb",
@@ -82221,7 +82342,7 @@
       "id": "FahrenheitResearch.ArWen",
       "name": "ArWen",
       "publisher": "Fahrenheit Research",
-      "version": "2.8.0",
+      "version": "2.8.1",
       "description": "ArWen: GPU-native WRF-ARW-class regional weather model, verified against WRF v4.6.1",
       "tags": [],
       "category": "Others",
@@ -84227,7 +84348,7 @@
       "id": "Figma.Figma",
       "name": "Figma",
       "publisher": "Figma, Inc.",
-      "version": "126.9.10",
+      "version": "126.9.11",
       "description": "The Collaborative Interface Design Tool",
       "tags": [
         "build",
@@ -84258,7 +84379,7 @@
       "id": "Figma.FigmaAgent",
       "name": "Figma Agent",
       "publisher": "Figma, Inc.",
-      "version": "126.8.16",
+      "version": "126.9.12",
       "description": "Access fonts on your computer in Figma",
       "tags": [
         "figma",
@@ -86867,6 +86988,20 @@
       }
     },
     {
+      "id": "Flowkeeper.Flowkeeper",
+      "name": "Flowkeeper",
+      "publisher": "flowkeeper.org",
+      "version": "1.1.0",
+      "description": "Pomodoro timer for power users",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "FL",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "FlowLayer.FlowLayer",
       "name": "FlowLayer",
       "publisher": "FlowLayer",
@@ -87074,7 +87209,7 @@
       "id": "Fluxer.Fluxer",
       "name": "Fluxer",
       "publisher": "Fluxer Contributors",
-      "version": "2026.928.213903",
+      "version": "2026.1001.230522",
       "description": "A chat app that puts you first.",
       "tags": [
         "chat",
@@ -87164,7 +87299,7 @@
       "id": "Fly-io.flyctl",
       "name": "flyctl",
       "publisher": "Fly.io",
-      "version": "0.4.110",
+      "version": "0.4.111",
       "description": "Command line tools for fly.io services",
       "tags": [
         "cli",
@@ -90730,7 +90865,7 @@
       "id": "GAM-Team.gam",
       "name": "gam",
       "publisher": "GAM Team - google-apps-manager@googlegroups.com",
-      "version": "7.48.14",
+      "version": "7.48.16",
       "description": "command line management for Google Workspace",
       "tags": [
         "gam",
@@ -94309,7 +94444,7 @@
       "id": "GitHub.CopilotApp",
       "name": "GitHub Copilot",
       "publisher": "GitHub Inc.",
-      "version": "1.1.25",
+      "version": "1.1.26",
       "description": "The GitHub Copilot app is a desktop application for agent-driven development that brings parallel workstreams, GitHub integration, and PR lifecycle management into one place.",
       "tags": [],
       "category": "Development",
@@ -97219,7 +97354,7 @@
       "id": "Google.AndroidStudio.Canary",
       "name": "Android Studio Canary",
       "publisher": "Google LLC",
-      "version": "2026.2.2.2",
+      "version": "2026.2.2.3",
       "description": "The official Integrated Development Environment (IDE) for Android app development.",
       "tags": [
         "aab",
@@ -97336,7 +97471,7 @@
       "id": "Google.Chrome",
       "name": "Google Chrome",
       "publisher": "Google LLC",
-      "version": "154.0.8037.93",
+      "version": "154.0.8037.98",
       "description": "The Fast & Secure Web Browser Built to be Yours",
       "tags": [
         "browser",
@@ -97404,7 +97539,7 @@
       "id": "Google.Chrome.Canary",
       "name": "Google Chrome Canary",
       "publisher": "Google LLC",
-      "version": "157.0.8081.0",
+      "version": "157.0.8082.0",
       "description": "Nightly build for developers",
       "tags": [
         "browser",
@@ -97468,7 +97603,7 @@
       "id": "Google.Chrome.EXE",
       "name": "Google Chrome (EXE)",
       "publisher": "Google LLC",
-      "version": "154.0.8037.93",
+      "version": "154.0.8037.98",
       "description": "The browser built by Google",
       "tags": [
         "browser",
@@ -98217,7 +98352,7 @@
       "id": "GoreCode.GoreGraph",
       "name": "GoreGraph",
       "publisher": "GoreCode",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "description": "Local deterministic code intelligence for safer AI-assisted development",
       "tags": [
         "cli",
@@ -99439,7 +99574,7 @@
       "id": "Grammarly.Grammarly",
       "name": "Grammarly for Windows",
       "publisher": "Grammarly",
-      "version": "1.2.299.1961",
+      "version": "1.2.300.1965",
       "description": "Compose bold, clear, mistake-free writing with Grammarly’s new AI-powered desktop Windows app.",
       "tags": [
         "english",
@@ -101475,6 +101610,20 @@
       "icon": {
         "monogram": "IS",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "h2depot.clipls",
+      "name": "clipls",
+      "publisher": "h2depot",
+      "version": "0.1.0",
+      "description": "Copy files on the clipboard using a terminal interface",
+      "tags": [],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "CL",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -107369,6 +107518,26 @@
       }
     },
     {
+      "id": "HP.AICompanion",
+      "name": "HP AI Companion",
+      "publisher": "HP Inc.",
+      "version": "2.6.1003",
+      "description": "Get the most out of your AI PC with HP AI Companion. Elevate your everyday tasks with a collection of AI tools and solutions that can increase your productivity and keep your PC running at its best.",
+      "tags": [
+        "9nx5372pr99p",
+        "artificial-intelligence",
+        "artificialintelligence",
+        "hp-ai-companion-package",
+        "hpaicompanionpackage"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "HA",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "HP.AnywarePCoIPClient",
       "name": "Anyware PCoIP Client",
       "publisher": "HP Development Company, L.P.",
@@ -107554,6 +107723,20 @@
       "icon": {
         "monogram": "HP",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "HP.SupportAssistant",
+      "name": "HP Support Assistant",
+      "publisher": "HP Inc.",
+      "version": "9.54.3.0",
+      "description": "HP Support Assistant is a utility that helps HP computer users automatically detect drivers, install updates, troubleshoot issues, and access HP support resources.",
+      "tags": [],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "HS",
+        "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
     },
@@ -108462,7 +108645,7 @@
       "id": "Humanity.DJV2",
       "name": "DJV2",
       "publisher": "Humanity",
-      "version": "3.5.0",
+      "version": "3.7.1",
       "description": "DJV Professional playback and review software",
       "tags": [
         "cineon",
@@ -116401,6 +116584,30 @@
       "icon": {
         "monogram": "IF",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Issinoho.Loadbearer",
+      "name": "loadbearer",
+      "publisher": "Iain Smith",
+      "version": "1.5.2",
+      "description": "CLI system-assessment tool that benchmarks CPU, memory, disk, network and GPU and grades the machine on an S-F scale.",
+      "tags": [
+        "benchmark",
+        "cli",
+        "cpu",
+        "disk",
+        "gpu",
+        "hardware",
+        "memory",
+        "performance",
+        "system-information"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "LO",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -128445,7 +128652,7 @@
       "id": "KDE.Filelight",
       "name": "Filelight",
       "publisher": "KDE e.V.",
-      "version": "26.08.1",
+      "version": "26.08.2",
       "description": "Disk Usage Statistics",
       "tags": [
         "disk-analyzer",
@@ -128720,7 +128927,7 @@
       "id": "KDE.Kasts",
       "name": "Kasts",
       "publisher": "KDE e.V.",
-      "version": "26.08.1",
+      "version": "26.08.2",
       "description": "Podcast Application",
       "tags": [
         "podcast"
@@ -130126,7 +130333,7 @@
       "id": "KDE.Umbrello",
       "name": "Umbrello",
       "publisher": "KDE e.V.",
-      "version": "26.08.1",
+      "version": "26.08.2",
       "description": "UML Modeller",
       "tags": [
         "design",
@@ -130509,6 +130716,30 @@
       "icon": {
         "monogram": "火客",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "KellerSystems.Vantablack",
+      "name": "Vantablack",
+      "publisher": "Keller Systems",
+      "version": "0.8.0",
+      "description": "Autonomous post-quantum WAN mesh routing daemon and serverless traffic sharding VPN",
+      "tags": [
+        "kyber",
+        "mesh",
+        "networking",
+        "p2p",
+        "post-quantum",
+        "privacy",
+        "security",
+        "socks5",
+        "vpn"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "VA",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -133175,6 +133406,26 @@
       }
     },
     {
+      "id": "Korsund.Korva",
+      "name": "Korva",
+      "publisher": "korva",
+      "version": "1.8.8",
+      "description": "Desktop publishing app for flyers, newsletters, and print documents — a modern Microsoft Publisher alternative.",
+      "tags": [
+        "desktop-publishing",
+        "flyer",
+        "layout",
+        "newsletter",
+        "publisher"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "KO",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "KosainAbro.FlintCapture",
       "name": "FlintCapture",
       "publisher": "Kosain Abro",
@@ -134377,7 +134628,7 @@
       "id": "Kuddev.Pebrel",
       "name": "Nebula Terminal",
       "publisher": "Kuddev",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "description": "A GPU-accelerated terminal for Windows that keeps your sessions alive.",
       "tags": [
         "claude",
@@ -135449,7 +135700,7 @@
       "id": "LAME.LAME",
       "name": "LAME",
       "publisher": "LAME Developers",
-      "version": "3.100.1",
+      "version": "4.0",
       "description": "High quality MPEG Audio Layer III (MP3) encoder.",
       "tags": [
         "mp3"
@@ -136486,7 +136737,7 @@
       "id": "Learnpulse.Screenpresso",
       "name": "Screenpresso",
       "publisher": "Learnpulse",
-      "version": "2.2.13.0",
+      "version": "2.3.7.0",
       "description": "Image and Video screen capture",
       "tags": [
         "capture",
@@ -143479,7 +143730,7 @@
       "id": "LuisPater.CLIProxyAPI",
       "name": "CLI Proxy API",
       "publisher": "Luis Pater",
-      "version": "8.0.8",
+      "version": "8.0.9",
       "description": "Wrap Gemini CLI, ChatGPT Codex as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5 model through API",
       "tags": [
         "ai",
@@ -143794,7 +144045,7 @@
       "id": "LunarWerxs.SageThumbs2K",
       "name": "SageThumbs 2K",
       "publisher": "LunarWerx",
-      "version": "3.4.1",
+      "version": "3.5.0",
       "description": "Explorer thumbnails for 363 file types Windows can't read, plus a right-click image toolkit.",
       "tags": [
         "converter",
@@ -147986,7 +148237,7 @@
       "id": "masterlxz.TruthID",
       "name": "TruthID",
       "publisher": "masterlxz",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "description": "Self-sovereign identity desktop app — your device holds the keys, no server in the middle",
       "tags": [
         "authentication",
@@ -148155,7 +148406,7 @@
       "id": "matchmycolor.ColibriAlpha",
       "name": "Colibri Alpha",
       "publisher": "matchmycolor",
-      "version": "26.3.0.442",
+      "version": "26.3.0.338",
       "description": "Colibri color management systems help brand owners, brand management companies, designers, and material manufacturers and suppliers to specify, manage, produce and communicate color.",
       "tags": [],
       "category": "Others",
@@ -150056,7 +150307,7 @@
       "id": "MediaHuman.YouTubeToMP3Converter",
       "name": "MediaHuman YouTube to MP3 Converter",
       "publisher": "MediaHuman",
-      "version": "3.9.23",
+      "version": "3.9.24",
       "description": "Download audio from YouTube, SoundCloud or Bandcamp.",
       "tags": [
         "audio",
@@ -156034,7 +156285,7 @@
       "id": "Microsoft.EdgeDriver",
       "name": "Microsoft Edge WebDriver",
       "publisher": "Microsoft Corporation",
-      "version": "154.0.4258.48",
+      "version": "154.0.4258.53",
       "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge with Microsoft Edge WebDriver",
       "tags": [
         "automate",
@@ -156054,7 +156305,7 @@
       "id": "Microsoft.EdgeWebView2Runtime",
       "name": "Microsoft Edge WebView2 Runtime",
       "publisher": "Microsoft Corporation",
-      "version": "154.0.4258.48",
+      "version": "154.0.4258.53",
       "description": "Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.",
       "tags": [
         "webview"
@@ -157505,7 +157756,7 @@
       "id": "Microsoft.MUTT",
       "name": "Microsoft USB Hub and Controller Test Tool (MUTT)",
       "publisher": "Microsoft",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "description": "Test tools for validating USB controllers and hubs.",
       "tags": [],
       "category": "Microsoft Tools",
@@ -158123,7 +158374,7 @@
       "id": "Microsoft.PowerBIReportServer",
       "name": "Microsoft Power BI Report Server",
       "publisher": "Microsoft Corporation",
-      "version": "1.27.9767.40555",
+      "version": "1.27.9770.30560",
       "description": "Power BI Report Server, available as part of Power BI Premium, enables on-premises web and mobile viewing of Power BI reports, plus the enterprise reporting capabilities of SQL Server Reporting Services.",
       "tags": [
         "analytics",
@@ -158423,7 +158674,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.506.0",
+      "version": "1.459.510.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -161101,7 +161352,7 @@
       "id": "Microsoft.WinAppCli",
       "name": "Windows App Development CLI",
       "publisher": "Microsoft Corporation",
-      "version": "0.7.0",
+      "version": "0.7.1",
       "description": "CLI for Windows app development, including package identity, packaging, managing appxmanifest.xml, test certificates, Windows (App) SDK projections, and more. For use with any app framework targeting Windows",
       "tags": [
         "appxmanifest",
@@ -162106,7 +162357,7 @@
       "id": "Microstockr.Desktopapp",
       "name": "Microstockr",
       "publisher": "Microstockr",
-      "version": "3.4.29",
+      "version": "3.4.30",
       "description": "Microstock photography made easy",
       "tags": [],
       "category": "Others",
@@ -173404,7 +173655,7 @@
       "id": "Mozilla.Firefox.Nightly.MSIX",
       "name": "Mozilla Firefox (MSIX) Nightly",
       "publisher": "Mozilla",
-      "version": "159.2609.3008.0",
+      "version": "159.2610.109.0",
       "description": "Firefox browser nightly builds",
       "tags": [
         "browser",
@@ -174458,7 +174709,7 @@
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174475,7 +174726,7 @@
       "id": "Mozilla.Thunderbird.af",
       "name": "Mozilla Thunderbird (af)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174492,7 +174743,7 @@
       "id": "Mozilla.Thunderbird.ar",
       "name": "Mozilla Thunderbird (ar)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174509,7 +174760,7 @@
       "id": "Mozilla.Thunderbird.ast",
       "name": "Mozilla Thunderbird (ast)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174526,7 +174777,7 @@
       "id": "Mozilla.Thunderbird.be",
       "name": "Mozilla Thunderbird (be)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174570,7 +174821,7 @@
       "id": "Mozilla.Thunderbird.bg",
       "name": "Mozilla Thunderbird (bg)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174587,7 +174838,7 @@
       "id": "Mozilla.Thunderbird.br",
       "name": "Mozilla Thunderbird (br)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174604,7 +174855,7 @@
       "id": "Mozilla.Thunderbird.ca",
       "name": "Mozilla Thunderbird (ca)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174621,7 +174872,7 @@
       "id": "Mozilla.Thunderbird.cak",
       "name": "Mozilla Thunderbird (cak)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174638,7 +174889,7 @@
       "id": "Mozilla.Thunderbird.cs",
       "name": "Mozilla Thunderbird (cs)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174655,7 +174906,7 @@
       "id": "Mozilla.Thunderbird.cy",
       "name": "Mozilla Thunderbird (cy)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174672,7 +174923,7 @@
       "id": "Mozilla.Thunderbird.da",
       "name": "Mozilla Thunderbird (da)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174689,7 +174940,7 @@
       "id": "Mozilla.Thunderbird.de",
       "name": "Mozilla Thunderbird (de)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174706,7 +174957,7 @@
       "id": "Mozilla.Thunderbird.dsb",
       "name": "Mozilla Thunderbird (dsb)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174723,7 +174974,7 @@
       "id": "Mozilla.Thunderbird.el",
       "name": "Mozilla Thunderbird (el)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174740,7 +174991,7 @@
       "id": "Mozilla.Thunderbird.en-CA",
       "name": "Mozilla Thunderbird (en-CA)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174757,7 +175008,7 @@
       "id": "Mozilla.Thunderbird.en-GB",
       "name": "Mozilla Thunderbird (en-GB)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "A free email application that is easy to set up and customise - and it's loaded with great features!",
       "tags": [
         "calendar",
@@ -174776,7 +175027,7 @@
       "id": "Mozilla.Thunderbird.es-AR",
       "name": "Mozilla Thunderbird (es-AR)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174793,7 +175044,7 @@
       "id": "Mozilla.Thunderbird.es-ES",
       "name": "Mozilla Thunderbird (es-ES)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -174810,7 +175061,7 @@
       "id": "Mozilla.Thunderbird.es-MX",
       "name": "Mozilla Thunderbird (es-MX)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -175976,7 +176227,7 @@
       "id": "Mozilla.Thunderbird.et",
       "name": "Mozilla Thunderbird (et)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -175993,7 +176244,7 @@
       "id": "Mozilla.Thunderbird.eu",
       "name": "Mozilla Thunderbird (eu)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176010,7 +176261,7 @@
       "id": "Mozilla.Thunderbird.fi",
       "name": "Mozilla Thunderbird (fi)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176027,7 +176278,7 @@
       "id": "Mozilla.Thunderbird.fr",
       "name": "Mozilla Thunderbird (fr)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176044,7 +176295,7 @@
       "id": "Mozilla.Thunderbird.fy-NL",
       "name": "Mozilla Thunderbird (fy-NL)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176061,7 +176312,7 @@
       "id": "Mozilla.Thunderbird.ga-IE",
       "name": "Mozilla Thunderbird (ga-IE)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176078,7 +176329,7 @@
       "id": "Mozilla.Thunderbird.gd",
       "name": "Mozilla Thunderbird (gd)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176095,7 +176346,7 @@
       "id": "Mozilla.Thunderbird.gl",
       "name": "Mozilla Thunderbird (gl)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176112,7 +176363,7 @@
       "id": "Mozilla.Thunderbird.he",
       "name": "Mozilla Thunderbird (he)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176129,7 +176380,7 @@
       "id": "Mozilla.Thunderbird.hr",
       "name": "Mozilla Thunderbird (hr)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176146,7 +176397,7 @@
       "id": "Mozilla.Thunderbird.hsb",
       "name": "Mozilla Thunderbird (hsb)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176163,7 +176414,7 @@
       "id": "Mozilla.Thunderbird.hu",
       "name": "Mozilla Thunderbird (hu)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176180,7 +176431,7 @@
       "id": "Mozilla.Thunderbird.hy-AM",
       "name": "Mozilla Thunderbird (hy-AM)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176197,7 +176448,7 @@
       "id": "Mozilla.Thunderbird.id",
       "name": "Mozilla Thunderbird (id)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176214,7 +176465,7 @@
       "id": "Mozilla.Thunderbird.is",
       "name": "Mozilla Thunderbird (is)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176231,7 +176482,7 @@
       "id": "Mozilla.Thunderbird.it",
       "name": "Mozilla Thunderbird (it)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176248,7 +176499,7 @@
       "id": "Mozilla.Thunderbird.ja",
       "name": "Mozilla Thunderbird (ja)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176265,7 +176516,7 @@
       "id": "Mozilla.Thunderbird.ka",
       "name": "Mozilla Thunderbird (ka)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176282,7 +176533,7 @@
       "id": "Mozilla.Thunderbird.kab",
       "name": "Mozilla Thunderbird (kab)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176299,7 +176550,7 @@
       "id": "Mozilla.Thunderbird.kk",
       "name": "Mozilla Thunderbird (kk)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176316,7 +176567,7 @@
       "id": "Mozilla.Thunderbird.ko",
       "name": "Mozilla Thunderbird (ko)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176333,7 +176584,7 @@
       "id": "Mozilla.Thunderbird.lt",
       "name": "Mozilla Thunderbird (lt)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176350,7 +176601,7 @@
       "id": "Mozilla.Thunderbird.lv",
       "name": "Mozilla Thunderbird (lv)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176367,7 +176618,7 @@
       "id": "Mozilla.Thunderbird.ms",
       "name": "Mozilla Thunderbird (ms)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176384,7 +176635,7 @@
       "id": "Mozilla.Thunderbird.MSIX",
       "name": "Mozilla Thunderbird (MSIX)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "A free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "9mx7tgvgqfcl",
@@ -176411,7 +176662,7 @@
       "id": "Mozilla.Thunderbird.nb-NO",
       "name": "Mozilla Thunderbird (nb-NO)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176428,7 +176679,7 @@
       "id": "Mozilla.Thunderbird.nl",
       "name": "Mozilla Thunderbird (nl)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176445,7 +176696,7 @@
       "id": "Mozilla.Thunderbird.nn-NO",
       "name": "Mozilla Thunderbird (nn-NO)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176462,7 +176713,7 @@
       "id": "Mozilla.Thunderbird.pa-IN",
       "name": "Mozilla Thunderbird (pa-IN)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176479,7 +176730,7 @@
       "id": "Mozilla.Thunderbird.pl",
       "name": "Mozilla Thunderbird (pl)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176496,7 +176747,7 @@
       "id": "Mozilla.Thunderbird.pt-BR",
       "name": "Mozilla Thunderbird (pt-BR)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176513,7 +176764,7 @@
       "id": "Mozilla.Thunderbird.pt-PT",
       "name": "Mozilla Thunderbird (pt-PT)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176530,7 +176781,7 @@
       "id": "Mozilla.Thunderbird.rm",
       "name": "Mozilla Thunderbird (rm)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176547,7 +176798,7 @@
       "id": "Mozilla.Thunderbird.ro",
       "name": "Mozilla Thunderbird (ro)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176564,7 +176815,7 @@
       "id": "Mozilla.Thunderbird.ru",
       "name": "Mozilla Thunderbird (ru)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176581,7 +176832,7 @@
       "id": "Mozilla.Thunderbird.sk",
       "name": "Mozilla Thunderbird (sk)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176598,7 +176849,7 @@
       "id": "Mozilla.Thunderbird.sl",
       "name": "Mozilla Thunderbird (sl)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176632,7 +176883,7 @@
       "id": "Mozilla.Thunderbird.sr",
       "name": "Mozilla Thunderbird (sr)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176649,7 +176900,7 @@
       "id": "Mozilla.Thunderbird.sv-SE",
       "name": "Mozilla Thunderbird (sv-SE)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176666,7 +176917,7 @@
       "id": "Mozilla.Thunderbird.th",
       "name": "Mozilla Thunderbird (th)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176683,7 +176934,7 @@
       "id": "Mozilla.Thunderbird.tr",
       "name": "Mozilla Thunderbird (tr)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176700,7 +176951,7 @@
       "id": "Mozilla.Thunderbird.uk",
       "name": "Mozilla Thunderbird (uk)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176717,7 +176968,7 @@
       "id": "Mozilla.Thunderbird.uz",
       "name": "Mozilla Thunderbird (uz)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176734,7 +176985,7 @@
       "id": "Mozilla.Thunderbird.vi",
       "name": "Mozilla Thunderbird (vi)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176751,7 +177002,7 @@
       "id": "Mozilla.Thunderbird.zh-CN",
       "name": "Mozilla Thunderbird (zh-CN)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -176768,7 +177019,7 @@
       "id": "Mozilla.Thunderbird.zh-TW",
       "name": "Mozilla Thunderbird (zh-TW)",
       "publisher": "Mozilla",
-      "version": "157.0",
+      "version": "157.0.1",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "tags": [
         "email",
@@ -177235,7 +177486,7 @@
       "id": "MSEndpointMgr.IntuneDebugToolkit",
       "name": "IntuneDebugTools",
       "publisher": "MSEndpointMgr",
-      "version": "2.3",
+      "version": "3.0.0",
       "description": "A community developed solution aiming at providing better and easier debug possibilities on devices co-managed or Intune managed only.",
       "tags": [
         "intune"
@@ -178385,7 +178636,7 @@
       "id": "Muse.MuseHub",
       "name": "MuseHub",
       "publisher": "Muse Group",
-      "version": "2.9.3.2300",
+      "version": "3.4.0.2334",
       "description": "A platform for music and audio creator tools",
       "tags": [
         "audio",
@@ -182008,7 +182259,7 @@
       "id": "Netbird.Netbird",
       "name": "Netbird",
       "publisher": "NetBird GmbH",
-      "version": "0.79.0",
+      "version": "0.80.0",
       "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "tags": [
         "network",
@@ -182458,7 +182709,7 @@
       "id": "Nethermind.Nethermind",
       "name": "Nethermind",
       "publisher": "Demerzel Solutions Limited",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "description": "A robust, high-performance execution client for Ethereum node operators.",
       "tags": [
         "blockchain",
@@ -184713,7 +184964,7 @@
       "id": "NightmareTv.NightmareTV",
       "name": "Nightmare TV",
       "publisher": "Nightmare TV",
-      "version": "2.1.81",
+      "version": "2.1.86",
       "description": "IPTV player for your own M3U and Xtream Codes playlists, with program guide and recording.",
       "tags": [
         "dvr",
@@ -184774,6 +185025,20 @@
       "icon": {
         "monogram": "NF",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "NikhilRaj.Purrpeek",
+      "name": "Purrpeek",
+      "publisher": "Nikhil Raj",
+      "version": "0.1.0",
+      "description": "Your system information, from a cat's perspective.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "PU",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -187092,7 +187357,7 @@
       "id": "nomacs.nomacs",
       "name": "nomacs - Image Lounge",
       "publisher": "TU Wien",
-      "version": "3.22.3",
+      "version": "3.22.4",
       "description": "nomacs is a free, open source image viewer, which supports multiple platforms. You can use it for viewing all common image formats including RAW and psd images.",
       "tags": [
         "image",
@@ -191525,8 +191790,8 @@
       "id": "OlimoffDev.DevProjex",
       "name": "DevProjex",
       "publisher": "Olimoff Dev",
-      "version": "5.1.0.0",
-      "description": "DevProjex turns folders and Git repositories into clean, AI-ready context for ChatGPT, Claude, and other AI tools — with secret masking and code compression, in one GUI, TUI, CLI, and MCP server app.",
+      "version": "5.2.0.0",
+      "description": "DevProjex is a code-to-prompt app: it turns any folder or Git repository into clean context for ChatGPT, Claude, and AI agents — with a token counter, secret masking, and an MCP server where the agent follows your tree checkboxes. Local, no telemetry.",
       "tags": [
         "ai",
         "ai-context",
@@ -196043,7 +196308,7 @@
       "id": "OpenWhisperSystems.Signal",
       "name": "Signal",
       "publisher": "Signal Messenger, LLC",
-      "version": "8.28.0",
+      "version": "8.29.0",
       "description": "Signal is an encrypted communications application.",
       "tags": [
         "chat",
@@ -196068,7 +196333,7 @@
       "id": "OpenWhisperSystems.Signal.Beta",
       "name": "Signal Beta",
       "publisher": "Signal Messenger, LLC",
-      "version": "8.29.0-beta.1",
+      "version": "8.30.0-beta.1",
       "description": "Private messaging from your desktop. Beta Desktop Client.",
       "tags": [
         "beta",
@@ -198103,6 +198368,31 @@
       }
     },
     {
+      "id": "Outcasts.Lorekeel",
+      "name": "Outcasts Lorekeel",
+      "publisher": "Outcasts",
+      "version": "0.7.0",
+      "description": "A TRPG game master that never forgets or contradicts - an LLM narrates while a deterministic Rust engine owns the game state.",
+      "tags": [
+        "ai",
+        "game-master",
+        "llm",
+        "narrative",
+        "roleplaying",
+        "rpg",
+        "storytelling",
+        "tabletop",
+        "trpg",
+        "ttrpg"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "OL",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "outek.Parallels",
       "name": "Parallels Client portable",
       "publisher": "Parallels International GmbH",
@@ -199865,6 +200155,25 @@
       }
     },
     {
+      "id": "paralellterminal.PATerminal",
+      "name": "PATerminal",
+      "publisher": "paralellterminal",
+      "version": "0.2.5",
+      "description": "A desktop terminal for running multiple CLI agents in parallel sessions.",
+      "tags": [
+        "ai",
+        "developer-tools",
+        "git",
+        "terminal"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "PA",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Parallels.Parallels",
       "name": "Parallels Client",
       "publisher": "Parallels International GmbH",
@@ -200289,7 +200598,7 @@
       "id": "PassMark.OSForensics",
       "name": "OSForensics",
       "publisher": "PassMark Software",
-      "version": "11.1.1016.0",
+      "version": "11.1.1017.0",
       "description": "Digital investigations for a new era",
       "tags": [],
       "category": "Others",
@@ -201139,7 +201448,7 @@
       "id": "payhereinc.PayhereSeller",
       "name": "Payhere Seller",
       "publisher": "payhere inc.",
-      "version": "3.5.9",
+      "version": "3.6.0",
       "description": "Payhere Seller for desktop",
       "tags": [],
       "category": "Others",
@@ -201593,6 +201902,33 @@
       "category": "Others",
       "icon": {
         "monogram": "PS",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "PDFMarin.PDFMarin",
+      "name": "PDF MARIN",
+      "publisher": "PDF MARIN",
+      "version": "0.1.2",
+      "description": "A free PDF editor for Windows with true redaction that removes the pixels, plus page editing, drawing measurement, watermarks, page numbers, passwords and compression.",
+      "tags": [
+        "editor",
+        "japanese",
+        "merge",
+        "page-numbers",
+        "password",
+        "pdf",
+        "pdf-editor",
+        "redact",
+        "redaction",
+        "split",
+        "viewer",
+        "watermark"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "PM",
         "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
@@ -204153,7 +204489,7 @@
       "id": "Pithflow.Pithflow",
       "name": "Pithflow",
       "publisher": "Pithflow",
-      "version": "1.40.0",
+      "version": "1.40.1",
       "description": "Windows-native AI voice dictation. Hold Ctrl+Space, speak, release - your words land as cleaned-up text in whatever Windows app you are already using.",
       "tags": [
         "accessibility",
@@ -204664,6 +205000,28 @@
       "icon": {
         "monogram": "PF",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "platwa.KanjiWidget",
+      "name": "KanjiWidget",
+      "publisher": "KanjiWidget",
+      "version": "1.4.1",
+      "description": "A free offline Windows widget for learning Japanese kanji in the background.",
+      "tags": [
+        "anki",
+        "desktop-widget",
+        "fsrs",
+        "japanese",
+        "kanji",
+        "language-learning",
+        "spaced-repetition"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "KA",
+        "background": "#4338CA",
         "foreground": "#FFFFFF"
       }
     },
@@ -209310,6 +209668,24 @@
       }
     },
     {
+      "id": "ProWare.ACA1095ReportingMultiClient",
+      "name": "ACA 1095 Reporting MultiClient",
+      "publisher": "PRO-WARE, LLC",
+      "version": "2015.0.0.0",
+      "description": "Accounting and tax software",
+      "tags": [
+        "accounting",
+        "finance",
+        "tax"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "A1",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Prowise.ProwisePresenter",
       "name": "Prowise Presenter",
       "publisher": "Prowise",
@@ -209916,7 +210292,7 @@
       "id": "PTRTECH.UVtools",
       "name": "UVtools",
       "publisher": "PTRTECH",
-      "version": "7.0.0",
+      "version": "7.0.1",
       "description": "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tags": [
         "3d print",
@@ -210486,6 +210862,25 @@
       "icon": {
         "monogram": "CH",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "pwnwrkz.tungsten",
+      "name": "tungsten",
+      "publisher": "pwnwrkz",
+      "version": "v3.1.1",
+      "description": "Another command line tool to handle Roblox assets similar to Tarmac and Asphalt.",
+      "tags": [
+        "assets",
+        "roblox",
+        "sync",
+        "upload"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "TU",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -212995,6 +213390,25 @@
       }
     },
     {
+      "id": "QuitePicky.Considered",
+      "name": "Considered",
+      "publisher": "Quite Picky",
+      "version": "0.1.10",
+      "description": "Repository policy and decision documentation",
+      "tags": [
+        "cli",
+        "code-quality",
+        "developer-tools",
+        "policy"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "CO",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "QUniBone.QUniLatorInstaller",
       "name": "QUniLator Installer",
       "publisher": "QUniBone",
@@ -215451,7 +215865,7 @@
       "id": "ReadAI.ReadAI",
       "name": "Read AI",
       "publisher": "readai",
-      "version": "1.39.0",
+      "version": "1.40.0",
       "description": "Capture meetings anywhere, no bot necessary.",
       "tags": [
         "conference",
@@ -216094,6 +216508,31 @@
       "icon": {
         "monogram": "HO",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "redfireforge.RedfireForge",
+      "name": "RedfireForge",
+      "publisher": "RedfireForge",
+      "version": "0.8.15",
+      "description": "Visual API testing and load-testing workbench for HTTP, GraphQL, gRPC, WebSocket, SSE, and Kafka",
+      "tags": [
+        "api",
+        "developer-tools",
+        "graphql",
+        "grpc",
+        "http",
+        "kafka",
+        "load-testing",
+        "open-source",
+        "testing",
+        "websocket"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "RE",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -217304,7 +217743,7 @@
       "id": "Remio.RemioClient",
       "name": "Remio Client",
       "publisher": "Remio",
-      "version": "3.0.8",
+      "version": "3.1.0",
       "description": "Control and stream any computer running Remio Host, right from your Windows PC.",
       "tags": [
         "client",
@@ -217329,7 +217768,7 @@
       "id": "Remio.RemioHost",
       "name": "Remio Host",
       "publisher": "Remio",
-      "version": "3.0.8",
+      "version": "3.1.0",
       "description": "Stream your Windows PC to any device with native, GPU-accelerated remote desktop.",
       "tags": [
         "host",
@@ -217639,7 +218078,7 @@
       "id": "Reothor.Elevate",
       "name": "Elevate",
       "publisher": "Reothor",
-      "version": "1.8.0",
+      "version": "1.8.1",
       "description": "Just-in-time Entra and Azure PIM role activation from the system tray",
       "tags": [
         "azure",
@@ -218646,7 +219085,7 @@
       "id": "rgst-io.stencil",
       "name": "stencil",
       "publisher": "rgst-io",
-      "version": "2.18.2",
+      "version": "3.0.0",
       "description": "A modern living-template engine for evolving repositories",
       "tags": [],
       "category": "Others",
@@ -218740,6 +219179,28 @@
       "category": "Others",
       "icon": {
         "monogram": "TP",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "rhrusha.WinFocus",
+      "name": "WinFocus",
+      "publisher": "Roman Hrusha",
+      "version": "1.0.1",
+      "description": "Highlights the active monitor and focused window with thin colored borders",
+      "tags": [
+        "active-window",
+        "dual-monitor",
+        "focus",
+        "multi-monitor",
+        "overlay",
+        "productivity",
+        "window-border"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "WI",
         "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
@@ -222515,7 +222976,7 @@
       "id": "Rorkai.ASC",
       "name": "asc",
       "publisher": "Rorkai",
-      "version": "5.9.0",
+      "version": "5.9.1",
       "description": "Fast, scriptable CLI for the App Store Connect API.",
       "tags": [
         "app-store-connect",
@@ -223543,7 +224004,7 @@
       "id": "RubyInstallerTeam.RubyWithDevKit.4.0",
       "name": "Ruby 4.0 with MSYS2",
       "publisher": "RubyInstaller Team",
-      "version": "4.0.6-1",
+      "version": "4.0.7-1",
       "description": "A Ruby language execution environment with a MSYS2 installation.",
       "tags": [
         "language",
@@ -232753,6 +233214,28 @@
       }
     },
     {
+      "id": "shouravx.PeekESP",
+      "name": "PeekESP",
+      "publisher": "shouravx",
+      "version": "1.1.0",
+      "description": "Live CPU, RAM, storage and network for your PC, on an ESP32 desk display.",
+      "tags": [
+        "dashboard",
+        "esp32",
+        "hardware",
+        "monitor",
+        "monitoring",
+        "system-monitor",
+        "telemetry"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "PE",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "ShreyRajSingh.Tuidit",
       "name": "Tuidit",
       "publisher": "Shrey Raj Singh",
@@ -236689,7 +237172,7 @@
       "id": "snapetech.iptvtunerr",
       "name": "IPTV Tunerr",
       "publisher": "snapetech",
-      "version": "0.1.88",
+      "version": "0.1.90",
       "description": "IPTV to Plex, Emby, and Jellyfin bridge",
       "tags": [
         "emby",
@@ -241358,7 +241841,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1790871178-g5cbe9b",
+      "version": "0.0.1790900127-gdc609b",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -241589,7 +242072,7 @@
       "id": "spaam.svtplay-dl",
       "name": "svtplay-dl",
       "publisher": "spaam",
-      "version": "4.191",
+      "version": "4.199",
       "description": "Download videos from your favorite play services.",
       "tags": [
         "dagensnyheter",
@@ -242196,6 +242679,24 @@
       "icon": {
         "monogram": "SP",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "spenceclark.Vessel",
+      "name": "Vessel",
+      "publisher": "Spencer Clark",
+      "version": "0.1.1",
+      "description": "The lightweight observability proxy for LLM traffic",
+      "tags": [
+        "ai",
+        "llms",
+        "observability"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "VE",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -245879,7 +246380,7 @@
       "id": "StirlingTools.StirlingPDF",
       "name": "Stirling-PDF",
       "publisher": "Stirling-Software",
-      "version": "3.0.1",
+      "version": "3.0.2",
       "description": "A locally hosted one-stop shop for all your PDF needs",
       "tags": [
         "docker",
@@ -247817,7 +248318,7 @@
       "id": "Superhuman.Superhuman",
       "name": "Superhuman",
       "publisher": "Superhuman Labs, LLC",
-      "version": "1041.0.63",
+      "version": "1041.0.64",
       "description": "The most productive email app ever made.",
       "tags": [
         "email",
@@ -250143,10 +250644,30 @@
       }
     },
     {
+      "id": "t4t5.caldir",
+      "name": "caldir",
+      "publisher": "t4t5",
+      "version": "0.13.0",
+      "description": "Store your calendar as a directory of ICS files and sync it with Google Calendar, iCloud, Outlook, CalDAV and webcal feeds.",
+      "tags": [
+        "caldav",
+        "calendar",
+        "cli",
+        "ics",
+        "sync"
+      ],
+      "category": "Productivity",
+      "icon": {
+        "monogram": "CA",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "t8y2.DBX",
       "name": "DBX",
       "publisher": "t8y2",
-      "version": "0.6.29",
+      "version": "0.6.30",
       "description": "15MB,lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "tags": [
         "clickhouse",
@@ -253653,7 +254174,7 @@
       "id": "Tenable.Nessus",
       "name": "Tenable Nessus",
       "publisher": "Tenable, Inc.",
-      "version": "10.12.4.20038",
+      "version": "10.12.5.20057",
       "description": "Vulnerability scanner developed by Tenable",
       "tags": [
         "security",
@@ -261483,6 +262004,28 @@
       }
     },
     {
+      "id": "TomasBruckner.dbc",
+      "name": "dbc",
+      "publisher": "Tomáš Bruckner",
+      "version": "0.36.0",
+      "description": "Database client for SQL Server, PostgreSQL, SQLite and DuckDB",
+      "tags": [
+        "database",
+        "duckdb",
+        "mssql",
+        "postgresql",
+        "sql",
+        "sql-server",
+        "sqlite"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "DB",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "TomasRudh.WinSize4",
       "name": "WinSize4",
       "publisher": "Tomas Rudh",
@@ -262029,6 +262572,29 @@
         "model-context-protocol"
       ],
       "category": "Development",
+      "icon": {
+        "monogram": "TO",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "ToolsMonk.ToolsMonk",
+      "name": "ToolsMonk",
+      "publisher": "ToolsMonk Labs LLP",
+      "version": "1.1.18",
+      "description": "250+ tools for PDFs, images, text, SEO and everyday calculations, in one desktop app.",
+      "tags": [
+        "calculator",
+        "converter",
+        "image-editor",
+        "pdf",
+        "pdf-editor",
+        "productivity",
+        "seo",
+        "text"
+      ],
+      "category": "Productivity",
       "icon": {
         "monogram": "TO",
         "background": "#BE123C",
@@ -263073,6 +263639,27 @@
       "category": "Cloud & Storage",
       "icon": {
         "monogram": "ST",
+        "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "TransitAISoftware.Transit",
+      "name": "Transit",
+      "publisher": "Transit AI Software Inc.",
+      "version": "6.5.1",
+      "description": "SSH client with an embedded agentic AI for read-only network investigation",
+      "tags": [
+        "cli",
+        "network",
+        "networking",
+        "ssh",
+        "sysadmin",
+        "terminal"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "TR",
         "background": "#BE123C",
         "foreground": "#FFFFFF"
       }
@@ -266673,6 +267260,31 @@
       "icon": {
         "monogram": "UD",
         "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "UniRateAPI.UniRate",
+      "name": "UniRate CLI",
+      "publisher": "UniRateAPI",
+      "version": "0.1.0",
+      "description": "Currency exchange rates, conversion, and VAT lookups from the UniRate API, straight from your terminal.",
+      "tags": [
+        "cli",
+        "command-line",
+        "conversion",
+        "currency",
+        "currency-converter",
+        "exchange-rates",
+        "finance",
+        "forex",
+        "fx",
+        "vat"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "UC",
+        "background": "#C2410C",
         "foreground": "#FFFFFF"
       }
     },
@@ -270606,7 +271218,7 @@
       "id": "vim.vim.nightly",
       "name": "Vim",
       "publisher": "Bram Moolenaar et al.",
-      "version": "9.2.1161",
+      "version": "9.2.1162",
       "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient",
       "tags": [
         "code-editor",
@@ -272094,7 +272706,7 @@
       "id": "Vita3K.Vita3K",
       "name": "Vita3K",
       "publisher": "Vita3K",
-      "version": "0.2.1.4106",
+      "version": "0.2.1.4108",
       "description": "Experimental PlayStation Vita emulator.",
       "tags": [
         "cpp",
@@ -273016,7 +273628,7 @@
       "id": "Voltius.Voltius",
       "name": "Voltius",
       "publisher": "Voltius",
-      "version": "0.45.0",
+      "version": "0.46.0",
       "description": "Cross-platform SSH client and terminal",
       "tags": [
         "crdt",
@@ -275881,7 +276493,7 @@
       "id": "vriesdemichael.bb",
       "name": "bb",
       "publisher": "vriesdemichael",
-      "version": "4.1.0",
+      "version": "5.0.0",
       "description": "A CLI for Bitbucket Server / Bitbucket Data Center",
       "tags": [
         "atlassian",
@@ -276875,6 +277487,31 @@
       }
     },
     {
+      "id": "Walkoud.Palisades",
+      "name": "Palisades",
+      "publisher": "Walkoud",
+      "version": "1.4.0",
+      "description": "Dynamic desktop overlay for Windows",
+      "tags": [
+        "automation",
+        "customization",
+        "desktop",
+        "fences",
+        "gadget",
+        "gadgets",
+        "launcher",
+        "productivity",
+        "stardock",
+        "windows"
+      ],
+      "category": "Utilities",
+      "icon": {
+        "monogram": "PA",
+        "background": "#C2410C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "WalkoverTechnologies.giddh",
       "name": "giddh",
       "publisher": "Walkover Technologies",
@@ -276950,7 +277587,7 @@
       "id": "walterfr.USKMaker",
       "name": "USKMaker",
       "publisher": "walterfr",
-      "version": "0.24.0",
+      "version": "0.24.1",
       "description": "AI-powered UltraStar karaoke package generator (lyric sync, pitch, and BPM detection)",
       "tags": [
         "ai",
@@ -277126,7 +277763,7 @@
       "id": "Wangnov.CodexAppManager",
       "name": "Codex App Manager",
       "publisher": "Wangnov",
-      "version": "0.5.6",
+      "version": "0.5.11",
       "description": "Installer, updater, and uninstaller for the official Codex desktop app.",
       "tags": [
         "codex",
@@ -281221,7 +281858,7 @@
       "id": "WinSCP.WinSCP",
       "name": "WinSCP",
       "publisher": "Martin Prikryl",
-      "version": "6.5.6",
+      "version": "6.5.7",
       "description": "Free SFTP, SCP, S3 and FTP client for Windows",
       "tags": [
         "file",
@@ -281995,6 +282632,20 @@
       "icon": {
         "monogram": "辅导",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "WisprFlow.WisprFlow",
+      "name": "WisprFlow",
+      "publisher": "WisprFlow",
+      "version": "1.6.744",
+      "description": "The voice-to-text AI that turns speech into clear, polished writing in every app.",
+      "tags": [],
+      "category": "Others",
+      "icon": {
+        "monogram": "WI",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -283520,6 +284171,34 @@
       }
     },
     {
+      "id": "Wondershare.PDFelement.13",
+      "name": "Wondershare PDFelement 13",
+      "publisher": "Wondershare",
+      "version": "13.0.6",
+      "description": "Take control of your documents with this powerful PDF editor.",
+      "tags": [
+        "annotate",
+        "annotation",
+        "comment",
+        "conversion",
+        "convert",
+        "ebook",
+        "edit",
+        "editor",
+        "ocr",
+        "pdf",
+        "read",
+        "reader",
+        "viewer"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "WP",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Wondershare.PDFelement.6",
       "name": "Wondershare PDFelement 6",
       "publisher": "Wondershare Software Co.,Ltd.",
@@ -284903,7 +285582,7 @@
       "id": "xAI.GrokBot",
       "name": "Grok Bot",
       "publisher": "SpaceXAI",
-      "version": "0.65.0",
+      "version": "0.66.0",
       "description": "AI teammates that use your tools, learn your workflows, and get real work done 24/7.",
       "tags": [
         "agent",
@@ -288482,7 +289161,7 @@
       "id": "Yaps.Yaps",
       "name": "Yaps",
       "publisher": "yaps",
-      "version": "2.4.469",
+      "version": "2.4.524",
       "description": "Private, offline voice-to-text, text-to-speech, and notes for Windows.",
       "tags": [
         "dictation",
@@ -293642,13 +294321,16 @@
       "version": "1.1.18",
       "description": "The app for riding, running, and training with your community.",
       "tags": [
-        "cycling",
+        "bicycle-riding",
+        "bicycling",
+        "exercise-running",
+        "exercising",
         "fitness",
-        "riding",
-        "running",
-        "training"
+        "games",
+        "training",
+        "videogame"
       ],
-      "category": "Others",
+      "category": "Gaming",
       "icon": {
         "monogram": "ZW",
         "background": "#0F766E",
