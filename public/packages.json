@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T05:43:55.000Z",
+  "generatedAt": "2026-10-04T11:53:49.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "9b2d9546f528241c92dcb9df82668d167f130887"
+    "commit": "962b2fa774d8702dcfe640c22c184d84aeeeebd9"
   },
   "data": [
     {
@@ -23017,7 +23017,7 @@
       "id": "AurelioAvila.PCTweaker",
       "name": "PC Tweaker",
       "publisher": "Aurelio Avila",
-      "version": "1.15.7",
+      "version": "1.15.9",
       "description": "Windows tuning for performance, gaming and privacy, with recorded changes and restore tools for supported settings.",
       "tags": [
         "gaming",
@@ -31792,7 +31792,7 @@
       "id": "bezzad.Downloader",
       "name": "Downloader",
       "publisher": "Behzad Khosravifar",
-      "version": "2.16.0",
+      "version": "2.16.1",
       "description": "Fast cross-platform multi-connection download manager.",
       "tags": [
         "download",
@@ -36232,7 +36232,7 @@
       "id": "Bomly.BomlyCLI",
       "name": "Bomly CLI",
       "publisher": "Bomly",
-      "version": "0.26.0",
+      "version": "0.28.1",
       "description": "Free, open-source CLI for dependency intelligence and SBOM analysis.",
       "tags": [
         "cli",
@@ -37549,7 +37549,7 @@
       "id": "Breizhzion.JustMakeQ",
       "name": "JustMakeQ",
       "publisher": "Breizhzion",
-      "version": "1.0.0-beta.115",
+      "version": "1.0.0-beta.116",
       "description": "Show control software for live audio, video, MIDI and OSC cues.",
       "tags": [
         "audio",
@@ -45034,7 +45034,7 @@
       "id": "ChangeXbc.WorkBuddySwitch",
       "name": "WorkBuddySwitch",
       "publisher": "ChangeXbc",
-      "version": "0.1.57",
+      "version": "0.1.58",
       "description": "A multi-account switching tool for WorkBuddy (Tencent AI coding assistant) that supports account switching, session copying, automatic daily check-in, credit-expiry monitoring, and automatic CodeBuddy CLI rotation.",
       "tags": [
         "codebuddy",
@@ -49837,7 +49837,7 @@
       "id": "ClypLabs.ClypDat",
       "name": "ClypDat",
       "publisher": "ClypLabs",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "description": "Game clipping and recording for Windows.",
       "tags": [
         "clipping",
@@ -50022,7 +50022,7 @@
       "id": "co2lab.Anchors",
       "name": "Anchors",
       "publisher": "co2lab",
-      "version": "0.1.273",
+      "version": "0.1.275",
       "description": "Spec-first continuity framework for AI-assisted development",
       "tags": [
         "ai",
@@ -65837,7 +65837,7 @@
       "id": "DimitarRadenkov.Pointframe",
       "name": "Pointframe",
       "publisher": "Dimitar Radenkov",
-      "version": "6.7.30",
+      "version": "6.7.31",
       "description": "Open-source Windows screen capture and recording tool with OCR and annotation",
       "tags": [
         "annotation",
@@ -71956,7 +71956,7 @@
       "id": "EarendilWorks.pi",
       "name": "pi",
       "publisher": "EARENDIL INC.",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "AI coding assistant with read, bash, edit, write tools",
       "tags": [
         "agent",
@@ -74633,6 +74633,30 @@
       "icon": {
         "monogram": "HT",
         "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Efeyamann.Streamlity",
+      "name": "Streamlity",
+      "publisher": "Streamlity",
+      "version": "0.1.2",
+      "description": "A fast, open-source IPTV player for M3U playlists and Xtream Codes accounts.",
+      "tags": [
+        "epg",
+        "iptv",
+        "iptv-player",
+        "live-tv",
+        "m3u",
+        "m3u8",
+        "media-player",
+        "open-source",
+        "xtream-codes"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "ST",
+        "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
     },
@@ -83032,7 +83056,7 @@
       "id": "fancydirty.MediaryScout",
       "name": "MediaryScout",
       "publisher": "fancydirty",
-      "version": "2026.09.30.2",
+      "version": "2026.10.04",
       "description": "An agent-driven media library for your cloud drives.",
       "tags": [
         "agent",
@@ -86013,7 +86037,7 @@
       "id": "Fleet.fleetctl",
       "name": "fleetctl",
       "publisher": "Fleet Device Management Inc.",
-      "version": "4.92.2",
+      "version": "4.92.3",
       "description": "A command line interface (CLI) tool for managing Fleet from the command line.",
       "tags": [
         "fleet"
@@ -89945,7 +89969,7 @@
       "name": "NetsCLI Desktop",
       "publisher": "Felix Stubner",
       "version": "0.3.4",
-      "description": "Network scanner desktop app — discover hosts, scan ports, look up DNS records, inspect ARP table.",
+      "description": "Network scanner desktop app. Discover hosts, scan TCP and UDP ports, look up DNS records and read the ARP table.",
       "tags": [
         "arp",
         "desktop",
@@ -93318,7 +93342,7 @@
       "id": "ggml.llamacpp",
       "name": "llama.cpp",
       "publisher": "ggml",
-      "version": "b11193",
+      "version": "b11382",
       "description": "LLM inference in C/C++",
       "tags": [
         "ggml",
@@ -94821,7 +94845,7 @@
       "id": "Gitify.Gitify",
       "name": "Gitify",
       "publisher": "Emmanouil Konstantinidis",
-      "version": "7.8.0",
+      "version": "7.9.0",
       "description": "GitHub notifications on your menu bar.",
       "tags": [
         "github"
@@ -103919,7 +103943,7 @@
       "id": "hdosys.herdr-sandbox",
       "name": "Herdr Sandbox",
       "publisher": "hdosys",
-      "version": "0.0.25",
+      "version": "0.0.26",
       "description": "Run Windows development and coding-agent workloads in disposable Windows Sandbox instances.",
       "tags": [
         "cli",
@@ -103938,7 +103962,7 @@
       "id": "hdosys.herdr-win",
       "name": "Herdr Extended",
       "publisher": "Herdr Extended",
-      "version": "2026.09.15.5",
+      "version": "2026.10.03.3",
       "description": "An extended distribution of Herdr with first-class Windows support",
       "tags": [
         "ai",
@@ -108126,7 +108150,7 @@
       "id": "hrzlgnm.mdns-browser",
       "name": "mdns-browser",
       "publisher": "hrzlgnm",
-      "version": "2.5.5",
+      "version": "2.5.6",
       "description": "mDNS Browser",
       "tags": [
         "auto-update",
@@ -115024,7 +115048,7 @@
       "id": "Interlynk.lynk-mcp",
       "name": "lynk-mcp",
       "publisher": "Interlynk",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "description": "MCP server for Lynk SBOM and vulnerability management",
       "tags": [
         "mcp",
@@ -115210,7 +115234,7 @@
       "id": "Invantive.InvantiveAuthenticator",
       "name": "Invantive Authenticator",
       "publisher": "Invantive Software B.V.",
-      "version": "25.0.211",
+      "version": "27.0.19",
       "description": "Two-step verification solution for TOTP-protected websites and products such as Exact Online",
       "tags": [],
       "category": "Security & Privacy",
@@ -115392,7 +115416,7 @@
       "id": "Invantive.InvantiveStudio",
       "name": "Invantive Studio",
       "publisher": "Invantive Software B.V.",
-      "version": "25.0.233",
+      "version": "27.0.19",
       "description": "A rich software development environment for business rules-based software and applications.",
       "tags": [],
       "category": "Development",
@@ -118304,7 +118328,7 @@
       "id": "Jackett.Jackett",
       "name": "Jackett",
       "publisher": "Jackett",
-      "version": "0.24.2780",
+      "version": "0.24.2788",
       "description": "API Support for your favorite torrent trackers.",
       "tags": [
         "indexer",
@@ -119393,7 +119417,7 @@
       "id": "JanDeDobbeleer.OhMyPosh",
       "name": "Oh My Posh",
       "publisher": "Jan De Dobbeleer",
-      "version": "31.4.0",
+      "version": "31.4.1",
       "description": "Prompt theme engine for any shell",
       "tags": [
         "bash",
@@ -126350,7 +126374,7 @@
       "id": "JumpingBytes.ClipboardMaster",
       "name": "Clipboard Master",
       "publisher": "Jumping Bytes",
-      "version": "5.9.115",
+      "version": "5.9.116",
       "description": "With the free program Clipboard Master, you can copy, paste, collect, organize and store not only text, but images, files and folders as well. It works in all Windows programs.",
       "tags": [
         "Clipboard"
@@ -128236,7 +128260,7 @@
       "id": "Karuzip.Karuzip",
       "name": "Karuzip",
       "publisher": "Karuzip",
-      "version": "2.2.6",
+      "version": "2.2.7",
       "description": "A free, ad-free Windows archive utility supporting 320 file extensions, with a full English or Japanese interface.",
       "tags": [
         "7z",
@@ -128444,7 +128468,7 @@
       "id": "kawayiYokami.P-ai",
       "name": "P-ai",
       "publisher": "yokami",
-      "version": "0.96.3",
+      "version": "0.96.4",
       "description": "A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation.",
       "tags": [
         "agent",
@@ -131742,7 +131766,7 @@
       "id": "khanhtd36.herdr-khanhtd36",
       "name": "herdr-khanhtd36",
       "publisher": "khanhtd36",
-      "version": "0.9.3-khanhtd36.1",
+      "version": "0.9.3-khanhtd36.2",
       "description": "Minimized fork of herdr that can disable agent features",
       "tags": [
         "agents",
@@ -142064,7 +142088,7 @@
       "id": "Loko.OnyxCode",
       "name": "Onyx Code",
       "publisher": "Loko Technologies Ltd.",
-      "version": "2.3.0",
+      "version": "2.4.1",
       "description": "Local-first AI coding assistant that runs models on your own machine.",
       "tags": [
         "ai",
@@ -152323,7 +152347,7 @@
       "id": "mg-chao.snow-shot",
       "name": "Snow Shot",
       "publisher": "Snow Apps",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "A screenshot utility for capturing, annotating, pinning, and recognizing screen content.",
       "tags": [
         "annotation",
@@ -159047,7 +159071,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.543.0",
+      "version": "1.459.546.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -179936,7 +179960,7 @@
       "id": "Nabukodonozor.NabuSQL",
       "name": "NabuSQL",
       "publisher": "Nabukodonozor d.o.o.",
-      "version": "1.0.110",
+      "version": "1.0.112",
       "description": "Lightweight database manager for MySQL, PostgreSQL, SQLite and MSSQL",
       "tags": [
         "database",
@@ -183816,7 +183840,7 @@
       "id": "newdee.Magpie",
       "name": "magpie",
       "publisher": "dfine",
-      "version": "0.5.10",
+      "version": "0.6.1",
       "description": "Spotlight-style local search for everything you saved and forgot.",
       "tags": [
         "launcher",
@@ -185796,7 +185820,7 @@
       "id": "ningbainb.DeepSeekHarnessDesktop",
       "name": "DeepSeekHarnessDesktop",
       "publisher": "ningbainb",
-      "version": "4.3.0",
+      "version": "5.0.0",
       "description": "A lossless Windows desktop app for DeepSeek Harness with the complete DSH Web UI, plugins, skins, and skill dock.",
       "tags": [
         "ai",
@@ -188812,10 +188836,25 @@
       "id": "nRafinia.CsMesh",
       "name": "CsMesh",
       "publisher": "nRafinia",
-      "version": "0.1.9",
+      "version": "0.10.1",
       "description": "Structural code intelligence & call-graph engine for C# and .NET — built for AI coding agents under hard token budgets",
-      "tags": [],
-      "category": "Others",
+      "tags": [
+        "ai-agent",
+        "ai-agents",
+        "call-graph",
+        "claude-code",
+        "cli",
+        "code-analysis",
+        "context-engineering",
+        "csharp",
+        "cursor",
+        "developer-tools",
+        "dotnet",
+        "native-aot",
+        "roslyn",
+        "static-analysis"
+      ],
+      "category": "Development",
       "icon": {
         "monogram": "CS",
         "background": "#4338CA",
@@ -198585,7 +198624,7 @@
       "id": "osyka-yuri.RenderPilot",
       "name": "RenderPilot",
       "publisher": "osyka-yuri",
-      "version": "1.14.1",
+      "version": "1.15.0",
       "description": "Discover and manage PC game rendering components; safely update, downgrade, or restore DLSS, FSR, XeSS, and more, and manage OptiScaler, RenoDX, and Luma.",
       "tags": [
         "d3d12",
@@ -208021,7 +208060,7 @@
       "id": "prasenjeet-symon.ogcode",
       "name": "ogcode",
       "publisher": "prasenjeet-symon",
-      "version": "0.44.3",
+      "version": "0.44.4",
       "description": "Agentic coding assistant with web UI",
       "tags": [
         "coding-assistant",
@@ -208616,7 +208655,7 @@
       "id": "PrestoSoft.ExamDiff",
       "name": "ExamDiff",
       "publisher": "PrestoSoft LLC",
-      "version": "1.9.4.2",
+      "version": "1.9.4.3",
       "description": "Freeware Visual File Comparison Tool",
       "tags": [
         "compare",
@@ -215395,7 +215434,7 @@
       "id": "ransh2014.TRACE",
       "name": "TRACE",
       "publisher": "ransh2014",
-      "version": "0.7.0",
+      "version": "0.7.1",
       "description": "GT7 Telemetry Suite -- live dashboard, lap analyst, and race analyst for Gran Turismo 7",
       "tags": [
         "data-visualization",
@@ -216535,7 +216574,7 @@
       "id": "RebonAI.RebonDesktop",
       "name": "Rebon",
       "publisher": "rebon",
-      "version": "1.8.11",
+      "version": "1.9.0",
       "description": "Multi-agent coding with specialized agents orchestrated in a high-performance Rust runtime",
       "tags": [
         "agent",
@@ -220271,7 +220310,7 @@
       "id": "RII7.VolumeHotkeys",
       "name": "Volume Hotkeys",
       "publisher": "RII7",
-      "version": "1.6",
+      "version": "1.7",
       "description": "Control your sound volume and devices via global hotkeys or mouse from anywhere.",
       "tags": [
         "apps",
@@ -235961,7 +236000,7 @@
       "id": "skh2945932142.OMPSwitch",
       "name": "OMP Switch",
       "publisher": "OMP Switch contributors",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "description": "Desktop companion for managing Oh My Pi model providers",
       "tags": [
         "ai",
@@ -237673,7 +237712,7 @@
       "id": "snapetech.slskr",
       "name": "slskr",
       "publisher": "snapetech",
-      "version": "0.2.42",
+      "version": "0.2.47",
       "description": "Rust Soulseek daemon with bundled Web UI",
       "tags": [
         "daemon",
@@ -241148,7 +241187,7 @@
       "id": "solpbc.Solstone",
       "name": "solstone",
       "publisher": "sol pbc",
-      "version": "2.0.17",
+      "version": "2.0.18",
       "description": "the solstone app for windows",
       "tags": [
         "journal",
@@ -242320,7 +242359,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1791060199-g5bacb8",
+      "version": "0.0.1791091069-gb9917f",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -244432,7 +244471,7 @@
       "id": "StablyAI.Orca",
       "name": "Orca",
       "publisher": "stablyai",
-      "version": "1.4.219",
+      "version": "1.4.220",
       "description": "Ship 100x With The Agent IDE",
       "tags": [
         "agent",
@@ -269368,7 +269407,7 @@
       "id": "v2rayA.v2rayA",
       "name": "v2rayA",
       "publisher": "v2rayA Organization",
-      "version": "2.5.8",
+      "version": "2.5.9",
       "description": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols.",
       "tags": [
         "gfw",
@@ -272169,7 +272208,7 @@
       "id": "VisiGrid.VisiGrid",
       "name": "VisiGrid",
       "publisher": "VisiGrid",
-      "version": "0.46.0",
+      "version": "0.46.1",
       "description": "A fast, local-first spreadsheet for serious data work.",
       "tags": [
         "csv",
@@ -287874,7 +287913,7 @@
       "id": "xiufengsun.TokenTracker",
       "name": "TokenTracker",
       "publisher": "xiufengsun",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "description": "Local-first AI token usage & cost tracker for 29 AI coding tools — with native apps. Never reads prompts.",
       "tags": [
         "ai",
@@ -288477,7 +288516,7 @@
       "id": "xpipe-io.xpipe",
       "name": "XPipe",
       "publisher": "XPipe UG (haftungsbeschränkt)",
-      "version": "24.4",
+      "version": "24.5",
       "description": "A brand-new shell connection hub and remote file manager",
       "tags": [
         "docker",
@@ -290268,7 +290307,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.160",
+      "version": "0.4.161",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -294061,7 +294100,7 @@
       "id": "Zoho.Ulaa",
       "name": "Ulaa",
       "publisher": "Ulaa",
-      "version": "154.0.8037.92",
+      "version": "154.0.8037.97",
       "description": "A browser that respects your privacy, protects your personal data, and is designed to upgrade the way you work online.",
       "tags": [
         "browser",
