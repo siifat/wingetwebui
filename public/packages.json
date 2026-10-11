@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T21:24:24.000Z",
+  "generatedAt": "2026-10-11T05:35:19.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "b4cc457df3f59f59382269cc5233207dc084614c"
+    "commit": "a7500215eebe41c4fac957ee9f150559abd723d5"
   },
   "data": [
     {
@@ -4061,7 +4061,7 @@
       "id": "ActivityWatch.ActivityWatch",
       "name": "ActivityWatch",
       "publisher": "ActivityWatch Contributors",
-      "version": "0.14.0",
+      "version": "0.14.1",
       "description": "ActivityWatch is an app that automatically tracks how you spend time on your devices.",
       "tags": [
         "cross-platform",
@@ -6652,7 +6652,7 @@
       "id": "AgentSeal.CodeBurnMenubar",
       "name": "CodeBurn Menubar",
       "publisher": "AgentSeal",
-      "version": "0.9.25",
+      "version": "0.9.26",
       "description": "Track AI coding token usage and cost locally, right from the menu bar",
       "tags": [
         "ai",
@@ -17617,7 +17617,7 @@
       "id": "AOMEI.Backupper.Standard",
       "name": "AOMEI Backupper",
       "publisher": "AOMEI International Network Limited.",
-      "version": "8.4.0.0",
+      "version": "8.5.0.0",
       "description": "Reliable Windows backup software to safeguard operating system, data and applications using backup, restore or clone feature.",
       "tags": [],
       "category": "Cloud & Storage",
@@ -20640,7 +20640,7 @@
       "id": "ArtCraft.VectorCraft",
       "name": "VectorCraft",
       "publisher": "Learning Machines LLC",
-      "version": "0.8.0",
+      "version": "0.9.0",
       "description": "Vector illustration; an open-source, clean-room reimplementation of Adobe Illustrator, rebuilt in pure Rust",
       "tags": [
         "art",
@@ -20993,7 +20993,7 @@
       "id": "Arylmera.TokenDashboard",
       "name": "Token Dashboard",
       "publisher": "Arylmera",
-      "version": "5.1.10",
+      "version": "5.1.11",
       "description": "Local dashboard for Claude Code token usage",
       "tags": [
         "analytics-dashboard",
@@ -50666,7 +50666,7 @@
       "id": "co2lab.Anchors",
       "name": "Anchors",
       "publisher": "co2lab",
-      "version": "0.1.319",
+      "version": "0.1.320",
       "description": "Spec-first continuity framework for AI-assisted development",
       "tags": [
         "ai",
@@ -58552,8 +58552,8 @@
     },
     {
       "id": "CXWorld.CapFrameX",
-      "name": "CapFrameX",
-      "publisher": "CXWorld",
+      "name": "CapFrameX Capture and Analysis Tool",
+      "publisher": "DevTechProfile",
       "version": "1.9.1.5",
       "description": "Frametime capture and analysis tool",
       "tags": [
@@ -58566,7 +58566,7 @@
       ],
       "category": "Others",
       "icon": {
-        "monogram": "CA",
+        "monogram": "CC",
         "background": "#047857",
         "foreground": "#FFFFFF"
       }
@@ -70641,7 +70641,7 @@
       "id": "dprint.dprint",
       "name": "dprint",
       "publisher": "dsherret",
-      "version": "0.61.1",
+      "version": "0.62.0",
       "description": "Pluggable and configurable code formatting platform written in Rust.",
       "tags": [
         "formatter"
@@ -76842,7 +76842,7 @@
       "id": "Elcomsoft.AdvancedPDFPasswordRecovery",
       "name": "Advanced PDF Password Recovery",
       "publisher": "Elcomsoft Co. Ltd.",
-      "version": "5.20.197.8165",
+      "version": "5.20.198.8205",
       "description": "Advanced PDF Password Recovery (APDFPR) unlocks Adobe Acrobat PDF documents and removes editing, printing and copying restrictions instantly. Get access to encrypted and password-protected PDF documents quickly and efficiently!",
       "tags": [],
       "category": "Others",
@@ -80971,7 +80971,7 @@
       "id": "ESEngine.ReasonixCLI",
       "name": "Reasonix CLI",
       "publisher": "reasonix",
-      "version": "2.34.0",
+      "version": "2.35.0",
       "description": "A DeepSeek-native coding agent, for your terminal.",
       "tags": [
         "agent",
@@ -99264,7 +99264,7 @@
       "id": "Google.Chrome.Canary",
       "name": "Google Chrome Canary",
       "publisher": "Google LLC",
-      "version": "157.0.8096.0",
+      "version": "157.0.8097.0",
       "description": "Nightly build for developers",
       "tags": [
         "browser",
@@ -105096,7 +105096,7 @@
       "id": "hatayama.uloop",
       "name": "Unity CLI Loop",
       "publisher": "hatayama",
-      "version": "3.8.1",
+      "version": "3.8.2",
       "description": "Let AI drive Unity, from Editor to Play Mode",
       "tags": [
         "ai",
@@ -105300,6 +105300,28 @@
       "category": "Development",
       "icon": {
         "monogram": "HE",
+        "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "hazeliscoding.XIVVault.CLI",
+      "name": "XIV Vault CLI",
+      "publisher": "Hazel Granados",
+      "version": "0.4.0",
+      "description": "Command line for XIV Vault, which backs up and restores your Dalamud plugin settings and FFXIV game settings.",
+      "tags": [
+        "backup",
+        "dalamud",
+        "ff14",
+        "ffxiv",
+        "final-fantasy-xiv",
+        "restore",
+        "xivlauncher"
+      ],
+      "category": "Cloud & Storage",
+      "icon": {
+        "monogram": "XV",
         "background": "#2563EB",
         "foreground": "#FFFFFF"
       }
@@ -105592,7 +105614,7 @@
       "id": "heartached.Noctis",
       "name": "Noctis",
       "publisher": "heartached",
-      "version": "1.6.0",
+      "version": "1.6.2",
       "description": "A music player that respects what's yours.",
       "tags": [
         "audio",
@@ -107393,7 +107415,7 @@
       "id": "Hibbiki.Chromium",
       "name": "Chromium",
       "publisher": "The Chromium Authors",
-      "version": "154.0.8037.98",
+      "version": "155.0.8059.40",
       "description": "Stable Chromium build for Windows 64-bit, nothing fancy.",
       "tags": [
         "browser",
@@ -108655,7 +108677,7 @@
       "id": "holland-built.Bloxsmith",
       "name": "Bloxsmith",
       "publisher": "holland-built",
-      "version": "3.92.10",
+      "version": "3.92.12",
       "description": "Self-contained Infoblox BloxOne NOC dashboard.",
       "tags": [],
       "category": "Others",
@@ -143200,7 +143222,7 @@
       "id": "LMCP.LocalMCP",
       "name": "LMCP",
       "publisher": "LMCP",
-      "version": "3.0.419",
+      "version": "3.0.420",
       "description": "Connect AI agents to your local apps — Outlook, Calendar, Teams, Excel, Word. 95+ tools, 100% local.",
       "tags": [
         "ai",
@@ -144556,7 +144578,7 @@
       "id": "loonghao.msvc-kit",
       "name": "msvc-kit",
       "publisher": "loonghao",
-      "version": "0.2.19",
+      "version": "0.2.20",
       "description": "A portable MSVC Build Tools installer and manager for Rust development",
       "tags": [
         "build-tools",
@@ -148996,8 +149018,12 @@
       "name": "ManicTime",
       "publisher": "Finkit d.o.o.",
       "version": "26.2.3.0",
-      "description": "Manage your time better.",
-      "tags": [],
+      "description": "Manage your time better. Let ManicTime focus on keeping track of your time, so you can focus on your business.",
+      "tags": [
+        "manic-time",
+        "time-tracker",
+        "timetracker"
+      ],
       "category": "Others",
       "icon": {
         "monogram": "MA",
@@ -151030,7 +151056,7 @@
       "id": "Materializr.Materializr",
       "name": "Materializr",
       "publisher": "Materializr",
-      "version": "1.7.2",
+      "version": "1.7.3",
       "description": "Maker 3D CAD - the middle ground between Tinkercad and FreeCAD.",
       "tags": [
         "3d",
@@ -161390,7 +161416,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.459.659.0",
+      "version": "1.459.664.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -168539,7 +168565,7 @@
       "id": "Monghoul.Monghoul",
       "name": "Monghoul",
       "publisher": "Kontsedal",
-      "version": "1.14.0",
+      "version": "1.14.1",
       "description": "A fast, beautiful MongoDB GUI for developers",
       "tags": [
         "gui",
@@ -209083,7 +209109,7 @@
       "id": "pnpm.pnpm",
       "name": "pnpm",
       "publisher": "pnpm",
-      "version": "12.10.1",
+      "version": "12.11.2",
       "description": "Fast, disk space efficient package manager.",
       "tags": [
         "dependency-manager",
@@ -209156,7 +209182,7 @@
       "id": "PocketBase.PocketBase",
       "name": "PocketBase",
       "publisher": "PocketBase",
-      "version": "0.40.4",
+      "version": "0.40.5",
       "description": "Open Source realtime backend in 1 file",
       "tags": [],
       "category": "Others",
@@ -209914,7 +209940,7 @@
       "id": "PortSwigger.BurpSuite",
       "name": "Burp Suite",
       "publisher": "PortSwigger Web Security",
-      "version": "2026.8",
+      "version": "2026.9.1",
       "description": "The best manual tools to start web security testing.",
       "tags": [
         "capture",
@@ -213822,7 +213848,7 @@
       "id": "Pulkitxm.Quinjet",
       "name": "Quinjet",
       "publisher": "Pulkit",
-      "version": "0.0.71",
+      "version": "0.0.73",
       "description": "Fast, live, keyboard-first Git source-control interface for the terminal",
       "tags": [
         "cli",
@@ -221183,7 +221209,7 @@
       "id": "Relic.Relic",
       "name": "Relic",
       "publisher": "Relic",
-      "version": "1.0.59",
+      "version": "1.0.60",
       "description": "Clipboard manager with end-to-end encrypted sync, on-device AI search, and secret protection.",
       "tags": [
         "clipboard",
@@ -225740,7 +225766,7 @@
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
       "publisher": "Rocket.Chat Support",
-      "version": "4.18.1",
+      "version": "4.18.2",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "tags": [
         "chat",
@@ -231435,7 +231461,7 @@
       "id": "Sapryx.Nexora",
       "name": "Nexora",
       "publisher": "Sapryx",
-      "version": "0.2.8",
+      "version": "0.3.0",
       "description": "Open-source crossplatform music player",
       "tags": [],
       "category": "Multimedia",
@@ -235406,24 +235432,24 @@
       "id": "SerZhyAle.FileDO",
       "name": "FileDO",
       "publisher": "SZA",
-      "version": "2609260512",
-      "description": "Windows CLI for storage testing, fake-capacity detection, secure wipe, and duplicate management.",
+      "version": "2610102316",
+      "description": "Test USB sticks and SD cards for fake capacity, find duplicate files, compare and copy folders, and wipe free space to make recovery harder. Windows GUI and command line.",
       "tags": [
-        "benchmark",
+        "capacity-test",
         "cli",
-        "disk",
+        "disk-utility",
+        "duplicate-finder",
         "duplicates",
-        "encryption",
         "fake-capacity",
-        "file-manager",
-        "hash",
-        "md5",
-        "portable",
+        "flash-drive",
+        "folder-compare",
+        "password-protect",
         "sd-card",
-        "secure-erase",
         "speed-test",
         "storage",
         "usb",
+        "usb-tester",
+        "virtual-disk",
         "wipe"
       ],
       "category": "Utilities",
@@ -244759,7 +244785,7 @@
       "id": "solpbc.Solstone",
       "name": "solstone",
       "publisher": "sol pbc",
-      "version": "2.0.24",
+      "version": "2.0.25",
       "description": "the solstone app for windows",
       "tags": [
         "journal",
@@ -245927,7 +245953,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1791648041-ga99364",
+      "version": "0.0.1791676897-g77c125",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -248028,7 +248054,7 @@
       "id": "SST.OpenCodeDesktop",
       "name": "OpenCode",
       "publisher": "OpenCode",
-      "version": "1.18.35",
+      "version": "1.19.0",
       "description": "OpenCode is an open source agent that helps you write and run code with any AI model. It's available as a terminal-based interface, desktop app, or IDE extension.",
       "tags": [
         "ai",
@@ -254474,7 +254500,7 @@
       "id": "sysmanage.sysmanage",
       "name": "SysManage Server",
       "publisher": "SysManage",
-      "version": "3.10.0.5",
+      "version": "3.10.0.7",
       "description": "Open-source fleet management server for SysManage.",
       "tags": [],
       "category": "Others",
@@ -254841,7 +254867,7 @@
       "id": "t8y2.DBX",
       "name": "DBX",
       "publisher": "t8y2",
-      "version": "0.6.39",
+      "version": "0.6.40",
       "description": "15MB,lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
       "tags": [
         "clickhouse",
@@ -262423,6 +262449,25 @@
       }
     },
     {
+      "id": "TheRealJesusTheHacker.NitroCore",
+      "name": "NitroCore",
+      "publisher": "JesusTheHacker",
+      "version": "1.1.2",
+      "description": "Free Windows optimizer for gaming and cybersecurity workstations.",
+      "tags": [
+        "gaming",
+        "optimizer",
+        "performance",
+        "windows-tweaker"
+      ],
+      "category": "Gaming",
+      "icon": {
+        "monogram": "NI",
+        "background": "#4338CA",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "therealpaulgg.ssh-sync",
       "name": "ssh-sync",
       "publisher": "therealpaulgg",
@@ -265772,7 +265817,7 @@
       "id": "tnunamak.Clawmeter",
       "name": "Clawmeter",
       "publisher": "Tim Nunamaker",
-      "version": "0.38.0",
+      "version": "0.39.0",
       "description": "System tray and CLI quota meter for AI coding tools.",
       "tags": [
         "ai",
@@ -276110,7 +276155,7 @@
       "id": "VisiGrid.VisiGrid",
       "name": "VisiGrid",
       "publisher": "VisiGrid",
-      "version": "0.52.1",
+      "version": "0.53.0",
       "description": "A fast, local-first spreadsheet for serious data work.",
       "tags": [
         "csv",
@@ -282545,7 +282590,7 @@
       "id": "Wakunguma.Mukwa",
       "name": "Mukwa",
       "publisher": "Wakunguma Kalimukwa",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "description": "Personal finance app",
       "tags": [],
       "category": "Others",
@@ -292699,7 +292744,7 @@
       "id": "xiufengsun.TokenTracker",
       "name": "TokenTracker",
       "publisher": "xiufengsun",
-      "version": "1.3.3",
+      "version": "1.3.4",
       "description": "Local-first AI token usage & cost tracker for 29 AI coding tools — with native apps. Never reads prompts.",
       "tags": [
         "ai",
@@ -293983,7 +294028,7 @@
       "id": "Yaak.app",
       "name": "Yaak",
       "publisher": "Mountain Loop Labs",
-      "version": "2026.8.1",
+      "version": "2026.9.0",
       "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC.",
       "tags": [
         "desktop",
@@ -297683,7 +297728,7 @@
       "id": "Zenvara.Zen",
       "name": "Zenvara CLI",
       "publisher": "Zenvara",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Lightweight cross-platform CLI for Zenvara — one native binary to install, run, and operate Zenvara.",
       "tags": [
         "cli",
