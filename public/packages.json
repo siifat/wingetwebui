@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22T17:11:18.000Z",
+  "generatedAt": "2026-10-22T21:18:28.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "daeb4de40cd8ceef79291547d02315e7630d9f9f"
+    "commit": "435c9941e3affd82205920d0ba6da22f4c77f351"
   },
   "data": [
     {
@@ -15791,7 +15791,7 @@
       "id": "Anchore.Grype",
       "name": "Grype",
       "publisher": "Anchore Inc",
-      "version": "0.120.1",
+      "version": "0.121.0",
       "description": "A vulnerability scanner for container images and filesystems",
       "tags": [
         "container-image",
@@ -24365,7 +24365,7 @@
       "id": "Autodesk.Fusion",
       "name": "Autodesk Fusion",
       "publisher": "Autodesk, Inc",
-      "version": "2705.1.30",
+      "version": "2706.1.14",
       "description": "Cloud-based 3D CAD, CAM, CAE, and PCB platform for product design and manufacturing.",
       "tags": [
         "3d-modeling",
@@ -28008,7 +28008,7 @@
       "id": "Baidu.DuMate",
       "name": "DuMate",
       "publisher": "Baidu",
-      "version": "1.0.86",
+      "version": "1.0.87",
       "description": "Baidu AI agent that handles tasks across your work and daily life.",
       "tags": [
         "agent",
@@ -28672,7 +28672,7 @@
       "id": "BartelsMedia.ShareMouse",
       "name": "ShareMouse",
       "publisher": "Bartels Media GmbH",
-      "version": "7.0.30",
+      "version": "7.0.31",
       "description": "Share one Mouse and Keyboard with Multiple Computers",
       "tags": [
         "control",
@@ -34978,7 +34978,7 @@
       "id": "Bit4id.SignDesktop.InfoCamere",
       "name": "InfoCamere",
       "publisher": "Bit4id",
-      "version": "1.0.40",
+      "version": "1.0.72",
       "description": "The software for my digital signature",
       "tags": [
         "digital-signature",
@@ -47207,6 +47207,26 @@
       }
     },
     {
+      "id": "ChenZibo.NewbeeOCRCLI",
+      "name": "newbee_ocr_cli",
+      "publisher": "ChenZibo",
+      "version": "0.2.3",
+      "description": "High-performance command-line OCR powered by PaddleOCR models",
+      "tags": [
+        "cli",
+        "image",
+        "ocr",
+        "paddleocr",
+        "text-recognition"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "NO",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "CHERRY.CHERRYKEYS",
       "name": "CHERRY KEYS",
       "publisher": "Cherry GmbH",
@@ -57313,7 +57333,7 @@
       "id": "CrashPlan.CrashPlan",
       "name": "CrashPlan",
       "publisher": "CrashPlan Group LLC",
-      "version": "12.0.0.735",
+      "version": "12.1.0.720",
       "description": "When you need to recover a file or a version of a file, the CrashPlan app makes it easy to browse, search, and download files from all of the devices on your account.",
       "tags": [
         "backup"
@@ -57947,7 +57967,7 @@
       "id": "Crossplane.CrossplaneCli",
       "name": "Crossplane CLI",
       "publisher": "Crossplane",
-      "version": "2.4.2",
+      "version": "2.4.3",
       "description": "CLI for the Crossplane - The Cloud Native Control Plane",
       "tags": [],
       "category": "Cloud & Storage",
@@ -61492,7 +61512,7 @@
       "id": "Dapr.CLI",
       "name": "Dapr CLI",
       "publisher": "Dapr",
-      "version": "1.18.3",
+      "version": "1.19.0",
       "description": "Dapr's official command-line tool",
       "tags": [],
       "category": "Others",
@@ -67851,7 +67871,7 @@
       "id": "DimitarRadenkov.Pointframe",
       "name": "Pointframe",
       "publisher": "Dimitar Radenkov",
-      "version": "6.7.155",
+      "version": "6.7.156",
       "description": "Open-source Windows screen capture and recording tool with OCR and annotation",
       "tags": [
         "annotation",
@@ -68426,7 +68446,7 @@
       "id": "Discord.Discord.Canary",
       "name": "Discord Canary",
       "publisher": "Discord Inc.",
-      "version": "1.0.1272",
+      "version": "1.0.1273",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -68449,7 +68469,7 @@
       "id": "Discord.Discord.Canary.arm64",
       "name": "Discord Canary (arm64)",
       "publisher": "Discord Inc.",
-      "version": "1.0.605",
+      "version": "1.0.607",
       "description": "Your Place to Talk and Hang Out",
       "tags": [
         "chat",
@@ -70597,7 +70617,7 @@
       "id": "docmirror.dev-sidecar",
       "name": "dev-sidecar",
       "publisher": "Greper",
-      "version": "2.3.1",
+      "version": "2.3.2",
       "description": "dev-sidecar, named after service-sidecar in service-mesh, is a side car tool that assists developers by proxying HTTPS requests to some domestic acceleration channels through a local proxy.",
       "tags": [
         "network",
@@ -71172,7 +71192,7 @@
       "id": "Doppler.doppler",
       "name": "doppler",
       "publisher": "Doppler",
-      "version": "3.77.0",
+      "version": "3.77.1",
       "description": "The official Doppler CLI for managing your secrets",
       "tags": [],
       "category": "Others",
@@ -71827,7 +71847,7 @@
       "id": "Drawpile.Drawpile",
       "name": "Drawpile",
       "publisher": "Drawpile",
-      "version": "2.3.0",
+      "version": "2.3.1",
       "description": "Drawpile is a Free software collaborative drawing program that allows multiple users to sketch on the same canvas simultaneously.",
       "tags": [
         "art",
@@ -72842,7 +72862,7 @@
       "id": "DuckDuckGo.DesktopBrowser.Preview",
       "name": "DuckDuckGo Preview",
       "publisher": "DuckDuckGo",
-      "version": "0.178.0.0",
+      "version": "0.178.1.0",
       "description": "Help Test and Improve New Features with DuckDuckGo Preview for Windows",
       "tags": [
         "browser",
@@ -75676,7 +75696,7 @@
       "id": "EclipseFoundation.Eclipse.Committers",
       "name": "Eclipse IDE for Eclipse Committers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for Eclipse Committers",
       "tags": [],
       "category": "Development",
@@ -75690,7 +75710,7 @@
       "id": "EclipseFoundation.Eclipse.CPP",
       "name": "Eclipse IDE for C/C++ Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for C/C++ Developers",
       "tags": [],
       "category": "Development",
@@ -75704,7 +75724,7 @@
       "id": "EclipseFoundation.Eclipse.DSL",
       "name": "Eclipse IDE for Java and DSL Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for Java and DSL Developers",
       "tags": [],
       "category": "Development",
@@ -75718,7 +75738,7 @@
       "id": "EclipseFoundation.Eclipse.EmbedCPP",
       "name": "Eclipse IDE for Embedded C/C++ Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for Embedded C/C++ Developers",
       "tags": [],
       "category": "Development",
@@ -75746,7 +75766,7 @@
       "id": "EclipseFoundation.Eclipse.Java",
       "name": "Eclipse IDE for Java Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-06",
+      "version": "2026-09",
       "description": "Eclipse IDE for Java Developers",
       "tags": [],
       "category": "Development",
@@ -75760,7 +75780,7 @@
       "id": "EclipseFoundation.Eclipse.JEE",
       "name": "Eclipse IDE for Enterprise Java and Web Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for Enterprise Java and Web Developers",
       "tags": [],
       "category": "Development",
@@ -75788,7 +75808,7 @@
       "id": "EclipseFoundation.Eclipse.PHP",
       "name": "Eclipse IDE for PHP Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for PHP Developers",
       "tags": [],
       "category": "Development",
@@ -75802,7 +75822,7 @@
       "id": "EclipseFoundation.Eclipse.RCP",
       "name": "Eclipse IDE for RCP and RAP Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-06",
+      "version": "2026-09",
       "description": "Eclipse IDE for RCP and RAP Developers",
       "tags": [],
       "category": "Development",
@@ -75816,7 +75836,7 @@
       "id": "EclipseFoundation.Eclipse.Scout",
       "name": "Eclipse IDE for Scout Developers",
       "publisher": "Eclipse.org Foundation, Inc.",
-      "version": "2026-03",
+      "version": "2026-09",
       "description": "Eclipse IDE for Scout Developers",
       "tags": [],
       "category": "Development",
@@ -78291,7 +78311,7 @@
       "id": "ElectronicArts.EADesktop",
       "name": "EA app",
       "publisher": "Electronic Arts",
-      "version": "13.813.0.6326",
+      "version": "13.813.1.6327",
       "description": "Play great PC games and connect with your friends, all in one place.",
       "tags": [
         "ea",
@@ -78887,7 +78907,7 @@
       "id": "EligianLabs.PIICrawlerCLI",
       "name": "PIICrawler CLI",
       "publisher": "Eligian Labs LLC",
-      "version": "26.1021.1423",
+      "version": "26.1022.1352",
       "description": "PII Crawler scans your files, network shares, and databases on your own hardware. Surface the SSNs, addresses, names, and emails hiding where SaaS tools can’t reach. Nothing ever leaves your network.",
       "tags": [
         "pii",
@@ -79978,7 +79998,7 @@
       "id": "Emurasoft.EmEditor",
       "name": "EmEditor",
       "publisher": "Emurasoft, Inc.",
-      "version": "26.3.0",
+      "version": "26.4.0",
       "description": "A fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows.",
       "tags": [
         "code",
@@ -83708,7 +83728,7 @@
       "id": "Excelano.blick",
       "name": "blick",
       "publisher": "Excelano LLC",
-      "version": "0.14.4",
+      "version": "0.14.6",
       "description": "Check Microsoft 365 mail, Teams chats, and next meeting from the terminal",
       "tags": [
         "cli",
@@ -85448,7 +85468,7 @@
       "id": "fancydirty.MediaryScout",
       "name": "MediaryScout",
       "publisher": "fancydirty",
-      "version": "2026.10.12",
+      "version": "2026.10.22",
       "description": "An agent-driven media library for your cloud drives.",
       "tags": [
         "agent",
@@ -88308,6 +88328,28 @@
       }
     },
     {
+      "id": "FKeysCreative.KeyJ",
+      "name": "Key-J",
+      "publisher": "F-Keys Creative LLC",
+      "version": "1.6.1",
+      "description": "Turns your keyboard into an instrument - every keystroke plays a note, in any application.",
+      "tags": [
+        "audio",
+        "guitar",
+        "keyboard",
+        "midi",
+        "music",
+        "synthesizer",
+        "tablature"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "KJ",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Flakroup.MControlTray",
       "name": "MControlTray",
       "publisher": "Flakroup",
@@ -90968,7 +91010,7 @@
       "id": "Foundry376.Mailspring",
       "name": "Mailspring",
       "publisher": "Foundry 376, LLC",
-      "version": "1.26.1",
+      "version": "1.26.2",
       "description": "Boost your productivity and send better email with Mailspring, the best mail client for Mac, Linux, and Windows.",
       "tags": [
         "email",
@@ -95861,7 +95903,7 @@
       "id": "getSigit.siGitCode",
       "name": "siGit Code",
       "publisher": "getSigit",
-      "version": "1.7.3",
+      "version": "1.7.4",
       "description": "siGit Code, an AI coding agent that runs on your machine.",
       "tags": [
         "acp",
@@ -97331,7 +97373,7 @@
       "id": "GitHub.Copilot",
       "name": "Copilot CLI",
       "publisher": "GitHub, Inc.",
-      "version": "v1.0.102",
+      "version": "v1.0.103",
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "tags": [
         "cli",
@@ -98020,7 +98062,7 @@
       "id": "Glanvu.Glanvu",
       "name": "Glanvu",
       "publisher": "Juan García Longarón",
-      "version": "0.11.0",
+      "version": "0.12.0",
       "description": "Fast, keyboard-driven, cross-platform universal image viewer and converter",
       "tags": [
         "converter",
@@ -101130,7 +101172,7 @@
       "id": "Google.Protobuf",
       "name": "protobuf",
       "publisher": "Protocol Buffers",
-      "version": "36.0",
+      "version": "36.2",
       "description": "Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.",
       "tags": [
         "marshalling",
@@ -110075,7 +110117,7 @@
       "id": "Holepunch.Keet",
       "name": "Keet",
       "publisher": "Holepunch",
-      "version": "4.24.0.0",
+      "version": "4.24.1.0",
       "description": "Peer-to-peer chat application with end-to-end encryption for private messaging, calls, and file sharing.",
       "tags": [
         "chat",
@@ -114729,6 +114771,29 @@
       "icon": {
         "monogram": "SD",
         "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "idk-arsh.MultiTerm",
+      "name": "MultiTerm",
+      "publisher": "idk-arsh",
+      "version": "1.1.0",
+      "description": "A multi-pane terminal workspace for Windows with workspaces, per-folder startup commands and broadcast typing.",
+      "tags": [
+        "conpty",
+        "console",
+        "developer-tools",
+        "multiplexer",
+        "shell",
+        "terminal",
+        "terminal-emulator",
+        "workspace"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "MU",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -120087,6 +120152,31 @@
       "icon": {
         "monogram": "LO",
         "background": "#2563EB",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "Issinoho.tvdinner",
+      "name": "tvdinner",
+      "publisher": "Iain Smith",
+      "version": "1.42.1",
+      "description": "A command-line IPTV player with a TiviMate-style on-screen programme guide.",
+      "tags": [
+        "epg",
+        "hdhomerun",
+        "iptv",
+        "m3u",
+        "media-player",
+        "mpv",
+        "playlist",
+        "tv",
+        "xmltv",
+        "xtream"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "TV",
+        "background": "#0F766E",
         "foreground": "#FFFFFF"
       }
     },
@@ -130534,7 +130624,7 @@
       "id": "jvondev.apposition",
       "name": "apposition",
       "publisher": "jvondev",
-      "version": "1.3.6",
+      "version": "1.3.8",
       "description": "A smart digital workspace to organize web apps, accounts, and tasks in one place.",
       "tags": [
         "browser",
@@ -139424,7 +139514,7 @@
       "id": "kwaroran.RisuAI",
       "name": "RisuAI",
       "publisher": "aiclient",
-      "version": "2026.10.211",
+      "version": "2026.10.220",
       "description": "Make your own story. User-friendly software for LLM roleplaying",
       "tags": [
         "ai",
@@ -140467,7 +140557,7 @@
       "id": "laurentiu021.SysManager",
       "name": "SysManager",
       "publisher": "laurentiu021",
-      "version": "1.130.72",
+      "version": "1.130.74",
       "description": "Modern Windows system toolkit — network monitor, performance tuning, cleanup, battery health, process manager, and more.",
       "tags": [
         "battery",
@@ -142717,7 +142807,7 @@
       "id": "LibreCAD.LibreCAD",
       "name": "LibreCAD",
       "publisher": "LibreCAD Team",
-      "version": "2.2.1.5",
+      "version": "2.2.1.6",
       "description": "LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",
       "tags": [
         "cad",
@@ -143472,7 +143562,7 @@
       "id": "Lime.Lime",
       "name": "Lime",
       "publisher": "Lime",
-      "version": "1.166.0",
+      "version": "1.167.0",
       "description": "An open-source AI content workbench built for Chinese creators.",
       "tags": [],
       "category": "Others",
@@ -145812,7 +145902,7 @@
       "id": "Logitech.OptionsPlus",
       "name": "Logi Options+",
       "publisher": "Logitech",
-      "version": "2.8.981479",
+      "version": "2.9.994631",
       "description": "Customization App for Logitech Devices",
       "tags": [
         "audio",
@@ -147098,7 +147188,7 @@
       "id": "lqdev.PodcastTUI",
       "name": "PodcastTUI",
       "publisher": "lqdev",
-      "version": "1.15.0",
+      "version": "1.16.0",
       "description": "A Terminal User Interface for Podcast Management",
       "tags": [],
       "category": "Multimedia",
@@ -167228,6 +167318,25 @@
       }
     },
     {
+      "id": "MihaiValentin.wsly",
+      "name": "wsly",
+      "publisher": "Mihai Valentin",
+      "version": "1.1.2",
+      "description": "Run commands in an interactive WSL Bash session from PowerShell.",
+      "tags": [
+        "bash",
+        "powershell",
+        "shell",
+        "wsl"
+      ],
+      "category": "System Tools",
+      "icon": {
+        "monogram": "WS",
+        "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Mihari.Mihari",
       "name": "Mihari",
       "publisher": "mihari-proxy",
@@ -169795,7 +169904,7 @@
       "id": "MochaSoft.MochaTN3812",
       "name": "Mocha TN3812",
       "publisher": "MochaSoft",
-      "version": "1.5",
+      "version": "1.6.1",
       "description": "Give you AS/400 Server access to a local Printer on a Windows PC.",
       "tags": [
         "printer",
@@ -170978,6 +171087,28 @@
       }
     },
     {
+      "id": "Monoglyph.MidiSlayer",
+      "name": "MidiSlayer",
+      "publisher": "Monoglyph Ltd",
+      "version": "0.7.3",
+      "description": "Sight-reading and music-theory practice for MIDI keyboards. Buy once, keep it.",
+      "tags": [
+        "midi",
+        "music",
+        "music-theory",
+        "notation",
+        "piano",
+        "sheet-music",
+        "sight-reading"
+      ],
+      "category": "Multimedia",
+      "icon": {
+        "monogram": "MI",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Monotype.MonotypeFonts",
       "name": "Monotype Fonts",
       "publisher": "Monotype Imaging Inc.",
@@ -171216,7 +171347,7 @@
       "id": "MoonshotAI.Kimi",
       "name": "Kimi",
       "publisher": "Beijing Yuezhi Dark Face Technology Co., Ltd.",
-      "version": "3.2.17",
+      "version": "3.2.18",
       "description": "An AI assistant that reasons and interprets, and thinks in depth",
       "tags": [
         "ai",
@@ -192084,7 +192215,7 @@
       "id": "nkiyohara.Corresync",
       "name": "Corresync",
       "publisher": "nkiyohara",
-      "version": "0.8.8",
+      "version": "0.9.2",
       "description": "Local-first guarded mail and calendar CLI and MCP server",
       "tags": [
         "calendar",
@@ -193089,7 +193220,7 @@
       "id": "NotedeckDev.NoteDeck",
       "name": "NoteDeck",
       "publisher": "notedeck-dev",
-      "version": "1.89.0",
+      "version": "1.90.0",
       "description": "Misskey Pro — an integrated deck environment (IDE) for Misskey power users",
       "tags": [
         "deck",
@@ -194289,7 +194420,7 @@
       "id": "nu774.qaac",
       "name": "qaac",
       "publisher": "nu774",
-      "version": "2.89",
+      "version": "3.07",
       "description": "CLI QuickTime AAC/ALAC encoder",
       "tags": [
         "qaac",
@@ -197721,7 +197852,7 @@
       "id": "Omnissa.HorizonClient",
       "name": "Omnissa Horizon Client",
       "publisher": "Omnissa, LLC",
-      "version": "8.19.0",
+      "version": "8.20.0",
       "description": "Connect to your Omnissa Horizon virtual desktop from your device of choice.",
       "tags": [
         "vdi",
@@ -202435,7 +202566,7 @@
       "id": "Oracle.JDK.21",
       "name": "Java(TM) SE Development Kit 21",
       "publisher": "Oracle Corporation",
-      "version": "21.0.13.0",
+      "version": "21.0.12.0",
       "description": "The JDK is a development environment for building applications and components using the Java programming language.",
       "tags": [
         "java",
@@ -202977,7 +203108,7 @@
       "id": "OrbForge.Orb.EXE",
       "name": "Orb",
       "publisher": "Orb Forge Inc.",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "description": "The Network Experience Platform",
       "tags": [
         "internet",
@@ -212958,7 +213089,7 @@
       "id": "PostgreSQL.psqlODBC",
       "name": "psqlodbc",
       "publisher": "PostgreSQL Global Development Group",
-      "version": "18.00.0002",
+      "version": "18.00.0004",
       "description": "The official PostgreSQL ODBC Driver",
       "tags": [
         "odbc",
@@ -212975,7 +213106,7 @@
       "id": "PostgreSQL.psqlODBC.mimalloc",
       "name": "psqlodbc (mimalloc version)",
       "publisher": "PostgreSQL Global Development Group",
-      "version": "18.00.0002",
+      "version": "18.00.0004",
       "description": "The official PostgreSQL ODBC Driver. Use the mimalloc allocator for improved performance.",
       "tags": [
         "odbc",
@@ -217830,7 +217961,7 @@
       "id": "qBittorrent.qBittorrent.lt2",
       "name": "qBittorrent (libtorrent 2)",
       "publisher": "The qBittorrent project",
-      "version": "5.3.0",
+      "version": "5.2.4",
       "description": "Free and reliable P2P Bittorrent client.",
       "tags": [
         "bittorrent",
@@ -219465,6 +219596,25 @@
       "category": "Others",
       "icon": {
         "monogram": "CT",
+        "background": "#047857",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "QuickzDev.iScribby",
+      "name": "iScribby",
+      "publisher": "QuickzDev",
+      "version": "0.0.16",
+      "description": "A neat little application that allows you to draw on your screen",
+      "tags": [
+        "annotation",
+        "drawing",
+        "presentation",
+        "screen-markup"
+      ],
+      "category": "Design & Creation",
+      "icon": {
+        "monogram": "IS",
         "background": "#047857",
         "foreground": "#FFFFFF"
       }
@@ -251176,7 +251326,7 @@
       "id": "SST.opencode",
       "name": "opencode",
       "publisher": "SST",
-      "version": "1.19.1",
+      "version": "1.19.4",
       "description": "The AI coding agent built for the terminal.",
       "tags": [
         "ai",
@@ -263170,7 +263320,7 @@
       "id": "Termalin.Termalin",
       "name": "Termalin",
       "publisher": "Termalin",
-      "version": "0.1.47",
+      "version": "0.1.48",
       "description": "A fast SSH client for you and your AI agents, with a built-in MCP server.",
       "tags": [
         "ai-agents",
@@ -271155,7 +271305,7 @@
       "id": "TrackerSoftware.PDF-XChangeEditor",
       "name": "PDF-XChange Editor",
       "publisher": "PDF-XChange Co Ltd.",
-      "version": "11.1.0.0",
+      "version": "11.1.1.0",
       "description": "The smallest, fastest and most feature-rich free PDF viewer/editor on the market.",
       "tags": [
         "annotate",
@@ -271181,7 +271331,7 @@
       "id": "TrackerSoftware.PDF-XChangeLite",
       "name": "PDF-XChange Printer Lite",
       "publisher": "PDF-XChange Co Ltd.",
-      "version": "11.1.0.0",
+      "version": "11.1.1.0",
       "description": "A simplified version of PDF-XChange Printer Standard virtual PDF printer.",
       "tags": [
         "conversion",
@@ -271229,7 +271379,7 @@
       "id": "TrackerSoftware.PDF-XChangeStandard",
       "name": "PDF-XChange Standard",
       "publisher": "PDF-XChange Co Ltd.",
-      "version": "11.1.0.0",
+      "version": "11.1.1.0",
       "description": "This feature-rich virtual printer allows you to print-to-PDF to create fully compatible, text-searchable PDF files.",
       "tags": [
         "conversion",
@@ -272064,7 +272214,7 @@
       "id": "Trimble.TrimbleConnect",
       "name": "Trimble Connect",
       "publisher": "Trimble Inc. and affiliates",
-      "version": "1.33.0.839",
+      "version": "1.33.1.841",
       "description": "Cloud-based collaboration platform with real time status-sharing",
       "tags": [],
       "category": "Cloud & Storage",
@@ -275476,7 +275626,7 @@
       "id": "Unity.UnityHub",
       "name": "Unity Hub",
       "publisher": "Unity Technologies Inc.",
-      "version": "3.22.3.65535",
+      "version": "3.22.4.65535",
       "description": "Manage multiple installations of the Unity Editor, create new projects, and access your work.",
       "tags": [
         "unity",
@@ -276975,7 +277125,7 @@
       "id": "VALD.ForceDecksSuite",
       "name": "VALD ForceDecks Suite",
       "publisher": "VALD",
-      "version": "2.2.2.50001",
+      "version": "2.3.0.50003",
       "description": "VALD ForceDecks Suite",
       "tags": [],
       "category": "Others",
@@ -277870,7 +278020,7 @@
       "id": "Vencord.Vesktop",
       "name": "Vesktop",
       "publisher": "Vencord",
-      "version": "1.6.7",
+      "version": "1.6.8",
       "description": "A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.",
       "tags": [],
       "category": "Others",
@@ -280710,7 +280860,7 @@
       "id": "Vita3K.Vita3K",
       "name": "Vita3K",
       "publisher": "Vita3K",
-      "version": "0.2.1.4212",
+      "version": "0.2.1.4215",
       "description": "Experimental PlayStation Vita emulator.",
       "tags": [
         "cpp",
@@ -281684,7 +281834,7 @@
       "id": "Voltius.Voltius",
       "name": "Voltius",
       "publisher": "Voltius",
-      "version": "0.61.1",
+      "version": "0.62.0",
       "description": "Cross-platform SSH client and terminal",
       "tags": [
         "crdt",
@@ -287996,7 +288146,7 @@
       "id": "WeMod.WeMod",
       "name": "WeMod",
       "publisher": "WeMod",
-      "version": "12.64.1",
+      "version": "12.65.1",
       "description": "Free cheats & trainers for your favorite PC games in one easy app.",
       "tags": [],
       "category": "Gaming",
@@ -294200,7 +294350,7 @@
       "id": "Wrenchware.ForecastCenter",
       "name": "Forecast Center",
       "publisher": "Wrenchware",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "description": "A clean, ad-free Windows weather dashboard with animated NOAA radar.",
       "tags": [
         "forecast",
@@ -298963,7 +299113,7 @@
       "id": "yetone.Alma",
       "name": "Alma",
       "publisher": "yetone",
-      "version": "0.4.209",
+      "version": "0.4.210",
       "description": "A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers.",
       "tags": [
         "agent",
@@ -299930,7 +300080,7 @@
       "id": "Yuanli.uTools",
       "name": "uTools",
       "publisher": "Yuanli",
-      "version": "8.0.0",
+      "version": "8.0.1",
       "description": "Next generation efficiency tool platform.",
       "tags": [
         "add-on",
