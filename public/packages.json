@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T11:24:27.000Z",
+  "generatedAt": "2026-10-25T15:49:05.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "f628617d8c1863c4d6edd790c5f23f7d97a4c5d8"
+    "commit": "bc3a911bf377b738f938db3bd324a154a0eccf03"
   },
   "data": [
     {
@@ -5398,7 +5398,7 @@
       "id": "adkurz.btText",
       "name": "btText",
       "publisher": "Adrian Kurz",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "description": "A lightweight and accessible Windows desktop application for managing and reusing text snippets",
       "tags": [
         "accessibility",
@@ -10641,7 +10641,7 @@
       "id": "Alibaba.QoderWake",
       "name": "QoderWake",
       "publisher": "Qoder",
-      "version": "1.1.13",
+      "version": "1.2.1",
       "description": "An always-on desktop app of autonomous AI employees that work inside your IM chats",
       "tags": [
         "agent",
@@ -19129,7 +19129,7 @@
       "id": "appmakes.Typora",
       "name": "Typora",
       "publisher": "typora.io",
-      "version": "1.14.10",
+      "version": "1.14.15",
       "description": "A markdown editor, markdown reader.",
       "tags": [
         "editor",
@@ -21056,7 +21056,7 @@
       "id": "ArtCraft.EffectCraft",
       "name": "EffectCraft",
       "publisher": "Learning Machines LLC",
-      "version": "0.16.0",
+      "version": "0.17.0",
       "description": "Motion graphics and visual effects; an open-source, clean-room reimplementation of Adobe After Effects, rebuilt in pure Rust",
       "tags": [
         "animation",
@@ -23785,7 +23785,7 @@
       "id": "AurelioAvila.PCTweaker",
       "name": "PC Tweaker",
       "publisher": "Aurelio Avila",
-      "version": "1.18.17",
+      "version": "1.18.18",
       "description": "Windows tuning for performance, gaming and privacy, with recorded changes and restore tools for supported settings.",
       "tags": [
         "gaming",
@@ -23806,7 +23806,7 @@
       "id": "AurelioAvila.Redaxa",
       "name": "Redaxa",
       "publisher": "Aurelio Avila",
-      "version": "0.6.7",
+      "version": "0.6.8",
       "description": "Review sensitive data in AI prompts and likely credential exposures in public GitHub repositories.",
       "tags": [
         "ai",
@@ -35057,7 +35057,7 @@
       "id": "Biscuit.Biscuit",
       "name": "Biscuit",
       "publisher": "Biscuit Project",
-      "version": "2.1.3",
+      "version": "2.2.0",
       "description": "Browser where your favorite apps won't get buried in tabs.",
       "tags": [
         "chromium",
@@ -36912,7 +36912,7 @@
       "id": "bluenviron.mediamtx",
       "name": "mediamtx",
       "publisher": "bluenviron",
-      "version": "1.21.2",
+      "version": "1.21.3",
       "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
       "tags": [
         "go",
@@ -41575,7 +41575,7 @@
       "id": "bullpae.keymander",
       "name": "keymander",
       "publisher": "bullpae",
-      "version": "0.17.0",
+      "version": "0.18.0",
       "description": "Keyboard-driven cross-platform launcher (TUI, desktop, key-remap daemon)",
       "tags": [
         "cli",
@@ -64696,7 +64696,7 @@
       "id": "degoya.rDownloader",
       "name": "rDownloader",
       "publisher": "DEGOYA.digital",
-      "version": "1.36.0",
+      "version": "1.37.0",
       "description": "Local-first download manager with a web interface",
       "tags": [
         "download-manager",
@@ -65971,7 +65971,7 @@
       "id": "DesktopPlus.DesktopPlus",
       "name": "Desktop Plus",
       "publisher": "Desktop Plus",
-      "version": "3.6.8-r0",
+      "version": "3.6.8-r1",
       "description": "A GitHub Desktop fork with advanced functionality and improvements.",
       "tags": [
         "bitbucket",
@@ -76623,7 +76623,7 @@
       "id": "EDILabs.Sagt",
       "name": "Sagt.ai",
       "publisher": "EDI Labs AB",
-      "version": "0.12.2",
+      "version": "0.12.3",
       "description": "Swedish speech-to-text that runs locally on your PC",
       "tags": [
         "dictation",
@@ -82978,7 +82978,7 @@
       "id": "etcd-io.etcd",
       "name": "etcd",
       "publisher": "etcd-io",
-      "version": "3.7.2",
+      "version": "3.7.3",
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "tags": [
         "cncf",
@@ -86556,6 +86556,31 @@
       }
     },
     {
+      "id": "Fei2411.DS-Bot",
+      "name": "DeepSeek Bot",
+      "publisher": "Fei2411",
+      "version": "0.2.1",
+      "description": "A team of long-lived bots for DeepSeek Harness.",
+      "tags": [
+        "agent",
+        "ai",
+        "assistant",
+        "bot",
+        "chatbot",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "large-language-model",
+        "llm"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "DB",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "FEITIAN.SKManager",
       "name": "FEITIAN SK Manager",
       "publisher": "FEITIAN",
@@ -88113,7 +88138,7 @@
       "id": "FireAlpaca.FireAlpaca",
       "name": "FireAlpaca",
       "publisher": "firealpaca.com",
-      "version": "2.16.2",
+      "version": "2.16.3",
       "description": "Free Digital Painting Software",
       "tags": [
         "art",
@@ -100975,7 +101000,7 @@
       "id": "Google.Chrome.Canary",
       "name": "Google Chrome Canary",
       "publisher": "Google LLC",
-      "version": "158.0.8122.0",
+      "version": "158.0.8123.0",
       "description": "Nightly build for developers",
       "tags": [
         "browser",
@@ -107642,7 +107667,7 @@
       "id": "Heavrnl.NexusTerminal",
       "name": "Nexus Terminal",
       "publisher": "Heavrnl",
-      "version": "0.9.17",
+      "version": "0.9.18",
       "description": "A modern, feature-rich web-based SSH / RDP / VNC client dedicated to providing a highly customizable remote connection experience.",
       "tags": [
         "ftp",
@@ -110218,7 +110243,7 @@
       "id": "HMCL.HMCL.Dev",
       "name": "Hello Minecraft! Launcher Dev",
       "publisher": "huanghongxun",
-      "version": "3.17.0.362",
+      "version": "3.17.0.363",
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "tags": [
         "javafx",
@@ -110236,7 +110261,7 @@
       "id": "HMCL.HMCL.Dev.CNB",
       "name": "Hello Minecraft! Launcher Dev",
       "publisher": "huanghongxun",
-      "version": "3.17.0.362",
+      "version": "3.17.0.363",
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "tags": [
         "javafx",
@@ -123461,7 +123486,7 @@
       "id": "jannskiee.floe",
       "name": "floe",
       "publisher": "jannskiee",
-      "version": "1.11.5",
+      "version": "1.11.6",
       "description": "Secure peer-to-peer file transfer CLI",
       "tags": [],
       "category": "Others",
@@ -142955,7 +142980,7 @@
       "id": "LGinC.EarthBackground",
       "name": "EarthBackground",
       "publisher": "LGinC",
-      "version": "2.5.8",
+      "version": "2.6.0",
       "description": "Satellite earth wallpaper application built with .NET and Avalonia.",
       "tags": [
         "avalonia",
@@ -148598,7 +148623,7 @@
       "id": "LudoTechnologies.Hiroba",
       "name": "Hiroba",
       "publisher": "Ludo Technologies",
-      "version": "0.2.1",
+      "version": "0.3.0",
       "description": "Always-on presence app for remote teams",
       "tags": [
         "desktop-app",
@@ -148637,7 +148662,7 @@
       "id": "LuigiElleBalotta.AIUsageNET",
       "name": "AIUsage.NET",
       "publisher": "LuigiElleBalotta",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "description": "Windows system tray app that tracks usage limits and spend for Claude, Codex, Cursor, Copilot, and other AI coding tools.",
       "tags": [
         "ai",
@@ -149762,7 +149787,7 @@
       "id": "M-Igashi.mp3rgain",
       "name": "mp3rgain",
       "publisher": "M-Igashi",
-      "version": "3.12.1",
+      "version": "3.13.0",
       "description": "Lossless MP3/AAC volume adjustment - a modern mp3gain / aacgain replacement written in Rust",
       "tags": [
         "audio",
@@ -149789,7 +149814,7 @@
       "id": "M-Igashi.mp3rgui",
       "name": "mp3rgui",
       "publisher": "M-Igashi",
-      "version": "3.12.1",
+      "version": "3.13.0",
       "description": "GUI for lossless MP3/AAC volume adjustment - a modern mp3gain / aacgain replacement written in Rust",
       "tags": [
         "audio",
@@ -150249,20 +150274,6 @@
       }
     },
     {
-      "id": "MacPawWayLTD.ClearVPN",
-      "name": "ClearVPN",
-      "publisher": "MacPaw Way LTD",
-      "version": "3.2.3.0",
-      "description": "WebInstaller",
-      "tags": [],
-      "category": "Others",
-      "icon": {
-        "monogram": "CL",
-        "background": "#2563EB",
-        "foreground": "#FFFFFF"
-      }
-    },
-    {
       "id": "MacroDeck.MacroDeck",
       "name": "MacroDeck",
       "publisher": "MacroDeck",
@@ -150301,7 +150312,7 @@
       "id": "maddada.Ghostex",
       "name": "Ghostex",
       "publisher": "Ghostex",
-      "version": "10.34.0",
+      "version": "10.35.0",
       "description": "Native agent CLIs manager with Ghostty terminals, an embedded browser, and an IDE.",
       "tags": [
         "agent",
@@ -152203,7 +152214,7 @@
       "id": "marcinz606.NegPy",
       "name": "NegPy",
       "publisher": "marcinz606",
-      "version": "0.65.0",
+      "version": "0.66.0",
       "description": "Tool for processing film negatives.",
       "tags": [
         "film-photography",
@@ -154755,7 +154766,7 @@
       "id": "MayDay.SnowApp",
       "name": "Snow App",
       "publisher": "MayDay",
-      "version": "0.5.4",
+      "version": "0.5.5",
       "description": "Developer-focused desktop workspace that integrates AI chat, terminal emulation, SSH remote management, Git tooling, and a built-in browser panel.",
       "tags": [
         "ai",
@@ -157149,7 +157160,7 @@
       "id": "MetalBear.mirrord",
       "name": "mirrord",
       "publisher": "MetalBear",
-      "version": "3.279.0",
+      "version": "3.279.1",
       "description": "Connect your local process and your cloud environment, and run local code in cloud conditions.",
       "tags": [
         "api",
@@ -164075,7 +164086,7 @@
       "id": "Microsoft.SafetyScanner",
       "name": "Microsoft Safety Scanner",
       "publisher": "Microsoft Corporation",
-      "version": "1.461.196.0",
+      "version": "1.461.199.0",
       "description": "A scan tool designed to find and remove malware from Windows computers. Download it and run a scan to find malware and try to reverse changes made by identified threats.",
       "tags": [
         "microsoft-defender-antivirus",
@@ -167984,7 +167995,7 @@
       "id": "MikeFarah.yq",
       "name": "yq",
       "publisher": "Mike Farah",
-      "version": "4.53.6",
+      "version": "4.54.1",
       "description": "yq is a portable command-line YAML, JSON, XML, CSV and properties processor.",
       "tags": [
         "bash",
@@ -171972,7 +171983,7 @@
       "id": "MoonshotAI.KimiCodeCLI",
       "name": "Kimi Code CLI",
       "publisher": "Beijing Yuezhi Dark Face Technology Co., Ltd.",
-      "version": "2.3.1",
+      "version": "2.3.2",
       "description": "The Starting Point for Next-Gen Agents",
       "tags": [
         "agent",
@@ -171997,7 +172008,7 @@
       "id": "MoonshotAI.KimiCodeDesktop",
       "name": "Kimi Code",
       "publisher": "Moonshot AI",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "description": "Desktop app of the Kimi Code AI coding agent",
       "tags": [
         "agent",
@@ -189609,7 +189620,7 @@
       "id": "Nexmoe.VidBee",
       "name": "VidBee",
       "publisher": "VidBee",
-      "version": "2.2.4",
+      "version": "2.3.0",
       "description": "Download videos from almost any website worldwide",
       "tags": [
         "download",
@@ -191350,7 +191361,7 @@
       "id": "NimbusAgent.Nimbus",
       "name": "Nimbus",
       "publisher": "NimbusAgent",
-      "version": "10.3.1",
+      "version": "10.4.0",
       "description": "Local-first AI agent framework (headless gateway + CLI)",
       "tags": [
         "agent",
@@ -228499,7 +228510,7 @@
       "id": "RobertasTa.Diktuokle",
       "name": "Diktuokle",
       "publisher": "Robertas & Claude",
-      "version": "0.1",
+      "version": "0.2",
       "description": "Offline push-to-talk dictation for Lithuanian, Russian and English - text appears in any program.",
       "tags": [
         "dictation",
@@ -228508,9 +228519,9 @@
         "open-source",
         "privacy",
         "push-to-talk",
+        "russian",
         "speech-recognition",
-        "speech-to-text",
-        "whisper"
+        "speech-to-text"
       ],
       "category": "Security & Privacy",
       "icon": {
@@ -237730,7 +237741,7 @@
       "id": "seerge.g-helper.PreRelease",
       "name": "G-Helper PreRelease",
       "publisher": "seerge",
-      "version": "0.289",
+      "version": "0.290",
       "description": "Lightweight Armoury Crate alternative for Asus laptops.",
       "tags": [
         "armoury-crate",
@@ -249912,7 +249923,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1792915237-gd2be70",
+      "version": "0.0.1792929650-g000512",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -257192,7 +257203,7 @@
       "id": "suzuki-shunsuke.pinact",
       "name": "pinact",
       "publisher": "Shunsuke Suzuki",
-      "version": "5.0.1",
+      "version": "5.0.2",
       "description": "pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.",
       "tags": [
         "cli",
@@ -268811,7 +268822,7 @@
       "id": "thxnlo.tether",
       "name": "tether",
       "publisher": "thxnlo",
-      "version": "3.2.2",
+      "version": "3.3.0",
       "description": "Tray bridge between Windows and your SSH hosts - clipboard, files, tunnels, ADB.",
       "tags": [
         "adb",
@@ -275800,7 +275811,7 @@
       "id": "Unibo.Alchemist",
       "name": "Alchemist",
       "publisher": "Unibo",
-      "version": "47.0.5",
+      "version": "47.0.6",
       "description": "an extensible simulator for pervasive computing",
       "tags": [],
       "category": "Others",
@@ -277766,7 +277777,7 @@
       "id": "v1k70rk4.HASSAgentNET10",
       "name": "HASS.Agent .NET10",
       "publisher": "v1k70rk4",
-      "version": "10.10.1",
+      "version": "10.10.2",
       "description": "Windows companion app for Home Assistant with notifications, media control, sensors and commands over MQTT or the Home Assistant API.",
       "tags": [
         "hass",
@@ -296643,7 +296654,7 @@
       "id": "Xiaocai.MiniCADSee",
       "name": "CAD迷你看图",
       "publisher": "上海晓材科技有限公司",
-      "version": "2026R6",
+      "version": "2026R6.1",
       "description": "A lightweight, exquisite and classic CAD quick viewer with native support for Tangent blueprints and perfect rendering of 2D and 3D graphs as well as fonts and symbols",
       "tags": [
         "blueprint",
@@ -298209,7 +298220,7 @@
       "id": "xpipe-io.xpipe",
       "name": "XPipe",
       "publisher": "XPipe UG (haftungsbeschränkt)",
-      "version": "24.8",
+      "version": "24.9",
       "description": "A brand-new shell connection hub and remote file manager",
       "tags": [
         "docker",
@@ -299729,7 +299740,7 @@
       "id": "ycookiey.yClocky",
       "name": "yClocky",
       "publisher": "ycookiey",
-      "version": "1.0.4",
+      "version": "1.1.0",
       "description": "ycookiey's desktop clock for Windows",
       "tags": [],
       "category": "Others",
