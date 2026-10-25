@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T15:49:05.000Z",
+  "generatedAt": "2026-10-25T20:49:46.000Z",
   "source": {
     "repository": "https://github.com/microsoft/winget-pkgs.git",
-    "commit": "bc3a911bf377b738f938db3bd324a154a0eccf03"
+    "commit": "aba27f1c0b31a056852e20f3583d5985bab76577"
   },
   "data": [
     {
@@ -2992,6 +2992,26 @@
       "icon": {
         "monogram": "AP",
         "background": "#BE123C",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "abooodbah.LeanDoc",
+      "name": "LeanDoc",
+      "publisher": "Abdulfatah Bahbouh",
+      "version": "0.1.3",
+      "description": "Read-only viewer for Word documents",
+      "tags": [
+        "document",
+        "docx",
+        "reader",
+        "viewer",
+        "word"
+      ],
+      "category": "Others",
+      "icon": {
+        "monogram": "LE",
+        "background": "#7C3AED",
         "foreground": "#FFFFFF"
       }
     },
@@ -6469,7 +6489,7 @@
       "id": "AffluentLabs.ZestSSH",
       "name": "ZestSSH",
       "publisher": "Affluent Labs",
-      "version": "3.2.0",
+      "version": "3.2.2",
       "description": "Cross-platform SSH, SFTP, and terminal client for developers, sysadmins, and homelabs.",
       "tags": [
         "console",
@@ -23419,7 +23439,7 @@
       "id": "aube.aube",
       "name": "aube",
       "publisher": "en.dev",
-      "version": "2.8.2",
+      "version": "2.8.3",
       "description": "A fast Node.js package manager",
       "tags": [],
       "category": "System Tools",
@@ -35057,7 +35077,7 @@
       "id": "Biscuit.Biscuit",
       "name": "Biscuit",
       "publisher": "Biscuit Project",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "description": "Browser where your favorite apps won't get buried in tabs.",
       "tags": [
         "chromium",
@@ -36303,7 +36323,7 @@
       "id": "Blix.BlueMail",
       "name": "BlueMail",
       "publisher": "BlueMail",
-      "version": "1.143.63",
+      "version": "1.143.64",
       "description": "BlueMail is a free, beautifully designed, cross platform email & calendar app, capable of managing an unlimited number of mail accounts from various providers.",
       "tags": [
         "email",
@@ -41715,7 +41735,7 @@
       "id": "Burnaware.BurnAwareFree",
       "name": "BurnAware Free",
       "publisher": "BurnAware",
-      "version": "19.2",
+      "version": "19.4",
       "description": "Top DVD burning software Super-intuitive user interface Blu-ray XL and M-Disc support.",
       "tags": [],
       "category": "Others",
@@ -45233,7 +45253,7 @@
       "id": "CatoNetworks.CatoClient",
       "name": "Cato Client",
       "publisher": "Cato Networks",
-      "version": "6.12.6.9050",
+      "version": "6.16.2.9131",
       "description": "Secure your network, devices and identify and support your users.",
       "tags": [
         "network",
@@ -53594,7 +53614,7 @@
       "id": "Cojudge.Cojudge",
       "name": "Cojudge",
       "publisher": "Cojudge",
-      "version": "0.8.5",
+      "version": "0.8.7",
       "description": "Offline-first code judge",
       "tags": [
         "cpp",
@@ -55109,7 +55129,7 @@
       "id": "ContentaSoft.ContentaConverter",
       "name": "Contenta Converter PREMIUM",
       "publisher": "Contenta Software",
-      "version": "9.0.41",
+      "version": "9.0.44",
       "description": "Batch photo converter for Windows: convert RAW, HEIC, PSD and PDF to JPEG, resize, watermark, rename and edit metadata for thousands of images at once.",
       "tags": [
         "batch-converter",
@@ -94154,7 +94174,7 @@
       "id": "GAM-Team.gam.Portable",
       "name": "gam.portable",
       "publisher": "GAM Team - google-apps-manager@googlegroups.com",
-      "version": "7.48.33",
+      "version": "7.48.34",
       "description": "command line management for Google Workspace",
       "tags": [
         "gam",
@@ -101938,7 +101958,7 @@
       "id": "gorodulin.prj",
       "name": "Projector",
       "publisher": "gorodulin",
-      "version": "0.11.1",
+      "version": "0.12.0",
       "description": "A cross-platform CLI tool for managing project folders, metadata, and links.",
       "tags": [
         "cli",
@@ -107750,7 +107770,7 @@
       "id": "HeidiSQL.HeidiSQL",
       "name": "HeidiSQL",
       "publisher": "Ansgar Becker",
-      "version": "12.21.0.7344",
+      "version": "12.22.0.7382",
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi",
       "tags": [
         "database",
@@ -116412,7 +116432,7 @@
       "id": "ImageMagick.Q16",
       "name": "ImageMagick Q16",
       "publisher": "ImageMagick Studio LLC",
-      "version": "7.1.2.30",
+      "version": "7.1.2.34",
       "description": "Use ImageMagick to create, edit, compose, or convert digital images",
       "tags": [
         "image",
@@ -116431,7 +116451,7 @@
       "id": "ImageMagick.Q16-HDRI",
       "name": "ImageMagick Q16-HDRI",
       "publisher": "ImageMagick Studio LLC",
-      "version": "7.1.2.30",
+      "version": "7.1.2.34",
       "description": "Use ImageMagick to create, edit, compose, or convert digital images",
       "tags": [
         "image",
@@ -116450,7 +116470,7 @@
       "id": "ImageMagick.Q8",
       "name": "ImageMagick Q8",
       "publisher": "ImageMagick Studio LLC",
-      "version": "7.1.2.24",
+      "version": "7.1.2.34",
       "description": "Use ImageMagick to create, edit, compose, or convert digital images",
       "tags": [
         "image",
@@ -128624,7 +128644,7 @@
       "id": "JoernBerkefeld.SFMCDataLoader",
       "name": "SFMC Data Loader",
       "publisher": "Joern Berkefeld",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "description": "Standalone cross-platform desktop app for SFMC Data Extension export/import.",
       "tags": [
         "data-extension",
@@ -129015,9 +129035,18 @@
       "id": "JonahZeng.IIViewer",
       "name": "IIViewer",
       "publisher": "JonahZeng",
-      "version": "1.2.2",
+      "version": "1.3.0",
       "description": "intermediate image viewer",
-      "tags": [],
+      "tags": [
+        "dng",
+        "gui",
+        "image",
+        "isp",
+        "qt",
+        "raw",
+        "viewer",
+        "yuv"
+      ],
       "category": "Others",
       "icon": {
         "monogram": "II",
@@ -130306,7 +130335,7 @@
       "id": "Julialang.Juliaup",
       "name": "Julia",
       "publisher": "Julia Computing, Inc.",
-      "version": "1.23.0.0",
+      "version": "1.24.0.0",
       "description": "Julia is a high-level, high-performance, dynamic programming language.",
       "tags": [
         "computation",
@@ -142241,7 +142270,7 @@
       "id": "Lenovo.LeAppStore",
       "name": "联想应用商店",
       "publisher": "联想(北京)有限公司",
-      "version": "9.0.2430.904",
+      "version": "9.0.3330.1023",
       "description": "Download software and games freely and securely",
       "tags": [
         "app",
@@ -144091,7 +144120,7 @@
       "id": "Lime.Lime",
       "name": "Lime",
       "publisher": "Lime",
-      "version": "1.170.0",
+      "version": "1.171.0",
       "description": "An open-source AI content workbench built for Chinese creators.",
       "tags": [],
       "category": "Others",
@@ -145560,7 +145589,7 @@
       "id": "Lka.Excel2ZUGFeRD",
       "name": "Excel2ZUGFeRD",
       "publisher": "Lka",
-      "version": "0.26.1.0",
+      "version": "0.26.2.0",
       "description": "Erzeugt ZUGFeRD kompatible PDF aus Excel Daten.",
       "tags": [
         "excel",
@@ -148707,7 +148736,7 @@
       "id": "LuisPater.CLIProxyAPI",
       "name": "CLI Proxy API",
       "publisher": "Luis Pater",
-      "version": "8.0.42",
+      "version": "8.0.43",
       "description": "Wrap Gemini CLI, ChatGPT Codex as an OpenAI/Gemini/Claude compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5 model through API",
       "tags": [
         "ai",
@@ -153682,7 +153711,7 @@
       "id": "Materializr.Materializr",
       "name": "Materializr",
       "publisher": "Materializr",
-      "version": "1.7.3",
+      "version": "1.7.5",
       "description": "Maker 3D CAD - the middle ground between Tinkercad and FreeCAD.",
       "tags": [
         "3d",
@@ -159965,7 +159994,7 @@
       "id": "Microsoft.DotNet.AspNetCore.10",
       "name": "Microsoft ASP.NET Core Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.13",
+      "version": "10.0.14",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160195,7 +160224,7 @@
       "id": "Microsoft.DotNet.AspNetCore.9",
       "name": "Microsoft ASP.NET Core Runtime 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.21",
+      "version": "9.0.22",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160224,7 +160253,7 @@
       "id": "Microsoft.DotNet.AspNetCore.Preview",
       "name": "Microsoft ASP.NET Core Runtime 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.0-rc.2.26504.105",
+      "version": "11.0.0-rc.3.26522.148",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160274,7 +160303,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.10",
       "name": "Microsoft .NET Windows Desktop Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.13",
+      "version": "10.0.14",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160476,7 +160505,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.8",
       "name": "Microsoft .NET Windows Desktop Runtime 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.32",
+      "version": "8.0.33",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160591,7 +160620,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.9",
       "name": "Microsoft .NET Windows Desktop Runtime 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.21",
+      "version": "9.0.22",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160619,7 +160648,7 @@
       "id": "Microsoft.DotNet.DesktopRuntime.Preview",
       "name": "Microsoft .NET Windows Desktop Runtime 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.0-rc.2.26504.105",
+      "version": "11.0.0-rc.3.26522.148",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160779,7 +160808,7 @@
       "id": "Microsoft.DotNet.HostingBundle.10",
       "name": "Microsoft ASP.NET Core Hosting Bundle 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.13",
+      "version": "10.0.14",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160934,7 +160963,7 @@
       "id": "Microsoft.DotNet.HostingBundle.8",
       "name": "Microsoft ASP.NET Core Hosting Bundle 8.0",
       "publisher": "Microsoft Corporation",
-      "version": "8.0.32",
+      "version": "8.0.33",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160965,7 +160994,7 @@
       "id": "Microsoft.DotNet.HostingBundle.9",
       "name": "Microsoft ASP.NET Core Hosting Bundle 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.21",
+      "version": "9.0.22",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -160996,7 +161025,7 @@
       "id": "Microsoft.DotNet.HostingBundle.Preview",
       "name": "Microsoft ASP.NET Core Hosting Bundle 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.0-rc.2.26504.105",
+      "version": "11.0.0-rc.3.26522.148",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -161064,7 +161093,7 @@
       "id": "Microsoft.DotNet.Runtime.10",
       "name": "Microsoft .NET Runtime 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.13",
+      "version": "10.0.14",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -161241,7 +161270,7 @@
       "id": "Microsoft.DotNet.Runtime.9",
       "name": "Microsoft .NET Runtime 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.21",
+      "version": "9.0.22",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -161267,7 +161296,7 @@
       "id": "Microsoft.DotNet.Runtime.Preview",
       "name": "Microsoft .NET Runtime 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.0-rc.2.26504.105",
+      "version": "11.0.0-rc.3.26522.148",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -161293,7 +161322,7 @@
       "id": "Microsoft.DotNet.SDK.10",
       "name": "Microsoft .NET SDK 10.0",
       "publisher": "Microsoft Corporation",
-      "version": "10.0.402",
+      "version": "10.0.403",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -161449,7 +161478,7 @@
       "id": "Microsoft.DotNet.SDK.9",
       "name": "Microsoft .NET SDK 9.0",
       "publisher": "Microsoft Corporation",
-      "version": "9.0.319",
+      "version": "9.0.320",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -161475,7 +161504,7 @@
       "id": "Microsoft.DotNet.SDK.Preview",
       "name": "Microsoft .NET SDK 11.0 Preview",
       "publisher": "Microsoft Corporation",
-      "version": "11.0.100-rc.2.26504.105",
+      "version": "11.0.100-rc.3.26522.148",
       "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.",
       "tags": [
         ".NET",
@@ -163809,7 +163838,7 @@
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
       "publisher": "Microsoft Corporation",
-      "version": "7.6.8.0",
+      "version": "7.6.9.0",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "tags": [
         "command-line",
@@ -166309,7 +166338,7 @@
       "id": "Microsoft.VisualStudio.Community",
       "name": "Visual Studio Community 2026",
       "publisher": "Microsoft Corporation",
-      "version": "18.11.1",
+      "version": "18.11.2",
       "description": "Everything you need to build modern apps - free for you, built for impact.",
       "tags": [
         "c#",
@@ -170313,7 +170342,7 @@
       "id": "Mobatek.MobaXterm",
       "name": "MobaXterm",
       "publisher": "Mobatek",
-      "version": "26.5.0.5542",
+      "version": "26.6.0.5560",
       "description": "Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more",
       "tags": [
         "ftp",
@@ -184359,7 +184388,7 @@
       "id": "murray17.RovaiAI",
       "name": "Rovai AI",
       "publisher": "murray17",
-      "version": "0.4.16",
+      "version": "0.5.0",
       "description": "Assemble a team of AI agents that grows together",
       "tags": [
         "agent",
@@ -191412,7 +191441,7 @@
       "id": "ningbainb.DeepSeekHarnessDesktop",
       "name": "DeepSeekHarnessDesktop",
       "publisher": "ningbainb",
-      "version": "5.0.1",
+      "version": "5.1.0",
       "description": "A lossless Windows desktop app for DeepSeek Harness with the complete DSH Web UI, plugins, skins, and skill dock.",
       "tags": [
         "ai",
@@ -203313,6 +203342,25 @@
       }
     },
     {
+      "id": "Oracle.JDK.27",
+      "name": "Java(TM) SE Development Kit 27",
+      "publisher": "Oracle Corporation",
+      "version": "27.0.1.0",
+      "description": "The JDK is a development environment for building applications and components using the Java programming language.",
+      "tags": [
+        "java",
+        "jdk",
+        "jre",
+        "jvm"
+      ],
+      "category": "Development",
+      "icon": {
+        "monogram": "JT",
+        "background": "#7C3AED",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "id": "Oracle.MySQL",
       "name": "MySQL",
       "publisher": "Oracle Corporation",
@@ -205216,7 +205264,7 @@
       "id": "owayo.astro-sight",
       "name": "astro-sight",
       "publisher": "owayo",
-      "version": "26.10.120",
+      "version": "26.10.121",
       "description": "AI-agent-friendly AST information generation CLI",
       "tags": [
         "ai",
@@ -205262,7 +205310,7 @@
       "id": "owayo.git-sc",
       "name": "git-sc",
       "publisher": "owayo",
-      "version": "26.10.103",
+      "version": "26.10.104",
       "description": "AI-powered smart commit message generator with multi-provider fallback",
       "tags": [
         "ai-agents",
@@ -207929,7 +207977,7 @@
       "id": "PavelStupka.TandemCommander",
       "name": "Tandem Commander",
       "publisher": "Pavel Stupka",
-      "version": "0.1.10",
+      "version": "0.2.0",
       "description": "Fast, keyboard-driven two-panel file manager for Windows with archive browsing, file viewers and plugins.",
       "tags": [
         "archiver",
@@ -214132,7 +214180,7 @@
       "id": "PowerUserZ.OpenTokenUsage",
       "name": "OpenTokenUsage",
       "publisher": "PowerUserZ",
-      "version": "0.7.7",
+      "version": "0.7.8",
       "description": "Track all your AI coding subscription usage from the Windows system tray.",
       "tags": [
         "ai",
@@ -217095,7 +217143,7 @@
       "id": "PTRTECH.UVtools",
       "name": "UVtools",
       "publisher": "PTRTECH",
-      "version": "7.1.0",
+      "version": "7.1.1",
       "description": "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tags": [
         "3d print",
@@ -225076,10 +225124,15 @@
     {
       "id": "RemoteUtilities.Viewer",
       "name": "Remote Utilities - Viewer",
-      "publisher": "Remote Utilities Pty (Cy) Ltd.",
-      "version": "7.8.4.0",
-      "description": "Remote Utilities - Viewer",
-      "tags": [],
+      "publisher": "Remote Utilities Pte. Ltd.",
+      "version": "7.9.0.0",
+      "description": "Install on your local side to access remote devices.",
+      "tags": [
+        "remote",
+        "remote-access",
+        "remote-control",
+        "remote-desktop"
+      ],
       "category": "Utilities",
       "icon": {
         "monogram": "RU",
@@ -236661,7 +236714,7 @@
       "id": "ScryerMedia.Weaver",
       "name": "Weaver",
       "publisher": "Scryer Media",
-      "version": "0.16.4",
+      "version": "0.16.5",
       "description": "High-performance Usenet binary downloader.",
       "tags": [
         "downloader",
@@ -239112,25 +239165,27 @@
       "id": "SerZhyAle.FastMediaSorter",
       "name": "FastMediaSorter LITE",
       "publisher": "SZA",
-      "version": "26.9.20.1206",
-      "description": "Fast Media Sorter for Windows - keyboard-driven viewer and sorter for images and videos, now a modern 64-bit build that needs no .NET Framework.",
+      "version": "26.10.25.1830",
+      "description": "Fast Media Sorter & Sharing for Windows - sort photos and videos with one key per file; an optional server, off by default, shares folders to your phone over SFTP.",
       "tags": [
-        "file-manager",
+        "heic",
         "hotkeys",
-        "images",
-        "media",
-        "organizer",
+        "image-sorter",
+        "image-viewer",
+        "media-player",
+        "media-sorter",
+        "ocr",
+        "photo-organizer",
+        "photo-sorter",
         "photos",
-        "pictures",
+        "sftp",
+        "sharing",
         "slideshow",
-        "sorter",
-        "triage",
-        "utility",
+        "video-viewer",
         "videos",
-        "viewer",
-        "winforms"
+        "webp"
       ],
-      "category": "Utilities",
+      "category": "Multimedia",
       "icon": {
         "monogram": "FL",
         "background": "#0F766E",
@@ -239141,7 +239196,7 @@
       "id": "SerZhyAle.FastMediaSorter.Server",
       "name": "Fast Media Sorter Folder Share Server",
       "publisher": "SerZhyAle",
-      "version": "26.9.20.1206",
+      "version": "26.10.25.1830",
       "description": "Always-on folder sharing to Android over SFTP - a Windows service that starts at boot and serves with nobody signed in. Administrator rights required.",
       "tags": [
         "android",
@@ -242070,7 +242125,7 @@
       "id": "SillanumSoftware.VisualAnalyser",
       "name": "Visual Analyser version",
       "publisher": "Sillanum Software",
-      "version": "26.00",
+      "version": "26.24",
       "description": "A comprehensive professional real-time software suite that transforms your PC into a full set of measurement instruments, with no additional hardware required (you can use your PC’s sound card). Alternatively, you can use specific external hardware.",
       "tags": [],
       "category": "System Tools",
@@ -249923,7 +249978,7 @@
       "id": "Sourcegraph.Amp",
       "name": "Amp CLI",
       "publisher": "Sourcegraph, Inc.",
-      "version": "0.0.1792929650-g000512",
+      "version": "0.0.1792944038-gf7f990",
       "description": "The frontier coding agent for your terminal and editor.",
       "tags": [
         "agent",
@@ -255905,6 +255960,30 @@
       "icon": {
         "monogram": "ST",
         "background": "#0F766E",
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "id": "SubnetDesk.SubnetDesk",
+      "name": "SubnetDesk",
+      "publisher": "SubnetDesk",
+      "version": "1.3.0",
+      "description": "LAN/VPN-only remote desktop with direct endpoint connections.",
+      "tags": [
+        "flutter",
+        "lan",
+        "mdns",
+        "privacy",
+        "remote-access",
+        "remote-control",
+        "remote-desktop",
+        "rust",
+        "vpn"
+      ],
+      "category": "Security & Privacy",
+      "icon": {
+        "monogram": "SU",
+        "background": "#047857",
         "foreground": "#FFFFFF"
       }
     },
@@ -266851,7 +266930,7 @@
       "id": "TheRealJesusTheHacker.NitroCore",
       "name": "NitroCore",
       "publisher": "JesusTheHacker",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "description": "Free Windows optimizer for gaming and cybersecurity workstations.",
       "tags": [
         "gaming",
@@ -271462,7 +271541,7 @@
       "id": "TopalaSoftwareSolutions.SIW",
       "name": "SIW",
       "publisher": "Topala Software Solutions",
-      "version": "2026.10.14.4",
+      "version": "2026.10.14.5",
       "description": "System Information for Windows - Everything you want to know about your computer",
       "tags": [
         "amd",
@@ -286124,7 +286203,7 @@
       "id": "VovSoft.WebsiteFileCollector",
       "name": "Vovsoft Website File Collector",
       "publisher": "VOVSOFT",
-      "version": "1.7.0.0",
+      "version": "1.8.0.0",
       "description": "Vovsoft Website File Collector is a powerful Windows application designed to simplify file downloads from websites.",
       "tags": [
         "Collector",
@@ -289153,7 +289232,7 @@
       "id": "WendyLabs.Wendy",
       "name": "Wendy",
       "publisher": "Wendy Labs",
-      "version": "2026.10.24-200705",
+      "version": "2026.10.25-172412",
       "description": "CLI for building and deploying apps to WendyOS edge devices.",
       "tags": [
         "cli",
